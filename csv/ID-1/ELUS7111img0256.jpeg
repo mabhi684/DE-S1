@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"HR Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,717x060dx1d0m8
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,na
+LenderCaseNumber,ZIRE-0075861177
+lt2y_cb_emp_name1,"US DOL WAGE AND HOUR; 5675 RUFFIN RD, STE 310, SAN DIEGO, CA"
+childSupportExpOwnedValue,$0.00
+Amount,$101567.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,EASTWOOD BANK -ROCHESTER
+Interest,9.18%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"5125 HIGHWAY 52 NORTH, ROCHESTER, MN"
+Tenure,48 months
+lt2y_cb_emp_salary1,2640.12
+pre_loan_bank_acNo_01,07611017630323
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,hr adminpermanent
+pre_loan_bank_EMI_01,11172.37
+PropAddress,"855 Orange St , Circle Pines, Mn, 55014"
+lt2y_cb_emp_name2,"us dept of labor msha; cochrans mill rd, pob 18233, pittsburgh, pa"
+pre_loan_bank_balance_01,18282.06
+PropUnits,1
+lt2y_cb_emp_isSelf2,NO
+pre_loan_bank_name_02,sun security bank of america
+PropDescription,Residence House
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,"p o box 230, mountain grove, mo"
+YearBuilt,1984
+lt2y_cb_emp_salary2,1430.4
+pre_loan_bank_acNo_02,84415113031544
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,Office Boypermanent
+pre_loan_bank_EMI_02,14219.38
+propFor,Seconday
+bBaseSalary,$5040.00
+pre_loan_bank_balance_02,21329.07
+construcYrLotReq,5 year(s)
+bOverttime,$320.00
+pre_loan_bank_name_03,MEMBERS FIRST CREDIT UNION OF NH
+construcOrigCost,$101567.00
+bBonus,$399.00
+pre_loan_bank_add_03,"PO BOX 896, MANCHESTER, NH"
+construcExisLienAmount,$0.00
+bCommission,$25.00
+pre_loan_bank_acNo_03,66823078240761
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,1274.84
+construcImpCost,$0.00
+bRentalIncome,$421.00
+pre_loan_bank_balance_03,1821.2
+totalAB,$0.00
+bOtherIncome1,$285.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$14401.00
+bTotalIncome,$6490.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3143.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$593.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$618.00
+purchasePrice,$101567.00
+refinanCost,$14401.00
+cbCommission,$112.00
+repairCost,$1259.00
+HeldName,Charlie Schwingle
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$207.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,14-MAR-2069
+cbTotalIncome,$4673.00
+fundingFee,$0.00
+borrowerName,edward g neal
+cbtBaseSalary,$8183.00
+disocuntValue,$0.00
+bSecurityNumber,511407381
+cbtOverttime,$593320.00
+totalTxnCost,$102826.00
+bPhone,5008227257
+cbtBonus,$618399.00
+subOrdFinance,$0.00
+bDOB,02-NOV-1981
+cbtCommission,$11225.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$421.00
+loanAmountEx,$101567.00
+bDpendents,4
+cbtOtherIncome1,$207285.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$101567.00
+bPresentAddress,"4210 university drive , anchorage, ak, 99508"
+cbtTotalIncome,$46736490.00
+cashDepByBorrower,$1259.00
+bResSince,8 year(s)
+psntRent,$1629.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4210 university drive , anchorage, ak, 99508"
+psntFirstLoan,$101567.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$770.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,C F WAYTHOMAS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,303304632
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3342688823
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,08-MAR-1989
+psntTotalExp,$102337.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$101567.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1300 Se Cardinal Ct Bldg 10ste 100, Vancouver, Wa, 98683"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4210 university drive , anchorage, ak, 99508"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$101567.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,EDWARD G NEAL
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA REG 2 - JUDSON
+depAmount,$15235.05
+isCoWorkerCB,No
+bEmpAddress,"701 rte 73 s, bldg 2 ste 120, marlton, nj"
+depBankName,University Of Nebraska Federal Cu
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"Po Box 82847, Lincoln, Ne"
+isPermanentAlienCB,
+bYrsInCJob,2
+depBankAcc,00067287857525
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$17266.39
+ typeOfProp,second home
+bDesignation,"Security Member, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,25-SEP-2016
+lt2y_b_emp_name1,"Us Dept Of Labor Msha; 1100 Wilson Blvd, Rm 2137, Arlington, Va"
+subTotLiqValue,$14219.38
+signingDateCB,25-SEP-2016
+lt2y_b_emp_isSelf1,no
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,4082.4
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,SECURITY MEMBERTEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"OSHA REG 2 - MENDELSON; BBV PLZA BLDG STE 5B, 1510 FD, GUAYNABO, PR"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,na
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,3376.8
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,security memberpermanent
+auto_amount03,
+informationCollectedBy,"Face-to-face Interview, Telephone"
+cbEmpName,DOL ESA OLMS
+preLoanBankName,
+loanOriginatorName,us dol alj
+cbEmpAddress,"1111 3rd eve, ste 605, seattle, wa"
+preLoanBankAdd,na
+loanOriginatorID,tvMIwG7s
+cbIsSelfEmp,No
+preLoanBankAcctNumber,na
+loanOriginatorCName,us dol alj
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6172239355
+cbYrsInJob,6
+loanOriginatorAddress,"THOMAS P 0 NEILL FED BLDG, 10 CAUSEWAY ST RM 411, BOSTON, MA"
+borrowerName_3,edward g neal
+borrowerName_9,edward g neal
+borrowerName_10,edward g neal
+cborrowerName_3,C F WAYTHOMAS
+cBorrowerName_9,C F WAYTHOMAS
+cborrowerName_10,C F WAYTHOMAS
+signingDateB_10,25-SEP-2016
+signingDateCB_10,25-SEP-2016

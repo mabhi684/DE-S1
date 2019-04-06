@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Receptionist, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,wb6yrKVwhkiE40
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,na
+LenderCaseNumber,MWTC-5538248214
+lt2y_cb_emp_name1,"Dept Of Labor/ Oasam; 200 Constitution Ave Nw, Rm N4123, Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$20998.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,BANK OF ELMWOOD
+Interest,9.70%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"2704 Lathrop Avenue, Racine, Wi"
+Tenure,30 months
+lt2y_cb_emp_salary1,2943.36
+pre_loan_bank_acNo_01,42341173743304
+AmortType,Other
+lt2y_cb_emp_designation1,machinisttemperory
+pre_loan_bank_EMI_01,2099.8
+PropAddress,"6256 BELMAR AVE , TARZANA, CA, 91335"
+lt2y_cb_emp_name2,"Oig Omac Procurement; 200 Constitution Ave Nw, Room 55020, Washington, Dc"
+pre_loan_bank_balance_01,4409.58
+PropUnits,1
+lt2y_cb_emp_isSelf2,no
+pre_loan_bank_name_02,central state bank
+PropDescription,Shop
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,"301 IOWA AVE, MUSCATINE, IA"
+YearBuilt,1972
+lt2y_cb_emp_salary2,2207.52
+pre_loan_bank_acNo_02,53270035745508
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,machinistpermanent
+pre_loan_bank_EMI_02,2729.74
+propFor,Investment
+bBaseSalary,$2537.00
+pre_loan_bank_balance_02,3569.66
+construcYrLotReq,1 year(s)
+bOverttime,$137.00
+pre_loan_bank_name_03,commercial trust company
+construcOrigCost,$20998.00
+bBonus,$215.00
+pre_loan_bank_add_03,"119 NORTH MAIN, FAYETTE, MO"
+construcExisLienAmount,$0.00
+bCommission,$182.00
+pre_loan_bank_acNo_03,75100777736803
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,2309.78
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,3989.62
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,na
+refinanYrLotReq,0 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17190.00
+bTotalIncome,$3071.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2086.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$367.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$589.00
+purchasePrice,$20998.00
+refinanCost,$17190.00
+cbCommission,$115.00
+repairCost,$0.00
+HeldName,Blake Ellitt
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$128.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-AUG-2063
+cbTotalIncome,$3285.00
+fundingFee,$0.00
+borrowerName,phillip a carpenter
+cbtBaseSalary,$4623.00
+disocuntValue,$0.00
+bSecurityNumber,055205271
+cbtOverttime,$367137.00
+totalTxnCost,$20998.00
+bPhone,4445364014
+cbtBonus,$589215.00
+subOrdFinance,$0.00
+bDOB,12-OCT-1991
+cbtCommission,$115182.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$20998.00
+bDpendents,4
+cbtOtherIncome1,$1280.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$20998.00
+bPresentAddress,"202 Nw 66th St Bldg 7 , Oklahoma City, Ok, 73116"
+cbtTotalIncome,$32853071.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1384.00
+isOutstandingCourtCaseB,No
+bMailAddress,"202 NW 66TH ST BLDG 7 , OKLAHOMA CITY, OK, 73116"
+psntFirstLoan,$20998.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,craig 1 bowers
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,868631544
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,3676321635
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,29-OCT-1986
+psntTotalExp,$20998.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$20998.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"3162 BOZEMAN AVE , HELENA, MT, 59601"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NW 66TH ST BLDG 7 , OKLAHOMA CITY, OK, 73116"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$20998.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,PHILLIP A CARPENTER
+isDownpaymentBorrowedCB,
+bEmpName,us dol osha
+depAmount,$2939.72
+isCoWorkerCB,
+bEmpAddress,"1600 167th st, ste 9, calumet city, it"
+depBankName,Big Valley Federal Credit Union
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"3111 wissemann drive, sacramento, ca"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,05581557668615
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$4619.56
+ typeOfProp,investment property
+bDesignation,"Computer Operator, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,20-SEP-2016
+lt2y_b_emp_name1,"US DEPT OF LABOR; 200 CONSTITUTION AVE NW, ROOM S1521, WASHINGTON, DC"
+subTotLiqValue,$2309.78
+signingDateCB,20-SEP-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,1597.75
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,LEGAL EXECUTIVEPERMANENT
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"US DOL WAGE AND HOUR; 5675 RUFFIN RD, STE 310, SAN DIEGO, CA"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,2328.72
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,laborpermanent
+auto_amount03,
+informationCollectedBy,"FACE-TO-FACE INTERVIEW, TELEPHONE"
+cbEmpName,Us Dol Owcp
+preLoanBankName,
+loanOriginatorName,wage and hour
+cbEmpAddress,"170 S Independence Mall W, Ste 780 W, Philadelphia, Pa"
+preLoanBankAdd,
+loanOriginatorID,7BuS0qK1
+cbIsSelfEmp,No
+preLoanBankAcctNumber,na
+loanOriginatorCName,WAGE AND HOUR
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5163343344
+cbYrsInJob,5
+loanOriginatorAddress,"1400 Old Country Rd, Westbury, Ny"
+borrowerName_3,phillip a carpenter
+borrowerName_9,phillip a carpenter
+borrowerName_10,phillip a carpenter
+cborrowerName_3,craig 1 bowers
+cBorrowerName_9,craig 1 bowers
+cborrowerName_10,craig 1 bowers
+signingDateB_10,20-SEP-2016
+signingDateCB_10,20-SEP-2016
