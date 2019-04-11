@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Trainer, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,npWks448jJgux5
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TXRQ -2444231250
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$107922.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Stearns Bank Na
+Interest,8.08%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"PO BOX 850, ALBANY, MN"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,17665570226506
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$16,188.30"
+PropAddress,"4670 79TH ST , SACRAMENTO, CA, 95820"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$23,742.84"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,FIRST CITIZENS NATIONAL BANK
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"300 North Main St P 0 Box 517, Charles City, Ia"
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,76308841632801
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$16,188.30"
+propFor,Investment
+bBaseSalary,$2091.00
+pre_loan_bank_balance_02,"$23,742.84"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$63486.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13438.00
+bTotalIncome,$2091.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3520.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$107922.00
+refinanCost,$13438.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BAMROONG NOXON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11 -DEC -2068
+cbTotalIncome,$3520.00
+fundingFee,$0.00
+borrowerName,JOHN C ROSENDALE
+cbtBaseSalary,$5611.00
+disocuntValue,$0.00
+bSecurityNumber,431651524
+cbtOverttime,$0.00
+totalTxnCost,$107922.00
+bPhone,4730557176
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-AUG-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$107922.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$107922.00
+bPresentAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+cbtTotalIncome,$35202091.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1077.00
+isOutstandingCourtCaseB,
+bMailAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+psntFirstLoan,$107922.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MARK W CARTER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,682244237
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1731044704
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,13-MAY-1987
+psntTotalExp,$107922.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$107922.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"926A NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1515 FERGUSON LAN? , AUSTIN, TX, 78754"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$107922.00
+isDeliquentCB,No
+lt2y_cb_res_since,7
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"3535 S Sherwood Forest B1 Ste 120, Baton Rouge, La, 70816"
+depPurchHeldBy,JOHN C ROSENDALE
+isDownpaymentBorrowedCB,
+bEmpName,DEPT OF LABOR BAT
+depAmount,$14029.86
+isCoWorkerCB,No
+bEmpAddress,"1111 THIRD AVENUE, SUITE 830, SEATTLE, WA"
+depBankName,MENASHA EMP CU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 7, MENASHA, WI"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,61287808574102
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$19425.96
+ typeOfProp,second home
+bDesignation,"Receptionist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,04-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$14029.86
+signingDateCB,04-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OIG
+preLoanBankName,NA
+loanOriginatorName,US DEPT LABOR/VETS
+cbEmpAddress,"OFFICE OF INVESTIGATION, P 0 BOX 1080, ROANOKE, VA"
+preLoanBankAdd,NA
+loanOriginatorID,5ZJXGupt
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT LABOR/VETS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3038441175
+cbYrsInJob,8
+loanOriginatorAddress,"1999 BROADWAY STE 1625, CO"
+borrowerName_3,JOHN C ROSENDALE
+borrowerName_9,JOHN C ROSENDALE
+borrowerName_10,JOHN C ROSENDALE
+cborrowerName_3,MARK W CARTER
+cBorrowerName_9,MARK W CARTER
+cborrowerName_10,MARK W CARTER
+signingDateB_10,04-DEC-2015
+signingDateCB_10,04-DEC-2015

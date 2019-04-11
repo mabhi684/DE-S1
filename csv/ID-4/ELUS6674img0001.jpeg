@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Technician, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,vZp88hkN7c54ZB
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ITDQ-5240273507
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$90618.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.46%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1696 GREEN DOLPHIN ST , MEMPHIS, TN, 38111"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1999
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1920.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$82302.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9957.00
+bTotalIncome,$1920.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2719.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$90618.00
+refinanCost,$9957.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHARLESETTA WHEELER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-APR-2059
+cbTotalIncome,$2719.00
+fundingFee,$0.00
+borrowerName,MARILYN CARMOS INO
+cbtBaseSalary,$4639.00
+disocuntValue,$0.00
+bSecurityNumber,014543341
+cbtOverttime,$0.00
+totalTxnCost,$90618.00
+bPhone,3851050637
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-JUL-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$90618.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$90618.00
+bPresentAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+cbtTotalIncome,$27191920.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$808.00
+isOutstandingCourtCaseB,No
+bMailAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+psntFirstLoan,$90618.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,STEPHEN P RUBIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,288586878
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2331225653
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-APR-1990
+psntTotalExp,$90618.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$90618.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$90618.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MARILYN CARMOS INO
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR MSHA
+depAmount,$9061.80
+isCoWorkerCB,No
+bEmpAddress,"NATL MINE HEALTH SAFETY ACAD, 1301 AIRPORT RD, BEAVER, WV"
+depBankName,MIDWEST HERITAGE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1025 BRADEN AVENUE PO BOX 331, CHARITON, IA"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,27700231451688
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$19029.78
+ typeOfProp,principal residence
+bDesignation,"Legal Executive, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,13-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$13592.70
+signingDateCB,13-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDL OSHA
+preLoanBankName,NA
+loanOriginatorName,ARRA-HODGE
+cbEmpAddress,"46 E OHIO, RM 453, INDIANAPOLIS, IN"
+preLoanBankAdd,NA
+loanOriginatorID,cRzw0112
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,ARRA-HODGE
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2122647742
+cbYrsInJob,4
+loanOriginatorAddress,"26 FEDERAL PLAZA, RM 36-116, NEW YORK, NY"
+borrowerName_3,MARILYN CARMOS INO
+borrowerName_9,MARILYN CARMOS INO
+borrowerName_10,MARILYN CARMOS INO
+cborrowerName_3,STEPHEN P RUBIN
+cBorrowerName_9,STEPHEN P RUBIN
+cborrowerName_10,STEPHEN P RUBIN
+signingDateB_10,13-FEB-2016
+signingDateCB_10,13-FEB-2016

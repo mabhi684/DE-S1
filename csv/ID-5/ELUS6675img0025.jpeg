@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Legal Executive, Tepperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ukOEUbfGgwNrXX
+co-borrower_emp_type,Tepperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UNJH -2503308823
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$74278.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.04%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1504 TERRACE CIR , HEBER SPRINGS, AR, 72543"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2000
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3033.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$75153.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3392.00
+bTotalIncome,$3033.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2098.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$74278.00
+refinanCost,$3392.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JAMES SILER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-APR-2061
+cbTotalIncome,$2098.00
+fundingFee,$0.00
+borrowerName,RANDALL J HUNT
+cbtBaseSalary,$5131.00
+disocuntValue,$0.00
+bSecurityNumber,651485815
+cbtOverttime,$0.00
+totalTxnCost,$74278.00
+bPhone,7710106620
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-AUG-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$74278.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$74278.00
+bPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+cbtTotalIncome,$20983033.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1037.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+psntFirstLoan,$74278.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,WILLIAM S CONARD
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,880317282
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7457646717
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-JAN-1977
+psntTotalExp,$74278.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$74278.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$74278.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RANDALL J HUNT
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OWCP DFEC
+depAmount,$8170.58
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM S3229, WASHINGTON, DC"
+depBankName,STATE BANK OF BIRD ISLAND
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 430, BIRD ISLAND, MN"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,33752808008125
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$16341.16
+ typeOfProp,principal residence
+bDesignation,"HR Admi.n, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,03-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8913.36
+signingDateCB,03-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,VETS
+preLoanBankName,NA
+loanOriginatorName,DOL ESA WHD
+cbEmpAddress,"1033 0 ST, BOX 128, LINCOLN, NE"
+preLoanBankAdd,NA
+loanOriginatorID,Nh7K8TOr
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA WHD
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7657781474
+cbYrsInJob,10
+loanOriginatorAddress,"1018 PORTO BELLO RD, IN"
+borrowerName_3,RANDALL J HUNT
+borrowerName_9,RANDALL J HUNT
+borrowerName_10,RANDALL J HUNT
+cborrowerName_3,WILLIAM S CONARD
+cBorrowerName_9,WILLIAM S CONARD
+cborrowerName_10,WILLIAM S CONARD
+signingDateB_10,03-FEB-2016
+signingDateCB_10,03-FEB-2016

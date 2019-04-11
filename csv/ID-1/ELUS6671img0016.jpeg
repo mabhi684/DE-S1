@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"IT Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,E2yswOSYmWJOcu
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ULIR-4775368787
+lt2y_cb_emp_name1,"dol opa; 200 constitution ave, rm n6309, washington, dc"
+childSupportExpOwnedValue,$0.00
+Amount,$6706.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,MINNESOTA POWER EMPLOYEES CREDIT UNION
+Interest,10.05%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"30 west superior street, duluth, mn"
+Tenure,300 months
+lt2y_cb_emp_salary1,"$1,625.14"
+pre_loan_bank_acNo_01,63811212438821
+AmortType,Other
+lt2y_cb_emp_designation1,cookpermanent
+pre_loan_bank_EMI_01,$670.60
+PropAddress,"4941 TALL TIMBER DR , RALEIGH, NC, 27612"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,207.08"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1808.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$79475.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6706.00
+bTotalIncome,$1808.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4997.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$6706.00
+refinanCost,$6706.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANA AQUINO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-AUG-2062
+cbTotalIncome,$4997.00
+fundingFee,$0.00
+borrowerName,THOMAS E MOORE
+cbtBaseSalary,$6805.00
+disocuntValue,$0.00
+bSecurityNumber,063851757
+cbtOverttime,$0.00
+totalTxnCost,$6706.00
+bPhone,5637118101
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,03-SEP-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$6706.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$6706.00
+bPresentAddress,"WEST 904 RIVERSIDE AVE , SPOKANE, WA, 99201"
+cbtTotalIncome,$49971808.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1147.00
+isOutstandingCourtCaseB,No
+bMailAddress,"WEST 904 RIVERSIDE AVE , SPOKANE, WA, 99201"
+psntFirstLoan,$6706.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SHAD R 0 NEEL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,135835340
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8640428327
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-JUL-1989
+psntTotalExp,$6706.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$6706.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"4210 UNIVERSITY DRIVE , ANCHORAGE, AK, 99508"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"WEST 904 RIVERSIDE AVE , SPOKANE, WA, 99201"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$6706.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,THOMAS E MOORE
+isDownpaymentBorrowedCB,No
+bEmpName,WAGE HOUR REGIONAL OFF
+depAmount,$1005.90
+isCoWorkerCB,
+bEmpAddress,"233 PEACHTREE ST, GA"
+depBankName,SC STUDENT LOAN TAXABLE
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 21337, COLUMBIA, SC"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,23364830404328
+isNewPropPermanentB,
+bYrsInJob,3
+depBankBal,$1140.02
+ typeOfProp,principal residence
+bDesignation,"Cleaner, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,11-FEB-2016
+lt2y_b_emp_name1,"ARRA-BENTIVOGLI; 130 S ELMWOOD AVE, RM 536, BUFFALO, NY"
+subTotLiqValue,$938.84
+signingDateCB,11-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$3,762.39"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,IT MANAGERPERMANENT
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"us dept of labor wh; 620 sw main street, ste 423, portland, or"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$2,810.46"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,it managerpermanent
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ADMIN LAW JUDGES
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"800 K STREET N W, SUITE 400 NORTH BLDG, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,0QqW8LVS
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026915088
+cbYrsInJob,6
+loanOriginatorAddress,"BLS, 2 MASSACHUSETTS AVE NE STE 2135, WASHINGTON, DC"
+borrowerName_3,THOMAS E MOORE
+borrowerName_9,THOMAS E MOORE
+borrowerName_10,THOMAS E MOORE
+cborrowerName_3,SHAD R 0 NEEL
+cBorrowerName_9,SHAD R 0 NEEL
+cborrowerName_10,SHAD R 0 NEEL
+signingDateB_10,11-FEB-2016
+signingDateCB_10,11-FEB-2016

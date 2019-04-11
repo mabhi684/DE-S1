@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Cook, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,LOzO2Dh7YGU2kA
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OWSW-8786241337
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$54561.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,wells fargo elt mhesac
+Interest,8.17%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"2500 broadway, hel?na, mt"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,31200464505426
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$5,456.10"
+PropAddress,"10236 SASSAFRAS WOODS CT , BORA', VA, 22015"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$11,457.81"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1981
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2157.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$54561.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12332.00
+bTotalIncome,$2157.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1736.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$54561.00
+refinanCost,$12332.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMBER SEANG
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-NOV-2066
+cbTotalIncome,$1736.00
+fundingFee,$0.00
+borrowerName,ANDREW T CALVERT
+cbtBaseSalary,$3893.00
+disocuntValue,$0.00
+bSecurityNumber,125586612
+cbtOverttime,$0.00
+totalTxnCost,$54561.00
+bPhone,0741332267
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-MAR-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$54561.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$54561.00
+bPresentAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+cbtTotalIncome,$17362157.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1119.00
+isOutstandingCourtCaseB,
+bMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+psntFirstLoan,$54561.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,CYNTHIA L CUNNINGHAM
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,284431646
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5650833706
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,26-MAY-1980
+psntTotalExp,$54561.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$54561.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"516 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$54561.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ANDREW T CALVERT
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ETA DIV/ADMIN SVCS
+depAmount,$6001.71
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVE NW, RM 55206, WASHINGTON, DC"
+depBankName,US BANK NA
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2751 SHEPARD RD, ST. PAUL, MN"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,78885046080231
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$12003.42
+ typeOfProp,principal residence
+bDesignation,"Receptionist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,26-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$6547.32
+signingDateCB,26-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,US DOL DCMWC
+cbEmpAddress,"2200 MARQUETTE RD STE 110, IL"
+preLoanBankAdd,NA
+loanOriginatorID,kCOxXytz
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL DOMWC
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7248367230
+cbYrsInJob,10
+loanOriginatorAddress,"1225 S MAIN ST, STE 405, GREENSBURG, PA"
+borrowerName_3,ANDREW T CALVERT
+borrowerName_9,ANDREW T CALVERT
+borrowerName_10,ANDREW T CALVERT
+cborrowerName_3,CYNTHIA L CUNNINGHAM
+cBorrowerName_9,CYNTHIA L CUNNINGHAM
+cborrowerName_10,CYNTHIA L CUNNINGHAM
+signingDateB_10,26-NOV-2015
+signingDateCB_10,26-NOV-2015

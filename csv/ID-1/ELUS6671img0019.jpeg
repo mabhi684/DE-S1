@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"HR Specialist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,thTTk31gG5Wh38
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SKPP-1635260537
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$102387.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,"US BANK ELT FOR FRIO HEA, INC."
+Interest,9.91%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"425 walnut street, 6th floor, cincinnati, tx"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,16440871003533
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$13,310.31"
+PropAddress,"126 W OKLAHOMA AVE , KNOXVILLE, TN, 37917"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$21,501.27"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2009
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2987.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$73296.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20089.00
+bTotalIncome,$2987.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3056.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$102387.00
+refinanCost,$20089.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CYNTHIA NELSON-RUNYAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,12-JAN-2058
+cbTotalIncome,$3056.00
+fundingFee,$0.00
+borrowerName,DAVE A BRANDT
+cbtBaseSalary,$6043.00
+disocuntValue,$0.00
+bSecurityNumber,642801540
+cbtOverttime,$0.00
+totalTxnCost,$102387.00
+bPhone,2866314414
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-JAN-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$102387.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$102387.00
+bPresentAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+cbtTotalIncome,$30562987.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$993.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+psntFirstLoan,$102387.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,EDWARD F METZGER
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,163572585
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4716740703
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-APR-1988
+psntTotalExp,$102387.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$102387.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"FORT COLLINS SCI CTR 2150 CENTRE AVE BLDG C, FORT COLLINS, CO, 805268118"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$102387.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DAVE A BRANDT
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR-OSHA
+depAmount,$12286.44
+isCoWorkerCB,No
+bEmpAddress,"1150 N CURTIS ROAD, SUITE 201, BOISE, ID"
+depBankName,FARMERS SAVINGS BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"PO BOX 569, REMSEN, IA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,83680853655810
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$17405.79
+ typeOfProp,second home
+bDesignation,"Supervisor, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,07-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$13310.31
+signingDateCB,07-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,SOLICITOR LML
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"200 CONSTITUTION AVE NW, N2474, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,itwXjXtg
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026915821
+cbYrsInJob,5
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, RM 2985, WASHINGTON, DC"
+borrowerName_3,DAVE A BRANDT
+borrowerName_9,DAVE A BRANDT
+borrowerName_10,DAVE A BRANDT
+cborrowerName_3,EDWARD F METZGER
+cBorrowerName_9,EDWARD F METZGER
+cborrowerName_10,EDWARD F METZGER
+signingDateB_10,07-DEC-2015
+signingDateCB_10,07-DEC-2015

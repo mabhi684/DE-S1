@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Account Admin, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,g7OpygW1fNvRc4
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OBNN -2206482034
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$93485.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,ZIONS FNB ELT NHELP II INC
+Interest,9.53%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"121 SOUTH 13TH STREET, LINCOLN, NE"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,82886036721012
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$14,022.75"
+PropAddress,"300 N RAMPART ST , ORANGE, CA, 92868"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$19,631.85"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,union bank & trust
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"Po Box 82535, Lincoln, Ne"
+YearBuilt,1971
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,28021053658123
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$10,283.35"
+propFor,Primary
+bBaseSalary,$3235.00
+pre_loan_bank_balance_02,"$16,827.30"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,firstmark credit union
+construcOrigCost,$93485.00
+bBonus,$0.00
+pre_loan_bank_add_03,"PO BOX 701650 STUDENT LOAN DEPT, SAN ANTONIO, TX"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,57640330354446
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$10,283.35"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$16,827.30"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6082.00
+bTotalIncome,$3235.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3775.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$93485.00
+refinanCost,$6082.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANTERO PINEDA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,08 -MAY -2057
+cbTotalIncome,$3775.00
+fundingFee,$0.00
+borrowerName,KRISTIN SIMAC
+cbtBaseSalary,$7010.00
+disocuntValue,$0.00
+bSecurityNumber,513600557
+cbtOverttime,$0.00
+totalTxnCost,$93485.00
+bPhone,0468005354
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,16-MAY-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$93485.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$93485.00
+bPresentAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+cbtTotalIncome,$37753235.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1412.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+psntFirstLoan,$93485.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SETH S HAINES
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,535565727
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4124513307
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,22-OCT-1989
+psntTotalExp,$93485.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$93485.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 973 DFC , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$93485.00
+isDeliquentCB,No
+lt2y_cb_res_since,2
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+depPurchHeldBy,KRISTIN SIMAC
+isDownpaymentBorrowedCB,No
+bEmpName,DOL R9 EBSA SAN FRAN
+depAmount,$10283.35
+isCoWorkerCB,No
+bEmpAddress,"90 7TH ST, SUITE 11 300, SAN FRANCISCO, CA"
+depBankName,NORTH EAST ALLIANCE FEDERAL CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"55 OLD TURNPIKE RD SUITE 301, NANUET, NY"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,38635274502721
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$19631.85
+ typeOfProp,investment property
+bDesignation,"Machinist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,05-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$13087.90
+signingDateCB,05-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM HRC
+cbEmpAddress,"2 MASS AVE NE, RM 2150, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,dWxtnpPD
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM HRC
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026937709
+cbYrsInJob,7
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, ROOM C5516, WASHINGTON, DC"
+borrowerName_3,KRISTIN SIMAC
+borrowerName_9,KRISTIN SIMAC
+borrowerName_10,KRISTIN SIMAC
+cborrowerName_3,SETH S HAINES
+cBorrowerName_9,SETH S HAINES
+cborrowerName_10,SETH S HAINES
+signingDateB_10,05-DEC-2015
+signingDateCB_10,05-DEC-2015

@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Cleaner, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,YiwA1XyiFVHqdn
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ETOW-1148780872
+lt2y_cb_emp_name1,"mine safety and health; natl mine health safety, 1301 airport rd, beaver, wv"
+childSupportExpOwnedValue,$0.00
+Amount,$11588.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,Oklahoma Employees Credit Union
+Interest,7.61%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"P 0 Box 24027, Oklahoma City, Ok"
+Tenure,240 months
+lt2y_cb_emp_salary1,"$3,354.12"
+pre_loan_bank_acNo_01,04776677223171
+AmortType,ARM
+lt2y_cb_emp_designation1,security headtemperory
+pre_loan_bank_EMI_01,"$1,390.56"
+PropAddress,"645 NORTH ST , CLINTON, IN, 47842"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,969.96"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2004
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3379.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$88285.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11588.00
+bTotalIncome,$3379.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1717.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$11588.00
+refinanCost,$11588.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ROBERT WILBANKS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,26 -OCT -2067
+cbTotalIncome,$1717.00
+fundingFee,$0.00
+borrowerName,JOHN F DEWILD
+cbtBaseSalary,$5096.00
+disocuntValue,$0.00
+bSecurityNumber,611203776
+cbtOverttime,$0.00
+totalTxnCost,$11588.00
+bPhone,8852463155
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-OCT-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$11588.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$11588.00
+bPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+cbtTotalIncome,$17173379.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1456.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8505 RES?ARCH WAY , MIDDLETON, WI, 53562"
+psntFirstLoan,$11588.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,KATHY A KUNZ
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,600628212
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4642856651
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,18-JUN-1990
+psntTotalExp,$11588.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$11588.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$11588.00
+isDeliquentCB,No
+lt2y_cb_res_since,7
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"956 NATL CTR , R?STON, VA, 20192"
+depPurchHeldBy,JOHN F DEWILD
+isDownpaymentBorrowedCB,No
+bEmpName,DOL SOLICITOR BL
+depAmount,$1506.44
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVE NW, FRANCES PERKINS BLDG STE N2117, WASHINGTON, DC"
+depBankName,FRICK TRI COUNTY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"235 PITTSBURGH ST, UNIONTOWN, PA"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,58262465242747
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$2549.36
+ typeOfProp,principal residence
+bDesignation,"Supervisor, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,14-JAN-2016
+lt2y_b_emp_name1,"Us Department Of Labor; 17625 El Camino Real, Suite 400, Houston, Tx"
+subTotLiqValue,$1390.56
+signingDateCB,14-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$4,020.30"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Security Membercontract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OFCCP
+preLoanBankName,NA
+loanOriginatorName,USDOL WAGE & HOUR
+cbEmpAddress,"170 S INDEPENDENCE MALL W, THE CURTIS CENTER STE 750 W, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,feUkDdb0
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL WAGE & HOUR
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2138943954
+cbYrsInJob,5
+loanOriginatorAddress,"770 THE CITY DR S, SUITE 5710, ORANGE, CA"
+borrowerName_3,JOHN F DEWILD
+borrowerName_9,JOHN F DEWILD
+borrowerName_10,JOHN F DEWILD
+cborrowerName_3,KATHY A KUNZ
+cBorrowerName_9,KATHY A KUNZ
+cborrowerName_10,KATHY A KUNZ
+signingDateB_10,14-JAN-2016
+signingDateCB_10,14-JAN-2016

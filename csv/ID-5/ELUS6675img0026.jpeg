@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Receptionist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,cT5a3N3c35KhMM
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UYFO-1524384251
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$96052.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.74%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1306 RIDGEWAY AVE , ONALASKA, WI, 54650"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1965
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2947.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$75153.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3392.00
+bTotalIncome,$2947.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1940.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$96052.00
+refinanCost,$3392.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BERNIE BETTIS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-JUN-2066
+cbTotalIncome,$1940.00
+fundingFee,$0.00
+borrowerName,MARVIN COUCHMAN
+cbtBaseSalary,$4887.00
+disocuntValue,$0.00
+bSecurityNumber,347666815
+cbtOverttime,$0.00
+totalTxnCost,$96052.00
+bPhone,3710611087
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-AUG-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$96052.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$96052.00
+bPresentAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+cbtTotalIncome,$19402947.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$951.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+psntFirstLoan,$96052.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,HEIDI A ROOP
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,257002152
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6478523056
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-AUG-1977
+psntTotalExp,$96052.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$96052.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$96052.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MARVIN COUCHMAN
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OASAM
+depAmount,$10565.72
+isCoWorkerCB,No
+bEmpAddress,"201 VARICK ST, RM 813, NEW YORK, NY"
+depBankName,"JPMORGAN CHASE BANK, NA"
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 711004, COLUMBUS, OH"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,51808447580207
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$16328.84
+ typeOfProp,second home
+bDesignation,"Computer Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,16-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$11526.24
+signingDateCB,16-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL BAT
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR MSHA
+cbEmpAddress,"OATELS BAT, 125 S STATE ST STE 2412, SALT LAKE CITY, UT"
+preLoanBankAdd,NA
+loanOriginatorID,RKtQ5tlu
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR MSHA
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123866923
+cbYrsInJob,7
+loanOriginatorAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+borrowerName_3,MARVIN COUCHMAN
+borrowerName_9,MARVIN COUCHMAN
+borrowerName_10,MARVIN COUCHMAN
+cborrowerName_3,HEIDI A ROOP
+cBorrowerName_9,HEIDI A ROOP
+cborrowerName_10,HEIDI A ROOP
+signingDateB_10,16-DEC-2015
+signingDateCB_10,16-DEC-2015

@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Network Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,71tzrOAGU6d5Xp
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,DCRE -4102006208
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$58718.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Trona Valley Fon
+Interest,9.27%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"840 HITCHING POST, GREEN RIVER, WY"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,38575477070212
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,458.98"
+PropAddress,"13065 PRINCETON CT , LAKE OSWEGO, OR, 97035"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$12,330.78"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1986
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$4596.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$58718.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6088.00
+bTotalIncome,$4596.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5755.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$58718.00
+refinanCost,$6088.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,IHN SHIN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,10-NOV-2064
+cbTotalIncome,$5755.00
+fundingFee,$0.00
+borrowerName,NICHOLAS J BAKER
+cbtBaseSalary,$10351.00
+disocuntValue,$0.00
+bSecurityNumber,870231244
+cbtOverttime,$0.00
+totalTxnCost,$58718.00
+bPhone,6166287248
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-NOV-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$58718.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$58718.00
+bPresentAddress,"777 NW 9TH ST STE 400 , CORVALLIS, OR, 97330"
+cbtTotalIncome,$57554596.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$923.00
+isOutstandingCourtCaseB,No
+bMailAddress,"777 NW 9TH ST STE 400 , CORVALLIS, OR, 97330"
+psntFirstLoan,$58718.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CYNTHIA L CUNNINGHAM
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,725026344
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0110508727
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,12-DEC-1983
+psntTotalExp,$58718.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$58718.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"516 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"777 NW 9TH ST STE 400 , CORVALLIS, OR, 97330"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$58718.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,NICHOLAS J BAKER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL MSHA
+depAmount,$8220.52
+isCoWorkerCB,No
+bEmpAddress,"PO BOX 25367 DFC„ DENVER, CO"
+depBankName,HARVARD UNIVERSITY
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"1033 MASSACHUSETTS AVE., CAMBRIDGE, MA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,53073457706017
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$12330.78
+ typeOfProp,investment property
+bDesignation,"Security Member, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,18-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$8220.52
+signingDateCB,18-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL WAGE AND HOUR
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"RM W1836, 2800 COTTAGE WAY, SACRAMENTO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,xfnSYEhI
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026916816
+cbYrsInJob,4
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, RM 4195, WASHINGTON, DC"
+borrowerName_3,NICHOLAS J BAKER
+borrowerName_9,NICHOLAS J BAKER
+borrowerName_10,NICHOLAS J BAKER
+cborrowerName_3,CYNTHIA L CUNNINGHAM
+cBorrowerName_9,CYNTHIA L CUNNINGHAM
+cborrowerName_10,CYNTHIA L CUNNINGHAM
+signingDateB_10,18-DEC-2015
+signingDateCB_10,18-DEC-2015

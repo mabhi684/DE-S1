@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,51vNQm44ydUuz4
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,CWSK-8032204282
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$35044.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.06%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"4858 CABRILLO PT , DISCOVERY BAY, CA, 94505"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2000
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3371.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$59056.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3494.00
+bTotalIncome,$3371.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4606.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$35044.00
+refinanCost,$3494.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MICHAEL MCGUIRE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17 -OCT -2070
+cbTotalIncome,$4606.00
+fundingFee,$0.00
+borrowerName,JOSEPH E BEMAN
+cbtBaseSalary,$7977.00
+disocuntValue,$0.00
+bSecurityNumber,348536151
+cbtOverttime,$0.00
+totalTxnCost,$35044.00
+bPhone,7054164544
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-SEP-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$35044.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$35044.00
+bPresentAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+cbtTotalIncome,$46063371.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1477.00
+isOutstandingCourtCaseB,No
+bMailAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+psntFirstLoan,$35044.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LORNA Y YOUNG
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,283162746
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7054518227
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-SEP-1983
+psntTotalExp,$35044.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$35044.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"677 ALA MOANA BLVD STE 615, HONOLULU, HI, 96813"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$35044.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOSEPH E BEHAN
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY AND HEALTH
+depAmount,$4555.72
+isCoWorkerCB,No
+bEmpAddress,"NAT MINE HEALTH AND SAFETY ACADEMY, 1301 AIRPORT RD, BEAVER, WV"
+depBankName,CUMBERLAND COUNTY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"101 GRAY ROAD, FALMOUTH, ME"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,72637262403423
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$5957.48
+ typeOfProp,second home
+bDesignation,"Exec Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,O1-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3504.40
+signingDateCB,O1-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"2075 EDINBURGH CT, WALDORF, MD"
+preLoanBankAdd,NA
+loanOriginatorID,vF5Rklqp
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5708266321
+cbYrsInJob,3
+loanOriginatorAddress,"THE STEGMAIER BLDG STE 034, 7 NORTH WILKES BARRE BLVD, WILKES BARRE, PA"
+borrowerName_3,JOSEPH E BEMAN
+borrowerName_9,JOSEPH E BEMAN
+borrowerName_10,JOSEPH E BEMAN
+cborrowerName_3,LORNA Y YOUNG
+cBorrowerName_9,LORNA Y YOUNG
+cborrowerName_10,LORNA Y YOUNG
+signingDateB_10,O1-JAN-2016
+signingDateCB_10,O1-JAN-2016

@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Cook, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,6mTasGNMckMAGS
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IAGX-5410606177
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$55287.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.65%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2512 OVERDENE AVE , ROCKFORD, IL, 61101"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2009
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2591.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$55287.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3494.00
+bTotalIncome,$2591.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1772.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$55287.00
+refinanCost,$3494.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALEXANDRIA ALLEN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,13-APR-2063
+cbTotalIncome,$1772.00
+fundingFee,$0.00
+borrowerName,KEVIN T CLARK
+cbtBaseSalary,$4363.00
+disocuntValue,$0.00
+bSecurityNumber,651313761
+cbtOverttime,$0.00
+totalTxnCost,$55287.00
+bPhone,4227711877
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,28-OCT-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$55287.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$55287.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$17722591.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1391.00
+isOutstandingCourtCaseB,No
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$55287.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JOHN LEE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,846876322
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3685563778
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,12-APR-1980
+psntTotalExp,$55287.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$55287.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 421 DFC , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$55287.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KEVIN T CLARK
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA DALLAS AREA
+depAmount,$6634.44
+isCoWorkerCB,No
+bEmpAddress,"8344 E RL THORNTON FRWY, STE 420, DALLAS, TX"
+depBankName,US BANK NA
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"2751 SHEPARD RD, ST PAUL, MN"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,33520645211330
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$12163.14
+ typeOfProp,investment property
+bDesignation,"Secretary, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,16-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7187.31
+signingDateCB,16-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"700 W CAPITOL ST, RM 2420, LITTLE ROCK, AR"
+preLoanBankAdd,NA
+loanOriginatorID,rimCZiEi
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026917375
+cbYrsInJob,6
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, RM 1950, WASHINGTON, DC"
+borrowerName_3,KEVIN T CLARK
+borrowerName_9,KEVIN T CLARK
+borrowerName_10,KEVIN T CLARK
+cborrowerName_3,JOHN LEE
+cBorrowerName_9,JOHN LEE
+cborrowerName_10,JOHN LEE
+signingDateB_10,16-FEB-2016
+signingDateCB_10,16-FEB-2016

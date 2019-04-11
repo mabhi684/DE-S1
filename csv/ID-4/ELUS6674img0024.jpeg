@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"HR Admi.n, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,1Lp6aWTe5HOHK6
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,XCDC-3616672625
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$87130.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.14%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"24698 ANNAPOLIS ST , DEARBORN HEIGHTS, MI, 48125"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2007
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$1733.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$103401.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3494.00
+bTotalIncome,$1733.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3234.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$87130.00
+refinanCost,$3494.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CAROLYAN CHUBB
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-JAN-2064
+cbTotalIncome,$3234.00
+fundingFee,$0.00
+borrowerName,BILLY J REYNOLDS
+cbtBaseSalary,$4967.00
+disocuntValue,$0.00
+bSecurityNumber,762623284
+cbtOverttime,$0.00
+totalTxnCost,$87130.00
+bPhone,8823470422
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-JUN-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1976
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$87130.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$87130.00
+bPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+cbtTotalIncome,$32341733.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1173.00
+isOutstandingCourtCaseB,No
+bMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+psntFirstLoan,$87130.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JULIE JOYCE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,001545562
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8570021510
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,18-NOV-1990
+psntTotalExp,$87130.00
+isCoWorkerB,No
+cbYrsSchool,1976
+propFirstLoan,$87130.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$87130.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,BILLY J REYNOLDS
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL WAGE AND HOUR
+depAmount,$10455.60
+isCoWorkerCB,No
+bEmpAddress,"5675 RUFFIN RD, STE 310, SAN DIEGO, CA"
+depBankName,UARK FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1025 NORTH GARLAND, FAYETTEVILLE, AR"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,44875646822385
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$19168.60
+ typeOfProp,principal residence
+bDesignation,"Cleaner, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,22-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$11326.90
+signingDateCB,22-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OFFICE OF PUBLIC AFFAIRS
+preLoanBankName,NA
+loanOriginatorName,USDOL OASAM
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM N3647, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,KzlusvTH
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OASAM
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158615516
+cbYrsInJob,6
+loanOriginatorAddress,"THE CURTIS CENTER STE 600 E, 170 S INDEPENDENCE MALL WEST, PHILADELPHIA, PA"
+borrowerName_3,BILLY J REYNOLDS
+borrowerName_9,BILLY J REYNOLDS
+borrowerName_10,BILLY J REYNOLDS
+cborrowerName_3,JULIE JOYCE
+cBorrowerName_9,JULIE JOYCE
+cborrowerName_10,JULIE JOYCE
+signingDateB_10,22-JAN-2016
+signingDateCB_10,22-JAN-2016

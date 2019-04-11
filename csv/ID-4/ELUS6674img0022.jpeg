@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Receptionist, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XQtkwDdQOPB8mX
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GALT-8427615183
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$61173.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.85%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"717 RUSHING CREEK PL , THOUSAND OAKS, CA, 91360"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4998.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$61173.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3494.00
+bTotalIncome,$4998.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2038.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$61173.00
+refinanCost,$3494.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BADRI GOMATAM
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-APR-2068
+cbTotalIncome,$2038.00
+fundingFee,$0.00
+borrowerName,JAMES C BOWERS
+cbtBaseSalary,$7036.00
+disocuntValue,$0.00
+bSecurityNumber,287733187
+cbtOverttime,$0.00
+totalTxnCost,$61173.00
+bPhone,1473806133
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-FEB-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$61173.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$61173.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$20384998.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1189.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$61173.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,PAUL H WELLS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,256578233
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5371407651
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-APR-1979
+psntTotalExp,$61173.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$61173.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$61173.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JAMES C BOWERS
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OSHA OKLAHOMA
+depAmount,$6729.03
+isCoWorkerCB,No
+bEmpAddress,"OSHA OKLAHOMA CITY AREA OFFICE, 55 NORTH ROBINSON SUITE 315, OKLAHOMA CITY, OK"
+depBankName,MARKESAN STATE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 270, MARKESAN, WI"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,85210785644412
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$13458.06
+ typeOfProp,principal residence
+bDesignation,"Security Member, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,18-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7340.76
+signingDateCB,18-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OSHA
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY HEALTH
+cbEmpAddress,"1648 TRIPARK WAY, APPLETON, WI"
+preLoanBankAdd,NA
+loanOriginatorID,7vcYn51R
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY HEALTH
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2083341835
+cbYrsInJob,6
+loanOriginatorAddress,"LAKEPOINT CENTRE 1 STE 150, 300 E MALLARD, BOISE, ID"
+borrowerName_3,JAMES C BOWERS
+borrowerName_9,JAMES C BOWERS
+borrowerName_10,JAMES C BOWERS
+cborrowerName_3,PAUL H WELLS
+cBorrowerName_9,PAUL H WELLS
+cborrowerName_10,PAUL H WELLS
+signingDateB_10,18-FEB-2016
+signingDateCB_10,18-FEB-2016

@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Supervisor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,6eheX811JsiBA3
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WEGE-7011332438
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18016.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.33%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"368 PINE GROVE RD , NOTTINGHAM, PA, 19362"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2002
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2508.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$56797.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18016.00
+bTotalIncome,$2508.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3359.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$18016.00
+refinanCost,$18016.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ZACH SNYDER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-JUN-2060
+cbTotalIncome,$3359.00
+fundingFee,$0.00
+borrowerName,DARRELL P WASHINGTON
+cbtBaseSalary,$5867.00
+disocuntValue,$0.00
+bSecurityNumber,602373646
+cbtOverttime,$0.00
+totalTxnCost,$18016.00
+bPhone,3544425347
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-APR-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$18016.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18016.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$33592508.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1343.00
+isOutstandingCourtCaseB,No
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$18016.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,TODD C SCHMITT
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,788557677
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4067467277
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-NOV-1984
+psntTotalExp,$18016.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$18016.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"3162 BOZEMAN AVE , HELENA, MT, 59601"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$18016.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DARRELL P WASHINGTON
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR MSHA
+depAmount,$2342.08
+isCoWorkerCB,No
+bEmpAddress,"1301 AIRPORT RD, WV"
+depBankName,NATIONAL CITY BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P.O. BOX 5570 LOC7104, CLEVELAND, OH"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,15868037701824
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$3783.36
+ typeOfProp,investment property
+bDesignation,"Office Boy, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,29-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2702.40
+signingDateCB,29-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM C3321, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,J1NzO2D1
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158614900
+cbYrsInJob,2
+loanOriginatorAddress,"THE CURTIS CENTER SUITE 740 WEST, 170 SOUTH INDEPENDENCE MALL WEST, PHILADELPHIA, PA"
+borrowerName_3,DARRELL P WASHINGTON
+borrowerName_9,DARRELL P WASHINGTON
+borrowerName_10,DARRELL P WASHINGTON
+cborrowerName_3,TODD C SCHMITT
+cBorrowerName_9,TODD C SCHMITT
+cborrowerName_10,TODD C SCHMITT
+signingDateB_10,29-DEC-2015
+signingDateCB_10,29-DEC-2015

@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Payroll Specialist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,FP750DbNOufWTx
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,NBHW -1657808384
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$57925.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,MICHIGAN TECH EFCU
+Interest,7.02%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"700 E Sharon Ave, Houghton, Mi"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,88734181157323
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$8,688.75"
+PropAddress,"36074 1ST ST , PLEASANT HILL, OR, 97455"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$10,426.50"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1960
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2099.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$30672.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6082.00
+bTotalIncome,$2099.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2964.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$57925.00
+refinanCost,$6082.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CONNIE SARNSWORTH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06 -OCT -2067
+cbTotalIncome,$2964.00
+fundingFee,$0.00
+borrowerName,ROGER A BEAM JR
+cbtBaseSalary,$5063.00
+disocuntValue,$0.00
+bSecurityNumber,044061211
+cbtOverttime,$0.00
+totalTxnCost,$57925.00
+bPhone,3002224750
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-MAR-1992
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1992
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$57925.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$57925.00
+bPresentAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+cbtTotalIncome,$29642099.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1291.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+psntFirstLoan,$57925.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,6
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"1300 SE CARDINAL CT BLDG 1OSTE 100, VANCOUVER, WA, 98683"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,DIANNE LOPEZ TRUJILLO
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,725337528
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,3681675200
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,01-NOV-1979
+psntTotalExp,$57925.00
+isCoWorkerB,
+cbYrsSchool,1992
+propFirstLoan,$57925.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"GSA CTR 651 FEDERAL DR STE 400 15, GUAYNABO, PR, 965"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$57925.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,ROGER A BEAM JR
+isDownpaymentBorrowedCB,
+bEmpName,USDOL OSHA
+depAmount,$7530.25
+isCoWorkerCB,No
+bEmpAddress,"49 N PROGRESS AVE, , HARRISBURG, PA"
+depBankName,MICHIGAN TECH EFCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"700 E SHARON AVE, HOUGHTON, MI"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,02181017123208
+isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$12743.50
+ typeOfProp,principal residence
+bDesignation,"Legal Executive, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,27-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8688.75
+signingDateCB,27-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"BUREAU OF LABOR STATISTICS, 2 MASSACHUSETTS AVE NE RM 4160, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,4Dy7Bm5N
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3076821142
+cbYrsInJob,7
+loanOriginatorAddress,"ENERGY TECH BLDG, 1901 ENERGY CT STE 260, GILLETTE, WY"
+borrowerName_3,ROGER A BEAM JR
+borrowerName_9,ROGER A BEAM JR
+borrowerName_10,ROGER A BEAM JR
+cborrowerName_3,DIANNE LOPEZ TRUJILLO
+cBorrowerName_9,DIANNE LOPEZ TRUJILLO
+cborrowerName_10,DIANNE LOPEZ TRUJILLO
+signingDateB_10,27-JAN-2016
+signingDateCB_10,27-JAN-2016

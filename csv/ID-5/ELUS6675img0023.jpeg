@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"HR Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7ZU573WsjV5jhj
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,RQOZ -8656323146
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$66481.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.98%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"3204 E CANARY ST , APPLETON, WI, 54915"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1973
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$7272.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$75153.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3284.00
+bTotalIncome,$7272.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6051.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$66481.00
+refinanCost,$3284.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JASON YOURA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,18-MAR-2068
+cbTotalIncome,$6051.00
+fundingFee,$0.00
+borrowerName,KIMIANNE L LEE
+cbtBaseSalary,$13323.00
+disocuntValue,$0.00
+bSecurityNumber,550435005
+cbtOverttime,$0.00
+totalTxnCost,$66481.00
+bPhone,2782541678
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,13-AUG-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$66481.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$66481.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$60517272.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1733.00
+isOutstandingCourtCaseB,No
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$66481.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,RAFAEL A VILANOVA
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,767828450
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2562405782
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-MAY-1978
+psntTotalExp,$66481.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$66481.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$66481.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KIMIANNE L LEE
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OWCP
+depAmount,$9307.34
+isCoWorkerCB,No
+bEmpAddress,"170 S INDEPENDENCE MALL W, STE 780 W, PHILADELPHIA, PA"
+depBankName,ALCOA PITTSBURGH FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"ABSC BUILDING, PITTSBURGH, PA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,62523446146260
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$12631.39
+ typeOfProp,investment property
+bDesignation,"Sr Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,31-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7312.91
+signingDateCB,31-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL R2 ESA WHD
+preLoanBankName,NA
+loanOriginatorName,MOBILE AREA OFFICE
+cbEmpAddress,"207 APPRAISERS STORES BLVD, 103 S GAY ST, BALTIMORE, MD"
+preLoanBankAdd,NA
+loanOriginatorID,fd3t3Id0
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MOBILE AREA OFFICE
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2514416320
+cbYrsInJob,6
+loanOriginatorAddress,"1141 MONTLIMAR DR, STE 1006, MOBILE, AL"
+borrowerName_3,KIMIANNE L LEE
+borrowerName_9,KIMIANNE L LEE
+borrowerName_10,KIMIANNE L LEE
+cborrowerName_3,RAFAEL A VILANOVA
+cBorrowerName_9,RAFAEL A VILANOVA
+cborrowerName_10,RAFAEL A VILANOVA
+signingDateB_10,31-JAN-2016
+signingDateCB_10,31-JAN-2016

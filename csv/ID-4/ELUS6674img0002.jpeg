@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Computer Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Efyt1tMk6tXxfK
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BLBY -4135845088
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$26838.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.11%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1313 GRAND ST , HOBOKEN, NJ, 7030"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2001
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2236.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$26838.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9957.00
+bTotalIncome,$2236.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2975.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$26838.00
+refinanCost,$9957.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ADAM KAUFFMAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,13 -DEC -2064
+cbTotalIncome,$2975.00
+fundingFee,$0.00
+borrowerName,MICHAEL R CLEAVER
+cbtBaseSalary,$5211.00
+disocuntValue,$0.00
+bSecurityNumber,264661322
+cbtOverttime,$0.00
+totalTxnCost,$26838.00
+bPhone,5001026030
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,10-SEP-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$26838.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$26838.00
+bPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+cbtTotalIncome,$29752236.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$902.00
+isOutstandingCourtCaseB,No
+bMailAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+psntFirstLoan,$26838.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CARLEN D COLLINS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,718301223
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8806643257
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,03-FEB-1985
+psntTotalExp,$26838.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$26838.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"4821 QUAIL CREST PLACE , LAWRENCE, KS, 66049"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$26838.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MICHAEL R CLEAVER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OCFO
+depAmount,$2683.80
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW RM S4030, , WASHINGTON, DC"
+depBankName,CALIFORNIA PACIFIC FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"4075 NELSON AVENUE, CONCORD, CA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,13016226702185
+isNewPropPermanentB,No
+bYrsInJob,2
+depBankBal,$5099.22
+ typeOfProp,second home
+bDesignation,"Office Boy, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,23-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2952.18
+signingDateCB,23-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,ARRA-ESKILSON
+preLoanBankName,NA
+loanOriginatorName,US DOL R1 ETA
+cbEmpAddress,"JFK FEDERAL BLDG RM E-375, 25 NEW SUDBURY ST, BOSTON, MA"
+preLoanBankAdd,NA
+loanOriginatorID,4kaAeRy7
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL R1 ETA
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6177880116
+cbYrsInJob,3
+loanOriginatorAddress,"25 NEW SUDBURY ST, RM E350, BOSTON, MA"
+borrowerName_3,MICHAEL R CLEAVER
+borrowerName_9,MICHAEL R CLEAVER
+borrowerName_10,MICHAEL R CLEAVER
+cborrowerName_3,CARLEN D COLLINS
+cBorrowerName_9,CARLEN D COLLINS
+cborrowerName_10,CARLEN D COLLINS
+signingDateB_10,23-JAN-2016
+signingDateCB_10,23-JAN-2016

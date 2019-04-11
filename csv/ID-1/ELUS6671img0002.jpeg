@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Technician, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,21Pop6SCONIq57
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZJKV-5620071311
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$81179.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Platte Valley State Bank & Trust CO
+Interest,10.25%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"2222 First Avenue, Kearney, Ne"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,01833866121605
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,741.48"
+PropAddress,"751 CHERRY GROVE CT , COLUMBUS, OH, 43228"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$17,047.59"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Citibank (new York State) Slc
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"P.O. BOX 6157, SIOUX FALLS, SD"
+YearBuilt,1986
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,00804886682662
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$8,117.90"
+propFor,Primary
+bBaseSalary,$2989.00
+pre_loan_bank_balance_02,"$16,235.80"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$67077.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11795.00
+bTotalIncome,$2989.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2745.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$81179.00
+refinanCost,$11795.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRIAN LIDLE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,23 -MAY -2074
+cbTotalIncome,$2745.00
+fundingFee,$0.00
+borrowerName,MICHAEL T FRAME
+cbtBaseSalary,$5734.00
+disocuntValue,$0.00
+bSecurityNumber,650466033
+cbtOverttime,$0.00
+totalTxnCost,$81179.00
+bPhone,1502261850
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,12-APR-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$81179.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$81179.00
+bPresentAddress,"303 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$27452989.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1734.00
+isOutstandingCourtCaseB,
+bMailAddress,"303 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$81179.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,CHARLES WAYNE WRIGHT
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,054707081
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7827255735
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-NOV-1991
+psntTotalExp,$81179.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$81179.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"303 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$81179.00
+isDeliquentCB,No
+lt2y_cb_res_since,0
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+depPurchHeldBy,MICHAEL T FRAME
+isDownpaymentBorrowedCB,
+bEmpName,DOL BLS OEUS
+depAmount,$9741.48
+isCoWorkerCB,
+bEmpAddress,"2 MASSACHUSETTS AVE NE, DC"
+depBankName,AMERICAN UNIVERSITY
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"4400 MASSACHUSETTS AVE. NW, WASHINGTON, DC"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,81025457084786
+isNewPropPermanentB,
+bYrsInJob,10
+depBankBal,$17859.38
+ typeOfProp,investment property
+bDesignation,"Computer Operator, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,20-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$8929.69
+signingDateCB,20-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL BAT REG6 REG OFFICE
+cbEmpAddress,"1645 FOREST HILL ROAD, GA"
+preLoanBankAdd,NA
+loanOriginatorID,F1ZfhlAt
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BAT REG6 REG OFFICE
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156252233
+cbYrsInJob,8
+loanOriginatorAddress,"90 7TH STREET, SUITE 17 100, SAN FRANCISCO, CA"
+borrowerName_3,MICHAEL T FRAME
+borrowerName_9,MICHAEL T FRAME
+borrowerName_10,MICHAEL T FRAME
+cborrowerName_3,CHARLES WAYNE WRIGHT
+cBorrowerName_9,CHARLES WAYNE WRIGHT
+cborrowerName_10,CHARLES WAYNE WRIGHT
+signingDateB_10,20-DEC-2015
+signingDateCB_10,20-DEC-2015

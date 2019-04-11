@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Computer Operator, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,qI4OXS6Xw4Ztfi
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EAIF-7486545622
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$53971.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.65%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"25911 BAY AVE , MORENO VALLEY, CA, 92553"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1963
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3125.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$56797.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18016.00
+bTotalIncome,$3125.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2836.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$53971.00
+refinanCost,$18016.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARMEN CUEVERE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-APR-2075
+cbTotalIncome,$2836.00
+fundingFee,$0.00
+borrowerName,JOHN R NIMMO
+cbtBaseSalary,$5961.00
+disocuntValue,$0.00
+bSecurityNumber,880153580
+cbtOverttime,$0.00
+totalTxnCost,$53971.00
+bPhone,3487043204
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,31-DEC-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$53971.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$53971.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$28363125.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1361.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+psntFirstLoan,$53971.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CASIMER E LIPINSKI II
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,747468611
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6418040757
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,02-JUL-1980
+psntTotalExp,$53971.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$53971.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"308 SOUTH AIRPORT RD , PEARL, MS, 39208"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$53971.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOHN R NIMMO
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OFCCP
+depAmount,$6476.52
+isCoWorkerCB,No
+bEmpAddress,"1001 LAKESIDE AVE, STE 390, CLEVELAND, OH"
+depBankName,TOWN NORTH NATIONAL BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P.O. BOX 814810, DALLAS, TX"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,28344801502273
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$9714.78
+ typeOfProp,principal residence
+bDesignation,"Computer Admit, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,10-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$8095.65
+signingDateCB,10-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,OFFICE OF SOLICITOR
+cbEmpAddress,"96 INTEGRITY DR, STE F, HEBRON, OH"
+preLoanBankAdd,NA
+loanOriginatorID,ZtbMVsmC
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OFFICE OF SOLICITOR
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2065530940
+cbYrsInJob,9
+loanOriginatorAddress,"1111 3RD AVE, STE 945, SEATTLE, WA"
+borrowerName_3,JOHN R NIMMO
+borrowerName_9,JOHN R NIMMO
+borrowerName_10,JOHN R NIMMO
+cborrowerName_3,CASIMER E LIPINSKI II
+cBorrowerName_9,CASIMER E LIPINSKI II
+cborrowerName_10,CASIMER E LIPINSKI II
+signingDateB_10,10-DEC-2015
+signingDateCB_10,10-DEC-2015

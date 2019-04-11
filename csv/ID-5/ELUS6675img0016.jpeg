@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Receptionist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,w07qgPyAB7JuOj
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OUOS -1517834855
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$14438.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.77%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"195 CEDAR GROVE RD , JONESVILLE, SC, 29353"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1999
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2883.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$104627.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$14438.00
+bTotalIncome,$2883.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1832.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$14438.00
+refinanCost,$14438.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ELLA DAVIS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-JUN-2067
+cbTotalIncome,$1832.00
+fundingFee,$0.00
+borrowerName,CHARLES A BOHALL
+cbtBaseSalary,$4715.00
+disocuntValue,$0.00
+bSecurityNumber,634436848
+cbtOverttime,$0.00
+totalTxnCost,$14438.00
+bPhone,4874643601
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-NOV-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$14438.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$14438.00
+bPresentAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+cbtTotalIncome,$18322883.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1368.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+psntFirstLoan,$14438.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SHONTE JENKINS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,516753780
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4760807040
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,18-SEP-1982
+psntTotalExp,$14438.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$14438.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"156 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$14438.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CHARLES A BOHALL
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL WAGE & HOUR
+depAmount,$1876.94
+isCoWorkerCB,No
+bEmpAddress,"230 N 1ST AVE, RM 402, PHOENIX, AZ"
+depBankName,RELIABANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"BOX 128, ESTELLINE, SD"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,01565441828131
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3031.98
+ typeOfProp,investment property
+bDesignation,"Computer Operator, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,07-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1732.56
+signingDateCB,07-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,SECURITY CNTR DOL
+preLoanBankName,NA
+loanOriginatorName,BISMARCK AREA OFFICE
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM S-1229-G, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,5S3d2CeU
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,BISMARCK AREA OFFICE
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7012504521
+cbYrsInJob,10
+loanOriginatorAddress,"OSHA BISMARCK AREA OFFICE, 1640 E CAPITOL AVE, BISMARCK, ND"
+borrowerName_3,CHARLES A BOHALL
+borrowerName_9,CHARLES A BOHALL
+borrowerName_10,CHARLES A BOHALL
+cborrowerName_3,SHONTE JENKINS
+cBorrowerName_9,SHONTE JENKINS
+cborrowerName_10,SHONTE JENKINS
+signingDateB_10,07-FEB-2016
+signingDateCB_10,07-FEB-2016

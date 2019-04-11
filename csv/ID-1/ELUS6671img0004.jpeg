@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"HR Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Fb23eq1aADCFjG
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TM-0612078632
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$79585.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,premier bank of rock valley
+Interest,9.14%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1004 21st Ave Po Box 177, Rock Valley, Ia"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,04256567352767
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$7,958.50"
+PropAddress,"13426 SW 17TH TERRACE CIR N , MIAMI, FL, 33175"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$15,917.00"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2006
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3048.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$79585.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12387.00
+bTotalIncome,$3048.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6599.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$79585.00
+refinanCost,$12387.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ELIE ANDARY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01 -MAY -2071
+cbTotalIncome,$6599.00
+fundingFee,$0.00
+borrowerName,JENNIFER SAVOIE
+cbtBaseSalary,$9647.00
+disocuntValue,$0.00
+bSecurityNumber,280730555
+cbtOverttime,$0.00
+totalTxnCost,$79585.00
+bPhone,1842667282
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,27-APR-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$79585.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$79585.00
+bPresentAddress,"361 COMMERCE WAY , PEMBROKE, NH, 32753"
+cbtTotalIncome,$65993048.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1153.00
+isOutstandingCourtCaseB,No
+bMailAddress,"361 COMMERCE WAY , PEMBROKE, NH, 32753"
+psntFirstLoan,$79585.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CAROL FRITZINGER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,376014587
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2265610122
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,28-FEB-1992
+psntTotalExp,$79585.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$79585.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"361 COMMERCE WAY , PEMBROKE, NH, 32753"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$79585.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JENNIFER SAVOIE
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR OSHA
+depAmount,$8754.35
+isCoWorkerCB,No
+bEmpAddress,"230 S DEARBORN ST RM 3244, , CHICAGO, IL"
+depBankName,PITTSBURGH FIREFIGHTERS FEDERAL CRE
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 8577, PITTSBURGH, PA"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,87730366348585
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$15121.15
+ typeOfProp,second home
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,08-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$10346.05
+signingDateCB,08-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,ARRA-HODGE
+preLoanBankName,NA
+loanOriginatorName,DOL OSEM EMC
+cbEmpAddress,"26 FEDERAL PLAZA, RM 36-116, NEW YORK, NY"
+preLoanBankAdd,NA
+loanOriginatorID,GMSAVOy8
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OSEM EMC
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026937514
+cbYrsInJob,9
+loanOriginatorAddress,"200 CONSTITUTION AVENUE NW, S5526, WASHINGTON, DC"
+borrowerName_3,JENNIFER SAVOIE
+borrowerName_9,JENNIFER SAVOIE
+borrowerName_10,JENNIFER SAVOIE
+cborrowerName_3,CAROL FRITZINGER
+cBorrowerName_9,CAROL FRITZINGER
+cborrowerName_10,CAROL FRITZINGER
+signingDateB_10,08-FEB-2016
+signingDateCB_10,08-FEB-2016

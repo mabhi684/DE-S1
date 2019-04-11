@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Secretary, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,6pUqs0isKVylIt
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZCBW -1376547401
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$102965.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.43%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"PO BOX 1802 , WEST BABYLON, NY, 11704"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1960
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$13882.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$102965.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3494.00
+bTotalIncome,$13882.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2920.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$102965.00
+refinanCost,$3494.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,LAURIE DILLON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,08-AUG-2069
+cbTotalIncome,$2920.00
+fundingFee,$0.00
+borrowerName,HEBER B GOLDEN III
+cbtBaseSalary,$16802.00
+disocuntValue,$0.00
+bSecurityNumber,668014020
+cbtOverttime,$0.00
+totalTxnCost,$102965.00
+bPhone,6135586152
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-JUL-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$102965.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$102965.00
+bPresentAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+cbtTotalIncome,$292013882.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1221.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+psntFirstLoan,$102965.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,E L ROWAN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,201224887
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8853516315
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-MAR-1988
+psntTotalExp,$102965.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$102965.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"956 NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$102965.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,HEBER B GOLDEN III
+isDownpaymentBorrowedCB,No
+bEmpName,DEPT OF LABOR MSHA
+depAmount,$11326.15
+isCoWorkerCB,No
+bEmpAddress,"604 CHEAT RD„ MORGANTOWN, WV"
+depBankName,BONY MELLON ELT PNC
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2730 LIBERTY AVE P5- PCLC-02-B, PITTSBURGH, PA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,46434662468417
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$21622.65
+ typeOfProp,investment property
+bDesignation,"Grocers Supplier, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,23-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$14415.10
+signingDateCB,23-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OIG OMAC PROCUREMENT
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"150 S INDEPENDENCE MALL WEST, PUBLIC LEDGER BLDG SUITE 1072, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,es302q0D
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2147678430
+cbYrsInJob,5
+loanOriginatorAddress,"1100 COMMERCE ST, RM 462, DALLAS, TX"
+borrowerName_3,HEBER B GOLDEN III
+borrowerName_9,HEBER B GOLDEN III
+borrowerName_10,HEBER B GOLDEN III
+cborrowerName_3,E L ROWAN
+cBorrowerName_9,E L ROWAN
+cborrowerName_10,E L ROWAN
+signingDateB_10,23-FEB-2016
+signingDateCB_10,23-FEB-2016

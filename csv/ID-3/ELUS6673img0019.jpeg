@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"HR Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,GsjpfYdwK8Ls83
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GQCO -7276442641
+lt2y_cb_emp_name1,"dol oasam boc; 200 constitution ave nw, room s1524, washington, dc"
+childSupportExpOwnedValue,$0.00
+Amount,$54627.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,Southcoast Health System Fcu
+Interest,9.61%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"101 Page Street, New Bedford, ma"
+Tenure,240 months
+lt2y_cb_emp_salary1,"$5,611.50"
+pre_loan_bank_acNo_01,48611028358681
+AmortType,GPM
+lt2y_cb_emp_designation1,Network Admire Contract
+pre_loan_bank_EMI_01,"$5,462.70"
+PropAddress,"6639 N SPOKANE AVE , LINCOLNWOOD, IL, 60712"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$10,379.13"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,CWA LONG ISLAND FCU
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"841 portion road, suite h, ronkonkoma, ny"
+YearBuilt,1984
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,52811765122033
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$6,555.24"
+propFor,Seconday
+bBaseSalary,$2961.00
+pre_loan_bank_balance_02,"$9,286.59"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$54627.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12650.00
+bTotalIncome,$2961.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5588.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$54627.00
+refinanCost,$12650.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MARK YOHANNA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-SEP-2057
+cbTotalIncome,$5588.00
+fundingFee,$0.00
+borrowerName,ROBERT W ATKINSON
+cbtBaseSalary,$8549.00
+disocuntValue,$0.00
+bSecurityNumber,881868164
+cbtOverttime,$0.00
+totalTxnCost,$54627.00
+bPhone,8232633571
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,23-AUG-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$54627.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$54627.00
+bPresentAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+cbtTotalIncome,$55882961.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1513.00
+isOutstandingCourtCaseB,
+bMailAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+psntFirstLoan,$54627.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,THOMAS W MAY
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,701204312
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3811545548
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-AUG-1984
+psntTotalExp,$54627.00
+isCoWorkerB,
+cbYrsSchool,1991
+propFirstLoan,$54627.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$54627.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,ROBERT W ATKINSON
+isDownpaymentBorrowedCB,
+bEmpName,US DOL OSHA
+depAmount,$7647.78
+isCoWorkerCB,No
+bEmpAddress,"606 N CARANCAHAU STE 700, , CHRISTI, TX"
+depBankName,ALTOONA VA HOSPITAL FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"VA HOSPITAL ROOM 9, ALTOONA, PA"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,15218553518700
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$10925.40
+ typeOfProp,investment property
+bDesignation,"Exec Secretary, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,25-JAN-2016
+lt2y_b_emp_name1,"dol esa &Fop se region; 400 w bay st ste 943, suite 1026, jacksonville, fl"
+subTotLiqValue,$8194.05
+signingDateCB,25-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$1,538.54"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,cleanercontract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"US DEPT OF LABOR MSHA; NATL MINE HEALTH & SAFETY ACADEMY, 1301 AIRPORT RD, BEAVER, WV"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,216.52"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,cleanercontract
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,WAGE AND HOUR
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY AND HEALTH
+cbEmpAddress,"US DOL ESA WH, 1750 ELM STREET SUITE 111, MANCHESTER, NH"
+preLoanBankAdd,NA
+loanOriginatorID,eQR6L1OU
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY AND HEALTH
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3042563556
+cbYrsInJob,7
+loanOriginatorAddress,"NATL MINE HEALTH SAFETY, 1301 AIRPORT RD, BEAVER, WV"
+borrowerName_3,ROBERT W ATKINSON
+borrowerName_9,ROBERT W ATKINSON
+borrowerName_10,ROBERT W ATKINSON
+cborrowerName_3,THOMAS W MAY
+cBorrowerName_9,THOMAS W MAY
+cborrowerName_10,THOMAS W MAY
+signingDateB_10,25-JAN-2016
+signingDateCB_10,25-JAN-2016

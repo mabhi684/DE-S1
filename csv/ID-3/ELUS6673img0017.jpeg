@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Security Member, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,la2qFfihRo7Yd4
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UEDE -1782352280
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$12650.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,first american bank
+Interest,9.35%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Po Box 280 702 Main, Jewell, Ia"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,12053306020224
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,771.00"
+PropAddress,"9640 DIAMOND DR , SAINT LOUIS, MO, 63137"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,530.00"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,FRANCISCAN SKEMP CREDIT UNION
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"605 West Ave South, Lacrosse, Wi"
+YearBuilt,1989
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,42202332007325
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,897.50"
+propFor,Primary
+bBaseSalary,$5384.00
+pre_loan_bank_balance_02,"$2,783.00"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$54561.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12650.00
+bTotalIncome,$5384.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4889.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$12650.00
+refinanCost,$12650.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,WILLIAM GALVIN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-AUG-2061
+cbTotalIncome,$4889.00
+fundingFee,$0.00
+borrowerName,JAN J RYAN
+cbtBaseSalary,$10273.00
+disocuntValue,$0.00
+bSecurityNumber,016016473
+cbtOverttime,$0.00
+totalTxnCost,$12650.00
+bPhone,8634620623
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-NOV-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$12650.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$12650.00
+bPresentAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+cbtTotalIncome,$48895384.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$803.00
+isOutstandingCourtCaseB,No
+bMailAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+psntFirstLoan,$12650.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LISA J MORROW
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,776844867
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,5021010348
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,07-NOV-1979
+psntTotalExp,$12650.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$12650.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$12650.00
+isDeliquentCB,
+lt2y_cb_res_since,5
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"Placer Hall 6000 J St , Sacramento, Ca, 95819"
+depPurchHeldBy,JAN J RYAN
+isDownpaymentBorrowedCB,
+bEmpName,DOL BLS
+depAmount,$1897.50
+isCoWorkerCB,
+bEmpAddress,"2 MASS AVE NE, RM 5890, WASHINGTON, DC"
+depBankName,ERIE GENERAL ELECTRIC EMP FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"2154 E LAKE RD, ERIE, PA"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,57252164417324
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$2530.00
+ typeOfProp,second home
+bDesignation,"Sr Accountant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,16-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1771.00
+signingDateCB,16-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OFF OF REG ADMIN WH
+preLoanBankName,NA
+loanOriginatorName,US DOL R1 OSHA
+cbEmpAddress,"WAGE AND HOUR DIVISION, 8701 S GESSNER STE 1164, HOUSTON, TX"
+preLoanBankAdd,NA
+loanOriginatorID,I58pdPwy
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL R1 OSHA
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4137850123
+cbYrsInJob,6
+loanOriginatorAddress,"1441 MAIN ST, RM 550, SPRINGFIELD, MA"
+borrowerName_3,JAN J RYAN
+borrowerName_9,JAN J RYAN
+borrowerName_10,JAN J RYAN
+cborrowerName_3,LISA J MORROW
+cBorrowerName_9,LISA J MORROW
+cborrowerName_10,LISA J MORROW
+signingDateB_10,16-JAN-2016
+signingDateCB_10,16-JAN-2016

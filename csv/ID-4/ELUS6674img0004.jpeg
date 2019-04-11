@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"HR Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5fM1Y8HuKyumx6
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GYOO-1044520235
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$29110.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.48%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1975 S TERRACE DR , NAPA, CA, 94559"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1994
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3171.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$29110.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9957.00
+bTotalIncome,$3171.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5796.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$29110.00
+refinanCost,$9957.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BARBARA JACKSON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-SEP-2068
+cbTotalIncome,$5796.00
+fundingFee,$0.00
+borrowerName,ERIC D WILLIAMS
+cbtBaseSalary,$8967.00
+disocuntValue,$0.00
+bSecurityNumber,115037578
+cbtOverttime,$0.00
+totalTxnCost,$29110.00
+bPhone,5157877315
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-FEB-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$29110.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$29110.00
+bPresentAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 94025"
+cbtTotalIncome,$57963171.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1449.00
+isOutstandingCourtCaseB,No
+bMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 94025"
+psntFirstLoan,$29110.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRUCE M RICHMOND
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,410368636
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2573852381
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-SEP-1984
+psntTotalExp,$29110.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$29110.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$29110.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ERIC D WILLIAMS
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA REG 2 - JUDSON
+depAmount,$3202.10
+isCoWorkerCB,No
+bEmpAddress,"130 S ELMWOOD AVE, STE 500, BUFFALO, NY"
+depBankName,AMERICAN BANK OF ST. PAUL
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1578 UNIVERSITY AVE. W, ST PAUL, MN"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,51707250133733
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$5239.80
+ typeOfProp,second home
+bDesignation,"Technician, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,15-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2911.00
+signingDateCB,15-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPT OF LABOR/MSHA
+preLoanBankName,NA
+loanOriginatorName,OFF OF REG ADMIN WH
+cbEmpAddress,"1100 WILSON BLVD, RM 2521, ARLINGTON, VA"
+preLoanBankAdd,NA
+loanOriginatorID,w7Xk3iCe
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OFF OF REG ADMIN WH
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8178614104
+cbYrsInJob,8
+loanOriginatorAddress,"1701 E LAMAR BLVD, STE 270, ARLINGTON, TX"
+borrowerName_3,ERIC D WILLIAMS
+borrowerName_9,ERIC D WILLIAMS
+borrowerName_10,ERIC D WILLIAMS
+cborrowerName_3,BRUCE M RICHMOND
+cBorrowerName_9,BRUCE M RICHMOND
+cborrowerName_10,BRUCE M RICHMOND
+signingDateB_10,15-JAN-2016
+signingDateCB_10,15-JAN-2016

@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Receptionist, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,m70j48LsnnCO2u
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,AHDK -4737418130
+lt2y_cb_emp_name1,"Mine Safety & Health; Pob 25367, Oiei, Denver, Co"
+childSupportExpOwnedValue,$0.00
+Amount,$47878.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,UNIVERSAL FCt
+Interest,7.31%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"317 31st street, huntington, wv"
+Tenure,36 months
+lt2y_cb_emp_salary1,"$3,540.00"
+pre_loan_bank_acNo_01,05458227533802
+AmortType,Other
+lt2y_cb_emp_designation1,WORKER TEMPERORY
+pre_loan_bank_EMI_01,"$6,224.14"
+PropAddress,"145 BARBER AVE NE , BREWSTER, OH, 44613"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$10,533.16"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2750.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$47878.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13438.00
+bTotalIncome,$2750.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1906.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$47878.00
+refinanCost,$13438.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMY HEITGER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,23-AUG-2058
+cbTotalIncome,$1906.00
+fundingFee,$0.00
+borrowerName,DAVID S BLEHERT
+cbtBaseSalary,$4656.00
+disocuntValue,$0.00
+bSecurityNumber,760834660
+cbtOverttime,$0.00
+totalTxnCost,$47878.00
+bPhone,6702600070
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,06-DEC-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$47878.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$47878.00
+bPresentAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+cbtTotalIncome,$19062750.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1733.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+psntFirstLoan,$47878.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,SCOTT J ST JOHN
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,788558427
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1838005757
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-JUL-1981
+psntTotalExp,$47878.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$47878.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$47878.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,DAVID S BLEHERT
+isDownpaymentBorrowedCB,No
+bEmpName,DOL/OASAM/WORKLIFE CTR
+depAmount,$6224.14
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, N5460, WASHINGTON, DC"
+depBankName,BAPTIST CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"5815 IH-10 WEST, SAN ANTONIO, TX"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,02747171400886
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$10054.38
+ typeOfProp,investment property
+bDesignation,"HR Specialist, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,02-FEB-2016
+lt2y_b_emp_name1,"dol oasam boc; 200 constitution ave, n6432, washington, dc"
+subTotLiqValue,$6224.14
+signingDateCB,02-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,432.00"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,hr specialistcontract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL BLS OA DHROM
+cbEmpAddress,"3837 S US HWY 25 E, KY"
+preLoanBankAdd,NA
+loanOriginatorID,MY1F2v2X
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS OA DHROM
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026916801
+cbYrsInJob,3
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, G440, WASHINGTON, DC"
+borrowerName_3,DAVID S BLEHERT
+borrowerName_9,DAVID S BLEHERT
+borrowerName_10,DAVID S BLEHERT
+cborrowerName_3,SCOTT J ST JOHN
+cBorrowerName_9,SCOTT J ST JOHN
+cborrowerName_10,SCOTT J ST JOHN
+signingDateB_10,02-FEB-2016
+signingDateCB_10,02-FEB-2016

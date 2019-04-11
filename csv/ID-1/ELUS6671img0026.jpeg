@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Grocers Supplier, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,GkObOVBB4D1Ndp
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EJAK-2125807312
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$46883.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Great Midwest Bank S.s.b.
+Interest,7.46%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"15900 WEST BLUEMOUND ROAD, BROOKFIELD, WI"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,55084538252561
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,094.79"
+PropAddress,"7730 TIMBERLINE OVERLOOK , CUMMING, GA, 30041"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$7,970.11"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,aggieland credit union
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"201 southwest pkwy e/po box 10091, college station, tx"
+YearBuilt,2010
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,67147531502015
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$7,032.45"
+propFor,Primary
+bBaseSalary,$2629.00
+pre_loan_bank_balance_02,"$9,376.60"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Consumers Professional Cu
+construcOrigCost,$32212.00
+bBonus,$0.00
+pre_loan_bank_add_03,"525 west willow, lansing, mi"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,44065786251366
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$4,688.30"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$9,376.60"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13517.00
+bTotalIncome,$2629.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$13350.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$46883.00
+refinanCost,$13517.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHRISTINA AFORINASH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-FEB-2072
+cbTotalIncome,$13350.00
+fundingFee,$0.00
+borrowerName,SCOTTY D MENDENHALL
+cbtBaseSalary,$15979.00
+disocuntValue,$0.00
+bSecurityNumber,627305270
+cbtOverttime,$0.00
+totalTxnCost,$46883.00
+bPhone,0434571318
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-NOV-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$46883.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$46883.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$133502629.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1089.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$46883.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KIMBERLY P GRIFFIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,152746651
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,4205378576
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,13-SEP-1981
+psntTotalExp,$46883.00
+isCoWorkerB,
+cbYrsSchool,1980
+propFirstLoan,$46883.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"521 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$46883.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,SCOTTY D MENDENHALL
+isDownpaymentBorrowedCB,
+bEmpName,US DOL OASAM
+depAmount,$6563.62
+isCoWorkerCB,
+bEmpAddress,"201 VARICK ST, RM 813, NEW YORK, NY"
+depBankName,WICHITA FALLS TEACHER FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"3001 CARTER, WICHITA FALLS, TX"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,60657655286683
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$9845.43
+ typeOfProp,investment property
+bDesignation,"Computer Operator, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,O1-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7032.45
+signingDateCB,O1-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL R1 OSHA
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY AND HEALTH
+cbEmpAddress,"1057 BROAD ST, 4TH FLOOR, BRIDGEPORT, CT"
+preLoanBankAdd,NA
+loanOriginatorID,n3lhbh8x
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY AND HEALTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3042563231
+cbYrsInJob,6
+loanOriginatorAddress,"NAT MINE HEALTH AND SAFETY ACADEMY, 1301 AIRPORT RD, BEAVER, WV"
+borrowerName_3,SCOTTY D MENDENHALL
+borrowerName_9,SCOTTY D MENDENHALL
+borrowerName_10,SCOTTY D MENDENHALL
+cborrowerName_3,KIMBERLY P GRIFFIN
+cBorrowerName_9,KIMBERLY P GRIFFIN
+cborrowerName_10,KIMBERLY P GRIFFIN
+signingDateB_10,O1-JAN-2016
+signingDateCB_10,O1-JAN-2016

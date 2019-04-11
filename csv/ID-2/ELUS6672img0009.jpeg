@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Project Assistant, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,aJObiOGohJxKQg
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GVII -5211403276
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$17802.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,CP FCU
+Interest,8.49%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1100 CLINTON ROAD, JACKSON, MI"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,70542372813403
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,314.26"
+PropAddress,"9 POCONO RD APT 2D, DENVILLE, NJ, 7834"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,026.34"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2841.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$54925.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6088.00
+bTotalIncome,$2841.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2028.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$17802.00
+refinanCost,$6088.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CATHERINE AGNELLI
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-JAN-2057
+cbTotalIncome,$2028.00
+fundingFee,$0.00
+borrowerName,STUART K WILKINSON
+cbtBaseSalary,$4869.00
+disocuntValue,$0.00
+bSecurityNumber,685748784
+cbtOverttime,$0.00
+totalTxnCost,$17802.00
+bPhone,3684475156
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,19-JUN-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$17802.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$17802.00
+bPresentAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+cbtTotalIncome,$20282841.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1722.00
+isOutstandingCourtCaseB,
+bMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+psntFirstLoan,$17802.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DANIEL N DETERMAN
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,162828411
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1202345331
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,16-AUG-1986
+psntTotalExp,$17802.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$17802.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$17802.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,STUART K WILKINSON
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OFCCP
+depAmount,$2314.26
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVENUE NW, DC"
+depBankName,SLMA
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"12061 BLUEMONT WAY, RESTON, VA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,55348014344225
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3916.44
+ typeOfProp,principal residence
+bDesignation,"Technician, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,19-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2136.24
+signingDateCB,19-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL BLS REGION 9
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR-OSHA
+cbEmpAddress,"PO BOX 193766, SAN FRANCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,FXiI1CRG
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR-OSHA
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5033262251
+cbYrsInJob,7
+loanOriginatorAddress,"1220 SW 3RD AVENUE, ROOM 640, PORTLAND, OR"
+borrowerName_3,STUART K WILKINSON
+borrowerName_9,STUART K WILKINSON
+borrowerName_10,STUART K WILKINSON
+cborrowerName_3,DANIEL N DETERMAN
+cBorrowerName_9,DANIEL N DETERMAN
+cborrowerName_10,DANIEL N DETERMAN
+signingDateB_10,19-JAN-2016
+signingDateCB_10,19-JAN-2016

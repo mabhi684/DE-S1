@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Legal Executive, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,K7U1BCjcT74az4
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,YUMR-5860656658
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$6023.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.05%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"235 N VALLEY ST , BURBANK, CA, 91505"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1978
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4758.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$43903.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6023.00
+bTotalIncome,$4758.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1917.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$6023.00
+refinanCost,$6023.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANDREA MILLMAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,20-SEP-2074
+cbTotalIncome,$1917.00
+fundingFee,$0.00
+borrowerName,DONALD P ROSEBOOM
+cbtBaseSalary,$6675.00
+disocuntValue,$0.00
+bSecurityNumber,623444138
+cbtOverttime,$0.00
+totalTxnCost,$6023.00
+bPhone,5443103881
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-JUL-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$6023.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$6023.00
+bPresentAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+cbtTotalIncome,$19174758.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$818.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+psntFirstLoan,$6023.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,THOMAS A TELESHA
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,133874571
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5340752364
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-SEP-1983
+psntTotalExp,$6023.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$6023.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$6023.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DONALD P ROSEBOOM
+isDownpaymentBorrowedCB,No
+bEmpName,DOL/OASAM/BOC/OPS/COST DET
+depAmount,$602.30
+isCoWorkerCB,No
+bEmpAddress,"PO BOX 821067, , FORT WORTH, TX"
+depBankName,CHAMPLAIN VALLEY CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1 MARKET PLACE, SUITE 8, ESSEX JUNCTION, VT"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,47233687167006
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$1023.91
+ typeOfProp,second home
+bDesignation,"Security Member, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,27-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$662.53
+signingDateCB,27-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR EBSA
+preLoanBankName,NA
+loanOriginatorName,OLMS
+cbEmpAddress,"1055 E COLORADO BLVD, STE 200, PASADENA, CA"
+preLoanBankAdd,NA
+loanOriginatorID,V5q5BAjT
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OLMS
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5045896174
+cbYrsInJob,4
+loanOriginatorAddress,"600 S MAESTRI PLACE, STE 604, NEW ORLEANS, LA"
+borrowerName_3,DONALD P ROSEBOOM
+borrowerName_9,DONALD P ROSEBOOM
+borrowerName_10,DONALD P ROSEBOOM
+cborrowerName_3,THOMAS A TELESHA
+cBorrowerName_9,THOMAS A TELESHA
+cborrowerName_10,THOMAS A TELESHA
+signingDateB_10,27-NOV-2015
+signingDateCB_10,27-NOV-2015

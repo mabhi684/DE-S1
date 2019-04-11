@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Trainer, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,3L4YglbCrUaxcQ
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IMNI-5464722488
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$48463.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.66%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2324 WASHINGTON RD APT E13, WASHINGTON, IL, 61571"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3443.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$48463.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12679.00
+bTotalIncome,$3443.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3157.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$48463.00
+refinanCost,$12679.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BARBARA SERPETTE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-NOV-2061
+cbTotalIncome,$3157.00
+fundingFee,$0.00
+borrowerName,RENOLDO V STARKS
+cbtBaseSalary,$6600.00
+disocuntValue,$0.00
+bSecurityNumber,656716311
+cbtOverttime,$0.00
+totalTxnCost,$48463.00
+bPhone,4272736280
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,24-DEC-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$48463.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$48463.00
+bPresentAddress,"3535 S SHERWOOD FOREST BL STE 120, BATON ROUGE, LA, 70816"
+cbtTotalIncome,$31573443.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$849.00
+isOutstandingCourtCaseB,No
+bMailAddress,"3535 S SHERWOOD FOREST BL STE 120, BATON ROUGE, LA, 70816"
+psntFirstLoan,$48463.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,TODD J SEVERSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,852388762
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2640507170
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,07-JUN-1981
+psntTotalExp,$48463.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$48463.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2630 FANTA REED RD , LA CROSSE, WI, 54603"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3535 S SHERWOOD FOREST BL STE 120, BATON ROUGE, LA, 70816"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$48463.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RENOLDO V STARKS
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL R1 OSHA
+depAmount,$5815.56
+isCoWorkerCB,No
+bEmpAddress,"1441 MAIN ST, RM 550, SPRINGFIELD, MA"
+depBankName,RAY COOPERATIVE CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"10 MAIN STREET, RAY, ND"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,33161008227254
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$10661.86
+ typeOfProp,principal residence
+bDesignation,"Machinist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,05-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$6300.19
+signingDateCB,05-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,ESA WAGE HOUR
+preLoanBankName,NA
+loanOriginatorName,OSHA REG 2 - JUDSON
+cbEmpAddress,"211 W FORT ST, RM 1317, DETROIT, MI"
+preLoanBankAdd,NA
+loanOriginatorID,assxeXOn
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OSHA REG 2 - JUDSON
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8563962594
+cbYrsInJob,5
+loanOriginatorAddress,"701 RTE 73 S, BLDG 2 STE 120, MARLTON, NJ"
+borrowerName_3,RENOLDO V STARKS
+borrowerName_9,RENOLDO V STARKS
+borrowerName_10,RENOLDO V STARKS
+cborrowerName_3,TODD J SEVERSON
+cBorrowerName_9,TODD J SEVERSON
+cborrowerName_10,TODD J SEVERSON
+signingDateB_10,05-JAN-2016
+signingDateCB_10,05-JAN-2016

@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Asst Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,AfEHBjGrXMD6eS
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BOLO-4016647545
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$3854.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.16%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2178 LAFAYETTE BLVD , LINCOLN PARK, MI, 48146"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1972
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3035.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$18802.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3854.00
+bTotalIncome,$3035.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3243.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$3854.00
+refinanCost,$3854.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHUCK REARDON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-JAN-2063
+cbTotalIncome,$3243.00
+fundingFee,$0.00
+borrowerName,DONALD J CLARK
+cbtBaseSalary,$6278.00
+disocuntValue,$0.00
+bSecurityNumber,010868060
+cbtOverttime,$0.00
+totalTxnCost,$3854.00
+bPhone,0316343206
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,13-NOV-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$3854.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$3854.00
+bPresentAddress,"308 SOUTH AIRPORT RD , PEARL, MS, 39208"
+cbtTotalIncome,$32433035.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1235.00
+isOutstandingCourtCaseB,No
+bMailAddress,"308 SOUTH AIRPORT RD , PEARL, MS, 39208"
+psntFirstLoan,$3854.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,NORA B SHEW
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,520308512
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0224802670
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-JAN-1977
+psntTotalExp,$3854.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$3854.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"WEST 904 RIVERSIDE AVE , SPOKANE, WA, 99201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"308 SOUTH AIRPORT RD , PEARL, MS, 39208"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$3854.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DONALD J CLARK
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OWCP DCMWC
+depAmount,$578.10
+isCoWorkerCB,No
+bEmpAddress,"100 N WILKES-BARRE BLVD, STE 300A, WILKES BARRE, PA"
+depBankName,SOUTH CAROLINA TELCO FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 21337, GREENVILLE, SC"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,77074182222501
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$732.26
+ typeOfProp,investment property
+bDesignation,"HR Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,19-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$539.56
+signingDateCB,19-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"US DEPT OF LABOR-SOLICITORS OFC, 1999 BROADWAY STE 1600, DENVER, CO"
+preLoanBankAdd,NA
+loanOriginatorID,U4UI3QqQ
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123866933
+cbYrsInJob,8
+loanOriginatorAddress,"PO BOX 18233 PSHTC, , PITTSBURGH, PA"
+borrowerName_3,DONALD J CLARK
+borrowerName_9,DONALD J CLARK
+borrowerName_10,DONALD J CLARK
+cborrowerName_3,NORA B SHEW
+cBorrowerName_9,NORA B SHEW
+cborrowerName_10,NORA B SHEW
+signingDateB_10,19-JAN-2016
+signingDateCB_10,19-JAN-2016

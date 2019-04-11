@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Network Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,aCx6hkQx7bu8AA
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TMBU -4588817586
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$47358.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,"Jpmorgan Chase Bank, Na"
+Interest,10.67%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Po Box 711004, Columbus, Oh"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,46764286021485
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,630.12"
+PropAddress,"8025 BRAMELL , REDFORD, MI, 48239"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$9,471.60"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,missoula federal credit union
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"2610 N Reserve St, Missoula, Mt"
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,71834440873147
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$7,103.70"
+propFor,Investment
+bBaseSalary,$5723.00
+pre_loan_bank_balance_02,"$8,050.86"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$47358.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7518.00
+bTotalIncome,$5723.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6165.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$47358.00
+refinanCost,$7518.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DENNIS GARCHOW
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-MAR-2073
+cbTotalIncome,$6165.00
+fundingFee,$0.00
+borrowerName,DARR?LL P WASHINGTON
+cbtBaseSalary,$11888.00
+disocuntValue,$0.00
+bSecurityNumber,403715130
+cbtOverttime,$0.00
+totalTxnCost,$47358.00
+bPhone,6544187436
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-JAN-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$47358.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$47358.00
+bPresentAddress,"202 NATIONAL CENT?R , RESTON, VA, 20192"
+cbtTotalIncome,$61655723.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1462.00
+isOutstandingCourtCaseB,
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$47358.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,RACHEAL L MCLAUGHLIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,764707363
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8267720555
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-AUG-1981
+psntTotalExp,$47358.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$47358.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$47358.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DARRELL P WASHINGTON
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL OFF OF SOLICITOR
+depAmount,$5682.96
+isCoWorkerCB,
+bEmpAddress,"61 FORSYTH ST SW, RM 7T10, ATLANTA, GA"
+depBankName,ONE SOURCE FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"8870 GAZELLE DRIVE, EL PASO, TX"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,00362064073110
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$9471.60
+ typeOfProp,investment property
+bDesignation,"Sr Accountant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,28-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$6156.54
+signingDateCB,28-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,OASAM DBC OFMO
+cbEmpAddress,"2 MASSACHUSETTS AVE NE, RM 5890, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,G5CzvGsk
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OASAM DBC OFMO
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934489
+cbYrsInJob,7
+loanOriginatorAddress,"200 CONSTITUTION AVE, RM 55526, WASHINGTON, DC"
+borrowerName_3,DARR?LL P WASHINGTON
+borrowerName_9,DARR?LL P WASHINGTON
+borrowerName_10,DARR?LL P WASHINGTON
+cborrowerName_3,RACHEAL L MCLAUGHLIN
+cBorrowerName_9,RACHEAL L MCLAUGHLIN
+cborrowerName_10,RACHEAL L MCLAUGHLIN
+signingDateB_10,28-NOV-2015
+signingDateCB_10,28-NOV-2015

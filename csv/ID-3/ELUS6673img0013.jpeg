@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Machinist, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ntvbRVtR7iqK1F
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EOTS-5048212441
+lt2y_cb_emp_name1,"dol/oasam academy -hrc; 200 constitution ave nw, room c5517, washington, dc"
+childSupportExpOwnedValue,$0.00
+Amount,$22747.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,Us Bank Na
+Interest,7.54%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"2751 Shepard Rd, St. Paul, Mn"
+Tenure,54 months
+lt2y_cb_emp_salary1,"$2,734.40"
+pre_loan_bank_acNo_01,70867124474266
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,Trainertemperory
+pre_loan_bank_EMI_01,"$3,184.58"
+PropAddress,"1581 COUNTY ROAD 65 , TUSKEGEE, AL, 36083"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,776.87"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1961
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$8298.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$14547.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6082.00
+bTotalIncome,$8298.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3337.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$22747.00
+refinanCost,$6082.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALEX BROWN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,14 -JUL -2075
+cbTotalIncome,$3337.00
+fundingFee,$0.00
+borrowerName,DAWN M LAND
+cbtBaseSalary,$11635.00
+disocuntValue,$0.00
+bSecurityNumber,202584352
+cbtOverttime,$0.00
+totalTxnCost,$22747.00
+bPhone,0277315283
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,09-SEP-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$22747.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$22747.00
+bPresentAddress,"1730 EAST PARHAM RD , RICHMOND, VA, 23228"
+cbtTotalIncome,$33378298.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1347.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1730 EAST PARHAM RD , RICHMOND, VA, 23228"
+psntFirstLoan,$22747.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,MICHAEL T WADE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,515406710
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4061526576
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-OCT-1985
+psntTotalExp,$22747.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$22747.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"308 SOUTH AIRPORT RD , PEARL, MS, 39208"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"1730 EAST PARHAM RD , RICHMOND, VA, 23228"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$22747.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,DAWN M LAND
+isDownpaymentBorrowedCB,
+bEmpName,OSHA REG 2 - JUDSON
+depAmount,$3184.58
+isCoWorkerCB,No
+bEmpAddress,"201 VARICK STREET, ROOM 670, NEW YORK, NY"
+depBankName,UNIVERSITY OF NORTHERN COLORADO
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"CAMPUS BOX 33, GREELEY, CO"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,66833002688088
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$5004.34
+ typeOfProp,principal residence
+bDesignation,"Sr Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,06-FEB-2016
+lt2y_b_emp_name1,"dol assistant secretary; 200 constitution ave nw, ste n3609, washington, dc"
+subTotLiqValue,$2502.17
+signingDateCB,06-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$3,537.70"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,MANAGERTEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR OSHA
+cbEmpAddress,"2 MASSACHUSETTS AVE NE, RM G440, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,7eIgdP6C
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR OSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4062477494
+cbYrsInJob,7
+loanOriginatorAddress,"2900 4TH AVE N, STE 303, BILLINGS, MT"
+borrowerName_3,DAWN M LAND
+borrowerName_9,DAWN M LAND
+borrowerName_10,DAWN M LAND
+cborrowerName_3,MICHAEL T WADE
+cBorrowerName_9,MICHAEL T WADE
+cborrowerName_10,MICHAEL T WADE
+signingDateB_10,06-FEB-2016
+signingDateCB_10,06-FEB-2016

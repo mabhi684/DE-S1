@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Secretary, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,GGhu3Yt4v3L38A
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,PESD-8573070133
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$27154.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,falls city national bank
+Interest,7.69%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"100 S. Front, Falls City, Tx"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,73341537043557
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$3,801.56"
+PropAddress,"2654 W WINEGAR RD , MORRICE, MI, 48857"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,616.18"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Homeport Fcu
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"5959 S. STAPLES, CORPUS CHRISTI, TX"
+YearBuilt,1963
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,51482615512228
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$3,801.56"
+propFor,Investment
+bBaseSalary,$2301.00
+pre_loan_bank_balance_02,"$5,159.26"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$27154.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6088.00
+bTotalIncome,$2301.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3070.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$27154.00
+refinanCost,$6088.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CORKY KNAUFF
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,12-MAR-2072
+cbTotalIncome,$3070.00
+fundingFee,$0.00
+borrowerName,ASHLEY T ROHDE
+cbtBaseSalary,$5371.00
+disocuntValue,$0.00
+bSecurityNumber,152630246
+cbtOverttime,$0.00
+totalTxnCost,$27154.00
+bPhone,4606326213
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-MAR-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$27154.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$27154.00
+bPresentAddress,"777 NW 9th ST STE 400 , CORVALLIS, OR, 97330"
+cbtTotalIncome,$30702301.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1504.00
+isOutstandingCourtCaseB,
+bMailAddress,"777 NW 9th ST STE 400 , CORVALLIS, OR, 97330"
+psntFirstLoan,$27154.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KRISTA A HOOD
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,263124537
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8828426088
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,15-APR-1989
+psntTotalExp,$27154.00
+isCoWorkerB,
+cbYrsSchool,1988
+propFirstLoan,$27154.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"777 NW 9th ST STE 400 , CORVALLIS, OR, 97330"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$27154.00
+isDeliquentCB,No
+lt2y_cb_res_since,11
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"Modoc Hall Usgs Ms 3001 3020 State Univ Dr East, Sacramento, Ca, 94025"
+depPurchHeldBy,ASHLEY T ROHDE
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL OSHA
+depAmount,$2715.40
+isCoWorkerCB,
+bEmpAddress,"49 N PROGRESS AVE„ HARRISBURG, PA"
+depBankName,SPOKANE CITY CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"PO BOX 9639, SPOKANE, WA"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,84672244711365
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$4616.18
+ typeOfProp,second home
+bDesignation,"Office Boy, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,12-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$4073.10
+signingDateCB,12-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OLMS
+preLoanBankName,NA
+loanOriginatorName,US DOL WAGE AND HOUR
+cbEmpAddress,"1240 E NINTH ST, RM 831, CLEVELAND, OH"
+preLoanBankAdd,NA
+loanOriginatorID,E4tx732Q
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL WAGE AND HOUR
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8584677016
+cbYrsInJob,8
+loanOriginatorAddress,"5675 RUFFIN RD, STE 310, SAN DIEGO, CA"
+borrowerName_3,ASHLEY T ROHDE
+borrowerName_9,ASHLEY T ROHDE
+borrowerName_10,ASHLEY T ROHDE
+cborrowerName_3,KRISTA A HOOD
+cBorrowerName_9,KRISTA A HOOD
+cborrowerName_10,KRISTA A HOOD
+signingDateB_10,12-DEC-2015
+signingDateCB_10,12-DEC-2015

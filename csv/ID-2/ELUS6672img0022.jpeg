@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Legal Executive, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,6mzZFF56UO1yFo
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,YCXN -2645257131
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$45313.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Merck Sharp & Dohme Fcu
+Interest,9.09%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"P.o. Box 127, Chalfont, PA"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,57188112888468
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,796.95"
+PropAddress,"21012 GARDNER DR , ALPHARETTA, GA, 30009"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,156.34"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,iowa state bank & trust
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"P.O. BOX 1010, FAIRFIELD, IA"
+YearBuilt,1986
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,63511503874113
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$5,437.56"
+propFor,Seconday
+bBaseSalary,$2506.00
+pre_loan_bank_balance_02,"$8,156.34"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$74706.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13438.00
+bTotalIncome,$2506.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1784.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$45313.00
+refinanCost,$13438.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DAVID STONGE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-JAN-2062
+cbTotalIncome,$1784.00
+fundingFee,$0.00
+borrowerName,JOSEPH E SCHATZ
+cbtBaseSalary,$4290.00
+disocuntValue,$0.00
+bSecurityNumber,730220874
+cbtOverttime,$0.00
+totalTxnCost,$45313.00
+bPhone,4666175448
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,27-FEB-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$45313.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$45313.00
+bPresentAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+cbtTotalIncome,$17842506.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1047.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+psntFirstLoan,$45313.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,MARK M DORNBLASER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,676006164
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7610405026
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-DEC-1981
+psntTotalExp,$45313.00
+isCoWorkerB,
+cbYrsSchool,1988
+propFirstLoan,$45313.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$45313.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOSEPH E SCHATZ
+isDownpaymentBorrowedCB,
+bEmpName,DOL R9 SOL SAN FRAN
+depAmount,$5890.69
+isCoWorkerCB,
+bEmpAddress,"90 7TH STREET, SUITE 3 700, SAN FRANCISCO, CA"
+depBankName,CSC EMPLOYEE'S FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"2100 E GRAND AVENUE, EL SEGUNDO, CA"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,63217167384732
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$9062.60
+ typeOfProp,investment property
+bDesignation,"Office Assistant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,31-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$6343.82
+signingDateCB,31-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,DOL R9 OWCP SAN FRAN
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM C3310, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,8d4j36zh
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL R9 OWCP SAN FRAN
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156257479
+cbYrsInJob,8
+loanOriginatorAddress,"90 7TH STREET, SUITE 15 100, SAN FRANCISCO, CA"
+borrowerName_3,JOSEPH E SCHATZ
+borrowerName_9,JOSEPH E SCHATZ
+borrowerName_10,JOSEPH E SCHATZ
+cborrowerName_3,MARK M DORNBLASER
+cBorrowerName_9,MARK M DORNBLASER
+cborrowerName_10,MARK M DORNBLASER
+signingDateB_10,31-DEC-2015
+signingDateCB_10,31-DEC-2015

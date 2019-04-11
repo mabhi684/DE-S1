@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Technician, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ru8YmXzjAOKXAK
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VODK -7836356417
+lt2y_cb_emp_name1,"Dol R9 Osha San Fran; 90 7th St Ste 18100, San Francisco, Ca"
+childSupportExpOwnedValue,$0.00
+Amount,$91969.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,comerica bank
+Interest,7.09%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"3701 HAMLIN ROAD MC 6230, AUBURN HILLS, MI"
+Tenure,60 months
+lt2y_cb_emp_salary1,"$2,951.10"
+pre_loan_bank_acNo_01,70028845800532
+AmortType,ARM
+lt2y_cb_emp_designation1,Exec Secretarycontract
+pre_loan_bank_EMI_01,"$11,036.28"
+PropAddress,"478 SW VALERIA VIEW DR APT 202, PORTLAND, OR, 97225"
+lt2y_cb_emp_name2,"US DOL ESA OFCCP; 525 S GRIFFIN ST ROOM 840, TX"
+pre_loan_bank_balance_01,"$18,393.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,1985
+lt2y_cb_emp_salary2,"$2,164.14"
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,Exec Secretarytemperory
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$6414.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$91969.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6082.00
+bTotalIncome,$6414.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2841.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$91969.00
+refinanCost,$6082.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANTHONY DENUCCIO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-JAN-2065
+cbTotalIncome,$2841.00
+fundingFee,$0.00
+borrowerName,SHANE T DETWEILER
+cbtBaseSalary,$9255.00
+disocuntValue,$0.00
+bSecurityNumber,850528077
+cbtOverttime,$0.00
+totalTxnCost,$91969.00
+bPhone,0782537457
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-AUG-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$91969.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$91969.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$28416414.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1224.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+psntFirstLoan,$91969.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRADY R COUVILLION
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,188442364
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2862553205
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,23-JAN-1990
+psntTotalExp,$91969.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$91969.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"700 CAJUNDOME BLVD , LAFAYETTE, LA, 70506"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$91969.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,SHANE T DETWEILER
+isDownpaymentBorrowedCB,No
+bEmpName,QS DOL OFCCP
+depAmount,$11036.28
+isCoWorkerCB,No
+bEmpAddress,"MIAMI AREA OFFICE, 909 SE 1ST AVE STE 722, MIAMI, FL"
+depBankName,CITY NATIONAL BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 279, SHENANDOAH, IA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,44666316288641
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$16554.42
+ typeOfProp,second home
+bDesignation,"HR Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,17-JAN-2016
+lt2y_b_emp_name1,"Us Dol R1 Osha; 639 Granite St, Rm 402, Braintree, Ma"
+subTotLiqValue,$11955.97
+signingDateCB,17-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,784.60"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,HR ADMINTEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"US DEPT LABOR/VETS; PO BOX 94094, RM 184, BATON ROUGE, LA"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$2,227.68"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,HR ADMINPERMANENT
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ASSISTANT SECRETARY
+preLoanBankName,NA
+loanOriginatorName,OSEC / OFFICE OF JOB CORPS
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM N3425, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,U5B2Oodn
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OSEC / OFFIC? OF JOB CORPS
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026933000
+cbYrsInJob,2
+loanOriginatorAddress,"US DEPT OF LABOR, 200 CONSTITUTION AVE NW RM N4463, WASHINGTON, DC"
+borrowerName_3,SHANE T DETWEILER
+borrowerName_9,SHANE T DETWEILER
+borrowerName_10,SHANE T DETWEILER
+cborrowerName_3,BRADY R COUVILLION
+cBorrowerName_9,BRADY R COUVILLION
+cborrowerName_10,BRADY R COUVILLION
+signingDateB_10,17-JAN-2016
+signingDateCB_10,17-JAN-2016

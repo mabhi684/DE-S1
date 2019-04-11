@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Guard, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Vynrm1DLdQCGgV
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OSFU-4480188663
+lt2y_cb_emp_name1,"Us Dept Of Labor Wh; 100 North Barranca AvenUe, Suite 850, West Covina, Ca"
+childSupportExpOwnedValue,$0.00
+Amount,$107906.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,North Shore Health System Fcu
+Interest,8.77%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"972 Brush Hollow Rd, Westbury, Ny"
+Tenure,240 months
+lt2y_cb_emp_salary1,"$4,147.20"
+pre_loan_bank_acNo_01,88033182351450
+AmortType,GPM
+lt2y_cb_emp_designation1,sales agefittemperory
+pre_loan_bank_EMI_01,"$14,027.78"
+PropAddress,"619 GENESEE ST , MEDINA, NY, 14103"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$19,423.08"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,EMORY ALLIANCE FCU
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1237 clairmont road, decatur, ga"
+YearBuilt,1975
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,73650671703848
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$11,869.66"
+propFor,Seconday
+bBaseSalary,$2309.00
+pre_loan_bank_balance_02,"$20,502.14"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$28475.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17395.00
+bTotalIncome,$2309.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1131.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$107906.00
+refinanCost,$17395.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DAWN VIDEAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-JUN-2063
+cbTotalIncome,$1131.00
+fundingFee,$0.00
+borrowerName,JOHN G SCHUMACHER
+cbtBaseSalary,$3440.00
+disocuntValue,$0.00
+bSecurityNumber,523617333
+cbtOverttime,$0.00
+totalTxnCost,$107906.00
+bPhone,8170403822
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-JAN-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$107906.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$107906.00
+bPresentAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+cbtTotalIncome,$11312309.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1675.00
+isOutstandingCourtCaseB,
+bMailAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+psntFirstLoan,$107906.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,INGRID M VERSTRAETEN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,721421307
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,0571031727
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,13-AUG-1991
+psntTotalExp,$107906.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$107906.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"917 NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$107906.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JOHN G SCHUMACHER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OSEC
+depAmount,$16185.90
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVE NW RM 52018„ WASHINGTON, DC"
+depBankName,UNION BANK & TRUST ELT NAT'L ED LOAN NE
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"121 S 13TH ST., LINCOLN, NE"
+isPermanentAlienCB,
+bYrsInCJob,1
+depBankAcc,47135868210357
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$23739.32
+ typeOfProp,principal residence
+bDesignation,"Office Boy, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,23-JAN-2016
+lt2y_b_emp_name1,"DOL BLS; 2ND MASSACHUSETTS AVE NE, RM 5250, WASHINGTON, DC"
+subTotLiqValue,$15106.84
+signingDateCB,23-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$4,134.40"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Sales Agentpermanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,DEPT OF LABOR MSHA
+cbEmpAddress,"2 MASSACHUSETTS AVE NE, ROOM 2135, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,43knaj vb
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DEPT OF LABOR MSHA
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3042256808
+cbYrsInJob,5
+loanOriginatorAddress,"604 CHEAT RD, WV"
+borrowerName_3,JOHN G SCHUMACHER
+borrowerName_9,JOHN G SCHUMACHER
+borrowerName_10,JOHN G SCHUMACHER
+cborrowerName_3,INGRID M VERSTRAETEN
+cBorrowerName_9,INGRID M VERSTRAETEN
+cborrowerName_10,INGRID M VERSTRAETEN
+signingDateB_10,23-JAN-2016
+signingDateCB_10,23-JAN-2016

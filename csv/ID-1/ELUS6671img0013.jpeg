@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Cleaner, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,s3boMgDBOqfgeZ
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FJDS-1353220856
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$22617.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,AMERICO CU
+Interest,8.60%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"4101 main street karen allessie, erie, pa"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,27825516703523
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$3,392.55"
+PropAddress,"608 7TH ST , IMPERIAL BEACH, CA, 91932"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,523.40"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,us bank nA
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"2751 shepard rd, st paul, mn"
+YearBuilt,1984
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,07453324030553
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,487.87"
+propFor,Seconday
+bBaseSalary,$3765.00
+pre_loan_bank_balance_02,"$4,749.57"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,BONY MELLON ELT EDSOUTH
+construcOrigCost,$22617.00
+bBonus,$0.00
+pre_loan_bank_add_03,"104 north seven oaks, knoxville, to"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,63324625265016
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$2,714.04"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$4,523.40"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11588.00
+bTotalIncome,$3765.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1833.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$22617.00
+refinanCost,$11588.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALEX ADAMS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,31 -DEC -2074
+cbTotalIncome,$1833.00
+fundingFee,$0.00
+borrowerName,JORDAN C GONNERING
+cbtBaseSalary,$5598.00
+disocuntValue,$0.00
+bSecurityNumber,708630211
+cbtOverttime,$0.00
+totalTxnCost,$22617.00
+bPhone,6112168516
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,31-MAR-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$22617.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$22617.00
+bPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+cbtTotalIncome,$18333765.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1662.00
+isOutstandingCourtCaseB,
+bMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+psntFirstLoan,$22617.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,TRAVIS M KNIGHT
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,100771243
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7074818820
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,22-OCT-1985
+psntTotalExp,$22617.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$22617.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"10500 ONV CTR DR STE 215 MS 156, MIAMI, FL, 33178"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$22617.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JORDAN C GONNERING
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABOR WH
+depAmount,$3392.55
+isCoWorkerCB,No
+bEmpAddress,"100 N BARRANCA AVE, SUITE 850, WEST COVINA, CA"
+depBankName,NAT'L COLLEGE OF NATURPATHIC MED
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"049 SW PORTER, PORTLAND, OR"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,33083502320734
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$4975.74
+ typeOfProp,principal residence
+bDesignation,"Asst Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,11-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2714.04
+signingDateCB,11-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL EBSA.
+cbEmpAddress,"POB 25367, OIEI, DENVER, CO"
+preLoanBankAdd,NA
+loanOriginatorID,4JSyyqmr
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL EBSA
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026938541
+cbYrsInJob,7
+loanOriginatorAddress,"200 CONST AVE NW, RM N 5649, WASHINGTON, DC"
+borrowerName_3,JORDAN C GONNERING
+borrowerName_9,JORDAN C GONNERING
+borrowerName_10,JORDAN C GONNERING
+cborrowerName_3,TRAVIS M KNIGHT
+cBorrowerName_9,TRAVIS M KNIGHT
+cborrowerName_10,TRAVIS M KNIGHT
+signingDateB_10,11-FEB-2016
+signingDateCB_10,11-FEB-2016

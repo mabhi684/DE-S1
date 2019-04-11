@@ -1,0 +1,247 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Guard, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,wxpVi53j yidV4u
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OYZF-2374163778
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$46175.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,university of baylor
+Interest,8.59%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"700 university parks dr., witco, tx"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,13710845551872
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,464.50"
+PropAddress,"3110 HIGHLAWN DR , TWIN FALLS, ID, 83301"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,773.25"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1969
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3276.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$32212.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17333.00
+bTotalIncome,$3276.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1041.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$46175.00
+refinanCost,$17333.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BLAKE RUFFING
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,23 -MAY -2056
+cbTotalIncome,$1041.00
+fundingFee,$0.00
+borrowerName,BENJAMIN V GAGLIOTI
+cbtBaseSalary,$4317.00
+disocuntValue,$0.00
+bSecurityNumber,118837163
+cbtOverttime,$0.00
+totalTxnCost,$46175.00
+bPhone,1540027725
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-JUL-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$46175.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$46175.00
+bPresentAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 94025"
+cbtTotalIncome,$10413276.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1107.00
+isOutstandingCourtCaseB,
+bMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 94025"
+psntFirstLoan,$46175.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LISA M LYREN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,364201202
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1662075423
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-JAN-1986
+psntTotalExp,$46175.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$46175.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$46175.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,BENJAMIN V GAGLIOTI
+isDownpaymentBorrowedCB,
+bEmpName,DOL OFFICE OF POLICY ASP
+depAmount,$6464.50
+isCoWorkerCB,No
+bEmpAddress,"US DOL, 200 CONSTITUTION AVE NW RM S2312, WASHINGTON, DC"
+depBankName,APPLETREE CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"11333 W GREENFIELD AVE, WEST ALLIS, WI"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,31650548558180
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$9235.00
+ typeOfProp,investment property
+bDesignation,"Exec Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,28-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$6464.50
+signingDateCB,28-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OASAM BOC DSTM
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OWCP SE REGION
+cbEmpAddress,"US DOL, 200 CONSTITUTION AVE NW RM 51508, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,RM22qaiH
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OWCP SE REGION
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6062189238
+cbYrsInJob,7
+loanOriginatorAddress,"164 MAIN ST, STE 508, PIKEVILLE, KY"
+borrowerName_3,BENJAMIN V GAGLIOTI
+borrowerName_9,BENJAMIN V GAGLIOTI
+borrowerName_10,BENJAMIN V GAGLIOTI
+cborrowerName_3,LISA M LYREN
+cBorrowerName_9,LISA M LYREN
+cborrowerName_10,LISA M LYREN
+signingDateB_10,28-JAN-2016
+signingDateCB_10,28-JAN-2016

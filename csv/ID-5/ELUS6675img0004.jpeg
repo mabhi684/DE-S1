@@ -1,0 +1,247 @@
+loanAppliedFor,VA
+cbDesignation,"Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,HWgEmttka6Jlok
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,KLZD-4356167077
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$14789.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.32%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"W4711 34 5 RD , CARNEY, MI, 49812"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1993
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3272.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$22377.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3353.00
+bTotalIncome,$3272.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4360.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$14789.00
+refinanCost,$3353.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,LISA KLINGENMAIER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,31 -JUL -2069
+cbTotalIncome,$4360.00
+fundingFee,$0.00
+borrowerName,NANCY A BARTH
+cbtBaseSalary,$7632.00
+disocuntValue,$0.00
+bSecurityNumber,284508651
+cbtOverttime,$0.00
+totalTxnCost,$14789.00
+bPhone,2603436687
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,25-APR-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$14789.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$14789.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$43603272.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1639.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$14789.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MARGARET T MANGAN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,164724565
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0348111133
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,18-FEB-1987
+psntTotalExp,$14789.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$14789.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$14789.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,NANCY A BARTH
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OFCCP
+depAmount,$1626.79
+isCoWorkerCB,No
+bEmpAddress,"800 N CAPITOL ST, STE 565, WASHINGTON, DC"
+depBankName,JSTC EMPLOYEES FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"211 COLLEGE PARK PLAZA, JOHNSTOWN, PA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,18878085251754
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$2514.13
+ typeOfProp,second home
+bDesignation,"Asst Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,24-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1478.90
+signingDateCB,24-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DIRECTORATE OF CONSTRUCTION
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OFCCP
+cbEmpAddress,"200 CONSTITUTION AVE NW, MS N3468, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,i5NZ2GkW
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OFCCP
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026931114
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM C3310, WASHINGTON, DC"
+borrowerName_3,NANCY A BARTH
+borrowerName_9,NANCY A BARTH
+borrowerName_10,NANCY A BARTH
+cborrowerName_3,MARGARET T MANGAN
+cBorrowerName_9,MARGARET T MANGAN
+cborrowerName_10,MARGARET T MANGAN
+signingDateB_10,24-DEC-2015
+signingDateCB_10,24-DEC-2015

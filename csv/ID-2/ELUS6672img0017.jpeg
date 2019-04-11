@@ -1,0 +1,247 @@
+loanAppliedFor,FHA
+cbDesignation,"Account Admin, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XHP7b1XbfJqP7k
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,PPVY-1332010443
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$77360.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,bUt Bank Educational Lending
+Interest,8.55%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1 FOUNTAIN PLAZA, BUFFALO, NY"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,32056483382580
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,056.80"
+PropAddress,"2196 PENNY LN , AUSTINTOWN, OH, 44515"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$16,245.60"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1963
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$8618.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$77360.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13438.00
+bTotalIncome,$8618.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3164.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$77360.00
+refinanCost,$13438.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHRIS POSTERLI
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05 -DEC -2073
+cbTotalIncome,$3164.00
+fundingFee,$0.00
+borrowerName,JOSEPH G GORMAN
+cbtBaseSalary,$11782.00
+disocuntValue,$0.00
+bSecurityNumber,317243307
+cbtOverttime,$0.00
+totalTxnCost,$77360.00
+bPhone,8404433763
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-FEB-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$77360.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$77360.00
+bPresentAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+cbtTotalIncome,$31648618.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1241.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+psntFirstLoan,$77360.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GREGORY C JOHNSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,338018668
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3150031706
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-JUL-1976
+psntTotalExp,$77360.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$77360.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"640 GRASSMERE PARK STE 100, NASHVILLE, TN, 37211"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$77360.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOSEPH G GORMAN
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR OSHA
+depAmount,$7736.00
+isCoWorkerCB,No
+bEmpAddress,"US DEPT OF LABOR-OSHA, 230 S DEARBORN RM 3244, CHICAGO, IL"
+depBankName,MICHIGAN STATE UNIVERSITY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"600 EAST CRESCENT ROAD, EAST LANSING, MI"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,18070568676553
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$15472.00
+ typeOfProp,investment property
+bDesignation,"Sr Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,20-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$10056.80
+signingDateCB,20-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"36 TRIANGLE PARK DR, OH"
+preLoanBankAdd,NA
+loanOriginatorID,aMbINkYF
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026917105
+cbYrsInJob,7
+loanOriginatorAddress,"PSB RM 3955, 2 MASSACHUSETTS AVE NE, WASHINGTON, DC"
+borrowerName_3,JOSEPH G GORMAN
+borrowerName_9,JOSEPH G GORMAN
+borrowerName_10,JOSEPH G GORMAN
+cborrowerName_3,GREGORY C JOHNSON
+cBorrowerName_9,GREGORY C JOHNSON
+cborrowerName_10,GREGORY C JOHNSON
+signingDateB_10,20-DEC-2015
+signingDateCB_10,20-DEC-2015

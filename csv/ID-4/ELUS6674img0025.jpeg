@@ -1,0 +1,247 @@
+loanAppliedFor,Conventional
+cbDesignation,"Security Member, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,uT0QtTO8cy4Ylk
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TIHQ-3783602782
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$59056.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.36%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"30218 E LITTLE CROW RD , MARANA, AZ, 85658"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1992
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3127.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$59056.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3494.00
+bTotalIncome,$3127.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4976.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$59056.00
+refinanCost,$3494.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRADLEY DAVIS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,28 -JUL -2063
+cbTotalIncome,$4976.00
+fundingFee,$0.00
+borrowerName,TRAVIS S SCHMIDT
+cbtBaseSalary,$8103.00
+disocuntValue,$0.00
+bSecurityNumber,312374767
+cbtOverttime,$0.00
+totalTxnCost,$59056.00
+bPhone,1600617583
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-SEP-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$59056.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$59056.00
+bPresentAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+cbtTotalIncome,$49763127.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1278.00
+isOutstandingCourtCaseB,No
+bMailAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+psntFirstLoan,$59056.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ROBERT G BOHANNON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,684176803
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6137016503
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,23-AUG-1979
+psntTotalExp,$59056.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$59056.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 980 DFC , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$59056.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,TRAVIS S SCHMIDT
+isDownpaymentBorrowedCB,No
+bEmpName,DOL BLS
+depAmount,$8267.84
+isCoWorkerCB,No
+bEmpAddress,"2 MASSACHUSETTS AVE NE, STE 5110, WASHINGTON, DC"
+depBankName,BANK OF NEW ORLEANS
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1600 VETERANS BLVD, METAIRIE, LA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,15073660651284
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$12992.32
+ typeOfProp,principal residence
+bDesignation,"Exec Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,30-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$8858.40
+signingDateCB,30-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,WAGE HOUR DIVISION
+preLoanBankName,NA
+loanOriginatorName,DEPT OF LABOR - OSHA
+cbEmpAddress,"2420 VIRIDIAN DR STE E, BEND, IN"
+preLoanBankAdd,NA
+loanOriginatorID,F4xMFVbV
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DEPT OF LABOR - OSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8162838745
+cbYrsInJob,5
+loanOriginatorAddress,"2 PERSHING SQUARE BLDG, 2300 MAIN ST STE 1010, KANSAS CITY, MO"
+borrowerName_3,TRAVIS S SCHMIDT
+borrowerName_9,TRAVIS S SCHMIDT
+borrowerName_10,TRAVIS S SCHMIDT
+cborrowerName_3,ROBERT G BOHANNON
+cBorrowerName_9,ROBERT G BOHANNON
+cborrowerName_10,ROBERT G BOHANNON
+signingDateB_10,30-DEC-2015
+signingDateCB_10,30-DEC-2015
