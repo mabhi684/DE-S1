@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"IT Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,xfBtcBaZt8zPWy
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,JYTY -5400443125
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$28799.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.97%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"309 ALTAMIRA RD , LAS VEGAS, NV, 89145"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3226.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$36093.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3494.00
+bTotalIncome,$3226.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4236.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$28799.00
+refinanCost,$3494.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,RICK ADAMS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-JAN-2067
+cbTotalIncome,$4236.00
+fundingFee,$0.00
+borrowerName,BETH A DAHL
+cbtBaseSalary,$7462.00
+disocuntValue,$0.00
+bSecurityNumber,531654617
+cbtOverttime,$0.00
+totalTxnCost,$28799.00
+bPhone,8673365826
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-MAY-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$28799.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$28799.00
+bPresentAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+cbtTotalIncome,$42363226.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1385.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+psntFirstLoan,$28799.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MICHAEL J ANDERSEN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,355001774
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1638180430
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,05-OCT-1984
+psntTotalExp,$28799.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$28799.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"5231 SOUTH 19TH , LINCOLN, NE, 68512"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$28799.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,BETH A DAHL
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OASAM
+depAmount,$4031.86
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM S5220, WASHINGTON, DC"
+depBankName,NORTH ALABAMA EDUCATORS CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 128, HUNTSVILLE, AL"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,01126060726776
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$6335.78
+ typeOfProp,principal residence
+bDesignation,"Computer Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,05-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3167.89
+signingDateCB,05-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OLMS
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR MSHA
+cbEmpAddress,"525 GRIFFIN ST STE 300, TX"
+preLoanBankAdd,NA
+loanOriginatorID,bjpsN6ZJ
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR MSHA
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3042563303
+cbYrsInJob,2
+loanOriginatorAddress,"MINE SAFETY HEALTH ACADEMY, 1301 AIRPORT ROAD, BEAVER, WV"
+refinanImproveDescription_e,to be made
+borrowerName_3,BETH A DAHL
+borrowerName_9,BETH A DAHL
+borrowerName_10,BETH A DAHL
+cborrowerName_3,MICHAEL J ANDERSEN
+cBorrowerName_9,MICHAEL J ANDERSEN
+cborrowerName_10,MICHAEL J ANDERSEN
+signingDateB_10,05-JAN-2016
+signingDateCB_10,05-JAN-2016

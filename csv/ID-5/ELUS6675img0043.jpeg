@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Sr Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,j gxksgrm208GLH
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,QUWE-2245047532
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$20083.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.60%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"101 BLUFF ST , SALEM, NH, 3079"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2009
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$6365.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$68466.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20083.00
+bTotalIncome,$6365.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$7758.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$20083.00
+refinanCost,$20083.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMANDA MCFEW
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,18-JUN-2069
+cbTotalIncome,$7758.00
+fundingFee,$0.00
+borrowerName,PAUL R BAKER
+cbtBaseSalary,$14123.00
+disocuntValue,$0.00
+bSecurityNumber,153286118
+cbtOverttime,$0.00
+totalTxnCost,$20083.00
+bPhone,8452834484
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-AUG-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$20083.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$20083.00
+bPresentAddress,"5957 LAKESIDE BLVD , INDIANAPOLIS, IN, 46278"
+cbtTotalIncome,$77586365.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1513.00
+isOutstandingCourtCaseB,No
+bMailAddress,"5957 LAKESIDE BLVD , INDIANAPOLIS, IN, 46278"
+psntFirstLoan,$20083.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LYNN J APPLEGATE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,748664355
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2681048071
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-AUG-1978
+psntTotalExp,$20083.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$20083.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"5957 LAKESIDE BLVD , INDIANAPOLIS, IN, 46278"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$20083.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,PAUL R BAKER
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR
+depAmount,$3012.45
+isCoWorkerCB,No
+bEmpAddress,"1999 BROADWAY, STE 1600, AURORA, CO"
+depBankName,NORTHWEST FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"200 SPRING STREET, HERNDON, VA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,00726713234613
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$4217.43
+ typeOfProp,principal residence
+bDesignation,"Network Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,07-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2811.62
+signingDateCB,07-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,VETS
+cbEmpAddress,"1240 E 9TH ST, ROOM 899, CLEVELAND, OH"
+preLoanBankAdd,NA
+loanOriginatorID,iROoBrin
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,VETS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5737513921
+cbYrsInJob,10
+loanOriginatorAddress,"421 EAST DUNKLIN ST, PO BOX 59, JEFFERSON CITY, MO"
+refinanImproveDescription_e,to be made
+borrowerName_3,PAUL R BAKER
+borrowerName_9,PAUL R BAKER
+borrowerName_10,PAUL R BAKER
+cborrowerName_3,LYNN J APPLEGATE
+cBorrowerName_9,LYNN J APPLEGATE
+cborrowerName_10,LYNN J APPLEGATE
+signingDateB_10,07-DEC-2015
+signingDateCB_10,07-DEC-2015

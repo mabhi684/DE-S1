@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Secretary, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,JmdEjwnAm5frwc
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TVNV-8551780646
+lt2y_cb_emp_name1,"Osha Dallas Area; 8344 E R1 Thornton Frwy, Ste 420, Dallas, Tx"
+childSupportExpOwnedValue,$0.00
+Amount,$13251.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,BLACKSTONE RIVER FCU
+Interest,9.12%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"10 MONUMENT SQUAW?, WOONSOCKET, RI"
+Tenure,240 months
+lt2y_cb_emp_salary1,"$2,770.08"
+pre_loan_bank_acNo_01,37762682220873
+AmortType,GPM
+lt2y_cb_emp_designation1,exec secretary permanent
+pre_loan_bank_EMI_01,"$1,590.12"
+PropAddress,"26 PEPPERWOOD CT , GLEN CARBON, IL, 62034"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,517.69"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,advantis cu
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"3717 se 17th, portland, or"
+YearBuilt,1999
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,66071865286770
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,590.12"
+propFor,Investment
+bBaseSalary,$3135.00
+pre_loan_bank_balance_02,"$2,252.67"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,First State Bank
+construcOrigCost,$96933.00
+bBonus,$0.00
+pre_loan_bank_add_03,"Po Box 70, Webster City, Ia"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,36067663028088
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$1,325.10"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$2,782.71"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13251.00
+bTotalIncome,$3135.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3080.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$13251.00
+refinanCost,$13251.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,NICK PARROTT
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-NOV-2059
+cbTotalIncome,$3080.00
+fundingFee,$0.00
+borrowerName,ROGER A BEAM JR
+cbtBaseSalary,$6215.00
+disocuntValue,$0.00
+bSecurityNumber,401723021
+cbtOverttime,$0.00
+totalTxnCost,$13251.00
+bPhone,0227825051
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-SEP-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$13251.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$13251.00
+bPresentAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+cbtTotalIncome,$30803135.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1425.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+psntFirstLoan,$13251.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,AMIE M G BRADY
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,800723650
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7246888460
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,14-JUN-1986
+psntTotalExp,$13251.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$13251.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$13251.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ROGER A BEAM JR
+isDownpaymentBorrowedCB,No
+bEmpName,DOL BLS OA DHROM
+depAmount,$1855.14
+isCoWorkerCB,
+bEmpAddress,"2 MASSACHUSETTS AVE NE RM G440, , WASHINGTON, DC"
+depBankName,STATE CS EMPLOYEES FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"317 WASHINGTON STREET, WATERTOWN, NY"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,75837016521124
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$2650.20
+ typeOfProp,second home
+bDesignation,"HR Admin, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,01-DEC-2015
+lt2y_b_emp_name1,"US DOL OSHA CTC; 435 ELM STREET, STE 500, CINCINNATI, OH"
+subTotLiqValue,$1855.14
+signingDateCB,01-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$4,482.83"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,sr accountant contract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"Mind Saf & Hith; Po Box 560, Norton, Va"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$3,726.69"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,Sr Accountant Permanent
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OASAM
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OLMS
+cbEmpAddress,"525 S GRIFFIN STREET, SUITE 707, DALLAS, TX"
+preLoanBankAdd,NA
+loanOriginatorID,44tv2o32
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OLMS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2063988099
+cbYrsInJob,6
+loanOriginatorAddress,"1111 3RD AVE, STE 605, SEATTLE, WA"
+refinanImproveDescription_e,made
+borrowerName_3,ROGER A BEAM JR
+borrowerName_9,ROGER A BEAM JR
+borrowerName_10,ROGER A BEAM JR
+cborrowerName_3,AMIE M G BRADY
+cBorrowerName_9,AMIE M G BRADY
+cborrowerName_10,AMIE M G BRADY
+signingDateB_10,01-DEC-2015
+signingDateCB_10,01-DEC-2015

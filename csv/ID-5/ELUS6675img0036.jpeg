@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Worker, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,v157ysMA7c4F8N
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GYHW -2360808071
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$3635.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.37%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1320 HUNTINGTON DR , LIBERTY, MO, 64068"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1989
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3300.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$90152.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3635.00
+bTotalIncome,$3300.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4656.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$3635.00
+refinanCost,$3635.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARRIE LONSDAIE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-AUG-2068
+cbTotalIncome,$4656.00
+fundingFee,$0.00
+borrowerName,KIMBERLY R BEISNER
+cbtBaseSalary,$7956.00
+disocuntValue,$0.00
+bSecurityNumber,710543351
+cbtOverttime,$0.00
+totalTxnCost,$3635.00
+bPhone,1615355846
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-DEC-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$3635.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$3635.00
+bPresentAddress,"520 N PARK AVE SUITE 221 , TUCSON, AZ, 85719"
+cbtTotalIncome,$46563300.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1404.00
+isOutstandingCourtCaseB,No
+bMailAddress,"520 N PARK AVE SUITE 221 , TUCSON, AZ, 85719"
+psntFirstLoan,$3635.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ERIK F STORMS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,370724114
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2452706035
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,13-JUN-1991
+psntTotalExp,$3635.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$3635.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"520 N PARK AVE SUITE 221 , TUCSON, AZ, 85719"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$3635.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KIMBERLY R BEISNER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OASAM
+depAmount,$472.55
+isCoWorkerCB,No
+bEmpAddress,"525 S GRIFFIN RM 701, , DALLAS, TX"
+depBankName,TRUCHOICE FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"272 PARK AVE, PORTLAND, ME"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,38667744572371
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$654.30
+ typeOfProp,second home
+bDesignation,"Computer Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,01-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$508.90
+signingDateCB,01-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR BAT
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR
+cbEmpAddress,"210 WALNUT ST, ROOM 715, DES MOINES, IA"
+preLoanBankAdd,NA
+loanOriginatorID,j gollEq6
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3038441745
+cbYrsInJob,7
+loanOriginatorAddress,"1999 BROAD WAY, SUITE 1600, DENVER, CO"
+refinanImproveDescription_e,made
+borrowerName_3,KIMBERLY R BEISNER
+borrowerName_9,KIMBERLY R BEISNER
+borrowerName_10,KIMBERLY R BEISNER
+cborrowerName_3,ERIK F STORMS
+cBorrowerName_9,ERIK F STORMS
+cborrowerName_10,ERIK F STORMS
+signingDateB_10,01-JAN-2016
+signingDateCB_10,01-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Security Member, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,wC2OdgoxTlJnXz
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FATZ -7133142838
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$13819.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.55%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1050 SW 149TH ST APT 1050A, BURIEN, WA, 98166"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1974
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3485.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$15256.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13819.00
+bTotalIncome,$3485.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4891.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$13819.00
+refinanCost,$13819.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CANDI BALABON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-JAN-2057
+cbTotalIncome,$4891.00
+fundingFee,$0.00
+borrowerName,CHRISTOPHER J HENRY
+cbtBaseSalary,$8376.00
+disocuntValue,$0.00
+bSecurityNumber,336278824
+cbtOverttime,$0.00
+totalTxnCost,$13819.00
+bPhone,4006824306
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-DEC-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$13819.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$13819.00
+bPresentAddress,"3039 AMMER RD STE 130, ATLANTA, GA, 30360"
+cbtTotalIncome,$48913485.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1634.00
+isOutstandingCourtCaseB,No
+bMailAddress,"3039 AMMER RD STE 130, ATLANTA, GA, 30360"
+psntFirstLoan,$13819.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JANET HANNON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,682431108
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3582380556
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,28-OCT-1979
+psntTotalExp,$13819.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$13819.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"432 NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3039 AMMER RD STE 130, ATLANTA, GA, 30360"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$13819.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CHRISTOPHER J HENRY
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL R2 ESA WHD
+depAmount,$1934.66
+isCoWorkerCB,No
+bEmpAddress,"200 SHEFFIELD ST, RM 102, MOUNTAINSIDE, NJ"
+depBankName,WEST POINTE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1750 WITZEL AVENUE, OSHKOSH, WI"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,60525588202252
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$3040.18
+ typeOfProp,principal residence
+bDesignation,"Exec Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,28-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1520.09
+signingDateCB,28-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OSHA ANALYTICAL LAB
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA EAO
+cbEmpAddress,"OSHA SALT LAKE TECH CENTER, 8660 SOUTH SANDY PARKWAY, SANDY, UT"
+preLoanBankAdd,NA
+loanOriginatorID,6680vkhw
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA EAO
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3038434500
+cbYrsInJob,2
+loanOriginatorAddress,"7935 E PRENTICE AVE, NO 209, GREENWOOD VILLAGE, CO"
+refinanImproveDescription_e,made
+borrowerName_3,CHRISTOPHER J HENRY
+borrowerName_9,CHRISTOPHER J HENRY
+borrowerName_10,CHRISTOPHER J HENRY
+cborrowerName_3,JANET HANNON
+cBorrowerName_9,JANET HANNON
+cborrowerName_10,JANET HANNON
+signingDateB_10,28-NOV-2015
+signingDateCB_10,28-NOV-2015

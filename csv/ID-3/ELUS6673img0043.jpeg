@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Payroll Specialist, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,00YR5qYp7tFF81
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,KTCS-4163747288
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$78502.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,I And M (tanners Creek) Efcu
+Interest,7.49%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"800 Aep Drive, Lawrenceburg, In"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,75100335227543
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$11,775.30"
+PropAddress,"20730 NW 7TH AVE , MIAMI, FL, 33169"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$16,485.42"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1995
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3675.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$78502.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13899.00
+bTotalIncome,$3675.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2872.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$78502.00
+refinanCost,$13899.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CECIL HARDY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-SEP-2074
+cbTotalIncome,$2872.00
+fundingFee,$0.00
+borrowerName,JACQUELINE S STILES
+cbtBaseSalary,$6547.00
+disocuntValue,$0.00
+bSecurityNumber,787555656
+cbtOverttime,$0.00
+totalTxnCost,$78502.00
+bPhone,2335360518
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,16-MAY-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$78502.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$78502.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$28723675.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$936.00
+isOutstandingCourtCaseB,
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$78502.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,WILLIAM T EVANS
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,722281343
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,0812230432
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,05-MAY-1992
+psntTotalExp,$78502.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$78502.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$78502.00
+isDeliquentCB,No
+lt2y_cb_res_since,11
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"230 collins rd , baize, id, 83702"
+depPurchHeldBy,JACQUELINE S STILES
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL WAGE & HOUR
+depAmount,$10990.28
+isCoWorkerCB,No
+bEmpAddress,"5675 RUFFIN RD, STE 310, SAN DIEGO, CA"
+depBankName,ZIONS FNB ELT NELNET LOAN CORP.
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"121 SOUTH 13TH STREET', LINCOLN, NE"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,25440132148600
+isNewPropPermanentB,
+bYrsInJob,8
+depBankBal,$15700.40
+ typeOfProp,investment property
+bDesignation,"Asst Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,15-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$10205.26
+signingDateCB,15-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,VETERANS EMPLOYMENT &
+cbEmpAddress,"100 BLUESTONE RD, MOUNT HOPE, WV"
+preLoanBankAdd,NA
+loanOriginatorID,yVA07sP3
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,VETERANS EMPLOYMENT &
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4045622305
+cbYrsInJob,6
+loanOriginatorAddress,"61 FORSYTH ST SW, RM 6T85, ATLANTA, GA"
+refinanImproveDescription_e,made
+borrowerName_3,JACQUELINE S STILES
+borrowerName_9,JACQUELINE S STILES
+borrowerName_10,JACQUELINE S STILES
+cborrowerName_3,WILLIAM T EVANS
+cBorrowerName_9,WILLIAM T EVANS
+cborrowerName_10,WILLIAM T EVANS
+signingDateB_10,15-DEC-2015
+signingDateCB_10,15-DEC-2015

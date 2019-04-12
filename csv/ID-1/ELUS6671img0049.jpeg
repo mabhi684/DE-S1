@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Security Head, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,37h7IwNheW3of4
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BATB-0168278354
+lt2y_cb_emp_name1,"Dol Bls; 2 Massachusetts Ave Ne, Rm 2850, Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$49326.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,PHILADELPHIA FEDERAL CREDIT UNION
+Interest,7.32%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"12800 TOWNSEND ROAD, PHILADELPHIA, PA"
+Tenure,30 months
+lt2y_cb_emp_salary1,"$2,422.08"
+pre_loan_bank_acNo_01,33422240568676
+AmortType,GPM
+lt2y_cb_emp_designation1,computer operatorpermanent
+pre_loan_bank_EMI_01,"$5,919.12"
+PropAddress,"506 FARWOOD RD , HADDONFIELD, NJ, 8033"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$9,371.94"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,u s employees credit union
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"230 south d?arborn #2962, chicago, it"
+YearBuilt,1980
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,52631422545583
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$5,425.86"
+propFor,Investment
+bBaseSalary,$2721.00
+pre_loan_bank_balance_02,"$8,385.42"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$49326.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11850.00
+bTotalIncome,$2721.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4486.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$49326.00
+refinanCost,$11850.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CAROL HOEBERG
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,31-OCT-2074
+cbTotalIncome,$4486.00
+fundingFee,$0.00
+borrowerName,PHILLIP L LENOBLE
+cbtBaseSalary,$7207.00
+disocuntValue,$0.00
+bSecurityNumber,451658002
+cbtOverttime,$0.00
+totalTxnCost,$49326.00
+bPhone,5827126824
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-APR-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$49326.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$49326.00
+bPresentAddress,"1400 INDEPENDENCE RD MS 701, ROLLA, MO, 65401"
+cbtTotalIncome,$44862721.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1260.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1400 INDEPENDENCE RD MS 701, ROLLA, MO, 65401"
+psntFirstLoan,$49326.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,DONALD 45 ROSENBERRY
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,180477074
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3850405357
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-APR-1981
+psntTotalExp,$49326.00
+isCoWorkerB,
+cbYrsSchool,1989
+propFirstLoan,$49326.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1400 INDEPENDENCE RD MS 701, ROLLA, MO, 65401"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$49326.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,PHILLIP L LENOBLE
+isDownpaymentBorrowedCB,
+bEmpName,SECURITY CNTR DOL
+depAmount,$5919.12
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM S-1229-G, WASHINGTON, DC"
+depBankName,CAPITAL CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"C/O BANK OF NORTH DAKOTA, BISMARCK, ND"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,54812770404887
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$8878.68
+ typeOfProp,second home
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,14-FEB-2016
+lt2y_b_emp_name1,"DOL BLS; 2 MASSACHUSETTS AVE NE, ROOM 4985, WASHINGTON, DC"
+subTotLiqValue,$7398.90
+signingDateCB,14-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$6,278.10"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,sr manager contract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"osha reg 2 - velez; 1030 st george ave, ste 205, avenel, nj"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$5,096.34"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,Sr Manager Temperory
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR MSHA
+preLoanBankName,NA
+loanOriginatorName,US DOL OWCP DOMWC
+cbEmpAddress,"NATIONAL MINE AND HEALTH ACADEMY, 1301 AIRPORT RD, BEAVER, WV"
+preLoanBankAdd,NA
+loanOriginatorID,7dKmVb7W
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OWCP DOMWC
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5708266467
+cbYrsInJob,4
+loanOriginatorAddress,"100 N WILKES BARRE BLVD, RM 300A, WILKES BARRE, PA"
+refinanImproveDescription_e,made
+borrowerName_3,PHILLIP L LENOBLE
+borrowerName_9,PHILLIP L LENOBLE
+borrowerName_10,PHILLIP L LENOBLE
+cborrowerName_3,DONALD 45 ROSENBERRY
+cBorrowerName_9,DONALD 45 ROSENBERRY
+cborrowerName_10,DONALD 45 ROSENBERRY
+signingDateB_10,14-FEB-2016
+signingDateCB_10,14-FEB-2016

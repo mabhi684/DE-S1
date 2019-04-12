@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Project Assistant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,8tgPYRbZWexsx3
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,KTUS -2281818488
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$35132.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,anted fcu
+Interest,10.77%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"4361 youree dr., shreveport, la"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,38182542571510
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,215.84"
+PropAddress,"2210 CASTLE DR , LEAGUE CITY, TX, 77573"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$6,675.08"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,es Bank Na
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"2751 SHEPARD RD, ST PAUL, MN"
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,33351030327710
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$4,567.16"
+propFor,Investment
+bBaseSalary,$12506.00
+pre_loan_bank_balance_02,"$6,675.08"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,"FIRST FINANCIAL BANK, NA"
+construcOrigCost,$35132.00
+bBonus,$0.00
+pre_loan_bank_add_03,"400 PINE ST., ABILENE, TX"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,32322060788786
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$4,215.84"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$6,323.76"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13506.00
+bTotalIncome,$12506.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2084.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$35132.00
+refinanCost,$13506.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CAROLYN SEMONT
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-JUL-2074
+cbTotalIncome,$2084.00
+fundingFee,$0.00
+borrowerName,GREGG E HILEMAN
+cbtBaseSalary,$14590.00
+disocuntValue,$0.00
+bSecurityNumber,736080203
+cbtOverttime,$0.00
+totalTxnCost,$35132.00
+bPhone,1187833288
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-DEC-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$35132.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$35132.00
+bPresentAddress,"640 GRASSMERE PARK STE 100, NASHVILLE, TN, 37211"
+cbtTotalIncome,$208412506.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1683.00
+isOutstandingCourtCaseB,
+bMailAddress,"640 GRASSMERE PARK STE 100, NASHVILLE, TN, 37211"
+psntFirstLoan,$35132.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JAMES W STANFORD
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,534807463
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7638217408
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,09-SEP-1983
+psntTotalExp,$35132.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$35132.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"FORT COLLINS SCI CTR 2150 CENTRE AVE BLDG C, FORT COLLINS, CO, 805268118"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"640 GRASSMERE PARK STE 100, NASHVILLE, TN, 37211"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$35132.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,GREGG E HILEMAN
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OLMS
+depAmount,$4215.84
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM NORTH 5613, WASHINGTON, DC"
+depBankName,PACIFIC COLLEGE OF ORIENTAL MEDICINE
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"7445 MISSION VALLEY RD, STE 105, SAN DIEGO, CA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,42465430110738
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$5972.44
+ typeOfProp,principal residence
+bDesignation,"Grocers Supplier, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,22-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$4567.16
+signingDateCB,22-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OSHA LUBBOCK AREA OFFC
+preLoanBankName,NA
+loanOriginatorName,DOL ADMIN LAW JUDGES
+cbEmpAddress,"4849 N MESA STREET, SUITE 200, EL PASO, TX"
+preLoanBankAdd,NA
+loanOriginatorID,KfiRbgC3
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ADMIN LAW JUDG?S
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026937348
+cbYrsInJob,6
+loanOriginatorAddress,"800 K ST NW, STE 400N, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,GREGG E HILEMAN
+borrowerName_9,GREGG E HILEMAN
+borrowerName_10,GREGG E HILEMAN
+cborrowerName_3,JAMES W STANFORD
+cBorrowerName_9,JAMES W STANFORD
+cborrowerName_10,JAMES W STANFORD
+signingDateB_10,22-DEC-2015
+signingDateCB_10,22-DEC-2015

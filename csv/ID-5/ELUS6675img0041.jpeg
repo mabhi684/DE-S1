@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Legal Executive, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,C5xxWXNdeVn6B7
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ANCO -4557072448
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$42838.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.00%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"3033 HOLLOW VALLEY DR , FORT WORTH, TX, 76244"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2009
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$4318.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$57246.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13819.00
+bTotalIncome,$4318.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1923.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$42838.00
+refinanCost,$13819.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,COLIN MILLER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-JUL-2075
+cbTotalIncome,$1923.00
+fundingFee,$0.00
+borrowerName,DAVID C WILSON
+cbtBaseSalary,$6241.00
+disocuntValue,$0.00
+bSecurityNumber,225670007
+cbtOverttime,$0.00
+totalTxnCost,$42838.00
+bPhone,5326825728
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-JUL-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$42838.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$42838.00
+bPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+cbtTotalIncome,$19234318.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1670.00
+isOutstandingCourtCaseB,No
+bMailAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+psntFirstLoan,$42838.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SARA HAMMERMEISTER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,436263487
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0658824504
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-AUG-1986
+psntTotalExp,$42838.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$42838.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"10500 UNV CIA DR STE 215 MS 156, MIAMI, FL, 33178"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$42838.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DAVID C WILSON
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL ESA OFCCP
+depAmount,$4712.18
+isCoWorkerCB,No
+bEmpAddress,"525 S GRIFFIN ST, RM 840, DALLAS, TX"
+depBankName,DPL FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 7739, NEWARK, DE"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,11077120863804
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$7710.84
+ typeOfProp,second home
+bDesignation,"Security Head, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,27-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$4283.80
+signingDateCB,27-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL WAGE HOUR DIV
+preLoanBankName,NA
+loanOriginatorName,DOL REGION VII WB
+cbEmpAddress,"230 S DEARBORN ST, SUITE 530, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,miJzeSaF
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL REGION VII WB
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8162857236
+cbYrsInJob,5
+loanOriginatorAddress,"2300 MAIN ST, STE 1050, KANSAS CITY, MO"
+refinanImproveDescription_e,made
+borrowerName_3,DAVID C WILSON
+borrowerName_9,DAVID C WILSON
+borrowerName_10,DAVID C WILSON
+cborrowerName_3,SARA HAMMERMEISTER
+cBorrowerName_9,SARA HAMMERMEISTER
+cborrowerName_10,SARA HAMMERMEISTER
+signingDateB_10,27-NOV-2015
+signingDateCB_10,27-NOV-2015

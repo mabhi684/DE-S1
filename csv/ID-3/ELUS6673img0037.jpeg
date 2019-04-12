@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,61HDqJGx8y7aYW
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,PMVW-6468416683
+lt2y_cb_emp_name1,"Us Dept Of Labor Msha; Mine Safety Health Academy, 1301 Airport Road, Beaver, Wv"
+childSupportExpOwnedValue,$0.00
+Amount,$36763.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,INTERNATIONAL BANK OF COMMERCE-EAGLE PAS
+Interest,8.95%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"2540 w. trenton rd., edinburg, tx"
+Tenure,84 months
+lt2y_cb_emp_salary1,$926.60
+pre_loan_bank_acNo_01,68243056011234
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,guard permanent
+pre_loan_bank_EMI_01,"$4,779.19"
+PropAddress,"510 RENE CT , WESTERVILLE, OH, 43081"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$7,720.23"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1987
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3705.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$28856.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17867.00
+bTotalIncome,$3705.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4689.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$36763.00
+refinanCost,$17867.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BLANCHESHANNE SCOTT
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-NOV-2065
+cbTotalIncome,$4689.00
+fundingFee,$0.00
+borrowerName,KATHY J VAN NINGEN
+cbtBaseSalary,$8394.00
+disocuntValue,$0.00
+bSecurityNumber,334415775
+cbtOverttime,$0.00
+totalTxnCost,$36763.00
+bPhone,7804851704
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-JUN-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$36763.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$36763.00
+bPresentAddress,"BOX 25046 DFC MS 303 , DENVER, CO, 80225"
+cbtTotalIncome,$46893705.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1495.00
+isOutstandingCourtCaseB,No
+bMailAddress,"BOX 25046 DFC MS 303 , DENVER, CO, 80225"
+psntFirstLoan,$36763.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LISA J MORROW
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,378050462
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5481721627
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,01-JUN-1983
+psntTotalExp,$36763.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$36763.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 DFC MS 303 , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$36763.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KATHY J VAN NINGEN
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL ESA OFCCP
+depAmount,$4043.93
+isCoWorkerCB,No
+bEmpAddress,"OFCCP, 1999 BROADWAY SUITE 1177, DENVER, CO"
+depBankName,CCS FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 657, CLARENCE, NY"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,71225034015773
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$6249.71
+ typeOfProp,second home
+bDesignation,"Account Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,24-JAN-2016
+lt2y_b_emp_name1,"Dol Assistant Secretary; 200 Constitution Ave Nw, Ste N3609, Washington, Dc"
+subTotLiqValue,$3676.30
+signingDateCB,24-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$4,241.25"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,SECURITY MEMBERTEMPER6RY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,WAGE HOUR REGIONAL OFF
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR WH
+cbEmpAddress,"61 FORSYTH ST SW, RM 7M40, ATLANTA, GA"
+preLoanBankAdd,NA
+loanOriginatorID,5we3iujY
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US D?PT OF LABOR WH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,2
+loanOriginatorAddress,"100 NORTH BARRANCA AVENUE, SUITE 850, WEST COVINA, CA"
+refinanImproveDescription_e,to be made
+borrowerName_3,KATHY J VAN NINGEN
+borrowerName_9,KATHY J VAN NINGEN
+borrowerName_10,KATHY J VAN NINGEN
+cborrowerName_3,LISA J MORROW
+cBorrowerName_9,LISA J MORROW
+cborrowerName_10,LISA J MORROW
+signingDateB_10,24-JAN-2016
+signingDateCB_10,24-JAN-2016

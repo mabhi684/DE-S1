@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"HR Admin, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7c7s1dPtRvsJcn
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GDFL-1272758501
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$11968.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Cleveland Chiropractic College
+Interest,7.70%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"6401 ROCKHILL ROAD, KANSAS CITY, MO"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,67283633412556
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,316.48"
+PropAddress,"5555 ANTOINE DR , HOUSTON, TX, 77091"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,154.24"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Horizons Federal Credit Union
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"120 main street, binghamton, ny"
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,17263212861858
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,196.80"
+propFor,Primary
+bBaseSalary,$2701.00
+pre_loan_bank_balance_02,"$2,034.56"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,wells fargo education fin svcs
+construcOrigCost,$32212.00
+bBonus,$0.00
+pre_loan_bank_add_03,"301 EAST 58TH STREET NORTH, SIOUX FALLS, SD"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,30136560133723
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$1,436.16"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$2,513.28"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11968.00
+bTotalIncome,$2701.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2788.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$11968.00
+refinanCost,$11968.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JASON JOHNSON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-NOV-2062
+cbTotalIncome,$2788.00
+fundingFee,$0.00
+borrowerName,CHRISTOPHER ?RIC TAESALI
+cbtBaseSalary,$5489.00
+disocuntValue,$0.00
+bSecurityNumber,714500738
+cbtOverttime,$0.00
+totalTxnCost,$11968.00
+bPhone,8086433674
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,20-JUN-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$11968.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$11968.00
+bPresentAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+cbtTotalIncome,$27882701.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1476.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+psntFirstLoan,$11968.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,HENRY W SANGER
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,703124273
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2353351410
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-FEB-1990
+psntTotalExp,$11968.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$11968.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$11968.00
+isDeliquentCB,
+lt2y_cb_res_since,9
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"202 Nw 66th St Bldg 7 , Oklahoma City, Ok, 73116"
+depPurchHeldBy,CHRISTOPHER ERIC TAESALI
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OFCCP
+depAmount,$1555.84
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW 53506„ WASHINGTON, DC"
+depBankName,UNITED FINANCIAL CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P.O. BOX 618, BRIDGEPORT, MI"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,58502151420882
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$2632.96
+ typeOfProp,principal residence
+bDesignation,"Technician, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,12-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1436.16
+signingDateCB,12-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR MSHA
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OFCCP
+cbEmpAddress,"1301 AIRPORT RD, BEAVER, WV"
+preLoanBankAdd,NA
+loanOriginatorID,wl7YT337
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ?SA OFCCP
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2168021447
+cbYrsInJob,6
+loanOriginatorAddress,"1001 LAKESIDE AVE, STE 390, CLEVELAND, OH"
+refinanImproveDescription_e,to be made
+borrowerName_3,CHRISTOPHER ?RIC TAESALI
+borrowerName_9,CHRISTOPHER ?RIC TAESALI
+borrowerName_10,CHRISTOPHER ?RIC TAESALI
+cborrowerName_3,HENRY W SANGER
+cBorrowerName_9,HENRY W SANGER
+cborrowerName_10,HENRY W SANGER
+signingDateB_10,12-JAN-2016
+signingDateCB_10,12-JAN-2016

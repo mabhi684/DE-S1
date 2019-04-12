@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Office Boy, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,IHy3P2mWjAz5LP
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BTUV-5733616367
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$11638.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.15%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"8220 E MEADOWBROOK AVE , SCOTTSDALE, AZ, 85251"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1971
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2989.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$106073.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11638.00
+bTotalIncome,$2989.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2251.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$11638.00
+refinanCost,$11638.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRIAN BUSBY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,18-MAY-2068
+cbTotalIncome,$2251.00
+fundingFee,$0.00
+borrowerName,WILLIAM C EVANS
+cbtBaseSalary,$5240.00
+disocuntValue,$0.00
+bSecurityNumber,475512138
+cbtOverttime,$0.00
+totalTxnCost,$11638.00
+bPhone,7673142656
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-DEC-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$11638.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$11638.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$22512989.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1373.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+psntFirstLoan,$11638.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,FRANK JOHNSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,282410318
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4214326866
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-AUG-1988
+psntTotalExp,$11638.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$11638.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"3162 BOZEMAN AVE , HELENA, MT, 59601"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$11638.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,WILLIAM C EVANS
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OWCP
+depAmount,$1163.80
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, N3454, WASHINGTON, DC"
+depBankName,UNIVERSITY FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 9350, AUSTIN, TX"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,17327524681664
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$2443.98
+ typeOfProp,investment property
+bDesignation,"Central Supervisor, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,19-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1280.18
+signingDateCB,19-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,US DOL OSHA CTC
+cbEmpAddress,"700 W CAPITOL ST, RM 2420, LITTLE ROCK, AR"
+preLoanBankAdd,NA
+loanOriginatorID,cj kupxMY
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OSHA CTC
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5136846555
+cbYrsInJob,8
+loanOriginatorAddress,"435 ELM ST, STE 500, CINCINNATI, OH"
+refinanImproveDescription_e,to be made
+borrowerName_3,WILLIAM C EVANS
+borrowerName_9,WILLIAM C EVANS
+borrowerName_10,WILLIAM C EVANS
+cborrowerName_3,FRANK JOHNSON
+cBorrowerName_9,FRANK JOHNSON
+cborrowerName_10,FRANK JOHNSON
+signingDateB_10,19-JAN-2016
+signingDateCB_10,19-JAN-2016

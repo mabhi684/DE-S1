@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"HR Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,8wfyFgu0c5ox4F
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EMQQ -3048761353
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$37283.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.06%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"4 SEBEC CT , MILO, ME, 4463"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1991
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1805.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$37283.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5281.00
+bTotalIncome,$1805.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3028.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$37283.00
+refinanCost,$5281.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHERYL HARRINGTON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,31-JAN-2071
+cbTotalIncome,$3028.00
+fundingFee,$0.00
+borrowerName,PAUL J TERRIO
+cbtBaseSalary,$4833.00
+disocuntValue,$0.00
+bSecurityNumber,348711426
+cbtOverttime,$0.00
+totalTxnCost,$37283.00
+bPhone,5014042303
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-SEP-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$37283.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$37283.00
+bPresentAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+cbtTotalIncome,$30281805.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1355.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+psntFirstLoan,$37283.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ROBIN K CLARK
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,610783650
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7626673322
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,29-APR-1983
+psntTotalExp,$37283.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$37283.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 421 DFC , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$37283.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,PAUL J TERRIO
+isDownpaymentBorrowedCB,No
+bEmpName,DOL EBSA
+depAmount,$4473.96
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, N5623, WASHINGTON, DC"
+depBankName,WALWORTH STATE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"105 NORTH HIGHWAY 67, WALWORTH, WI"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,84861503646525
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$7083.77
+ typeOfProp,investment property
+bDesignation,"Cleaner, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,08-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$4846.79
+signingDateCB,08-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR MSHA
+preLoanBankName,NA
+loanOriginatorName,US DOL OIG OA
+cbEmpAddress,"FEDERAL BLDG, 515 W 1ST ST RM 333, DULUTH, MN"
+preLoanBankAdd,NA
+loanOriginatorID,08nN11e4
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OIG OA
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3123532416
+cbYrsInJob,5
+loanOriginatorAddress,"230 S DEARBORN ST, RM 744, CHICAGO, IL"
+refinanImproveDescription_e,to be made
+borrowerName_3,PAUL J TERRIO
+borrowerName_9,PAUL J TERRIO
+borrowerName_10,PAUL J TERRIO
+cborrowerName_3,ROBIN K CLARK
+cBorrowerName_9,ROBIN K CLARK
+cborrowerName_10,ROBIN K CLARK
+signingDateB_10,08-DEC-2015
+signingDateCB_10,08-DEC-2015

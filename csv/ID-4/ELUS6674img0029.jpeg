@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Asst Accountant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,GEdh6raK8kMWp3
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TAUI-6673011183
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$41781.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.72%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"9923 RAYMOND AVE , CLEVELAND, OH, 44104"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1986
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3083.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$41781.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3494.00
+bTotalIncome,$3083.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4960.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$41781.00
+refinanCost,$3494.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,LARRY ALLEN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-JAN-2058
+cbTotalIncome,$4960.00
+fundingFee,$0.00
+borrowerName,JOHN POHLMAN
+cbtBaseSalary,$8043.00
+disocuntValue,$0.00
+bSecurityNumber,545666325
+cbtOverttime,$0.00
+totalTxnCost,$41781.00
+bPhone,4481025883
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-DEC-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$41781.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$41781.00
+bPresentAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+cbtTotalIncome,$49603083.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1488.00
+isOutstandingCourtCaseB,No
+bMailAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+psntFirstLoan,$41781.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ARTHUR C DAY
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,631851356
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5814067723
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-OCT-1986
+psntTotalExp,$41781.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$41781.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"3039 AMMER RD STE 130, ATLANTA, GA, 30360"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$41781.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOHN POHLMAN
+isDownpaymentBorrowedCB,No
+bEmpName,DEPARTMENT OF LABOR - WHD
+depAmount,$5431.53
+isCoWorkerCB,No
+bEmpAddress,"135 HIGH ST, RM 210, HARTFORD, CT"
+depBankName,BONY MELLON ELT ALL STUDENT LOAN CORP
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"10161 CENTURION PKWY., JACKSONVILLE, FL"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,24324043265111
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$8774.01
+ typeOfProp,principal residence
+bDesignation,"Payroll Specialist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,09-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$6267.15
+signingDateCB,09-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR EBSA
+preLoanBankName,NA
+loanOriginatorName,OIG OI
+cbEmpAddress,"1055 E COLORADO BLVD, STE 200, PASADENA, CA"
+preLoanBankAdd,NA
+loanOriginatorID,7ve7iB5J
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OIG OI
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7812387940
+cbYrsInJob,3
+loanOriginatorAddress,"12 NEW ENGLAND EXECUTIVE PARK, FIRST FLOOR, BURLINGTON, MA"
+refinanImproveDescription_e,to be made
+borrowerName_3,JOHN POHLMAN
+borrowerName_9,JOHN POHLMAN
+borrowerName_10,JOHN POHLMAN
+cborrowerName_3,ARTHUR C DAY
+cBorrowerName_9,ARTHUR C DAY
+cborrowerName_10,ARTHUR C DAY
+signingDateB_10,09-JAN-2016
+signingDateCB_10,09-JAN-2016

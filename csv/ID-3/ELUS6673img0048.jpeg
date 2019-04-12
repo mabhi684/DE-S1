@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Asst Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ciJ20P3pHp4vwx
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SKGO -0703137773
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$68395.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,international bank of
+Interest,8.08%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"3601 NORTHWEST 63RD ST, OKLAHOMA CITY, OK"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,53335162031135
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$8,891.35"
+PropAddress,"151 LAS TUNAS DR , ARCADIA, CA, 91007"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$13,679.00"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,new spirit credit union
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1931 N MEACHAM ROAD -SUITE 108, SCHAUMBURG, IL"
+YearBuilt,2009
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,77256360271056
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$8,891.35"
+propFor,Seconday
+bBaseSalary,$2065.00
+pre_loan_bank_balance_02,"$11,627.15"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,dutton state bank
+construcOrigCost,$68395.00
+bBonus,$0.00
+pre_loan_bank_add_03,"PO BOX 16, DUTTON, MT"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,74840357134448
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$8,207.40"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$14,362.95"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13251.00
+bTotalIncome,$2065.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3712.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$68395.00
+refinanCost,$13251.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANITA CHAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,12-JAN-2072
+cbTotalIncome,$3712.00
+fundingFee,$0.00
+borrowerName,PAULA THOMSEN
+cbtBaseSalary,$5777.00
+disocuntValue,$0.00
+bSecurityNumber,022007665
+cbtOverttime,$0.00
+totalTxnCost,$68395.00
+bPhone,5552176333
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-AUG-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$68395.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$68395.00
+bPresentAddress,"USGS AJM JOHNSON HALL MSU, BOZEMAN, MT, 59717"
+cbtTotalIncome,$37122065.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1146.00
+isOutstandingCourtCaseB,No
+bMailAddress,"USGS AJM JOHNSON HALL MSU, BOZEMAN, MT, 59717"
+psntFirstLoan,$68395.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRUCE CHUCHEL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,385130302
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2631258136
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,23-APR-1982
+psntTotalExp,$68395.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$68395.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 975 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"USGS AJM JOHNSON HALL MSU, BOZEMAN, MT, 59717"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$68395.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,PAULA THOMSEN
+isDownpaymentBorrowedCB,
+bEmpName,USDOL WAGE & HOUR
+depAmount,$9575.30
+isCoWorkerCB,No
+bEmpAddress,"770 THE CITY DR S, SUITE 5710, ORANGE, CA"
+depBankName,NORTH MILWAUKEE STATE BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"8200 W. BROWN DEER RD., MILWAUKEE, WI"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,71556084486273
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$12995.05
+ typeOfProp,second home
+bDesignation,"Receptionist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,22-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8207.40
+signingDateCB,22-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY AND HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL OFC OF OMBUDSMAN
+cbEmpAddress,"MESA FIELD OFFICE, 63 E MAIN ST STE 402, MESA, AZ"
+preLoanBankAdd,NA
+loanOriginatorID,Woq7054T
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OFC OF OMBUDSMAN
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026935890
+cbYrsInJob,8
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N2454, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,PAULA THOMSEN
+borrowerName_9,PAULA THOMSEN
+borrowerName_10,PAULA THOMSEN
+cborrowerName_3,BRUCE CHUCHEL
+cBorrowerName_9,BRUCE CHUCHEL
+cborrowerName_10,BRUCE CHUCHEL
+signingDateB_10,22-JAN-2016
+signingDateCB_10,22-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Sales Agent, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,8gIxfORz2dt2R6
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EBVZ -8370786230
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$11850.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,citibank elt student loan corp
+Interest,8.65%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"p.o. box 6157, sious falls, sd"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,00174865627831
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,777.50"
+PropAddress,"1606 SYDNEY LN , LYNN HAVEN, FL, 32444"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,370.00"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Cities Credit Union
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"3625 Talmage Circle, Vadnais Heights, Mn"
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,42680033383426
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,185.00"
+propFor,Seconday
+bBaseSalary,$3955.00
+pre_loan_bank_balance_02,"$2,014.50"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$54167.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11850.00
+bTotalIncome,$3955.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4811.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$11850.00
+refinanCost,$11850.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CASSANDRA COMMA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,08-AUG-2068
+cbTotalIncome,$4811.00
+fundingFee,$0.00
+borrowerName,MARK J SWENY
+cbtBaseSalary,$8766.00
+disocuntValue,$0.00
+bSecurityNumber,730220125
+cbtOverttime,$0.00
+totalTxnCost,$11850.00
+bPhone,0120222517
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-JUL-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$11850.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$11850.00
+bPresentAddress,"361 COMMERCE WAY , PEMBROKE, NH, 3275"
+cbtTotalIncome,$48113955.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1384.00
+isOutstandingCourtCaseB,No
+bMailAddress,"361 COMMERCE WAY , PEMBROKE, NH, 3275"
+psntFirstLoan,$11850.00
+isBankcruptB,No
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,3
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"912 national center , reston, va, 20192"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JEFFREY EMAN
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,205760820
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4346832068
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,21-MAR-1984
+psntTotalExp,$11850.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$11850.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"361 COMMERCE WAY , PEMBROKE, NH, 3275"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$11850.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MARK J SWENY
+isDownpaymentBorrowedCB,
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$1185.00
+isCoWorkerCB,
+bEmpAddress,"1901 W RIDGE STREET, STE 8, MARQUETTE, MI"
+depBankName,EAST OHIO UNITED METHODIST CONE CU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 2800, NORTH CANTON, OH"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,18543576612613
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$2488.50
+ typeOfProp,principal residence
+bDesignation,"Labor, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,25-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1540.50
+signingDateCB,25-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OIG-OA
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA EAO
+cbEmpAddress,"201 VARICK ST RM 871, YORK, NY"
+preLoanBankAdd,NA
+loanOriginatorID,Oax23yY0
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA EAO
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3038434500
+cbYrsInJob,6
+loanOriginatorAddress,"7935 E PRENTICE AVE, NO 209, GREENWOOD VILLAGE, CO"
+refinanImproveDescription_e,made
+borrowerName_3,MARK J SWENY
+borrowerName_9,MARK J SWENY
+borrowerName_10,MARK J SWENY
+cborrowerName_3,JEFFREY EMAN
+cBorrowerName_9,JEFFREY EMAN
+cborrowerName_10,JEFFREY EMAN
+signingDateB_10,25-DEC-2015
+signingDateCB_10,25-DEC-2015

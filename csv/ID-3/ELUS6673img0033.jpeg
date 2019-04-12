@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Technician, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,211jFd25DixBxg
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WHUB-7032288304
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$11127.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,bank @lantec
+Interest,7.24%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"501 S INDEPENDANCE BLVD, VIRGINIA BEACH, VA"
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,61744340468778
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,557.78"
+PropAddress,"858 MORNING DOVE CT , CANTON, MI, 48188"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,114.13"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,slm ecfc
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"12061 BLUEMONT WAY, RESTON, VA"
+YearBuilt,2002
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,31326571323206
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,557.78"
+propFor,Seconday
+bBaseSalary,$3189.00
+pre_loan_bank_balance_02,"$2,114.13"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,ST. JOHN'S OF LITTLE CANADA CU
+construcOrigCost,$47790.00
+bBonus,$0.00
+pre_loan_bank_add_03,"400 E LITTLE CANADA RD, ST PAUL, MN"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,30387511874173
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$1,335.24"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$2,002.86"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11127.00
+bTotalIncome,$3189.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2899.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$11127.00
+refinanCost,$11127.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BILL WISNIEWSKI
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-MAR-2075
+cbTotalIncome,$2899.00
+fundingFee,$0.00
+borrowerName,JOANNE M BOSCH
+cbtBaseSalary,$6088.00
+disocuntValue,$0.00
+bSecurityNumber,705458333
+cbtOverttime,$0.00
+totalTxnCost,$11127.00
+bPhone,0644810323
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-MAY-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$11127.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$11127.00
+bPresentAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+cbtTotalIncome,$28993189.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1321.00
+isOutstandingCourtCaseB,
+bMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+psntFirstLoan,$11127.00
+isBankcruptB,
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,12
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"677 ala moana blvd ste 615, honolulu, hi, 96813"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DALE E HALL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,488506176
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3354732653
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-JUL-1978
+psntTotalExp,$11127.00
+isCoWorkerB,
+cbYrsSchool,1980
+propFirstLoan,$11127.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$11127.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOANNE M BOSCH
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$1557.78
+isCoWorkerCB,No
+bEmpAddress,"1100 COMMERCE STREET, ROOM 462, DALLAS, TX"
+depBankName,FIRST TRI-COUNTY BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"PO BOX 127, PLYMOUTH, NE"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,46658258751507
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$2002.86
+ typeOfProp,second home
+bDesignation,"Account Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,22-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1223.97
+signingDateCB,22-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR WH
+preLoanBankName,NA
+loanOriginatorName,OFF OF REG ADMIN WH
+cbEmpAddress,"620 SW MAIN STREET, STE 423, PORTLAND, OR"
+preLoanBankAdd,NA
+loanOriginatorID,2imNNh8B
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OFF OF REG ADMIN WH
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8178614104
+cbYrsInJob,5
+loanOriginatorAddress,"1701 E LAMAR BLVD, STE 270, ARLINGTON, TX"
+refinanImproveDescription_e,to be made
+borrowerName_3,JOANNE M BOSCH
+borrowerName_9,JOANNE M BOSCH
+borrowerName_10,JOANNE M BOSCH
+cborrowerName_3,DALE E HALL
+cBorrowerName_9,DALE E HALL
+cborrowerName_10,DALE E HALL
+signingDateB_10,22-DEC-2015
+signingDateCB_10,22-DEC-2015

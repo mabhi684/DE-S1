@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Machinist, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,nduE8Inm3XsB2f
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,NDYK -2444437200
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$41762.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.90%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1518 E 123RD ST , OLATHE, KS, 66061"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1999
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$4423.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$41762.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5281.00
+bTotalIncome,$4423.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3537.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$41762.00
+refinanCost,$5281.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,EUNICE BURTON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,23-DEC-2075
+cbTotalIncome,$3537.00
+fundingFee,$0.00
+borrowerName,CARROLYN S GENTER
+cbtBaseSalary,$7960.00
+disocuntValue,$0.00
+bSecurityNumber,842442264
+cbtOverttime,$0.00
+totalTxnCost,$41762.00
+bPhone,1252443000
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,06-NOV-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$41762.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$41762.00
+bPresentAddress,"205 NATL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$35374423.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1754.00
+isOutstandingCourtCaseB,No
+bMailAddress,"205 NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$41762.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,THOMAS J EATON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,540350433
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7882727210
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,27-JUL-1982
+psntTotalExp,$41762.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$41762.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"205 NAIL CTR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$41762.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CARROLYN S GENTER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ODEP
+depAmount,$5011.44
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM S1313, WASHINGTON, DC"
+depBankName,EDUCATIONAL COMMUNITY CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1221 EAST GRAND, SPRINGFIELD, MO"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,53001537135282
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$7099.54
+ typeOfProp,principal residence
+bDesignation,"Worker, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,16-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$5429.06
+signingDateCB,16-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OFFICE OF LEGAL SERVICES
+preLoanBankName,NA
+loanOriginatorName,US DOL OASAM
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM S5506, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,ODK7Yv3m
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OASAM
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6177882815
+cbYrsInJob,7
+loanOriginatorAddress,"25 NEW SUDBURY ST, JFK FED BLDG RM E-215, BOSTON, MA"
+refinanImproveDescription_e,to be made
+borrowerName_3,CARROLYN S GENTER
+borrowerName_9,CARROLYN S GENTER
+borrowerName_10,CARROLYN S GENTER
+cborrowerName_3,THOMAS J EATON
+cBorrowerName_9,THOMAS J EATON
+cborrowerName_10,THOMAS J EATON
+signingDateB_10,16-DEC-2015
+signingDateCB_10,16-DEC-2015

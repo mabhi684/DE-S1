@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Asst Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,3fVbmkOOKyqdNJ
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WMNX-2003258141
+lt2y_cb_emp_name1,"DOL BLS; 2 MASS AVE NE, POSTAL SQUARE BLDG RM 2935, WASHINGTON, DC"
+childSupportExpOwnedValue,$0.00
+Amount,$37553.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,mckinney scranton
+Interest,10.35%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"820 davis street, scranton, pa"
+Tenure,48 months
+lt2y_cb_emp_salary1,"$4,324.51"
+pre_loan_bank_acNo_01,64134037253575
+AmortType,Other
+lt2y_cb_emp_designation1,Sales Agentcontract
+pre_loan_bank_EMI_01,"$4,881.89"
+PropAddress,"12338 COPPER MOUNTAIN BLVD , CHARLOTTE, NC, 28277"
+lt2y_cb_emp_name2,"Us Dept Of Labor Olms; 36 East Seventh Street, Stite 2550, Cincinnati, Oh"
+pre_loan_bank_balance_01,"$8,261.66"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,Farmers State Bank
+PropDescription,Flat
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,"201 Main, Yale, fa"
+YearBuilt,1973
+lt2y_cb_emp_salary2,"$3,158.35"
+pre_loan_bank_acNo_02,06764246176300
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,SALES AGENTCONTRACT
+pre_loan_bank_EMI_02,"$4,130.83"
+propFor,Primary
+bBaseSalary,$7495.00
+pre_loan_bank_balance_02,"$6,759.54"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,"JPMORGAN CHASE BANK, NA"
+construcOrigCost,$37553.00
+bBonus,$0.00
+pre_loan_bank_add_03,"PO BOX 711004, COLUMBUS, OH"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,14344183781653
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$4,881.89"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$7,886.13"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11850.00
+bTotalIncome,$7495.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3811.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$37553.00
+refinanCost,$11850.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JOAN LONG
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-APR-2071
+cbTotalIncome,$3811.00
+fundingFee,$0.00
+borrowerName,PATRICIA M SADLER
+cbtBaseSalary,$11306.00
+disocuntValue,$0.00
+bSecurityNumber,561607742
+cbtOverttime,$0.00
+totalTxnCost,$37553.00
+bPhone,7752107601
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-JAN-1992
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1992
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$37553.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$37553.00
+bPresentAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+cbtTotalIncome,$38117495.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1769.00
+isOutstandingCourtCaseB,No
+bMailAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+psntFirstLoan,$37553.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,KRISTIN SIMAC
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,363875052
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8752641374
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,13-APR-1983
+psntTotalExp,$37553.00
+isCoWorkerB,No
+cbYrsSchool,1992
+propFirstLoan,$37553.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$37553.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,PATRICIA M SADLER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OWCP SE REGION
+depAmount,$4881.89
+isCoWorkerCB,
+bEmpAddress,"400 W BAY ST STE 943, SUITE 1026, JACKSONVILLE, FL"
+depBankName,FIRST STATE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"620 CHESTNUT, CONWAY, AR"
+isPermanentAlienCB,
+bYrsInCJob,1
+depBankAcc,03844341565221
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$6384.01
+ typeOfProp,second home
+bDesignation,"Sr Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,30-DEC-2015
+lt2y_b_emp_name1,"usdol osha; 1128 state st, ste 200, erie, pa"
+subTotLiqValue,$3755.30
+signingDateCB,30-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$1,436.13"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Cleitnerpermanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"MINE SAFETY & HEALTH; 515 W 1ST ST, RM 333, DULUTH, MN"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,134.72"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,cleanertemperory
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPT OF LABOR - OSHA
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"210 WALNUT ST, RM 815, DES MOINES, IA"
+preLoanBankAdd,NA
+loanOriginatorID,cHgLiglg
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3045472012
+cbYrsInJob,4
+loanOriginatorAddress,"APPROVAL CERTIFICATION CTR, 765 TECHNOLOGY DRIVE, TRIADELPHIA, WV"
+refinanImproveDescription_e,made
+borrowerName_3,PATRICIA M SADLER
+borrowerName_9,PATRICIA M SADLER
+borrowerName_10,PATRICIA M SADLER
+cborrowerName_3,KRISTIN SIMAC
+cBorrowerName_9,KRISTIN SIMAC
+cborrowerName_10,KRISTIN SIMAC
+signingDateB_10,30-DEC-2015
+signingDateCB_10,30-DEC-2015

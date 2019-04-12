@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"HR Specialist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,j rC3CmCd1T1dNT
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ESNO-1306858704
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$58461.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Lutheran Credit Union Of America
+Interest,7.45%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"251 South Randolph Suite C, Brea, Ca"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,30787525666085
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$5,846.10"
+PropAddress,"902 SW WHITTIER TER , PORT SAINT LUCIE, FL, 34953"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$12,861.42"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2719.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$58461.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11968.00
+bTotalIncome,$2719.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2818.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$58461.00
+refinanCost,$11968.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHARLENE CAVIL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-JAN-2062
+cbTotalIncome,$2818.00
+fundingFee,$0.00
+borrowerName,BRENDA K CARPER
+cbtBaseSalary,$5537.00
+disocuntValue,$0.00
+bSecurityNumber,564326055
+cbtOverttime,$0.00
+totalTxnCost,$58461.00
+bPhone,6054707355
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-SEP-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$58461.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$58461.00
+bPresentAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+cbtTotalIncome,$28182719.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1357.00
+isOutstandingCourtCaseB,No
+bMailAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+psntFirstLoan,$58461.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LAURA K COREY
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,435402504
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,4006275707
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,28-SEP-1979
+psntTotalExp,$58461.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$58461.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$58461.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,BRENDA K CARPER
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OSHA JACKSON AR
+depAmount,$7599.93
+isCoWorkerCB,No
+bEmpAddress,"3780 I 55 NORTH, 210, JACKSON, MS"
+depBankName,COMMUNITY CHOICE CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"700 E. LYON STREET, DES MOINES, IA"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,65378585713740
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$10522.98
+ typeOfProp,second home
+bDesignation,"HR Specialist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,05-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5846.10
+signingDateCB,05-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA
+cbEmpAddress,"61 FORSYTH STREET, SUITE 7M10, ATLANTA, GA"
+preLoanBankAdd,NA
+loanOriginatorID,6GvDqCti
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2155974955
+cbYrsInJob,7
+loanOriginatorAddress,"2ND CHESTNUT ST, RM 242, PHILADELPHIA, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,BRENDA K CARPER
+borrowerName_9,BRENDA K CARPER
+borrowerName_10,BRENDA K CARPER
+cborrowerName_3,LAURA K COREY
+cBorrowerName_9,LAURA K COREY
+cborrowerName_10,LAURA K COREY
+signingDateB_10,05-FEB-2016
+signingDateCB_10,05-FEB-2016

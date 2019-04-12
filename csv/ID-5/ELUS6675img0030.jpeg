@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Office Assistant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,kqwCyxNEEmd4Y8
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LXUY -7352140750
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$6760.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.57%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"3400 STEVENSON BLVD APT Q36, FREMONT, CA, 94538"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2006
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4510.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$72814.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6760.00
+bTotalIncome,$4510.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2628.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$6760.00
+refinanCost,$6760.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JIM LEE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,18-JUL-2069
+cbTotalIncome,$2628.00
+fundingFee,$0.00
+borrowerName,TAMMY L BAGLEY
+cbtBaseSalary,$7138.00
+disocuntValue,$0.00
+bSecurityNumber,357178626
+cbtOverttime,$0.00
+totalTxnCost,$6760.00
+bPhone,7364007467
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-SEP-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$6760.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$6760.00
+bPresentAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+cbtTotalIncome,$26284510.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1210.00
+isOutstandingCourtCaseB,No
+bMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+psntFirstLoan,$6760.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GUY M FOSTER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,820257514
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6604155108
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-SEP-1980
+psntTotalExp,$6760.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$6760.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"4821 QUAIL CREST PLACE , LAWRENCE, KS, 66049"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$6760.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,TAMMY L BAGLEY
+isDownpaymentBorrowedCB,No
+bEmpName,OIG OI
+depAmount,$676.00
+isCoWorkerCB,No
+bEmpAddress,"12 NEW ENGLAND EXECUTIVE PARK, FIRST FLOOR, BURLINGTON, MA"
+depBankName,AMERICAN BANK & TRUST WISCONSIN
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"100 NORTH MAIN STREET, CUBA CITY, WI"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,01643244515244
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$1487.20
+ typeOfProp,principal residence
+bDesignation,"Worker, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,06-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$743.60
+signingDateCB,06-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OFCCP
+cbEmpAddress,"1999 BROADWAY SUITE 1690, CO"
+preLoanBankAdd,NA
+loanOriginatorID,E5w2Kotl
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OFCCP
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026930038
+cbYrsInJob,2
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM C4315, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,TAMMY L BAGLEY
+borrowerName_9,TAMMY L BAGLEY
+borrowerName_10,TAMMY L BAGLEY
+cborrowerName_3,GUY M FOSTER
+cBorrowerName_9,GUY M FOSTER
+cborrowerName_10,GUY M FOSTER
+signingDateB_10,06-JAN-2016
+signingDateCB_10,06-JAN-2016

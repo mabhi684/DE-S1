@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Computer Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,fKeSIg7CrVIxJB
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,HIDW-7127410545
+lt2y_cb_emp_name1,"Us Dept Of Labor Msha; 1100 Wilson Blvd, Rm 2455, Arlington, Va"
+childSupportExpOwnedValue,$0.00
+Amount,$61651.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,Butte Community Feu
+Interest,8.50%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"2901 grand avenue, butte, mt"
+Tenure,240 months
+lt2y_cb_emp_salary1,"$2,476.98"
+pre_loan_bank_acNo_01,58212364328545
+AmortType,ARM
+lt2y_cb_emp_designation1,exec secretary contract
+pre_loan_bank_EMI_01,"$8,631.14"
+PropAddress,"12751 AVENUE 80 , PIXLEY, CA, 93256"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$11,713.69"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,INDEPENDENT BANK
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"230 West Main Street, Ionia, Mi"
+YearBuilt,1979
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,07483458417600
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$8,014.63"
+propFor,Primary
+bBaseSalary,$1667.00
+pre_loan_bank_balance_02,"$11,097.18"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$95422.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11850.00
+bTotalIncome,$1667.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3163.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$61651.00
+refinanCost,$11850.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,KELCIE RAINEY JR
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-MAY-2074
+cbTotalIncome,$3163.00
+fundingFee,$0.00
+borrowerName,BRAD M GLORIOSO
+cbtBaseSalary,$4830.00
+disocuntValue,$0.00
+bSecurityNumber,475115712
+cbtOverttime,$0.00
+totalTxnCost,$61651.00
+bPhone,0864048878
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,06-JAN-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$61651.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$61651.00
+bPresentAddress,"700 CAJUNDOME BLVD , LAFAYETTE, LA, 70506"
+cbtTotalIncome,$31631667.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1014.00
+isOutstandingCourtCaseB,No
+bMailAddress,"700 CAJUNDOME BLVD , LAFAYETTE, LA, 70506"
+psntFirstLoan,$61651.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JASON L DE CRISTOFARO
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,260253556
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1161386550
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-MAR-1979
+psntTotalExp,$61651.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$61651.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"700 CAJUNDOME BLVD , LAFAYETTE, LA, 70506"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$61651.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,BRAD M GLORIOSO
+isDownpaymentBorrowedCB,No
+bEmpName,DOL R9 OWCP SAN FRAN
+depAmount,$8014.63
+isCoWorkerCB,No
+bEmpAddress,"90 7TH STREET, SUITE 15 100, SAN FRANCISCO, CA"
+depBankName,GREAT VALLEY SVNGS BNK % FULTON BNK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1695 STATE ST, EAST PETERSBURG, PA"
+isPermanentAlienCB,
+bYrsInCJob,2
+depBankAcc,47850544322088
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$10480.67
+ typeOfProp,second home
+bDesignation,"Cleaner, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,26-DEC-2015
+lt2y_b_emp_name1,"Us Dept Of Labor; Us Dept Of Labor-solicitors Ofc, 1999 Broadway Ste 1600, Denver, Co"
+subTotLiqValue,$9247.65
+signingDateCB,26-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,406.60"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Computer Operatorcontract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"Us Dol/osha; 2300 Main St Ste 1010, Kansas City, Mo"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,833.60"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,Computer Operatortemperory
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,JOB CORPS
+preLoanBankName,NA
+loanOriginatorName,DOL ETA DIV/ADMIN SVCS
+cbEmpAddress,"525 GRIFFIN STREET, ROOM 403, DALLAS, TX"
+preLoanBankAdd,NA
+loanOriginatorID,6K1i6AGx
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ETA DIV/ADMIN SVCS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156257970
+cbYrsInJob,7
+loanOriginatorAddress,"90 7TH ST, STE 17300, SAN FRANCISCO, CA"
+refinanImproveDescription_e,made
+borrowerName_3,BRAD M GLORIOSO
+borrowerName_9,BRAD M GLORIOSO
+borrowerName_10,BRAD M GLORIOSO
+cborrowerName_3,JASON L DE CRISTOFARO
+cBorrowerName_9,JASON L DE CRISTOFARO
+cborrowerName_10,JASON L DE CRISTOFARO
+signingDateB_10,26-DEC-2015
+signingDateCB_10,26-DEC-2015

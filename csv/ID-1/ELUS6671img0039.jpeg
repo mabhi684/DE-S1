@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Central Supervisor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,cw7e6DHvlyaQ85
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,RLFO-4852386037
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$9336.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,MERCK SHARP & DOHM? FCU
+Interest,9.18%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"P.o. Box 127, Chalfont, Pa"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,56174665804412
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,400.40"
+PropAddress,"110 POPLAR ST , MANCHESTER, PA, 17345"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,587.12"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,FLORIDA COASTAL SCHOOL OF LAW
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"8787 baypine road, jacksonville, fl"
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,82824825046637
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,307.04"
+propFor,Seconday
+bBaseSalary,$1830.00
+pre_loan_bank_balance_02,"$1,587.12"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Pacific Resource Cu
+construcOrigCost,$54167.00
+bBonus,$0.00
+pre_loan_bank_add_03,"333 S Hope St Concofirse Level, Los Angeles, Ca"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,24554044060452
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$1,120.32"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$1,867.20"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9336.00
+bTotalIncome,$1830.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2937.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$9336.00
+refinanCost,$9336.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CINDY FRANCE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-OCT-2071
+cbTotalIncome,$2937.00
+fundingFee,$0.00
+borrowerName,WARREN F AGENA
+cbtBaseSalary,$4767.00
+disocuntValue,$0.00
+bSecurityNumber,602276720
+cbtOverttime,$0.00
+totalTxnCost,$9336.00
+bPhone,0737484431
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-JUL-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$9336.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$9336.00
+bPresentAddress,"BOX 25046 MS 973 DFC , DENVER, CO, 80225"
+cbtTotalIncome,$29371830.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1432.00
+isOutstandingCourtCaseB,No
+bMailAddress,"BOX 25046 MS 973 DFC , DENVER, CO, 80225"
+psntFirstLoan,$9336.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,ANRIKA DEONARINE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,887220358
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7228650456
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,29-APR-1980
+psntTotalExp,$9336.00
+isCoWorkerB,
+cbYrsSchool,1988
+propFirstLoan,$9336.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"954 NATL CTR , RESTUN, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 MS 973 DFC , DENV?R, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$9336.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,WARREN F AGENA
+isDownpaymentBorrowedCB,
+bEmpName,DOL REGION 5 OSAM
+depAmount,$1307.04
+isCoWorkerCB,No
+bEmpAddress,"230 S DEARBORN ST, RM 1086, CHICAGO, IL"
+depBankName,TOWER CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"610 NORTH 2ND AVENUE, WAUSAU, WI"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,86574578381165
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$1680.48
+ typeOfProp,second home
+bDesignation,"Receptionist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,19-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1213.68
+signingDateCB,19-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,US DOL -BLS
+cbEmpAddress,"PO BOX 18233 PSHTC„ PITTSBURGH, PA"
+preLoanBankAdd,NA
+loanOriginatorID,EtNtwp76
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL-BLS
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158615612
+cbYrsInJob,10
+loanOriginatorAddress,"CURTIS CTR STE 610E, 170 S INDEPENDENCE MALL W, PHILADELPHIA, PA"
+refinanImproveDescription_e,made
+borrowerName_3,WARREN F AGENA
+borrowerName_9,WARREN F AGENA
+borrowerName_10,WARREN F AGENA
+cborrowerName_3,ANRIKA DEONARINE
+cBorrowerName_9,ANRIKA DEONARINE
+cborrowerName_10,ANRIKA DEONARINE
+signingDateB_10,19-DEC-2015
+signingDateCB_10,19-DEC-2015

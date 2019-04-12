@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Central Supervisor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5CDow4vsBnYwAs
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,QVDW -5560628880
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$17867.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Mcdowell County National Bank
+Interest,10.73%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"BANK & WYOMING ST P 0 BOX 549, WELCH, WV"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,20812370700384
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,965.37"
+PropAddress,"716 HEMLOCK CT , REDLANDS, CA, 92374"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,573.40"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Premier Bank Of Rock Valley
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1004 21st ave po box 177, rock valley, is"
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,68803848248687
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,680.05"
+propFor,Seconday
+bBaseSalary,$4815.00
+pre_loan_bank_balance_02,"$3,394.73"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$47790.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17867.00
+bTotalIncome,$4815.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2949.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$17867.00
+refinanCost,$17867.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALBERT RIGUIS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-JUL-2072
+cbTotalIncome,$2949.00
+fundingFee,$0.00
+borrowerName,MARK C KASMAREK
+cbtBaseSalary,$7764.00
+disocuntValue,$0.00
+bSecurityNumber,166155104
+cbtOverttime,$0.00
+totalTxnCost,$17867.00
+bPhone,7186545821
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-JAN-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$17867.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$17867.00
+bPresentAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+cbtTotalIncome,$29494815.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1344.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+psntFirstLoan,$17867.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KATHIE RANKIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,306220874
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1776862024
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,20-APR-1991
+psntTotalExp,$17867.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$17867.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"521 NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$17867.00
+isDeliquentCB,
+lt2y_cb_res_since,11
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"3535 s sherwood forest bl ste 120, baton rouge, la, 70816"
+depPurchHeldBy,MARK C KASMAREK
+isDownpaymentBorrowedCB,No
+bEmpName,DEPT OF LABOR - OSHA
+depAmount,$2322.71
+isCoWorkerCB,No
+bEmpAddress,"2300 MAIN STREET, STE 1010, KANSAS CITY, MO"
+depBankName,AMERICAN FEDERAL SAVINGS BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 4999, HELENA, MT"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,83504784662844
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$3573.40
+ typeOfProp,investment property
+bDesignation,"IT Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,09-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1786.70
+signingDateCB,09-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA
+cbEmpAddress,"1240 E 9TH ST, RM 899, CLEVELAND, OH"
+preLoanBankAdd,NA
+loanOriginatorID,7Bmdi3vG
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5708266538
+cbYrsInJob,6
+loanOriginatorAddress,"7 N WILKES BARRE BLVD, STE 410, WILKES BARRE, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,MARK C KASMAREK
+borrowerName_9,MARK C KASMAREK
+borrowerName_10,MARK C KASMAREK
+cborrowerName_3,KATHIE RANKIN
+cBorrowerName_9,KATHIE RANKIN
+cborrowerName_10,KATHIE RANKIN
+signingDateB_10,09-JAN-2016
+signingDateCB_10,09-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Asst Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,czhkmQdzhigCoP
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OCIE-3562535183
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$8423.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,universal city studios cu
+Interest,7.86%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"90 UNIVERSAL CITY PLAZA, UNIVERSAL CITY, CA"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,17462561854887
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$926.53
+PropAddress,"2802 BONNEVILLE DR , ORLANDO, FL, 32826"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,431.91"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1971
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3058.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$30082.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8423.00
+bTotalIncome,$3058.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3811.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$8423.00
+refinanCost,$8423.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DAYMI VEITIA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,20-NOV-2067
+cbTotalIncome,$3811.00
+fundingFee,$0.00
+borrowerName,JUDY A HORWATICH
+cbtBaseSalary,$6869.00
+disocuntValue,$0.00
+bSecurityNumber,056457724
+cbtOverttime,$0.00
+totalTxnCost,$8423.00
+bPhone,6624154604
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-JAN-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$8423.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$8423.00
+bPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+cbtTotalIncome,$38113058.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1794.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8505 RES?ARCH WAY , MIDDLETON, WI, 53562"
+psntFirstLoan,$8423.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GEORGE P HUBER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,161061752
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5885122606
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,28-MAR-1978
+psntTotalExp,$8423.00
+isCoWorkerB,
+cbYrsSchool,1978
+propFirstLoan,$8423.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$8423.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JUDY A HORWATICH
+isDownpaymentBorrowedCB,
+bEmpName,DOL ESA OWCP DFEC
+depAmount,$1179.22
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVE NW, RM S3229, WASHINGTON, DC"
+depBankName,"FIRST FIDELITY BANK, NA"
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 32282, OKLAHOMA CITY, OK"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,10561644807340
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$1600.37
+ typeOfProp,investment property
+bDesignation,"Machinist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,29-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$926.53
+signingDateCB,29-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR -JC
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"61 FORSYTH STREET, SUITE 6T95, ATLANTA, GA"
+preLoanBankAdd,NA
+loanOriginatorID,1v01pPDp
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026916273
+cbYrsInJob,6
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, RM 3180, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,JUDY A HORWATICH
+borrowerName_9,JUDY A HORWATICH
+borrowerName_10,JUDY A HORWATICH
+cborrowerName_3,GEORGE P HUBER
+cBorrowerName_9,GEORGE P HUBER
+cborrowerName_10,GEORGE P HUBER
+signingDateB_10,29-NOV-2015
+signingDateCB_10,29-NOV-2015

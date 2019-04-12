@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Central Supervisor, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,GtqNfzW4y2Cs16
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BGVN-7815617335
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$19667.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.32%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1129 TROJAN ST , ARCATA, CA, 95521"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1960
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$4535.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$63648.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11864.00
+bTotalIncome,$4535.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2643.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$19667.00
+refinanCost,$11864.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,SHEILA LEWIS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-SEP-2061
+cbTotalIncome,$2643.00
+fundingFee,$0.00
+borrowerName,STEPHEN H HICKMAN
+cbtBaseSalary,$7178.00
+disocuntValue,$0.00
+bSecurityNumber,552704187
+cbtOverttime,$0.00
+totalTxnCost,$19667.00
+bPhone,0858040567
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-NOV-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$19667.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$19667.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$26434535.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1631.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+psntFirstLoan,$19667.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,TAMMY M ZIMMERMAN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,725826724
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6828122351
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-JUL-1990
+psntTotalExp,$19667.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$19667.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"215 LIMEKILN RD , NEW CUMBERLAND, PA, 17070"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$19667.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,STEPHEN H HICKMAN
+isDownpaymentBorrowedCB,No
+bEmpName,DOL SOL
+depAmount,$2163.37
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM N-2414, WASHINGTON, DC"
+depBankName,UNITEDONE CU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1117 SOUTH 10TH STREET, MANITOWOC, WI"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,23435636635542
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$4326.74
+ typeOfProp,investment property
+bDesignation,"IT Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,09-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2950.05
+signingDateCB,09-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OIG OI
+preLoanBankName,NA
+loanOriginatorName,OSHA REG 2 - MENDELSON
+cbEmpAddress,"OFFICE OF INVESTIGATION, P 0 BOX 1080, ROANOKE, VA"
+preLoanBankAdd,NA
+loanOriginatorID,zKrX24Fy
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OSHA REG 2 - MENDELSON
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7182799060
+cbYrsInJob,7
+loanOriginatorAddress,"45 17 MARATHON PKWY LITTLE NECK, NY"
+refinanImproveDescription_e,made
+borrowerName_3,STEPHEN H HICKMAN
+borrowerName_9,STEPHEN H HICKMAN
+borrowerName_10,STEPHEN H HICKMAN
+cborrowerName_3,TAMMY M ZIMMERMAN
+cBorrowerName_9,TAMMY M ZIMMERMAN
+cborrowerName_10,TAMMY M ZIMMERMAN
+signingDateB_10,09-DEC-2015
+signingDateCB_10,09-DEC-2015

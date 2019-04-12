@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Security Head, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,LIblPlnGs2zb41
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,AOMC -7036258162
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$77556.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,first national bank & trust company
+Interest,10.41%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"120 north 6th st, beatrice, ne"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,55525502602565
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,857.84"
+PropAddress,"955 BRISTOL LN , STREETSBORO, OH, 44241"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$13,960.08"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,"Bony Mellon tit Goal Financial, Llc"
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"10161 centurion pkwy, jacksonville, fl"
+YearBuilt,1971
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,27568348423832
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$10,857.84"
+propFor,Investment
+bBaseSalary,$13120.00
+pre_loan_bank_balance_02,"$14,735.64"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$77556.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11466.00
+bTotalIncome,$13120.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4667.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$77556.00
+refinanCost,$11466.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DAVID DENHOLM
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,12-SEP-2069
+cbTotalIncome,$4667.00
+fundingFee,$0.00
+borrowerName,ADAM T RINGLER
+cbtBaseSalary,$17787.00
+disocuntValue,$0.00
+bSecurityNumber,281104337
+cbtOverttime,$0.00
+totalTxnCost,$77556.00
+bPhone,2051506242
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-FEB-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$77556.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$77556.00
+bPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+cbtTotalIncome,$466713120.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1620.00
+isOutstandingCourtCaseB,
+bMailAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+psntFirstLoan,$77556.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DAVID OWENS
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,018532520
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7255801667
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,05-JUL-1976
+psntTotalExp,$77556.00
+isCoWorkerB,
+cbYrsSchool,1980
+propFirstLoan,$77556.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$77556.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ADAM T RINGLER
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL OSHA
+depAmount,$8531.16
+isCoWorkerCB,
+bEmpAddress,"1000 LIBERTY AVE, SUITE 905, PITTSBURGH, PA"
+depBankName,N. MASS TELEPHONE WORKERS CU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"87 HALE STREET, LOWELL, MA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,48010315306318
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$16286.76
+ typeOfProp,principal residence
+bDesignation,"Grocers Supplier, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,28-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7755.60
+signingDateCB,28-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,DOL R9 OASAM SAN FRAN
+cbEmpAddress,"2 MASSACHUSETTS AVE NE, ROOM 4080, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,Jk305m6M
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL R9 OASAM SAN FRAN
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156252630
+cbYrsInJob,7
+loanOriginatorAddress,"90 7TH STREET, SUITE 2 650, SAN FRANCISCO, CA"
+refinanImproveDescription_e,made
+borrowerName_3,ADAM T RINGLER
+borrowerName_9,ADAM T RINGLER
+borrowerName_10,ADAM T RINGLER
+cborrowerName_3,DAVID OWENS
+cBorrowerName_9,DAVID OWENS
+cborrowerName_10,DAVID OWENS
+signingDateB_10,28-JAN-2016
+signingDateCB_10,28-JAN-2016

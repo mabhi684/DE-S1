@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Exec Secretary, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7Hljnsvitcivhl
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ESXT-0385038178
+lt2y_cb_emp_name1,"Dol Bls; 2 Massachusetts Ave, Rm 5185, Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$86544.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,STAR CHOICE CREDIT ONION
+Interest,7.31%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"425 portland avenue, minneapolis, mn"
+Tenure,48 months
+lt2y_cb_emp_salary1,"$2,704.14"
+pre_loan_bank_acNo_01,57622747466748
+AmortType,ARM
+lt2y_cb_emp_designation1,account &drain permanent
+pre_loan_bank_EMI_01,"$12,981.60"
+PropAddress,"27 SPARTINA CT , HILTON HEAD ISLAND, SC, 29928"
+lt2y_cb_emp_name2,"Usdol Osha; 701 Lee St, Suite 950, Des Plaines,"
+pre_loan_bank_balance_01,"$19,039.68"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,1992
+lt2y_cb_emp_salary2,"$2,215.44"
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,ACCOUNT ADMIN TEMPERORY
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$4250.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$86544.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11850.00
+bTotalIncome,$4250.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3184.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$86544.00
+refinanCost,$11850.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BERNARD FLANAGAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-SEP-2067
+cbTotalIncome,$3184.00
+fundingFee,$0.00
+borrowerName,KATHLEEN J MEYER
+cbtBaseSalary,$7434.00
+disocuntValue,$0.00
+bSecurityNumber,342124561
+cbtOverttime,$0.00
+totalTxnCost,$86544.00
+bPhone,2075711400
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-OCT-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$86544.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$86544.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$31844250.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1107.00
+isOutstandingCourtCaseB,No
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$86544.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KATHERINE W DAY
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,002052055
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1686666874
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-DEC-1990
+psntTotalExp,$86544.00
+isCoWorkerB,
+cbYrsSchool,1986
+propFirstLoan,$86544.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$86544.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,KATHLEEN J MEYER
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL REGION VI OSHA
+depAmount,$9519.84
+isCoWorkerCB,
+bEmpAddress,"525 S GRIFFIN STREET, SUITE 602, DALLAS, TX"
+depBankName,NATIONAL UNIVERSITY
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"11355 NORTH TORRY PINES ROAD, LA JOLLA, CA"
+isPermanentAlienCB,
+bYrsInCJob,1
+depBankAcc,81763872274847
+isNewPropPermanentB,
+bYrsInJob,2
+depBankBal,$19039.68
+ typeOfProp,principal residence
+bDesignation,"IT Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,19-DEC-2015
+lt2y_b_emp_name1,"Us Dol R1 Osha; 1441 Main St, Rm 550, Springfifld, Ma"
+subTotLiqValue,$8654.40
+signingDateCB,19-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$3,370.41"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,IT MA&AGERTEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL MINE SAFETY & HEALTH
+cbEmpAddress,"COCHRANS MILL RD, PO BOX 18233, PITTSBURGH, PA"
+preLoanBankAdd,NA
+loanOriginatorID,OGodNrlz
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL MINE SAFETY & HEALTH
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2708214180
+cbYrsInJob,2
+loanOriginatorAddress,"100 YMCA DR, KY"
+refinanImproveDescription_e,made
+borrowerName_3,KATHLEEN J MEYER
+borrowerName_9,KATHLEEN J MEYER
+borrowerName_10,KATHLEEN J MEYER
+cborrowerName_3,KATHERINE W DAY
+cBorrowerName_9,KATHERINE W DAY
+cborrowerName_10,KATHERINE W DAY
+signingDateB_10,19-DEC-2015
+signingDateCB_10,19-DEC-2015

@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Sr Accountant, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,xT612rPWedhVbN
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZCOK -3843426335
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$57246.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.22%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"9666 COUNTY ROAD Z , POUND, WI, 54161"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2000
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$1207.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$57246.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13819.00
+bTotalIncome,$1207.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5054.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$57246.00
+refinanCost,$13819.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DANIEL BUCKSA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-APR-2066
+cbTotalIncome,$5054.00
+fundingFee,$0.00
+borrowerName,SARA A KHAN
+cbtBaseSalary,$6261.00
+disocuntValue,$0.00
+bSecurityNumber,472765883
+cbtOverttime,$0.00
+totalTxnCost,$57246.00
+bPhone,1115840555
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,06-MAR-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$57246.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$57246.00
+bPresentAddress,"156 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$50541207.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1370.00
+isOutstandingCourtCaseB,No
+bMailAddress,"156 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$57246.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MARK MARVIN DIPASQUALE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,600258247
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1785704678
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,13-DEC-1979
+psntTotalExp,$57246.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$57246.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"156 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$57246.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,SARA A KHAN
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OFCCP
+depAmount,$7441.98
+isCoWorkerCB,No
+bEmpAddress,"8201 CORPORATE DR STE 680, METROPLEX II, LANDOVER, MD"
+depBankName,UNION STATE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 268, ROCKWELL CITY, IA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,55756436014784
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$10304.28
+ typeOfProp,second home
+bDesignation,"Guard, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,09-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5724.60
+signingDateCB,09-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OWCP
+preLoanBankName,NA
+loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"800 N CAPITOL ST, SUITE 565, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,3WOuoOde
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123956330
+cbYrsInJob,8
+loanOriginatorAddress,"1000 LIBERTY AVE, ROOM 2103, PITTSBURGH, PA"
+refinanImproveDescription_e,made
+borrowerName_3,SARA A KHAN
+borrowerName_9,SARA A KHAN
+borrowerName_10,SARA A KHAN
+cborrowerName_3,MARK MARVIN DIPASQUALE
+cBorrowerName_9,MARK MARVIN DIPASQUALE
+cborrowerName_10,MARK MARVIN DIPASQUALE
+signingDateB_10,09-FEB-2016
+signingDateCB_10,09-FEB-2016

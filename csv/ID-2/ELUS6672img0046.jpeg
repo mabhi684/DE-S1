@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Worker, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Si76sZMqcKFpby
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MTLB-4342444707
+lt2y_cb_emp_name1,"US DOL OWCP; 230 S DEARBORN ST RM 800, IL"
+childSupportExpOwnedValue,$0.00
+Amount,$33542.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,1st Summit Bank
+Interest,9.59%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"P.o. Box 5480, Johnstown, Pa"
+Tenure,30 months
+lt2y_cb_emp_salary1,"$3,094.53"
+pre_loan_bank_acNo_01,03858811702871
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,Ex?c Secretarypermanent
+pre_loan_bank_EMI_01,"$4,695.88"
+PropAddress,"2701 NASSAU BND , COCONUT CREEK, FL, 33066"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$7,043.82"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1975
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4668.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$33542.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13506.00
+bTotalIncome,$4668.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4076.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$33542.00
+refinanCost,$13506.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AUGUST YAMOND
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,20-DEC-2063
+cbTotalIncome,$4076.00
+fundingFee,$0.00
+borrowerName,OLGA P VERGARA
+cbtBaseSalary,$8744.00
+disocuntValue,$0.00
+bSecurityNumber,314510623
+cbtOverttime,$0.00
+totalTxnCost,$33542.00
+bPhone,5206635647
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-JUN-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$33542.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$33542.00
+bPresentAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+cbtTotalIncome,$40764668.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$948.00
+isOutstandingCourtCaseB,
+bMailAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+psntFirstLoan,$33542.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BENJAMIN M JONES
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,640051084
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,3481007665
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-MAR-1988
+psntTotalExp,$33542.00
+isCoWorkerB,
+cbYrsSchool,1987
+propFirstLoan,$33542.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"MODOC HALL USGS MS 3001 3020 STATE ONIV DR EAST, SACRAMENTO, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$33542.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,OLGA P VERGARA
+isDownpaymentBorrowedCB,No
+bEmpName,DIRECTORATE OF CONSTRUCTION
+depAmount,$4025.04
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, MS N3468, WASHINGTON, DC"
+depBankName,BIG SPRING EDUCATION FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 1110, BIG SPRING, TX"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,28378108583446
+isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$6372.98
+ typeOfProp,investment property
+bDesignation,"Security Member, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,14-JAN-2016
+lt2y_b_emp_name1,"Usdol Eta Owbl; Office Grants Contract Mgmt, 200 Constitution Ave Rm N4716, Washington, Dc"
+subTotLiqValue,$4360.46
+signingDateCB,14-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$4,118.46"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,It Managerpermanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BAT REG6 REG OFFICE
+preLoanBankName,NA
+loanOriginatorName,USDOL WAGE & HOUR
+cbEmpAddress,"90 7TH STREET, SUITE 17 100, SAN FRANCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,b8ngu0Pj
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL WAGE & HOUR
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7023886106
+cbYrsInJob,3
+loanOriginatorAddress,"600 LAS VEGAS BLVD S, SUITE 750, LAS VEGAS, NV"
+refinanImproveDescription_e,made
+borrowerName_3,OLGA P VERGARA
+borrowerName_9,OLGA P VERGARA
+borrowerName_10,OLGA P VERGARA
+cborrowerName_3,BENJAMIN M JONES
+cBorrowerName_9,BENJAMIN M JONES
+cborrowerName_10,BENJAMIN M JONES
+signingDateB_10,14-JAN-2016
+signingDateCB_10,14-JAN-2016

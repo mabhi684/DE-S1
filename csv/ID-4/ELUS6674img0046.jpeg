@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Legal Executive, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,z166SmLsrY1jeI
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SNMP-5430313235
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$15119.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.87%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2796 MULL AVE , COPLEY, OH, 44321"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1986
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3114.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$63648.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15119.00
+bTotalIncome,$3114.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2096.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$15119.00
+refinanCost,$15119.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ACACIA TAYLOR
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,26-DEC-2075
+cbTotalIncome,$2096.00
+fundingFee,$0.00
+borrowerName,JULIE JOYCE
+cbtBaseSalary,$5210.00
+disocuntValue,$0.00
+bSecurityNumber,532502400
+cbtOverttime,$0.00
+totalTxnCost,$15119.00
+bPhone,3715180826
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,16-JUN-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$15119.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$15119.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$20963114.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1027.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$15119.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ALISON C WAXMAN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,111531740
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3833337758
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,31-OCT-1985
+psntTotalExp,$15119.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$15119.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"11 SHERMAN PLACE U 5015 , STORRS, CT, 6269"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$15119.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JULIE JOYCE
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OFCCP
+depAmount,$1965.47
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE, RM 53006, WASHINGTON, DC"
+depBankName,WITTENBERG UNIVERSITY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"NORTH WITTENBERG AVENUE, SPRINGFIELD, OH"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,83578781625753
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3326.18
+ typeOfProp,principal residence
+bDesignation,"HR Specialist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,09-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1663.09
+signingDateCB,09-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL WAGE & HOUR
+preLoanBankName,NA
+loanOriginatorName,DOL SOLICITOR EB
+cbEmpAddress,"300 W CONGRESS ST, STE 4H, TUCSON, AZ"
+preLoanBankAdd,NA
+loanOriginatorID,bvaERsYl
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL SOLICITOR EB
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026935291
+cbYrsInJob,9
+loanOriginatorAddress,"200 CONSTITUTION AV NW, RM 54325, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,JULIE JOYCE
+borrowerName_9,JULIE JOYCE
+borrowerName_10,JULIE JOYCE
+cborrowerName_3,ALISON C WAXMAN
+cBorrowerName_9,ALISON C WAXMAN
+cborrowerName_10,ALISON C WAXMAN
+signingDateB_10,09-JAN-2016
+signingDateCB_10,09-JAN-2016

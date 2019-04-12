@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Guard, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,djN3qQH5g7h7bi
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TLSV-8052145276
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$93308.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,anderson federal credit union
+Interest,7.27%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"PO BOX 4146, ANDERSON, SC"
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,14460682864455
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,263.88"
+PropAddress,"2206 W WINDROSE DR , PHOENIX, AZ, 85029"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$15,862.36"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,MICHIGAN TECH EFCU
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"700 E SHARON AVE, HOUGHTON, MI"
+YearBuilt,1970
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,71038506823300
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$13,996.20"
+propFor,Investment
+bBaseSalary,$4370.00
+pre_loan_bank_balance_02,"$17,728.52"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,TOBYHANNA ARMY DEPOT
+construcOrigCost,$93308.00
+bBonus,$0.00
+pre_loan_bank_add_03,"FEDERAL CREDIT UNION, TOBYHANNA, PA"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,85383847041887
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$13,996.20"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$17,728.52"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9981.00
+bTotalIncome,$4370.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1252.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$93308.00
+refinanCost,$9981.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,KATHRYN MASON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-JUL-2074
+cbTotalIncome,$1252.00
+fundingFee,$0.00
+borrowerName,SHARON BRANCH
+cbtBaseSalary,$5622.00
+disocuntValue,$0.00
+bSecurityNumber,255856533
+cbtOverttime,$0.00
+totalTxnCost,$93308.00
+bPhone,1026326226
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-MAR-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$93308.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$93308.00
+bPresentAddress,"956 NATL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$12524370.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1581.00
+isOutstandingCourtCaseB,No
+bMailAddress,"956 NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$93308.00
+isBankcruptB,No
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,6
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"6006 Schroeder Rd , Madison, Wi, 53711"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRENDA R GOLLAHER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,060663765
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0571882115
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,02-NOV-1989
+psntTotalExp,$93308.00
+isCoWorkerB,
+cbYrsSchool,1983
+propFirstLoan,$93308.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"521 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"956 NAIL CTR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$93308.00
+isDeliquentCB,No
+lt2y_cb_res_since,9
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"308 south airport rd , pearl, ms, 39208"
+depPurchHeldBy,SHARON BRANCH
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABOR
+depAmount,$13996.20
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVE NW, ROOM S1521, WASHINGTON, DC"
+depBankName,ARCADIA UNIVERSITY
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"450 S. EASTON ROAD, GLENSIDE, PA"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,13413681570128
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$16795.44
+ typeOfProp,second home
+bDesignation,"IT Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,16-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$13063.12
+signingDateCB,16-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL/OSHA
+preLoanBankName,NA
+loanOriginatorName,WAGE HOUR REGIONAL OFF
+cbEmpAddress,"1391 SPEER BLVD SUITE 210, CO"
+preLoanBankAdd,NA
+loanOriginatorID,Ukly72z6
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,WAGE HOUR REGIONAL OFF
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8032533128
+cbYrsInJob,9
+loanOriginatorAddress,"1835 ASSEMBLY ST, RM 1072, COLUMBIA, SC"
+refinanImproveDescription_e,made
+borrowerName_3,SHARON BRANCH
+borrowerName_9,SHARON BRANCH
+borrowerName_10,SHARON BRANCH
+cborrowerName_3,BRENDA R GOLLAHER
+cBorrowerName_9,BRENDA R GOLLAHER
+cborrowerName_10,BRENDA R GOLLAHER
+signingDateB_10,16-FEB-2016
+signingDateCB_10,16-FEB-2016

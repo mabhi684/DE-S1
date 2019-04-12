@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Trainer, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,vIz1107n8MgXdC
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LYLL -0431342488
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$103327.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Farmers Savings Bank
+Interest,7.84%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"305 doty street, mineral point, wi"
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,00015436432312
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$11,365.97"
+PropAddress,"354 GULF STREAM WAY , COSTA MESA, CA, 92627"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$17,565.59"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Central Star Credit Union
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"9555 Corporate Hill Dr., Wichita, Ks"
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,45546001505753
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$14,465.78"
+propFor,Primary
+bBaseSalary,$4166.00
+pre_loan_bank_balance_02,"$17,565.59"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$103327.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21456.00
+bTotalIncome,$4166.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3782.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$103327.00
+refinanCost,$21456.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ADAM WEERSING
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,24-FEB-2075
+cbTotalIncome,$3782.00
+fundingFee,$0.00
+borrowerName,KARI OHAIR
+cbtBaseSalary,$7948.00
+disocuntValue,$0.00
+bSecurityNumber,530514660
+cbtOverttime,$0.00
+totalTxnCost,$103327.00
+bPhone,4444608567
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,23-SEP-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$103327.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$103327.00
+bPresentAddress,"2730 N DEER RUN ROAD , CARSON CITY, NV, 89701"
+cbtTotalIncome,$37824166.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$892.00
+isOutstandingCourtCaseB,
+bMailAddress,"2730 N DEER RUN ROAD , CARSON CITY, NV, 89701"
+psntFirstLoan,$103327.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,BRUCE M RICHMOND
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,358842752
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,0640004084
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,21-FEB-1988
+psntTotalExp,$103327.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$103327.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"2730 N DEER RUN ROAD , CARSON CITY, NV, 89701"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Rent
+propTotalExp,$103327.00
+isDeliquentCB,No
+lt2y_cb_res_since,3
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"PLACER HALL 6000 J ST , SACRAM?NTO, CA, 95819"
+depPurchHeldBy,KARI OHAIR
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OWCP
+depAmount,$13432.51
+isCoWorkerCB,No
+bEmpAddress,"525 S GRIFFIN, RM 407, DALLAS, TX"
+depBankName,WASHINGTON AREA TEACHERS FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1245 PARK AVENUE, WASHINGTON, PA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,63041348561271
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$17565.59
+ typeOfProp,second home
+bDesignation,"IT Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,03-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$12399.24
+signingDateCB,03-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL OFF OF SOLICITOR
+preLoanBankName,NA
+loanOriginatorName,R1 BLS - MCSWEENEY
+cbEmpAddress,"61 FORSYTH ST SW, RM 7710, ATLANTA, GA"
+preLoanBankAdd,NA
+loanOriginatorID,tyncp708
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,R1 BLS - MCSWEENEY
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6175652332
+cbYrsInJob,9
+loanOriginatorAddress,"JFK FED BLDG, RM E310, BOSTON, MA"
+refinanImproveDescription_e,to be made
+borrowerName_3,KARI OHAIR
+borrowerName_9,KARI OHAIR
+borrowerName_10,KARI OHAIR
+cborrowerName_3,BRUCE M RICHMOND
+cBorrowerName_9,BRUCE M RICHMOND
+cborrowerName_10,BRUCE M RICHMOND
+signingDateB_10,03-JAN-2016
+signingDateCB_10,03-JAN-2016

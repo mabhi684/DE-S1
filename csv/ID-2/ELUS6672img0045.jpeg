@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Labor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XnH4gLK8IPP3b1
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GBSX-4340678178
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$41618.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,FIRST SERVICE CU
+Interest,8.85%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"333 NORTH 35TH STREET, MILWAUKEE, WI"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,65482306357524
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,161.80"
+PropAddress,"3050 TUDOR LN , IRVING, TX, 75060"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$7,907.42"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,wells fargo elt student funding group
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"7077 BONNEVAL RD. SUITE 400, JACKSONVILLE, FL"
+YearBuilt,1998
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,05220345570084
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$6,242.70"
+propFor,Investment
+bBaseSalary,$3440.00
+pre_loan_bank_balance_02,"$9,155.96"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,bank of albuquerque na
+construcOrigCost,$52711.00
+bBonus,$0.00
+pre_loan_bank_add_03,"P 0 Box 2300 Attn: Dan Norton, Tulsa, Ok"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,42123307161554
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$5,826.52"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$7,491.24"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13506.00
+bTotalIncome,$3440.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3791.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$41618.00
+refinanCost,$13506.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JOELLEN HIGH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-JUL-2065
+cbTotalIncome,$3791.00
+fundingFee,$0.00
+borrowerName,ANGIE L WOODS
+cbtBaseSalary,$7231.00
+disocuntValue,$0.00
+bSecurityNumber,505006857
+cbtOverttime,$0.00
+totalTxnCost,$41618.00
+bPhone,3143430517
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,03-JUL-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$41618.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$41618.00
+bPresentAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+cbtTotalIncome,$37913440.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1632.00
+isOutstandingCourtCaseB,No
+bMailAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+psntFirstLoan,$41618.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CHARLES WAYNE WRIGHT
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,228724066
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3224478854
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,04-AUG-1982
+psntTotalExp,$41618.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$41618.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$41618.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ANGIE L WOODS
+isDownpaymentBorrowedCB,
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$4994.16
+isCoWorkerCB,
+bEmpAddress,"1901 W RIDGE STREET, STE 8, MARQUETTE, MI"
+depBankName,PROVIDERS FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"963 STATE FAIR BLVD, SYRACUSE, NY"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,30386748557363
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$7907.42
+ typeOfProp,second home
+bDesignation,"Trainer, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,01-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$6242.70
+signingDateCB,01-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL R9 ESAOFCCP SAN FR
+cbEmpAddress,"1099 WINTERSON RD, STE 140, LINTHICUM, MD"
+preLoanBankAdd,NA
+loanOriginatorID,Zrqnnliwk
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL R9 ESAOFCCP SAN FR
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3102356806
+cbYrsInJob,7
+loanOriginatorAddress,"11000 WILSHIRE BLVD, STE B103, LOS ANGELES, CA"
+refinanImproveDescription_e,made
+borrowerName_3,ANGIE L WOODS
+borrowerName_9,ANGIE L WOODS
+borrowerName_10,ANGIE L WOODS
+cborrowerName_3,CHARLES WAYNE WRIGHT
+cBorrowerName_9,CHARLES WAYNE WRIGHT
+cborrowerName_10,CHARLES WAYNE WRIGHT
+signingDateB_10,01-FEB-2016
+signingDateCB_10,01-FEB-2016

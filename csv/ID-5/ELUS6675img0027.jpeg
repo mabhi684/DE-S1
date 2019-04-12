@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Central Supervisor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,pOANXebiFJzTxm
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,YZJW-1556035265
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$66544.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.85%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"613 PARK AVE , LINCOLN PARK, MI, 48146"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1964
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2725.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$66544.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3392.00
+bTotalIncome,$2725.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3060.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$66544.00
+refinanCost,$3392.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JAMES GEARHART
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-JAN-2073
+cbTotalIncome,$3060.00
+fundingFee,$0.00
+borrowerName,KERRY L WEBER
+cbtBaseSalary,$5785.00
+disocuntValue,$0.00
+bSecurityNumber,786661827
+cbtOverttime,$0.00
+totalTxnCost,$66544.00
+bPhone,2876524735
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-JAN-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$66544.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$66544.00
+bPresentAddress,"2630 FANTA REED RD , LA CROSSE, WI, 54603"
+cbtTotalIncome,$30602725.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1041.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2630 FANTA REED RD , LA CROSSE, WI, 54603"
+psntFirstLoan,$66544.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JAMES E EPPS JR
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,461410241
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4138143345
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-AUG-1982
+psntTotalExp,$66544.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$66544.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"156 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"2630 FANTA REED RD , LA CROSSE, WI, 54603"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$66544.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KERRY L WEBER
+isDownpaymentBorrowedCB,No
+bEmpName,OFF OF REG ADMIN WH
+depAmount,$9981.60
+isCoWorkerCB,No
+bEmpAddress,"150 E SOCIAL HALL AVE, SUITE 695, SALT LAKE CITY, UT"
+depBankName,TEACHERS CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"2315 PRAIRIE AVENUE, BELOIT, WI"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,46146451883186
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$11312.48
+ typeOfProp,second home
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,19-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$7985.28
+signingDateCB,19-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT LABOR/VETS
+preLoanBankName,NA
+loanOriginatorName,MINE SAF & HLTH
+cbEmpAddress,"525 S GRIFFIN STREET, SUITE 858, DALLAS, TX"
+preLoanBankAdd,NA
+loanOriginatorID,OuxP2KkB
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAF & HLTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2766790230
+cbYrsInJob,8
+loanOriginatorAddress,"PO BOX 560, NORTON, VA"
+refinanImproveDescription_e,to be made
+borrowerName_3,KERRY L WEBER
+borrowerName_9,KERRY L WEBER
+borrowerName_10,KERRY L WEBER
+cborrowerName_3,JAMES E EPPS JR
+cBorrowerName_9,JAMES E EPPS JR
+cborrowerName_10,JAMES E EPPS JR
+signingDateB_10,19-DEC-2015
+signingDateCB_10,19-DEC-2015

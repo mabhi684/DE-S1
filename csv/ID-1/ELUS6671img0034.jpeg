@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Legal Executive, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,iD2qT1WE28g3DM
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,XXWR-7088256766
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$15211.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Midsouth Federal Credit Union
+Interest,7.20%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"4810 mercer university drive, macon, ga"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,38244361833485
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,825.32"
+PropAddress,"1365 COLUMBINE ST APT 307, DENVER, CO, 80206"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,585.87"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,PARTNERS FCU
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"2190 Towne Centre Place, Anaheim, Ca"
+YearBuilt,1969
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,20402827452203
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,673.21"
+propFor,Primary
+bBaseSalary,$3055.00
+pre_loan_bank_balance_02,"$3,042.20"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$30082.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15211.00
+bTotalIncome,$3055.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2055.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$15211.00
+refinanCost,$15211.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,COLIN MCCALLIN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-JUL-2075
+cbTotalIncome,$2055.00
+fundingFee,$0.00
+borrowerName,KURT WERNER WEIDICH
+cbtBaseSalary,$5110.00
+disocuntValue,$0.00
+bSecurityNumber,613836515
+cbtOverttime,$0.00
+totalTxnCost,$15211.00
+bPhone,1473778872
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-MAR-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$15211.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$15211.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$20553055.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1434.00
+isOutstandingCourtCaseB,
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$15211.00
+isBankcruptB,No
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,11
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"11649 Leetown Road , Keitrneysville, Wv, 25430"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,DEBORAH REPEAT
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,257566416
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4288485100
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,05-AUG-1976
+psntTotalExp,$15211.00
+isCoWorkerB,
+cbYrsSchool,1983
+propFirstLoan,$15211.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$15211.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KURT WERNER WEIDICH
+isDownpaymentBorrowedCB,No
+bEmpName,DOL
+depAmount,$1977.43
+isCoWorkerCB,No
+bEmpAddress,"90 7TH STREET, SUITE 2-600, SAN FRANCISCO, CA"
+depBankName,ENTRUST FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1801 DABNEY RD, RICHMOND, VA"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,66834645230266
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$3346.42
+ typeOfProp,principal residence
+bDesignation,"Supervisor, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,05-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2129.54
+signingDateCB,05-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA TI
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"2020 S ARLINGTON HEIGHTS RD, , ARLINGTON HEIGHTS, IL"
+preLoanBankAdd,NA
+loanOriginatorID,QVnwgprW
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123866959
+cbYrsInJob,9
+loanOriginatorAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,KURT WERNER WEIDICH
+borrowerName_9,KURT WERNER WEIDICH
+borrowerName_10,KURT WERNER WEIDICH
+cborrowerName_3,DEBORAH REPEAT
+cBorrowerName_9,DEBORAH REPEAT
+cborrowerName_10,DEBORAH REPEAT
+signingDateB_10,05-DEC-2015
+signingDateCB_10,05-DEC-2015

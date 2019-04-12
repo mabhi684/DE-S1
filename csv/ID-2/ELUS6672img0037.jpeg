@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Technician, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XEHDunL7uA0w8R
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WMPL-5677487256
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$87591.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,wells Fargo education fin svcs
+Interest,10.12%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"301 e 58th street north, sioux falls, sd"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,38602618572458
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,510.92"
+PropAddress,"320 BRENTWOOD CIR , MORGANTON, NC, 28655"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$14,890.47"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1997
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$7253.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$93308.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9981.00
+bTotalIncome,$7253.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2727.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$87591.00
+refinanCost,$9981.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANN TELLEFSEN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,03-FEB-2076
+cbTotalIncome,$2727.00
+fundingFee,$0.00
+borrowerName,RANDY RUSSELL
+cbtBaseSalary,$9980.00
+disocuntValue,$0.00
+bSecurityNumber,230062171
+cbtOverttime,$0.00
+totalTxnCost,$87591.00
+bPhone,0144204247
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-MAY-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$87591.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$87591.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$27277253.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1349.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+psntFirstLoan,$87591.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SARA J SCIULLA
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,403184716
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4601702281
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-OCT-1990
+psntTotalExp,$87591.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$87591.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$87591.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RANDY RUSSELL
+isDownpaymentBorrowedCB,No
+bEmpName,WAGE HOUR REGIONAL OFF
+depAmount,$8759.10
+isCoWorkerCB,
+bEmpAddress,"61 FORSYTH ST SW, RM 7M40, ATLANTA, GA"
+depBankName,"BANK OF AMERICA, NA"
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P.O. BOX 419038, KANSAS CITY, MO"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,01252435830662
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$17518.20
+ typeOfProp,investment property
+bDesignation,"Sr Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,11-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$11386.83
+signingDateCB,11-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OWCP SE REGION
+cbEmpAddress,"315 W ALLEGAN RM 207, LANSING, MI"
+preLoanBankAdd,NA
+loanOriginatorID,VrvWk6Xz
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OWCP SE REGION
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9043574791
+cbYrsInJob,7
+loanOriginatorAddress,"400 W BAY ST, STE 943, JACKSONVILLE, FL"
+refinanImproveDescription_e,made
+borrowerName_3,RANDY RUSSELL
+borrowerName_9,RANDY RUSSELL
+borrowerName_10,RANDY RUSSELL
+cborrowerName_3,SARA J SCIULLA
+cBorrowerName_9,SARA J SCIULLA
+cborrowerName_10,SARA J SCIULLA
+signingDateB_10,11-DEC-2015
+signingDateCB_10,11-DEC-2015

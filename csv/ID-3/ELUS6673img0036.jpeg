@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"HR Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,2pecrdaH2VcfXp
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VESZ-0030214331
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$28856.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,FORT SNELLING FCU
+Interest,10.16%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"5025 E. 54th St., Minneapolis, Mn"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,13116612388311
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$3,174.16"
+PropAddress,"936 BRANCH DR , HERNDON, VA, 20170"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$5,194.08"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,OKLAHOMA STATE UNIVERSITY
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"207 Whitehust, Comptroller, Stillwater, Ok"
+YearBuilt,1961
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,88224374677413
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$3,751.28"
+propFor,Seconday
+bBaseSalary,$4376.00
+pre_loan_bank_balance_02,"$6,059.76"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$28856.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17867.00
+bTotalIncome,$4376.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6010.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$28856.00
+refinanCost,$17867.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DEXTER WILSON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-OCT-2061
+cbTotalIncome,$6010.00
+fundingFee,$0.00
+borrowerName,EDWARD F YOUNGER
+cbtBaseSalary,$10386.00
+disocuntValue,$0.00
+bSecurityNumber,612450701
+cbtOverttime,$0.00
+totalTxnCost,$28856.00
+bPhone,5143561421
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,25-SEP-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$28856.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$28856.00
+bPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+cbtTotalIncome,$60104376.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1129.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+psntFirstLoan,$28856.00
+isBankcruptB,
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,12
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"934 broadway suite 300 , tacoma, wa, 98402"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,BEAU G GRIFFITH
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,318737057
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8273675007
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,01-OCT-1984
+psntTotalExp,$28856.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$28856.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$28856.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,EDWARD F YOUNGER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL R9 OWCP SAN FRAN
+depAmount,$3751.28
+isCoWorkerCB,
+bEmpAddress,"401 E OCEAN BLVD, SUITE 720, LONG BEACH, CA"
+depBankName,LOUVAH FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"800 ZORN AVENUE, LOUISVILLE, KY"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,56633163402315
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$5194.08
+ typeOfProp,second home
+bDesignation,"Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,11-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3462.72
+signingDateCB,11-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OWCP DEEOIC
+preLoanBankName,NA
+loanOriginatorName,MINE SAF & HLTH
+cbEmpAddress,"400 W BAY ST, STE 63B, JACKSONVILLE, FL"
+preLoanBankAdd,NA
+loanOriginatorID,K306SQfx
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAF & HLTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3157890522
+cbYrsInJob,6
+loanOriginatorAddress,"636 WEST WASHINGTON ST, NY"
+refinanImproveDescription_e,to be made
+borrowerName_3,EDWARD F YOUNGER
+borrowerName_9,EDWARD F YOUNGER
+borrowerName_10,EDWARD F YOUNGER
+cborrowerName_3,BEAU G GRIFFITH
+cBorrowerName_9,BEAU G GRIFFITH
+cborrowerName_10,BEAU G GRIFFITH
+signingDateB_10,11-JAN-2016
+signingDateCB_10,11-JAN-2016
