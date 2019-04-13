@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Technician, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XrnIFwC28iv7Fs
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,NAMV-7303374663
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$81678.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.69%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1428 NE 160TH AVE , PORTLAND, OR, 97230"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1976
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1794.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$33313.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20557.00
+bTotalIncome,$1794.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3215.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$81678.00
+refinanCost,$20557.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,NICOLE BOLDS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-MAY-2074
+cbTotalIncome,$3215.00
+fundingFee,$0.00
+borrowerName,JAMES BEILMAN
+cbtBaseSalary,$5009.00
+disocuntValue,$0.00
+bSecurityNumber,716377335
+cbtOverttime,$0.00
+totalTxnCost,$81678.00
+bPhone,5671653534
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-NOV-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$81678.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$81678.00
+bPresentAddress,"4821 QUAIL CREST PLACE , LAWRENCE, KS, 66049"
+cbtTotalIncome,$32151794.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1603.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4821 QUAIL CREST PLACE , LAWRENCE, KS, 66049"
+psntFirstLoan,$81678.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DEBRA L SLASOR
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,166730645
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6415788687
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-OCT-1991
+psntTotalExp,$81678.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$81678.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4821 QUAIL CREST PLACE , LAWRENCE, KS, 66049"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$81678.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JAMES HEILMAN
+isDownpaymentBorrowedCB,No
+bEmpName,DEPT OF LABOR
+depAmount,$8167.80
+isCoWorkerCB,No
+bEmpAddress,"15 NEW SUDBURY ST, J F K FEDERAL BLDG RM E-235, BOSTON, MA"
+depBankName,PEOPLES STATE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 2599, NATCHITOCHES, LA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,80474723717287
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$16335.60
+ typeOfProp,investment property
+bDesignation,"Legal Executive, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,14-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$10618.14
+signingDateCB,14-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OLMS
+preLoanBankName,NA
+loanOriginatorName,US DOL OSHA
+cbEmpAddress,"211 W FORT ST, STE 1313, DETROIT, MI"
+preLoanBankAdd,NA
+loanOriginatorID,11Tck8xo
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5138414132
+cbYrsInJob,5
+loanOriginatorAddress,"36 TRIANGLE PARK, OH"
+refinanImproveDescription_e,made
+borrowerName_3,JAMES BEILMAN
+borrowerName_9,JAMES BEILMAN
+borrowerName_10,JAMES BEILMAN
+cborrowerName_3,DEBRA L SLASOR
+cBorrowerName_9,DEBRA L SLASOR
+cborrowerName_10,DEBRA L SLASOR
+signingDateB_10,14-JAN-2016
+signingDateCB_10,14-JAN-2016
