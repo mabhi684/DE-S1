@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Trainer, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,tNhAmgff84ixPj
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SOIA-8734343251
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$7027.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.88%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"8336 CHICK DR , CATAWBA, NC, 28609"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1991
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1853.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$13983.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7027.00
+bTotalIncome,$1853.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3723.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$7027.00
+refinanCost,$7027.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DINA GRIFF
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-NOV-2070
+cbTotalIncome,$3723.00
+fundingFee,$0.00
+borrowerName,DENNIS 0 KUMFER
+cbtBaseSalary,$5576.00
+disocuntValue,$0.00
+bSecurityNumber,875674738
+cbtOverttime,$0.00
+totalTxnCost,$7027.00
+bPhone,4505231520
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-AUG-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$7027.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$7027.00
+bPresentAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+cbtTotalIncome,$37231853.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1788.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+psntFirstLoan,$7027.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,TARA CHESTNUT
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,643462720
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8840644330
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-DEC-1976
+psntTotalExp,$7027.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$7027.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2130 SW 5TH AVENUE , PORTLAND, OR, 97201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$7027.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DENNIS 0 KUMFER
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR-ETA
+depAmount,$702.70
+isCoWorkerCB,No
+bEmpAddress,"230 S DEARBORN ST, 6TH FL, CHICAGO, IL"
+depBankName,FRANKLIN MINT FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1974 SPROUL RD, BROMALL, PA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,82526484635538
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$1194.59
+ typeOfProp,second home
+bDesignation,"Receptionist, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,15-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$772.97
+signingDateCB,15-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"2 MASSACHUSETTS AVE RM 5180, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,vSQklgcD
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158615759
+cbYrsInJob,3
+loanOriginatorAddress,"170 S INDEPENDENCE MALL W, THE CURTIS CENTER STE 750 W, PHILADELPHIA, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,DENNIS 0 KUMFER
+borrowerName_9,DENNIS 0 KUMFER
+borrowerName_10,DENNIS 0 KUMFER
+cborrowerName_3,TARA CHESTNUT
+cBorrowerName_9,TARA CHESTNUT
+cborrowerName_10,TARA CHESTNUT
+signingDateB_10,15-JAN-2016
+signingDateCB_10,15-JAN-2016

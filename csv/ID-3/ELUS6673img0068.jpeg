@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Security Member, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,qHCTv508y7S3KW
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,DDUE -3846548744
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$5562.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,BEACH MUNICIPAL EFCU
+Interest,9.16%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"4164 virginia beach blvd, virginia beAlch, va"
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,21028012613130
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$834.30
+PropAddress,"3439 E ROBINSON AVE , SPRINGDALE, AR, 72764"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,001.16"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1993
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$5233.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$103991.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5562.00
+bTotalIncome,$5233.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5163.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$5562.00
+refinanCost,$5562.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BOBBY LYNCH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-JUL-2058
+cbTotalIncome,$5163.00
+fundingFee,$0.00
+borrowerName,L SIISIL.N HELMER
+cbtBaseSalary,$10396.00
+disocuntValue,$0.00
+bSecurityNumber,373124051
+cbtOverttime,$0.00
+totalTxnCost,$5562.00
+bPhone,4407285835
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-APR-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$5562.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$5562.00
+bPresentAddress,"600 4TH ST SA-UTH , ST PETERSBURG, FL, 33701"
+cbtTotalIncome,$51635233.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1496.00
+isOutstandingCourtCaseB,No
+bMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+psntFirstLoan,$5562.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CHRISTOPHER D ECEER
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,837484875
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8281407138
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,23-MAY-1983
+psntTotalExp,$5562.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$5562.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6480 DOUBLETRME AVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"600 4TH ST SOUTH , ST PETA-RSBURG, FL, 33701"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$5562.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,L SUSAN HELMER
+isDownpaymentBorrowedCB,
+bEmpName,OSHA-NORTH HAnUSTON
+depAmount,$834.30
+isCoWorkerCB,
+bEmpAddress,"507 N SAM HOUSTON PKWY E, SUITE 400, HOUSTON, TX"
+depBankName,FIRST INTERNATIONAL BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"PO BOX 607, WATFORD CITY, ND"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,07222708113756
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$945.54
+ typeOfProp,second home
+bDesignation,"Sr Accountant, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,31-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$667.44
+signingDateCB,31-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"2 MASSACHUSETTS AVM; NE RM 4985, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,wg2zRPNy
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8047712620
+cbYrsInJob,6
+loanOriginatorAddress,"400 N 8TH ST, STE 552, RICHMOND, VA"
+refinanImproveDescription_e,made
+borrowerName_3,L SIISIL.N HELMER
+borrowerName_9,L SIISIL.N HELMER
+borrowerName_10,L SIISIL.N HELMER
+cborrowerName_3,CHRISTOPHER D ECEER
+cBorrowerName_9,CHRISTOPHER D ECEER
+cborrowerName_10,CHRISTOPHER D ECEER
+signingDateB_10,31-DEC-2015
+signingDateCB_10,31-DEC-2015

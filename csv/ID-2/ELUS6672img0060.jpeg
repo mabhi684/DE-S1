@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Receptionist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,2211NSC2QqLF21
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,YCON -0568720827
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$75905.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Fremont National Bank & Trust Co
+Interest,10.91%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"po box 228, Fremont, ne"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,14864747633621
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$7,590.50"
+PropAddress,"144 VERONA ST , GIRARD, A""H, 44420"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$13,662.90"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Sibley State Bank
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"po box 96, sibley, is"
+YearBuilt,1997
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,08362830006325
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$10,626.70"
+propFor,Primary
+bBaseSalary,$1812.00
+pre_loan_bank_balance_02,"$12,903.85"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$104173.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10022.00
+bTotalIncome,$1812.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1963.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$75905.00
+refinanCost,$10022.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DENISE FLEISCHER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-FEB-2067
+cbTotalIncome,$1963.00
+fundingFee,$0.00
+borrowerName,RANDALL L FAnNDREN
+cbtBaseSalary,$3775.00
+disocuntValue,$0.00
+bSecurityNumber,568456028
+cbtOverttime,$0.00
+totalTxnCost,$75905.00
+bPhone,3361530102
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,12-NOV-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$75905.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$75905.00
+bPresentAddress,"AAZXM TECHNACENTER 75 TECHNACENTER DRIVE, MONTGOMERY, AL, 36116"
+cbtTotalIncome,$19631812.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1456.00
+isOutstandingCourtCaseB,No
+bMailAddress,"AUM TECHNACENTER 75 TECHNACENTER DRIVE, MONTGOMERY, AL, 36116"
+psntFirstLoan,$75905.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KATHLEEN M SPIEGELBERG
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,752258154
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8718838112
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-OCT-1976
+psntTotalExp,$75905.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$75905.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"956 NATL CTR , RESTA""N, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"AUM TECHNACENTER 75 TECHNACENTER DRIVE, MONTGOMERY, AL, 36116"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$75905.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RANDALL L FONDREN
+isDownpaymentBorrowedCB,No
+bEmpName,DOL R9 AUSAOFCCP SAN FR
+depAmount,$10626.70
+isCoWorkerCB,
+bEmpAddress,"11000 WILSHIRE BLVD, STE B103, LOS ANGELES, CA"
+depBankName,SERVICE 1ST FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"1207 BLOOM ST, DANVILLE, PA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,22771885746181
+isNewPropPermanentB,
+bYrsInJob,8
+depBankBal,$13662.90
+ typeOfProp,second home
+bDesignation,"Legal Executive, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,14-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$7590.50
+signingDateCB,14-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DAAPT OF LABOR MSHA
+preLoanBankName,NA
+loanOriginatorName,EMPLOYEES BENEFA2T SERV A
+cbEmpAddress,"135 GEMINI CIR, STAB 212, BIRMINGHAM, AL"
+preLoanBankAdd,NA
+loanOriginatorID,doGG3SK1
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,EMPLOYEES BENEFIT SERV A
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9728504521
+cbYrsInJob,6
+loanOriginatorAddress,"525 GRIFFIN ST STE 900, , DALLAS, TX"
+refinanImproveDescription_e,made
+borrowerName_3,RANDALL L FAnNDREN
+borrowerName_9,RANDALL L FAnNDREN
+borrowerName_10,RANDALL L FAnNDREN
+cborrowerName_3,KATHLEEN M SPIEGELBERG
+cBorrowerName_9,KATHLEEN M SPIEGELBERG
+cborrowerName_10,KATHLEEN M SPIEGELBERG
+signingDateB_10,14-DEC-2015
+signingDateCB_10,14-DEC-2015

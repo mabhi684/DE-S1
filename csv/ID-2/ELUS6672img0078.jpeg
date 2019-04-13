@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Cook, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,SQR4uJ1NFt35Wd
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WPIS-2700566547
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$39320.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,"Bony Mellon Elt Goal Financial, Llc"
+Interest,9.14%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"9477 WAPLES ST., SAN DIEGO, CA"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,60767321601052
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,325.20"
+PropAddress,"415 E KNAPP ST APT 337, MILWAUKEE, WI, 53202"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$7,470.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Wachk'via Bank Na
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"po box 13667, sacramento, ca"
+YearBuilt,1966
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,18857800250444
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$3,932.00"
+propFor,Investment
+bBaseSalary,$14450.00
+pre_loan_bank_balance_02,"$6,684.40"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,promedica federal credit union
+construcOrigCost,$39320.00
+bBonus,$0.00
+pre_loan_bank_add_03,"2301 WEST CENTRAL AVE, TOLEDO, OH"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,80544153815183
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$5,504.80"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$7,470.80"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7283.00
+bTotalIncome,$14450.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1630.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$39320.00
+refinanCost,$7283.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DOROTHY WERHUN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-DEC-2056
+cbTotalIncome,$1630.00
+fundingFee,$0.00
+borrowerName,• J BROWN
+cbtBaseSalary,$16080.00
+disocuntValue,$0.00
+bSecurityNumber,260012286
+cbtOverttime,$0.00
+totalTxnCost,$39320.00
+bPhone,1506671247
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-SEP-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$39320.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$39320.00
+bPresentAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+cbtTotalIncome,$163014450.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1779.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6480 DOUBLETRME AVE , COLUMBUS, OH, 43229"
+psntFirstLoan,$39320.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,"LORI A LA""CERO"
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,574773268
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8008261208
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,25-DEC-1982
+psntTotalExp,$39320.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$39320.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6480 DOUBLETREE AVE , CA""LUMBUS, OH, 43229"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$39320.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,SEAN J BROWN
+isDownpaymentBorrowedCB,
+bEmpName,MANE• SAFETY & HEALTH
+depAmount,$5504.80
+isCoWorkerCB,No
+bEmpAddress,"P 0 BOX 18233, , PATTSBURGH, PA"
+depBankName,TOWN & COUNTY CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 310, HARLAN, IA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,27348382702708
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$8257.20
+ typeOfProp,principal residence
+bDesignation,"Grocers Supplier, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,16-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4325.20
+signingDateCB,16-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,ARRA-BEATTY
+preLoanBankName,NA
+loanOriginatorName,"US DEPT OF LA,BOR WH"
+cbEmpAddress,"15 NEW SUDBURY ST, JFK BLDG RM E-235, BOSTON, MA"
+preLoanBankAdd,NA
+loanOriginatorID,42qEtzVF
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,A-s DEPT OF LABOR WH
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156257707
+cbYrsInJob,8
+loanOriginatorAddress,"90 7TH STREET, SUITE 13-100, SAN FRANCISCO, CA"
+refinanImproveDescription_e,to be made
+borrowerName_3,• J BROWN
+borrowerName_9,• J BROWN
+borrowerName_10,• J BROWN
+cborrowerName_3,"LORI A LA""CERO"
+cBorrowerName_9,"LORI A LA""CERO"
+cborrowerName_10,"LORI A LA""CERO"
+signingDateB_10,16-JAN-2016
+signingDateCB_10,16-JAN-2016

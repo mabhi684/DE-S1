@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Asst Accountant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7ob7Mkhp1rT6OZ
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VTMQ -1114051138
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$3025.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Us Bank Na
+Interest,7.38%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"2751 SHEPARD RD, ST PAUL, MN"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,57254023457326
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$393.25
+PropAddress,"7315 MARTWOOD WAXY , SAN JOSE, CA, 95120"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,$514.25
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1992
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$4429.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$104084.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3025.00
+bTotalIncome,$4429.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4754.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$3025.00
+refinanCost,$3025.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BARBARA MEIER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-JAN-2069
+cbTotalIncome,$4754.00
+fundingFee,$0.00
+borrowerName,JEREMY V CLARK
+cbtBaseSalary,$9183.00
+disocuntValue,$0.00
+bSecurityNumber,845550602
+cbtOverttime,$0.00
+totalTxnCost,$3025.00
+bPhone,7823357813
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-AUG-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$3025.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$3025.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMA-NTO, CA, 95819"
+cbtTotalIncome,$47544429.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1302.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$3025.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,RANDY L PENNER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,650366745
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,6477822702
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-APR-1978
+psntTotalExp,$3025.00
+isCoWorkerB,
+cbYrsSchool,1987
+propFirstLoan,$3025.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"202 NATIONAEL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTA•, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$3025.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JEREMY V CLARK
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL WAGE AIND HOUR
+depAmount,$393.25
+isCoWorkerCB,No
+bEmpAddress,"US DOL WAGE HOUR DIV, 2800 COTTAGE WAY STE W 1836, SACRAMENTO, CA"
+depBankName,STRAIT-VIEW CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1850 MARINE DRIVE, PORT ANGELES, WA"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,82463007442786
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$514.25
+ typeOfProp,principal residence
+bDesignation,"Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,13-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$393.25
+signingDateCB,13-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL R9 OASAM SAN FRAN
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OFCCP
+cbEmpAddress,"90 7TH ST, STE 2650, SAN FRANCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,G6Uisz51
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OFCCP
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026930038
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM C4315, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,JEREMY V CLARK
+borrowerName_9,JEREMY V CLARK
+borrowerName_10,JEREMY V CLARK
+cborrowerName_3,RANDY L PENNER
+cBorrowerName_9,RANDY L PENNER
+cborrowerName_10,RANDY L PENNER
+signingDateB_10,13-DEC-2015
+signingDateCB_10,13-DEC-2015

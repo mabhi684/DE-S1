@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Network Admin, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,igHrYwGm713GsX
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OKGN -0643535766
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$99232.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.84%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"17 MAGEE DR , JEANNETTE, PA, 15644"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2007
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3003.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$99232.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7022.00
+bTotalIncome,$3003.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6341.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$99232.00
+refinanCost,$7022.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DARREL HONICK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-JAN-2058
+cbTotalIncome,$6341.00
+fundingFee,$0.00
+borrowerName,GENEVA M DUHON
+cbtBaseSalary,$9344.00
+disocuntValue,$0.00
+bSecurityNumber,030617881
+cbtOverttime,$0.00
+totalTxnCost,$99232.00
+bPhone,7825148186
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-DEC-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$99232.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$99232.00
+bPresentAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+cbtTotalIncome,$63413003.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1789.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+psntFirstLoan,$99232.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SCOTTY D MENDENHALL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,270160101
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8550184140
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,31-OCT-1988
+psntTotalExp,$99232.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$99232.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$99232.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,GENEVA M DUHON
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OASAM GOV BENEFITS
+depAmount,$10915.52
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM 51511, WASHINGTON, DC"
+depBankName,HOMETOWN BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"80 SHEBOYGAN ST., FOND DU LAC, WI"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,12828668322474
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$20838.72
+ typeOfProp,principal residence
+bDesignation,"HR Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,28-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$13892.48
+signingDateCB,28-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL OPA
+cbEmpAddress,"STROM THURMOND FED BLDG, 1835 ASSEMBLY ST RM 365, COLUMBIA, SC"
+preLoanBankAdd,NA
+loanOriginatorID,2m1VqZNO
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OPA
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934688
+cbYrsInJob,7
+loanOriginatorAddress,"200 CONST AVE NW, RM N 6311, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,GENEVA M DUHON
+borrowerName_9,GENEVA M DUHON
+borrowerName_10,GENEVA M DUHON
+cborrowerName_3,SCOTTY D MENDENHALL
+cBorrowerName_9,SCOTTY D MENDENHALL
+cborrowerName_10,SCOTTY D MENDENHALL
+signingDateB_10,28-DEC-2015
+signingDateCB_10,28-DEC-2015

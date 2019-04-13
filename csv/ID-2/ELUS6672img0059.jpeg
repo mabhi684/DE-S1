@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Office Boy, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,InQOza5NU2B68h
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZGRL-3053505412
+lt2y_cb_emp_name1,"DOL OASAM FMSC; 200 CA""NSTITUTION AVE NW, RM 55526, WASHINGTON, DC"
+childSupportExpOwnedValue,$0.00
+Amount,$10022.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,city of alexandria ecu
+Interest,10.22%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"1416 Duke St, AlArexandria, Va"
+Tenure,30 months
+lt2y_cb_emp_salary1,"$2,392.75"
+pre_loan_bank_acNo_01,88377415026132
+AmortType,Other
+lt2y_cb_emp_designation1,payroll specialist permanent
+pre_loan_bank_EMI_01,"$1,503.30"
+PropAddress,"11247 SAN JOSE BLVD , JACKSONVILLE, FL, 32223"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,204.84"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2000
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3847.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$104173.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10022.00
+bTotalIncome,$3847.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2517.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$10022.00
+refinanCost,$10022.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHERYL WILLIAMS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-NOV-2060
+cbTotalIncome,$2517.00
+fundingFee,$0.00
+borrowerName,CORY A TRENT
+cbtBaseSalary,$6364.00
+disocuntValue,$0.00
+bSecurityNumber,881774431
+cbtOverttime,$0.00
+totalTxnCost,$10022.00
+bPhone,4815345735
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-FEB-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$10022.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$10022.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMMNTO, CA, 95819"
+cbtTotalIncome,$25173847.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1056.00
+isOutstandingCourtCaseB,
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$10022.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DAVID L NAFTZ
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,285016488
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1231330711
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,23-SEP-1986
+psntTotalExp,$10022.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$10022.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, A T, 84119"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMAANTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$10022.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CORY A TRENT
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABOR MSHA
+depAmount,$1403.08
+isCoWorkerCB,No
+bEmpAddress,"1301 AIRPORT RA""AD„ BEAVER, WV"
+depBankName,POSTAL FAMILY FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 9318, FARGO, ND"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,14146207735667
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$1803.96
+ typeOfProp,principal residence
+bDesignation,"Labor, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,20-FEB-2016
+lt2y_b_emp_name1,"us dol r2 sol; 201 varick st rm 983, n?w york, ny"
+subTotLiqValue,$1302.86
+signingDateCB,20-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$1,506.77"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,CLEANERPERMANENT
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"USDOL A""LMS; 90 7TH STREET, SUITE 18 100, SAN FRANCISCO, CA"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,185.10"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,cleanerpermanent
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MAINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & BEA_ LTH
+cbEmpAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+preLoanBankAdd,NA
+loanOriginatorID,kDvj DJod
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123866923
+cbYrsInJob,6
+loanOriginatorAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+refinanImproveDescription_e,made
+borrowerName_3,CORY A TRENT
+borrowerName_9,CORY A TRENT
+borrowerName_10,CORY A TRENT
+cborrowerName_3,DAVID L NAFTZ
+cBorrowerName_9,DAVID L NAFTZ
+cborrowerName_10,DAVID L NAFTZ
+signingDateB_10,20-FEB-2016
+signingDateCB_10,20-FEB-2016

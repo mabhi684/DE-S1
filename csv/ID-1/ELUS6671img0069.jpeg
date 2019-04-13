@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,hy5RdPVsKysUvx
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TLQB -7667208860
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$79892.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,BANCORP SOUTH
+Interest,10.93%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"323 n. gloster, tupelo, ms"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,22844251286586
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,587.04"
+PropAddress,"7551 STAADEBARER AVE , WARREN, MI, 48091"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$15,978.40"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,emsbla cu
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"231 W. MICHIGAN, MILWAUKEE, WI"
+YearBuilt,2008
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,46542011204278
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$7,989.20"
+propFor,Primary
+bBaseSalary,$2715.00
+pre_loan_bank_balance_02,"$15,978.40"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$49704.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11124.00
+bTotalIncome,$2715.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4823.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$79892.00
+refinanCost,$11124.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANDREA BUTKOVICH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-APR-2061
+cbTotalIncome,$4823.00
+fundingFee,$0.00
+borrowerName,WELBY L STAYTON
+cbtBaseSalary,$7538.00
+disocuntValue,$0.00
+bSecurityNumber,734750755
+cbtOverttime,$0.00
+totalTxnCost,$79892.00
+bPhone,8748235451
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-JAN-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$79892.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$79892.00
+bPresentAddress,"3039 AMWILER RD STE 130, ATLANTA, GA, 30360"
+cbtTotalIncome,$48232715.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1584.00
+isOutstandingCourtCaseB,
+bMailAddress,"3039 AMWILER RD STE 130, ATLANTA, GA, 30360"
+psntFirstLoan,$79892.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,STEPHANIE L SCHMITZ
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,463487737
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,6680513804
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,09-FEB-1992
+psntTotalExp,$79892.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$79892.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"USGS AJM JOHNSON HALL MSU, BOZEMAN, MT, 59717"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3039 AMWILER RD STE 130, ATLANTA, GA, 30360"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$79892.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,WELBY L STAYTON
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OPA
+depAmount,$11184.88
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM S1032, WASHINGTON, DC"
+depBankName,CONSUMERS PROFESSIONAL CU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"525 WEST WILLOW, LANSING, MI"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,82223865766268
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$15978.40
+ typeOfProp,investment property
+bDesignation,"Secretary, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,16-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8788.12
+signingDateCB,16-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,"US DOL JA""B CORPS"
+cbEmpAddress,"PIKEVILLE DISTRICT OFFICE, 100 FAE RAMSEY LN, PIKA(VILLE, KY"
+preLoanBankAdd,NA
+loanOriginatorID,dfuf6274
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL JA•B CORPS
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3125965477
+cbYrsInJob,6
+loanOriginatorAddress,"KLUCZYNSKI FEDERAL BLDG RM 676, 230 S DEARBORN ST, CHICAGO, IL"
+refinanImproveDescription_e,made
+borrowerName_3,WELBY L STAYTON
+borrowerName_9,WELBY L STAYTON
+borrowerName_10,WELBY L STAYTON
+cborrowerName_3,STEPHANIE L SCHMITZ
+cBorrowerName_9,STEPHANIE L SCHMITZ
+cborrowerName_10,STEPHANIE L SCHMITZ
+signingDateB_10,16-JAN-2016
+signingDateCB_10,16-JAN-2016

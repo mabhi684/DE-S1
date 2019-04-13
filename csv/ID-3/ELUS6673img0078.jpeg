@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Cook, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,qjxZoLGEIywYZ7
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TXZN-3534768171
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$48462.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,First National Bank Of Volga
+Interest,9.79%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"po box 77, volga, sd"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,41675547582867
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,300.06"
+PropAddress,"402 E CENTRAL AVE , MOORESTOWN, NJ, 8057"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$10,177.02"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1970
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$8520.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$56159.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18636.00
+bTotalIncome,$8520.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1879.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$48462.00
+refinanCost,$18636.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CAROLYN CAVUTO CARNIVALE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-NOV-2056
+cbTotalIncome,$1879.00
+fundingFee,$0.00
+borrowerName,LISA A GARCIA
+cbtBaseSalary,$10399.00
+disocuntValue,$0.00
+bSecurityNumber,134787683
+cbtOverttime,$0.00
+totalTxnCost,$48462.00
+bPhone,2708623026
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,27-FEB-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$48462.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$48462.00
+bPresentAddress,"STENNIS DATA CTR BLDG 2010, STENNIS SP CN, MS, 39529"
+cbtTotalIncome,$18798520.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1131.00
+isOutstandingCourtCaseB,No
+bMailAddress,"STENNIS DATA CTR BLDG 2010, STENNIS SP CN, MS, 39529"
+psntFirstLoan,$48462.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JULIE JOYCA»
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,388251722
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1711572635
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,06-SEP-1985
+psntTotalExp,$48462.00
+isCoWorkerB,
+cbYrsSchool,1982
+propFirstLoan,$48462.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAME-NTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"STENNIS DATA CTR BLDG 2010, STENNIS SP CN, MS, 39529"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$48462.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,LISA A GARCIA
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL WAGE AND HOUR
+depAmount,$6784.68
+isCoWorkerCB,No
+bEmpAddress,"230 N FIRST AVE, STE 402, PHA""ENIX, AZ"
+depBankName,PALISADES FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"300 NORTH MIDDLETOWN ROAD, PEARL RIVER, NY"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,33255501575887
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$9692.40
+ typeOfProp,investment property
+bDesignation,"Sr Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,26-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7269.30
+signingDateCB,26-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL/OASACM/BOC/OPS/COST DET
+cbEmpAddress,"277 RIVERSIDE DRIVE, STE 104, FRANKLIN, TN"
+preLoanBankAdd,NA
+loanOriginatorID,j1pt4S6r
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL/OASAM/BOC/OPS/COST DET
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4252713848
+cbYrsInJob,7
+loanOriginatorAddress,"PO BOX 3433 RENTON, WA"
+refinanImproveDescription_e,to be made
+borrowerName_3,LISA A GARCIA
+borrowerName_9,LISA A GARCIA
+borrowerName_10,LISA A GARCIA
+cborrowerName_3,JULIE JOYCA»
+cBorrowerName_9,JULIE JOYCA»
+cborrowerName_10,JULIE JOYCA»
+signingDateB_10,26-JAN-2016
+signingDateCB_10,26-JAN-2016

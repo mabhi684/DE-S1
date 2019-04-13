@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,WrsjQ0t085I8Ep
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,YSML-6840812352
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$92372.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.08%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"506 AMBOY ST , BROOKLYN, NY, 11212"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2000
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$5191.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$78586.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7022.00
+bTotalIncome,$5191.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4599.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$92372.00
+refinanCost,$7022.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ADRIAN PAUL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-SEP-2059
+cbTotalIncome,$4599.00
+fundingFee,$0.00
+borrowerName,ALICIA JONES
+cbtBaseSalary,$9790.00
+disocuntValue,$0.00
+bSecurityNumber,065517226
+cbtOverttime,$0.00
+totalTxnCost,$92372.00
+bPhone,4551788581
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-MAR-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$92372.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$92372.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$45995191.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$826.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+psntFirstLoan,$92372.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ANNE BERRY WADE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,250550754
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2841854416
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,29-DEC-1989
+psntTotalExp,$92372.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$92372.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$92372.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ALICIA JONES
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL OSHA
+depAmount,$9237.20
+isCoWorkerCB,No
+bEmpAddress,"1128 STATE ST, STE 200, ERIE, PA"
+depBankName,MONTANA FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 5027, GREAT FALLS, MT"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,24706528006355
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$20321.84
+ typeOfProp,principal residence
+bDesignation,"Sales Agent, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,12-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$13855.80
+signingDateCB,12-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL R1 SOL
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"JFK FEDERAL BLDG, RM E 375, BOSTON, MA"
+preLoanBankAdd,NA
+loanOriginatorID,hMxgRzUS
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5053466775
+cbYrsInJob,4
+loanOriginatorAddress,"2 PARK CENTRAL TOWER NO 407, 300 SAN MATEO BLVD NE, ALBUQUERQUE, NM"
+refinanImproveDescription_e,to be made
+borrowerName_3,ALICIA JONES
+borrowerName_9,ALICIA JONES
+borrowerName_10,ALICIA JONES
+cborrowerName_3,ANNE BERRY WADE
+cBorrowerName_9,ANNE BERRY WADE
+cborrowerName_10,ANNE BERRY WADE
+signingDateB_10,12-FEB-2016
+signingDateCB_10,12-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Legal Executive, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,sn2axXlwc57qvZ
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UIHI-1527732052
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$9428.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.00%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"226 CHALET AVE , SAN JOSE, CA, 95127"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1977
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$5886.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$17881.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9428.00
+bTotalIncome,$5886.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1872.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$9428.00
+refinanCost,$9428.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CRISTINA ACEVEDO-DUTRA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,18-MAR-2059
+cbTotalIncome,$1872.00
+fundingFee,$0.00
+borrowerName,APRIL L THORNE
+cbtBaseSalary,$7758.00
+disocuntValue,$0.00
+bSecurityNumber,360731323
+cbtOverttime,$0.00
+totalTxnCost,$9428.00
+bPhone,6641623715
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,28-JUN-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$9428.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$9428.00
+bPresentAddress,"432 NATL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$18725886.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1462.00
+isOutstandingCourtCaseB,No
+bMailAddress,"432 NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$9428.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,NATHAN A JOHNSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,567544287
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8042351621
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-OCT-1990
+psntTotalExp,$9428.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$9428.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"12703 RESEARCH PKWY , ORLANDO, FL, 32826"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"432 NATL CTR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$9428.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,APRIL L THORNE
+isDownpaymentBorrowedCB,No
+bEmpName,DIRECTORATE OF CONSTRUCTION
+depAmount,$942.80
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, MS N3468, WASHINGTON, DC"
+depBankName,TEMPLE UNIVERSITY
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1801 N. BROAD ST., PHILADELPHIA, PA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,23748267232081
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$2074.16
+ typeOfProp,investment property
+bDesignation,"Sr Accountant, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,12-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1414.20
+signingDateCB,12-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL ETA
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR
+cbEmpAddress,"170 S INDEPENDENCE MALL WEST, STE 815 E, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,Z4RlobrJ
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026936646
+cbYrsInJob,10
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, ROOM S1521, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,APRIL L THORNE
+borrowerName_9,APRIL L THORNE
+borrowerName_10,APRIL L THORNE
+cborrowerName_3,NATHAN A JOHNSON
+cBorrowerName_9,NATHAN A JOHNSON
+cborrowerName_10,NATHAN A JOHNSON
+signingDateB_10,12-FEB-2016
+signingDateCB_10,12-FEB-2016

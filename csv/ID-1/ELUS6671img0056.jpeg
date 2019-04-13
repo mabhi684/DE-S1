@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Guard, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,buaUtch08r83TX
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FTRZ-0434078431
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$9310.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,NEW HAMPSHIRE HIGHER ED LOAN CORP
+Interest,7.78%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"p o box 2111, concord, nh"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,11534807723056
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,210.30"
+PropAddress,"243 ABBLETT VLG , CAMDEN, NJ, 8105"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,675.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1988
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$4175.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$69465.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9310.00
+bTotalIncome,$4175.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1149.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$9310.00
+refinanCost,$9310.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MIGUEL MUNIZ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,28-AUG-2075
+cbTotalIncome,$1149.00
+fundingFee,$0.00
+borrowerName,NATASHA M ISAACS COSGROVE
+cbtBaseSalary,$5324.00
+disocuntValue,$0.00
+bSecurityNumber,247675544
+cbtOverttime,$0.00
+totalTxnCost,$9310.00
+bPhone,1745516336
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,24-APR-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$9310.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$9310.00
+bPresentAddress,"308 SOA>TH AIRPORT RD , PEARL, MS, 39208"
+cbtTotalIncome,$11494175.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1635.00
+isOutstandingCourtCaseB,No
+bMailAddress,"308 SOUTH AIRPORT RD , PEARL, MS, 39208"
+psntFirstLoan,$9310.00
+isBankcruptB,
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,0
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"PLACER HALL 6000 J ST , SACRAMAt NTO, CA, 95819"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,ROBERT TURK
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,051402777
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0400172225
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,21-DEC-1988
+psntTotalExp,$9310.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$9310.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"345 MIDDLEFIAcLD RD MS 975 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"308 SOUTH AIRPORT RD , PEARL, MS, 39208"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Rent
+propTotalExp,$9310.00
+isDeliquentCB,No
+lt2y_cb_res_since,9
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"101 pitkin st , !oast hartford, ct, 6108"
+depPurchHeldBy,NATASHA M ISAACS COSGROVE
+isDownpaymentBorrowedCB,No
+bEmpName,"US DOL WAGE AND HA""UR"
+depAmount,$1396.50
+isCoWorkerCB,
+bEmpAddress,"90 7TH STREAtT, SUITE 13 100, SAN FRANCISCO, CA"
+depBankName,FIRST FINANCIAL BANK USA
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 98, DUPREE, SD"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,22686582673238
+isNewPropPermanentB,
+bYrsInJob,8
+depBankBal,$1768.90
+ typeOfProp,second home
+bDesignation,"Worker, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,11-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1396.50
+signingDateCB,11-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL SOL
+preLoanBankName,NA
+loanOriginatorName,A>S DEPT LABOR/VETS
+cbEmpAddress,"170 S INDEPENDENCE MALL WEST, SAPUTE 630 EAST, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,eLY4YszU
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT LABOR/VETS
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3072615454
+cbYrsInJob,9
+loanOriginatorAddress,"100 WEST MIDWEST, PO BOX 2760, CASPER, WY"
+refinanImproveDescription_e,to be made
+borrowerName_3,NATASHA M ISAACS COSGROVE
+borrowerName_9,NATASHA M ISAACS COSGROVE
+borrowerName_10,NATASHA M ISAACS COSGROVE
+cborrowerName_3,ROBERT TURK
+cBorrowerName_9,ROBERT TURK
+cborrowerName_10,ROBERT TURK
+signingDateB_10,11-FEB-2016
+signingDateCB_10,11-FEB-2016

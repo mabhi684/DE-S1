@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Computer Operator, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,23kVIBOdO6sjtv
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BNHU -2106665715
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$102254.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,RiversidAc Fcu
+Interest,7.12%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"245 Vulcan St, Buffalo, Ny"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,34807342731562
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$13,293.02"
+PropAddress,"801 INGRAM ST , CONWAY, AR, 72032"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$20,450.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Bank Of Elmwood
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"2704 lathrop avenue, racine, wA®"
+YearBuilt,1978
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,15627038204688
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$10,225.40"
+propFor,Investment
+bBaseSalary,$2701.00
+pre_loan_bank_balance_02,"$21,473.34"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Wells Fargo Education Fin Svcs
+construcOrigCost,$69465.00
+bBonus,$0.00
+pre_loan_bank_add_03,"301 EAST 58TH STREET NORTH, SIOUX FALLS, SD"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,06856506021321
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$13,293.02"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$21,473.34"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10433.00
+bTotalIncome,$2701.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2770.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$102254.00
+refinanCost,$10433.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JANET JONES
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,20-MAR-2073
+cbTotalIncome,$2770.00
+fundingFee,$0.00
+borrowerName,"MICHA, EL W DOUGHTEN"
+cbtBaseSalary,$5471.00
+disocuntValue,$0.00
+bSecurityNumber,265076536
+cbtOverttime,$0.00
+totalTxnCost,$102254.00
+bPhone,0464448440
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-NOV-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1976
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$102254.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$102254.00
+bPresentAddress,"432 NAIL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$27702701.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1419.00
+isOutstandingCourtCaseB,No
+bMailAddress,"432 NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$102254.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,2
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"345 middlefield rd ms 977 , menlAp park, ca, 94025"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DOUGLAS C MCGHEE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,461540088
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8832200430
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,28-APR-1988
+psntTotalExp,$102254.00
+isCoWorkerB,No
+cbYrsSchool,1976
+propFirstLoan,$102254.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"432 NATL CTR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$102254.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,MICHAEL W DOUGHTEN
+isDownpaymentBorrowedCB,No
+bEmpName,DOL R9 OSHA SAN FRAN
+depAmount,$15338.10
+isCoWorkerCB,No
+bEmpAddress,"90 7TH ST STE 18100, , SAN FRANCISCO, CA"
+depBankName,ESL FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"100 KINGS HIGHWAY SOUTH SUITE 1200, ROCHESTER, NY"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,84087021830350
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$19428.26
+ typeOfProp,investment property
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,13-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$10225.40
+signingDateCB,13-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL JA-B CORPS
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY AND HEALTH
+cbEmpAddress,"230 S DEARBORN ST, RM 676, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,zyp6MXip
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFAMY AND HEALTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3032315438
+cbYrsInJob,6
+loanOriginatorAddress,"EFS WEST, PO BOX 25367 DFC, DENVER, CO"
+refinanImproveDescription_e,made
+borrowerName_3,"MICHA, EL W DOUGHTEN"
+borrowerName_9,"MICHA, EL W DOUGHTEN"
+borrowerName_10,"MICHA, EL W DOUGHTEN"
+cborrowerName_3,DOUGLAS C MCGHEE
+cBorrowerName_9,DOUGLAS C MCGHEE
+cborrowerName_10,DOUGLAS C MCGHEE
+signingDateB_10,13-FEB-2016
+signingDateCB_10,13-FEB-2016

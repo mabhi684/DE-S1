@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Receptionist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,jiYVTffZKhspGj
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,JXNF-1241720181
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$34487.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,banc first
+Interest,7.58%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"p.o. box 1608, shawnee, ok"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,05630707745540
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$5,173.05"
+PropAddress,"5555 W 70TH ST , A-DINA, MN, 55439"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$7,587.14"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1988
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2981.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$34487.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8124.00
+bTotalIncome,$2981.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2112.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$34487.00
+refinanCost,$8124.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DEAN BURESH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-JUN-2061
+cbTotalIncome,$2112.00
+fundingFee,$0.00
+borrowerName,JONATHAN F M CALEDONIS
+cbtBaseSalary,$5093.00
+disocuntValue,$0.00
+bSecurityNumber,212505368
+cbtOverttime,$0.00
+totalTxnCost,$34487.00
+bPhone,8413243410
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-JAN-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$34487.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$34487.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$21122981.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1129.00
+isOutstandingCourtCaseB,
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMAANTO, CA, 95819"
+psntFirstLoan,$34487.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GERALD F GARDNER JR
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,430088623
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8283107533
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-OCT-1983
+psntTotalExp,$34487.00
+isCoWorkerB,
+cbYrsSchool,1989
+propFirstLoan,$34487.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"STENNIS DATA CTR BLDG 2010, STENNIS SP CN, MS, 39529"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$34487.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JONATHAN F M CALEDONIS
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OWCP DLHWC
+depAmount,$4138.44
+isCoWorkerCB,No
+bEmpAddress,"200 GRANBY ST STAc 212, VA"
+depBankName,AMERICAN STATE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 140, SIOUX CENTER, IA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,38630474555864
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$5862.79
+ typeOfProp,second home
+bDesignation,"Technician, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,02-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$5173.05
+signingDateCB,02-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL VETS- THOMPSON
+preLoanBankName,NA
+loanOriginatorName,US DOL EBSA
+cbEmpAddress,"JFK FEDAgRAL BLDG, RM E315, BOSTON, MA"
+preLoanBankAdd,NA
+loanOriginatorID,FKmP1uBI
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DA•L EBSA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8595784680
+cbYrsInJob,6
+loanOriginatorAddress,"1885 DIXIE HIGHWAYA STE 210, FT WRIGHT, KY"
+refinanImproveDescription_e,made
+borrowerName_3,JONATHAN F M CALEDONIS
+borrowerName_9,JONATHAN F M CALEDONIS
+borrowerName_10,JONATHAN F M CALEDONIS
+cborrowerName_3,GERALD F GARDNER JR
+cBorrowerName_9,GERALD F GARDNER JR
+cborrowerName_10,GERALD F GARDNER JR
+signingDateB_10,02-DEC-2015
+signingDateCB_10,02-DEC-2015

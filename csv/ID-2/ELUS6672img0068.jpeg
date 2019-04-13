@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Asst Accountant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,1baQoWAuREESzt
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LBXZ -6617565328
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$60388.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,First Financifal Community Cu
+Interest,7.76%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"2540 w. trenton rd., edhignburg, tx"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,52733781743548
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,058.20"
+PropAddress,"39 MAPLE AVE # A, COLLINSVILLE, CT, 6019"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$12,681.48"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,"capitA*1 one, na"
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"313 carondelet, new orleAons, la"
+YearBuilt,1990
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,64876773102883
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$9,058.20"
+propFor,Seconday
+bBaseSalary,$3242.00
+pre_loan_bank_balance_02,"$13,285.36"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$60388.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8271.00
+bTotalIncome,$3242.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4728.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$60388.00
+refinanCost,$8271.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANN SNEDDAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-DEC-2075
+cbTotalIncome,$4728.00
+fundingFee,$0.00
+borrowerName,DAVID A STILLWELL
+cbtBaseSalary,$7970.00
+disocuntValue,$0.00
+bSecurityNumber,515682823
+cbtOverttime,$0.00
+totalTxnCost,$60388.00
+bPhone,7663746368
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,24-OCT-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$60388.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$60388.00
+bPresentAddress,"3916 SUNSET RIDGE RD , RALEIIEGH, NC, 27607"
+cbtTotalIncome,$47283242.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1600.00
+isOutstandingCourtCaseB,No
+bMailAddress,"3916 SUNSET AIDA- RD , RALEIGH, NC, 27607"
+psntFirstLoan,$60388.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MICHAEL D COMO
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,634325680
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0386577487
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,31-AUG-1983
+psntTotalExp,$60388.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$60388.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"425 JORDAN RD , TROY, NY, 12180"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3916 SUNSET RIDGE RD , RALEIGH, NC, 27607"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$60388.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DAVID A STILLWELL
+isDownpaymentBorrowedCB,No
+bEmpName,OFF OF REG ADMIN WH
+depAmount,$7850.44
+isCoWorkerCB,No
+bEmpAddress,"10810 EXECUTIVE CENTER DRIVE, , LITTLE ROCK, AR"
+depBankName,MIDWEST PARTNERS FED CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 88538 3823 KIWANIS CIRCLE, SIOUX FALLS, SD"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,86324806702476
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$12681.48
+ typeOfProp,principal residence
+bDesignation,"Payroll Specialist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,15-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7850.44
+signingDateCB,15-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,VETS
+preLoanBankName,NA
+loanOriginatorName,"US DEPT OF LABA""R WH"
+cbEmpAddress,"332 MINNESOTA ST, STE E200, SAINT PAUL, MN"
+preLoanBankAdd,NA
+loanOriginatorID,E5qmeSZ6
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,Ap's DEPT OF LABOR WH
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,6
+loanOriginatorAddress,"100 N BARRANCA ST, STE 850, WEST COVINA, CA"
+refinanImproveDescription_e,made
+borrowerName_3,DAVID A STILLWELL
+borrowerName_9,DAVID A STILLWELL
+borrowerName_10,DAVID A STILLWELL
+cborrowerName_3,MICHAEL D COMO
+cBorrowerName_9,MICHAEL D COMO
+cborrowerName_10,MICHAEL D COMO
+signingDateB_10,15-FEB-2016
+signingDateCB_10,15-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Secretary, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,wFA8GscEybvOAY
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MONK-0281681804
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$69556.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,rosalind franklin uni@v/med&science
+Interest,7.77%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"3333 Greenbay Road, Nforth Chicago, Il"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,81627574862205
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$8,346.72"
+PropAddress,"4121 N NORTHWALL AVE , BOISE, ID, 83703"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$12,520.08"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,COA•PER'S CAVE FCU
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"92 dix avenue, glens falls, ny"
+YearBuilt,1977
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,26602674452561
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$10,433.40"
+propFor,Investment
+bBaseSalary,$5260.00
+pre_loan_bank_balance_02,"$12,520.08"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$69556.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8271.00
+bTotalIncome,$5260.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2578.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$69556.00
+refinanCost,$8271.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BARBARA COVEY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,14-FEB-2059
+cbTotalIncome,$2578.00
+fundingFee,$0.00
+borrowerName,RANDAL CLARK
+cbtBaseSalary,$7838.00
+disocuntValue,$0.00
+bSecurityNumber,605256641
+cbtOverttime,$0.00
+totalTxnCost,$69556.00
+bPhone,7353204213
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-OCT-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$69556.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$69556.00
+bPresentAddress,"4200 NEW HAVEN RD , COU>MBIA, MO, 65201"
+cbtTotalIncome,$25785260.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1209.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4200 NEW HAVA°3/4N RD , COLUMBIA, MO, 65201"
+psntFirstLoan,$69556.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CHID WANG YEUNG
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,334075713
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5305572656
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-FEB-1982
+psntTotalExp,$69556.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$69556.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"677 ALA MOANA BLVD STE 615, HA•NOLULU, HI, 96813"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$69556.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RANDAL CLARK
+isDownpaymentBorrowedCB,
+bEmpName,71)s DEPT OF LABOR OASAM
+depAmount,$8346.72
+isCoWorkerCB,
+bEmpAddress,"1111 THIRD AVE, STE 915, SEATTLE, WA"
+depBankName,PEOPLES STATE BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 217, WYALUSING, PA"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,44236816701148
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$13215.64
+ typeOfProp,second home
+bDesignation,"Sr Accountant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,26-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$10433.40
+signingDateCB,26-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,ARRA-HODGE
+preLoanBankName,NA
+loanOriginatorName,US DOL ESA OWCP DCMWC
+cbEmpAddress,"201 VARICK ST, RM#750, NA-W YORK, NY"
+preLoanBankAdd,NA
+loanOriginatorID,56ykSjg0
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL MSA OWCP DCMWC
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,6
+loanOriginatorAddress,"500 QUARRIER ST, RM 110, CHARLESTON, WV"
+refinanImproveDescription_e,made
+borrowerName_3,RANDAL CLARK
+borrowerName_9,RANDAL CLARK
+borrowerName_10,RANDAL CLARK
+cborrowerName_3,CHID WANG YEUNG
+cBorrowerName_9,CHID WANG YEUNG
+cborrowerName_10,CHID WANG YEUNG
+signingDateB_10,26-JAN-2016
+signingDateCB_10,26-JAN-2016

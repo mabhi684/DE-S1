@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Sales Agent, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,qk3CgmFDQmr3R3
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GHUY -3136515736
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$104084.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Security Bank Of Kansas CA®ty
+Interest,9.50%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1000 minnesota avenue, kansas city, ks"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,72587575154162
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,408.40"
+PropAddress,"PO BA-X 124 , MERRILL, OR, 97633"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$21,857.64"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,security bank of kAinsas city
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1000 Minnesota Avenue, Kansas City, Ks"
+YearBuilt,1987
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,03164701628552
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$14,571.76"
+propFor,Primary
+bBaseSalary,$4521.00
+pre_loan_bank_balance_02,"$22,898.48"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$104084.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9310.00
+bTotalIncome,$4521.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5047.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$104084.00
+refinanCost,$9310.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CASSIDY ROBINETTE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-JAN-2058
+cbTotalIncome,$5047.00
+fundingFee,$0.00
+borrowerName,WILLIAM JERRY BUTCHER
+cbtBaseSalary,$9568.00
+disocuntValue,$0.00
+bSecurityNumber,834331443
+cbtOverttime,$0.00
+totalTxnCost,$104084.00
+bPhone,2033521537
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-OCT-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$104084.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$104084.00
+bPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+cbtTotalIncome,$50474521.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1464.00
+isOutstandingCourtCaseB,
+bMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+psntFirstLoan,$104084.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,WILLIAM P YOST
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,628467286
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5542443757
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,05-APR-1992
+psntTotalExp,$104084.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$104084.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6480 DOUBLETREE AfVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"600 4TH ST SOUTH , ST PETAARSBURG, FL, 33701"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$104084.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,WILLIAM JERRY BUTCHER
+isDownpaymentBorrowedCB,No
+bEmpName,"DOL ESA, OWCP SE REGION"
+depAmount,$15612.60
+isCoWorkerCB,No
+bEmpAddress,"400 W BAY ST STE 943, SUITE 1026, JACKSONVATLLE, FL"
+depBankName,FIRST COMMONWEALTH F C U
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 20030 450 UNION BOULEVARD, ALLENTOWN, PA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,58545360800565
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$19775.96
+ typeOfProp,investment property
+bDesignation,"Worker, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,14-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$11449.24
+signingDateCB,14-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,US DOL A•IG OI
+cbEmpAddress,"COCHRANS MILL RD, PO BOX 18233, PITTSBURGH, PAC"
+preLoanBankAdd,NA
+loanOriginatorID,FHI6Xk4W
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OIG OI
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026935251
+cbYrsInJob,7
+loanOriginatorAddress,"OIG RM S5021, 200 CONSTITUTION AVENUE NW, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,WILLIAM JERRY BUTCHER
+borrowerName_9,WILLIAM JERRY BUTCHER
+borrowerName_10,WILLIAM JERRY BUTCHER
+cborrowerName_3,WILLIAM P YOST
+cBorrowerName_9,WILLIAM P YOST
+cborrowerName_10,WILLIAM P YOST
+signingDateB_10,14-FEB-2016
+signingDateCB_10,14-FEB-2016

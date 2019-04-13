@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Cook, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,z2k4y4CjrmHeFC
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,RIGN-5468686172
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$13481.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Ace Community Ck4
+Interest,9.72%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Po Box 605, Ames, Ia"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,20554220311760
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,022.15"
+PropAddress,"13565 k>NDERRIDGE RD , W SPRINGFIELD, PA, 16443"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,561.39"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,selh federal credit union
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"P 0 BOX 8709, MANDEVILLE, LA"
+YearBuilt,2001
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,87267548724850
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,348.10"
+propFor,Seconday
+bBaseSalary,$4306.00
+pre_loan_bank_balance_02,"$2,291.77"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$22047.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13481.00
+bTotalIncome,$4306.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1759.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$13481.00
+refinanCost,$13481.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BETTY GRIFFEN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-NOV-2066
+cbTotalIncome,$1759.00
+fundingFee,$0.00
+borrowerName,CHARLES RYAN WARBRITTON
+cbtBaseSalary,$6065.00
+disocuntValue,$0.00
+bSecurityNumber,767606151
+cbtOverttime,$0.00
+totalTxnCost,$13481.00
+bPhone,5038433263
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-NOV-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$13481.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$13481.00
+bPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MA-, 65201"
+cbtTotalIncome,$17594306.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$915.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4200 NEW HAVEN RD , COLUMBIA„ MO, 65201"
+psntFirstLoan,$13481.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRETT A UHLE
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,181518518
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0722644465
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,08-DEC-1980
+psntTotalExp,$13481.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$13481.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"4200 NEW HAVEN RD , COLUMBIAJ, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$13481.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CHARLES RYAN WARBRITTON
+isDownpaymentBorrowedCB,
+bEmpName,71)s DOL OWCP DCMWC
+depAmount,$1348.10
+isCoWorkerCB,No
+bEmpAddress,"1 TECH PARK DRIVE, SUITE 250, JOHNSTOWN, Pk,"
+depBankName,HORIZONS FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"120 MAIN STREET, BINGHAMTON, NY"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,23543272584547
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$2561.39
+ typeOfProp,second home
+bDesignation,"Worker, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,17-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2022.15
+signingDateCB,17-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"1999 BROADWAY SUITE 1690, , DENVER, CO"
+preLoanBankAdd,NA
+loanOriginatorID,5aKQcQ40
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026917780
+cbYrsInJob,8
+loanOriginatorAddress,"2 MASSACHUSETTS AVENUE NE, ROOM 4135, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,CHARLES RYAN WARBRITTON
+borrowerName_9,CHARLES RYAN WARBRITTON
+borrowerName_10,CHARLES RYAN WARBRITTON
+cborrowerName_3,BRETT A UHLE
+cBorrowerName_9,BRETT A UHLE
+cborrowerName_10,BRETT A UHLE
+signingDateB_10,17-DEC-2015
+signingDateCB_10,17-DEC-2015

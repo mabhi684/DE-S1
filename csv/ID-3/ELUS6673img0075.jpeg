@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Office Assistant, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Q4BsZf4vprfAMO
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MQLG -3331241813
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$89698.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Vantage West Credit Uniipn
+Interest,7.78%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"P.O. BOX 15115, TUCSON, A,z"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,37682852732664
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,866.78"
+PropAddress,"613 SE 42ND ST , TOPAAKA, KS, 66609"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$15,248.66"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1968
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2368.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$89698.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18636.00
+bTotalIncome,$2368.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2778.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$89698.00
+refinanCost,$18636.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRENDA GILMORE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-OCT-2074
+cbTotalIncome,$2778.00
+fundingFee,$0.00
+borrowerName,KATHLEEN J MEYER
+cbtBaseSalary,$5146.00
+disocuntValue,$0.00
+bSecurityNumber,807673620
+cbtOverttime,$0.00
+totalTxnCost,$89698.00
+bPhone,7618006612
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-SEP-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$89698.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$89698.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$27782368.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$909.00
+isOutstandingCourtCaseB,
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$89698.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,3
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"202 NATAMONIL.1 CENTER , RESTON, VA, 20192"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GREGORY W KENNEDY
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,638831615
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3115405361
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,13-JUN-1990
+psntTotalExp,$89698.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$89698.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$89698.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KATHLEEN J MEYER
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEL.LTH
+depAmount,$9866.78
+isCoWorkerCB,No
+bEmpAddress,"PO BOX 18233 PSHTC„ PITTSBURGH, PA"
+depBankName,US BANK NA
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"2751 SHEPARD RD, ST. PAUL, MN"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,48748723135727
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$15248.66
+ typeOfProp,principal residence
+bDesignation,"Office Assistant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,24-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$10763.76
+signingDateCB,24-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OWCP DCMWC
+preLoanBankName,NA
+loanOriginatorName,DOL/OASAM/BOC/OPS/COST DET
+cbEmpAddress,"1 TECH PARK DRIVE, SUITE 250, JOHNSTOWN, PA"
+preLoanBankAdd,NA
+loanOriginatorID,eqe0y6Bh
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL/OASAM/BOC/OPS/COST DET
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934105
+cbYrsInJob,9
+loanOriginatorAddress,"200 CONSTITUTION AV, RM 51510, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,KATHLEEN J MEYER
+borrowerName_9,KATHLEEN J MEYER
+borrowerName_10,KATHLEEN J MEYER
+cborrowerName_3,GREGORY W KENNEDY
+cBorrowerName_9,GREGORY W KENNEDY
+cborrowerName_10,GREGORY W KENNEDY
+signingDateB_10,24-DEC-2015
+signingDateCB_10,24-DEC-2015

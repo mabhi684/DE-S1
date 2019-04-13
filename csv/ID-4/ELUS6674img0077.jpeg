@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Labor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,IDuqBXEERwhjcp
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,RGLC -5535677800
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$33885.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.74%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1861 SE 6TH ST , POMPANO BEACH, FL, 33060"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1998
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$5362.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$35690.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12785.00
+bTotalIncome,$5362.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3731.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$33885.00
+refinanCost,$12785.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MELANIE YEARY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-SEP-2063
+cbTotalIncome,$3731.00
+fundingFee,$0.00
+borrowerName,JAN J RYAN
+cbtBaseSalary,$9093.00
+disocuntValue,$0.00
+bSecurityNumber,835314273
+cbtOverttime,$0.00
+totalTxnCost,$33885.00
+bPhone,6734317751
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-APR-1992
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1992
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$33885.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$33885.00
+bPresentAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+cbtTotalIncome,$37315362.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1414.00
+isOutstandingCourtCaseB,No
+bMailAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+psntFirstLoan,$33885.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JAMES MCKAY
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,262006157
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4547082834
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-NOV-1983
+psntTotalExp,$33885.00
+isCoWorkerB,No
+cbYrsSchool,1992
+propFirstLoan,$33885.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2630 FANTA REED RD , LA CROSSE, WI, 54603"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$33885.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JAN J RYAN
+isDownpaymentBorrowedCB,No
+bEmpName,OSEC / OFFICE OF JOB CORPS
+depAmount,$5082.75
+isCoWorkerCB,No
+bEmpAddress,"1627 WOODLAND AVE, , AUSTIN, TX"
+depBankName,PNC EDUCATION LOAN CTR C/O G REITER
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2600 LIBERTY P4-PLCB - 02-1 STE 200, PITTSBURGH, PA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,00734322376153
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$5760.45
+ typeOfProp,second home
+bDesignation,"Sr Accountant, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,05-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$4066.20
+signingDateCB,05-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL OASAM
+preLoanBankName,NA
+loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"170 S INDEPENDENCE MALL W, SUITE 600 EAST, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,vN6AVzed
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158615759
+cbYrsInJob,5
+loanOriginatorAddress,"170 S INDEPENDENCE MALL W, THE CURTIS CENTER STE 750 W, PHILADELPHIA, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,JAN J RYAN
+borrowerName_9,JAN J RYAN
+borrowerName_10,JAN J RYAN
+cborrowerName_3,JAMES MCKAY
+cBorrowerName_9,JAMES MCKAY
+cborrowerName_10,JAMES MCKAY
+signingDateB_10,05-DEC-2015
+signingDateCB_10,05-DEC-2015

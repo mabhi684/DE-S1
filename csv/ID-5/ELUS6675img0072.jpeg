@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Legal Executive, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,u2Lfjr2XKI46Ev
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TBEX-0544126672
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$74007.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.93%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1604 BRILL DR , FRIENDSWOOD, TX, 77546"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1986
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3172.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$33313.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9880.00
+bTotalIncome,$3172.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1860.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$74007.00
+refinanCost,$9880.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,COLLEEN LEONARD
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,28-DEC-2056
+cbTotalIncome,$1860.00
+fundingFee,$0.00
+borrowerName,MICHAEL F ODEA
+cbtBaseSalary,$5032.00
+disocuntValue,$0.00
+bSecurityNumber,527765325
+cbtOverttime,$0.00
+totalTxnCost,$74007.00
+bPhone,1382554016
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-DEC-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$74007.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$74007.00
+bPresentAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+cbtTotalIncome,$18603172.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1145.00
+isOutstandingCourtCaseB,No
+bMailAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+psntFirstLoan,$74007.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CARL D ALEXANDER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,312013168
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2487882587
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-FEB-1977
+psntTotalExp,$74007.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$74007.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"3535 S SHERWOOD FOREST BL STE 120, BATON ROUGE, LA, 70816"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$74007.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MICHAEL F ODEA
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$10360.98
+isCoWorkerCB,No
+bEmpAddress,"NORTH PARK CORPORATE CENTER, 17319 SAN PEDRO AVENUE STE 110, SAN ANTONIO, TX"
+depBankName,FIRST DAKOTA NATIONAL BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 156 225 CEDAR, YANKTON, SD"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,52125514608563
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$12581.19
+ typeOfProp,second home
+bDesignation,"HR Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,14-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$11101.05
+signingDateCB,14-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ILAB OIR
+preLoanBankName,NA
+loanOriginatorName,USDOL OFF OF SOLICITOR
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM S5303, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,jLLtSO4J
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OFF OF SOLICITOR
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4043025477
+cbYrsInJob,5
+loanOriginatorAddress,"61 FORSYTH ST SW, RM 7710, ATLANTA, GA"
+refinanImproveDescription_e,made
+borrowerName_3,MICHAEL F ODEA
+borrowerName_9,MICHAEL F ODEA
+borrowerName_10,MICHAEL F ODEA
+cborrowerName_3,CARL D ALEXANDER
+cBorrowerName_9,CARL D ALEXANDER
+cborrowerName_10,CARL D ALEXANDER
+signingDateB_10,14-DEC-2015
+signingDateCB_10,14-DEC-2015

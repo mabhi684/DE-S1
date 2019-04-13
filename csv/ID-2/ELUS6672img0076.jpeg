@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Guard, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7St61NMtUEEZVR
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GTJE -3444418512
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$7283.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,capital credit union
+Interest,7.64%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"C/o Bank Of North Dakota, Bismarck, Nd"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,18041182022270
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,019.62"
+PropAddress,"10001 N 7TH ST APT 135, PHOENIX, AZ, 85020"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,602.26"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2009
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$1855.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$26556.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7283.00
+bTotalIncome,$1855.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1172.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$7283.00
+refinanCost,$7283.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JACQUES FULD
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-DEC-2056
+cbTotalIncome,$1172.00
+fundingFee,$0.00
+borrowerName,KIMBA.-RLY P GRIFFIN
+cbtBaseSalary,$3027.00
+disocuntValue,$0.00
+bSecurityNumber,310241512
+cbtOverttime,$0.00
+totalTxnCost,$7283.00
+bPhone,0283802745
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-APR-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$7283.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$7283.00
+bPresentAddress,"521 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$11721855.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1032.00
+isOutstandingCourtCaseB,No
+bMailAddress,"521 NATIONAL CENTAUR , RESTON, VA, 20192"
+psntFirstLoan,$7283.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SANDRA J OWEN JOYCE
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,722761181
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4643605781
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,11-OCT-1991
+psntTotalExp,$7283.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$7283.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"520 N PARK AVE SUATE 221 , TUCSON, AZ, 85719"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"521 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$7283.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KIMBERLY P GRIFFIN
+isDownpaymentBorrowedCB,No
+bEmpName,OASAM RASO
+depAmount,$801.13
+isCoWorkerCB,No
+bEmpAddress,"230 S DEARBORN ST, ROOM 1086, CHICAGO, IL"
+depBankName,UNITED PRAIRIE BANK-SLAYTON
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 264, SLAYTON, MN"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,70751610844141
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$1602.26
+ typeOfProp,principal residence
+bDesignation,"Cleaner, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,22-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$728.30
+signingDateCB,22-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MAINE SAFETY AND HEALTH
+preLoanBankName,NA
+loanOriginatorName,WAGE HOASR DIVISION
+cbEmpAddress,"NAT MINE HEALTH AND SAFETY ACADEMY, 1301 AAMRPORT RD, BEAVER, WV"
+preLoanBankAdd,NA
+loanOriginatorID,PDIErbuO
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,WAGE HOUR DIVISION
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6123703396
+cbYrsInJob,7
+loanOriginatorAddress,"TRITECH OFC CTR STE 920, 331 2ND AVE SO, MINNEAPOLIS, MN"
+refinanImproveDescription_e,to be made
+borrowerName_3,KIMBA.-RLY P GRIFFIN
+borrowerName_9,KIMBA.-RLY P GRIFFIN
+borrowerName_10,KIMBA.-RLY P GRIFFIN
+cborrowerName_3,SANDRA J OWEN JOYCE
+cBorrowerName_9,SANDRA J OWEN JOYCE
+cborrowerName_10,SANDRA J OWEN JOYCE
+signingDateB_10,22-DEC-2015
+signingDateCB_10,22-DEC-2015

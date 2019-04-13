@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Grocers Supplier, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Od3knSCZSTfyxH
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,NKZG-4781875652
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$10433.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,VALLEY FCU
+Interest,9.03%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"183 E. PRICE RD, BranWNSVILLE, TX"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,54721135858400
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,356.29"
+PropAddress,"509 S MAA2N ST , CLYDE, OH, 43410"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,190.93"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,unikin bank & trust - ihelp
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"PO BOX 82535, LINCOLN, NE"
+YearBuilt,1999
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,68080524604501
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,460.62"
+propFor,Seconday
+bBaseSalary,$3267.00
+pre_loan_bank_balance_02,"$2,190.93"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$69465.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10433.00
+bTotalIncome,$3267.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$12642.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$10433.00
+refinanCost,$10433.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,WILLIE PHILLIPS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-DEC-2072
+cbTotalIncome,$12642.00
+fundingFee,$0.00
+borrowerName,MARK A WADE
+cbtBaseSalary,$15909.00
+disocuntValue,$0.00
+bSecurityNumber,445887216
+cbtOverttime,$0.00
+totalTxnCost,$10433.00
+bPhone,7254487405
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-AUG-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$10433.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$10433.00
+bPresentAddress,"1400 INDEPENDENCE RD MS 317, ROLLA, MO, 65401"
+cbtTotalIncome,$126423267.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1490.00
+isOutstandingCourtCaseB,
+bMailAddress,"1400 INDEPAANDENCE RD MS 317, ROLLA, MO, 65401"
+psntFirstLoan,$10433.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LESLIE W JONES
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,630821645
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5645663321
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-AUG-1983
+psntTotalExp,$10433.00
+isCoWorkerB,
+cbYrsSchool,1987
+propFirstLoan,$10433.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"202 NATIONAL CENTER , RESTA""N, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1400 INDEPENDENCE RD MS 317, ROLLA, Mk"", 65401"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$10433.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,MARK A WADE
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OIG OI
+depAmount,$1460.62
+isCoWorkerCB,No
+bEmpAddress,"OIG RM S5021, 200 CONSTITUTION AVENUAc NW, WASHINGTON, DC"
+depBankName,WEBSTER CITY FSB
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 638, WEBSTER CITY, IA"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,61744518043524
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$1982.27
+ typeOfProp,investment property
+bDesignation,"HR Specialist, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,07-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1356.29
+signingDateCB,07-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL R9 OWCP SAN FRAN
+preLoanBankName,NA
+loanOriginatorName,US DOL OSHA
+cbEmpAddress,"90 7TH STREET, SUITE 15 100, SAN FRANCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,e7x4qfVs
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OSHA'
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6084415388
+cbYrsInJob,10
+loanOriginatorAddress,"4802 E BROADWAY, WI"
+refinanImproveDescription_e,made
+borrowerName_3,MARK A WADE
+borrowerName_9,MARK A WADE
+borrowerName_10,MARK A WADE
+cborrowerName_3,LESLIE W JONES
+cBorrowerName_9,LESLIE W JONES
+cborrowerName_10,LESLIE W JONES
+signingDateB_10,07-JAN-2016
+signingDateCB_10,07-JAN-2016

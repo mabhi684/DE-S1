@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Cook, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,3h2eeoCEwch08E
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,COJO -6087514435
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18973.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.43%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2910 SPRINGSWEET LN APT 13, RALEIGH, NC, 27612"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1988
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4602.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$39187.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18973.00
+bTotalIncome,$4602.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1904.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$18973.00
+refinanCost,$18973.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ELISUR YEJE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-JUN-2062
+cbTotalIncome,$1904.00
+fundingFee,$0.00
+borrowerName,HILDA J SMITH
+cbtBaseSalary,$6506.00
+disocuntValue,$0.00
+bSecurityNumber,070467618
+cbtOverttime,$0.00
+totalTxnCost,$18973.00
+bPhone,7745054524
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-MAY-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$18973.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18973.00
+bPresentAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+cbtTotalIncome,$19044602.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1540.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+psntFirstLoan,$18973.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SCOTT I MCFARLANE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,200611606
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0134277305
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,31-JUL-1985
+psntTotalExp,$18973.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$18973.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$18973.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,HILDA J SMITH
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ODEP
+depAmount,$1897.30
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM S1303, WASHINGTON, DC"
+depBankName,"UNIVERSAL 1 CREDIT UNION, INC."
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"BOX 467, DAYTON, OH"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,35044477575030
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$4174.06
+ typeOfProp,principal residence
+bDesignation,"Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,07-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2466.49
+signingDateCB,07-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OWCP DEEOIC
+cbEmpAddress,"200 CONSTITUTION AVE, RM S3006, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,5Qo05efw
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OWCP DEEOIC
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,4
+loanOriginatorAddress,"400 W BAY ST, STE 63B, JACKSONVILLE, FL"
+refinanImproveDescription_e,made
+borrowerName_3,HILDA J SMITH
+borrowerName_9,HILDA J SMITH
+borrowerName_10,HILDA J SMITH
+cborrowerName_3,SCOTT I MCFARLANE
+cBorrowerName_9,SCOTT I MCFARLANE
+cborrowerName_10,SCOTT I MCFARLANE
+signingDateB_10,07-DEC-2015
+signingDateCB_10,07-DEC-2015

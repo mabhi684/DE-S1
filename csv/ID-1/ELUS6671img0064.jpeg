@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Supervisor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,H2vfO4T3hGj tsd
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,USUC-4748278166
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$16399.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,APOLLO TRA>ST COMPANY
+Interest,10.29%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"P 0 Box 247, Apollo, Pa"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,73507830541346
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,803.89"
+PropAddress,"7103 SHARPCRMST ST , HOUSTON, TX, 77074"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,115.81"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,US BANK ELT OHIO CENTRIC
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"425 walnut st cn-wn-06ct, cincinnati, oh"
+YearBuilt,2006
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,72568860111323
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,295.86"
+propFor,Investment
+bBaseSalary,$1682.00
+pre_loan_bank_balance_02,"$2,951.82"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$24078.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$16399.00
+bTotalIncome,$1682.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3314.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$16399.00
+refinanCost,$16399.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BYRON HERNANDEZ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-APR-2076
+cbTotalIncome,$3314.00
+fundingFee,$0.00
+borrowerName,RICHARD A CARTWRIGHT
+cbtBaseSalary,$4996.00
+disocuntValue,$0.00
+bSecurityNumber,174022121
+cbtOverttime,$0.00
+totalTxnCost,$16399.00
+bPhone,6265115107
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,31-MAR-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$16399.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$16399.00
+bPresentAddress,"425 JORDAN RD , TROY, NY, 12180"
+cbtTotalIncome,$33141682.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1532.00
+isOutstandingCourtCaseB,No
+bMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+psntFirstLoan,$16399.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ROBAN K CLARK
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,214175801
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0855432281
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-JUL-1976
+psntTotalExp,$16399.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$16399.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"BOX 25046 MS 421 DFC , DENVA-R, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$16399.00
+isDeliquentCB,
+lt2y_cb_res_since,2
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"Modoc Hall Usgs Ms 4003 3020 State Univ Dr E, SALcramento, Ca, 95819"
+depPurchHeldBy,RICHARD A CARTWRIGHT
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL WAGE & HOUR
+depAmount,$2131.87
+isCoWorkerCB,No
+bEmpAddress,"770A THE CITY DR S, SA-ITE 5710, ORANGE, CA"
+depBankName,CHADWICK FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 9102, NORWOOD, MA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,84380487330808
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3279.80
+ typeOfProp,investment property
+bDesignation,"Cleaner, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,23-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1639.90
+signingDateCB,23-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,AiS DEPT OF LABOR MSHA
+preLoanBankName,NA
+loanOriginatorName,DOL MINE SAFAiTY & HEALTH
+cbEmpAddress,"1100 WILSON BLVD, ROOM 2122, ARLINGTON, VA"
+preLoanBankAdd,NA
+loanOriginatorID,rQs ZLmpO
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL MINE SAFETY & HEALTH
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2708214180
+cbYrsInJob,7
+loanOriginatorAddress,"100 YMCA DR, KY"
+refinanImproveDescription_e,to be made
+borrowerName_3,RICHARD A CARTWRIGHT
+borrowerName_9,RICHARD A CARTWRIGHT
+borrowerName_10,RICHARD A CARTWRIGHT
+cborrowerName_3,ROBAN K CLARK
+cBorrowerName_9,ROBAN K CLARK
+cborrowerName_10,ROBAN K CLARK
+signingDateB_10,23-DEC-2015
+signingDateCB_10,23-DEC-2015

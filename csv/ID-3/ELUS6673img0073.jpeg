@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Exec Secretary, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,DCsBzvROwBBHGn
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,POHE -1478767821
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18636.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,WELLS FARGO EDUCATION FIN SVCS
+Interest,10.64%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"301 East 58th Street North, Sioux Falls, Sd"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,68241400458050
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,863.60"
+PropAddress,"2813 N BRIGHTON ST , BURBANK, CA, 91504"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,727.20"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Fifth Third Bank
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"5001 Kingsley Drive, Md lmoblj, CincinnAlti, Oh"
+YearBuilt,1995
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,62175002284778
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,863.60"
+propFor,Investment
+bBaseSalary,$4438.00
+pre_loan_bank_balance_02,"$3,540.84"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$52799.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18636.00
+bTotalIncome,$4438.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3065.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$18636.00
+refinanCost,$18636.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,TIFFANY DESIMONE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,14-NOV-2072
+cbTotalIncome,$3065.00
+fundingFee,$0.00
+borrowerName,GARY N PAULACHOK
+cbtBaseSalary,$7503.00
+disocuntValue,$0.00
+bSecurityNumber,441263483
+cbtOverttime,$0.00
+totalTxnCost,$18636.00
+bPhone,0850033846
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-MAR-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$18636.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18636.00
+bPresentAddress,"440 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$30654438.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1736.00
+isOutstandingCourtCaseB,
+bMailAddress,"440 NATIONAL CENTMR , RESTON, VA, 20192"
+psntFirstLoan,$18636.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JAMES H HOWELLS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,853834438
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1600468235
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,06-JUN-1976
+psntTotalExp,$18636.00
+isCoWorkerB,
+cbYrsSchool,1986
+propFirstLoan,$18636.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, UT, 84119"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"440 NATIONAL CENTAAR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$18636.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,GARY N PAULACHOK
+isDownpaymentBorrowedCB,
+bEmpName,OSHA-NORTH HOUSTON
+depAmount,$1863.60
+isCoWorkerCB,No
+bEmpAddress,"507 N SAM HOUSTON PKWY E, SAAITE 400, HOUSTON, TX"
+depBankName,PERMACTILTURE CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"4250 CERRILLOS RD, SANTA FE, NM"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,62525147074334
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$4099.92
+ typeOfProp,principal residence
+bDesignation,"Security Head, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,31-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2049.96
+signingDateCB,31-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OFFICE OF ADMN PROG
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM N3101, WA_SHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,ppZ4fbA6
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3095897033
+cbYrsInJob,8
+loanOriginatorAddress,"1320 W COMMERCE DRIVE, SUITE 800, PEORIA, IL"
+refinanImproveDescription_e,to be made
+borrowerName_3,GARY N PAULACHOK
+borrowerName_9,GARY N PAULACHOK
+borrowerName_10,GARY N PAULACHOK
+cborrowerName_3,JAMES H HOWELLS
+cBorrowerName_9,JAMES H HOWELLS
+cborrowerName_10,JAMES H HOWELLS
+signingDateB_10,31-DEC-2015
+signingDateCB_10,31-DEC-2015

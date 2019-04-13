@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Office Boy, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XU31q7plOW8Cte
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,QZFL-6728025670
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$21061.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Androscoggin Savings Bank
+Interest,8.13%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"30 LISBON STREET, LEWISTA-N, ME"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,33507274315135
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,527.32"
+PropAddress,"1150 MCFARLAND ST APT R26, MORRISTOWN, TN, 37814"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,580.37"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1881.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$52799.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21061.00
+bTotalIncome,$1881.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2394.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$21061.00
+refinanCost,$21061.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CRYSTAL ADAMS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,10-MAY-2058
+cbTotalIncome,$2394.00
+fundingFee,$0.00
+borrowerName,RICHARD G NISWA•NGER
+cbtBaseSalary,$4275.00
+disocuntValue,$0.00
+bSecurityNumber,574143061
+cbtOverttime,$0.00
+totalTxnCost,$21061.00
+bPhone,5775603347
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,16-SEP-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$21061.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$21061.00
+bPresentAddress,"2730 N DEER RUN ROAD , CARSON CITY, NV, 89701"
+cbtTotalIncome,$23941881.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1505.00
+isOutstandingCourtCaseB,
+bMailAddress,"2730 N DEER RUN ROAD , CARSON CITY, NV, 89701"
+psntFirstLoan,$21061.00
+isBankcruptB,No
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,8
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"box 25046 dfc ms 939 , denver, co, 80225"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JAMES Ant ULRICH
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,661327002
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5218645277
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,19-JUL-1986
+psntTotalExp,$21061.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$21061.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"215 LIMEKILN RD , NEW CUMBERLAND, PA, 17070"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"2730 N DEER RUN ROAD , CARSON CITY, NV, 89701"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$21061.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RICHARD G NISWONGER
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEAILTH
+depAmount,$2737.93
+isCoWorkerCB,
+bEmpAddress,"STROM THURMOND FED BLDG, 1835 ASSEMBLY ST RM 365, COLAcEMBIA, SC"
+depBankName,WESTERN DAKOTA BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"BOX 76, ISABEL, SD"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,03145061217101
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$4212.20
+ typeOfProp,investment property
+bDesignation,"Receptionist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,08-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2948.54
+signingDateCB,08-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,A>SDOL OASAM
+preLoanBankName,NA
+loanOriginatorName,DOL OFFICE OF PUBLIC AFFAIRS
+cbEmpAddress,"THE CURTIS CENTER STE 600 E, 170 S ANDEPENDENCE MALL WEST, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,w7IRqBEF
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL A-FFICE OF PUBLIC AFFAIRS
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026931904
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, N3647, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,RICHARD G NISWA•NGER
+borrowerName_9,RICHARD G NISWA•NGER
+borrowerName_10,RICHARD G NISWA•NGER
+cborrowerName_3,JAMES Ant ULRICH
+cBorrowerName_9,JAMES Ant ULRICH
+cborrowerName_10,JAMES Ant ULRICH
+signingDateB_10,08-JAN-2016
+signingDateCB_10,08-JAN-2016

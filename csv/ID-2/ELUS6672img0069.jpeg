@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Grocers Supplier, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,JciY0qqhKyFQh3e
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MEMS -6648220102
+lt2y_cb_emp_name1,"US DOL OSHA; 36 TRIANGLE PARK DR, CINCINNATI, OH"
+childSupportExpOwnedValue,$0.00
+Amount,$27609.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,University Of Aitah Cu
+Interest,8.89%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"p o box 58025, salt lake city, ut"
+Tenure,54 months
+lt2y_cb_emp_salary1,"$2,990.52"
+pre_loan_bank_acNo_01,06740844764057
+AmortType,ARM
+lt2y_cb_emp_designation1,asst manager temperory
+pre_loan_bank_EMI_01,"$3,036.99"
+PropAddress,"32 QUINDOME DR , NEW CASTLE, DE, 19720"
+lt2y_cb_emp_name2,"US DAAPT OF LABOR MSHA; COCHRANS MILL RD, PO BOX 18233, PITTSBAAGH, PA"
+pre_loan_bank_balance_01,"$5,521.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,2004
+lt2y_cb_emp_salary2,"$2,473.64"
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,ASST MANAGER CONTRACT
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$7961.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$27609.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8271.00
+bTotalIncome,$7961.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$12737.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$27609.00
+refinanCost,$8271.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BROWNIE TALFORD
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,08-NOV-2074
+cbTotalIncome,$12737.00
+fundingFee,$0.00
+borrowerName,GEORGE M SECHEN JR
+cbtBaseSalary,$20698.00
+disocuntValue,$0.00
+bSecurityNumber,847434440
+cbtOverttime,$0.00
+totalTxnCost,$27609.00
+bPhone,7614401132
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-OCT-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$27609.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$27609.00
+bPresentAddress,"361 COMMERCE WAY , PEMBROKE, NH, 32753"
+cbtTotalIncome,$127377961.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$936.00
+isOutstandingCourtCaseB,No
+bMailAddress,"361 COMMERCAA WAY , PEMBROKE, NH, 32753"
+psntFirstLoan,$27609.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KEVAN P KAMIBAYASHA
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,870738633
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3347504141
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,18-MAR-1989
+psntTotalExp,$27609.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$27609.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCklOVER, WA, 98683"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"361 COMMERCE WAY , PEMBROKE, NH, 32753"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$27609.00
+isDeliquentCB,No
+lt2y_cb_res_since,11
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"2730 N DEER RUN ROAD , CARSA-N CITY, NV, 89701"
+depPurchHeldBy,GEORGE M SECHEN JR
+isDownpaymentBorrowedCB,
+bEmpName,DOL/OASAM/BOC/OPS/COST DART
+depAmount,$4141.35
+isCoWorkerCB,
+bEmpAddress,"PO BOX 3433, , RENTON, WAS"
+depBankName,US BANK NA
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2751 SHEPARD RD, ST PAUL, MN"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,88017486130876
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$5245.71
+ typeOfProp,second home
+bDesignation,"Sr Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,17-FEB-2016
+lt2y_b_emp_name1,"Us Dol Eta; 170 S Independence Mall West, Ste 815 E, Philadelphia, Pa"
+subTotLiqValue,$2760.90
+signingDateCB,17-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$3,863.70"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Sales Agenttemperory
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,US DOL R1 OSHA
+cbEmpAddress,"15 NEW SUDBURY ST, RM E-235, BOSTON, MA"
+preLoanBankAdd,NA
+loanOriginatorID,MsyXAenq
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL R1 OSHA
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6175653072
+cbYrsInJob,4
+loanOriginatorAddress,"JFK FED BLDG 25 NEW SUDBURY ST, USDOL OSHA RM E340, BOSTON, MA"
+refinanImproveDescription_e,made
+borrowerName_3,GEORGE M SECHEN JR
+borrowerName_9,GEORGE M SECHEN JR
+borrowerName_10,GEORGE M SECHEN JR
+cborrowerName_3,KEVAN P KAMIBAYASHA
+cBorrowerName_9,KEVAN P KAMIBAYASHA
+cborrowerName_10,KEVAN P KAMIBAYASHA
+signingDateB_10,17-FEB-2016
+signingDateCB_10,17-FEB-2016

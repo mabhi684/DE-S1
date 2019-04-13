@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Computer Admit, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,OLT6LRzrB2miwG
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EWFE -3210458257
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$15499.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,grA©at plains bank
+Interest,9.74%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"po box 8, eureka, sd"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,84658381477267
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,859.88"
+PropAddress,"6433 SHIREHALL DR , SAM DIEGO, CA, 92111"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,254.79"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,First IntAcrnational Bank
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"po box 607, watford city, nd"
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,68346117828352
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,859.88"
+propFor,Seconday
+bBaseSalary,$13506.00
+pre_loan_bank_balance_02,"$2,944.81"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$69465.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15499.00
+bTotalIncome,$13506.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3196.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$15499.00
+refinanCost,$15499.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BETO MACHADO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,12-AUG-2064
+cbTotalIncome,$3196.00
+fundingFee,$0.00
+borrowerName,JAN J RYAN
+cbtBaseSalary,$16702.00
+disocuntValue,$0.00
+bSecurityNumber,150627170
+cbtOverttime,$0.00
+totalTxnCost,$15499.00
+bPhone,0151736681
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,25-JUN-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$15499.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$15499.00
+bPresentAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+cbtTotalIncome,$319613506.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$953.00
+isOutstandingCourtCaseB,
+bMailAddress,"810 BEAR TAVERN RD STE 206, WA<ST TRENTON, NJ, 8628"
+psntFirstLoan,$15499.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,AMY M GAHALA
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,810555564
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6348027316
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,10-JUN-1977
+psntTotalExp,$15499.00
+isCoWorkerB,
+cbYrsSchool,1977
+propFirstLoan,$15499.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"810 BEAR TAVERN RD STE 206, WMST TRENTON, NJ, 8628"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$15499.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JAN J RYAN
+isDownpaymentBorrowedCB,
+bEmpName,SECURITY CNTR DOL
+depAmount,$1549.90
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVIA NW, RM S-1229-G, WASHINGTON, DC"
+depBankName,S C STUDENT LOAN-TAXABLE
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 21337, COLUMBIA, SC"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,62523234186105
+isNewPropPermanentB,
+bYrsInJob,8
+depBankBal,$3254.79
+ typeOfProp,investment property
+bDesignation,"Grocers Supplier, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,02-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2324.85
+signingDateCB,02-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL SOLICITORS
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OFCCP
+cbEmpAddress,"1100 WILSON BLVD, 22ND FL W, ARLINGTON, VA"
+preLoanBankAdd,NA
+loanOriginatorID,h2j5baH7
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OFCCP
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026931123
+cbYrsInJob,7
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM C-3310, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,JAN J RYAN
+borrowerName_9,JAN J RYAN
+borrowerName_10,JAN J RYAN
+cborrowerName_3,AMY M GAHALA
+cBorrowerName_9,AMY M GAHALA
+cborrowerName_10,AMY M GAHALA
+signingDateB_10,02-JAN-2016
+signingDateCB_10,02-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"HR Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,hrfv5k38IfZ4Hr
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FJEE-8410227610
+lt2y_cb_emp_name1,"Us Dept Of LabA'r; 1100 Wilsk'n Blvd, Rm 2432, Arlington, Va"
+childSupportExpOwnedValue,$0.00
+Amount,$95245.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,JACKSON CITY COUNTY CU
+Interest,10.47%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"2320 Francis Street, Jackson, Mi"
+Tenure,30 months
+lt2y_cb_emp_salary1,"$2,724.30"
+pre_loan_bank_acNo_01,25507246330583
+AmortType,Other
+lt2y_cb_emp_designation1,Secretarycontract
+pre_loan_bank_EMI_01,"$12,381.85"
+PropAddress,"293 COMMACK RD , SHIRLEY, NY, 11967"
+lt2y_cb_emp_name2,"Us Dol 'Trig Oi; 1111 Third Ave Ste 600,"
+pre_loan_bank_balance_01,"$17,144.10"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,1982
+lt2y_cb_emp_salary2,"$1,997.82"
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,SECRETARYPERMANENT
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$1129.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$49704.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11124.00
+bTotalIncome,$1129.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6203.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$95245.00
+refinanCost,$11124.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,RACHEL GAGE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-MAY-2070
+cbTotalIncome,$6203.00
+fundingFee,$0.00
+borrowerName,KAREN M CUNNINGHl_M
+cbtBaseSalary,$7332.00
+disocuntValue,$0.00
+bSecurityNumber,513145026
+cbtOverttime,$0.00
+totalTxnCost,$95245.00
+bPhone,4256227662
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,12-DEC-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$95245.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$95245.00
+bPresentAddress,"6006 SCHROEDER RD , MADISA-N, WI, 53711"
+cbtTotalIncome,$62031129.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1430.00
+isOutstandingCourtCaseB,
+bMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+psntFirstLoan,$95245.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JACK D HOTCHKISS
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,255644524
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,5120057085
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,05-JUL-1989
+psntTotalExp,$95245.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$95245.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6505 NE 65TH ST , SMATTLE, WA, 98115"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"6006 SCHROEDER RD , MADISK•N, WI, 53711"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$95245.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KAREN M CUNNINGHAM
+isDownpaymentBorrowedCB,
+bEmpName,"DA""L BLS"
+depAmount,$14286.75
+isCoWorkerCB,No
+bEmpAddress,"2 MASS AVE NE, ROOM 5140, WASHINGTON, DC"
+depBankName,BEAR PAW CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"201 2ND STREET, HAVRE, MT"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,38570721475063
+isNewPropPermanentB,
+bYrsInJob,3
+depBankBal,$20001.45
+ typeOfProp,principal residence
+bDesignation,"Guard, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,03-DEC-2015
+lt2y_b_emp_name1,"Mine Safety & HeA lth; 515 W 1st St, Rm 333, Dull°th, Mn"
+subTotLiqValue,$11429.40
+signingDateCB,03-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,294.16"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Office Assistantcontract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"Dol Bls; 2 Massachusetts Ave Ne, Ste 4160, Washington, Dc"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,694.55"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,office assistanttemperory
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,VETS
+preLoanBankName,NA
+loanOriginatorName,DOL/OASAM/WORKLIFE CTR
+cbEmpAddress,"230 S DEARBORN ST, RM 1064, CHICAGA-, IL"
+preLoanBankAdd,NA
+loanOriginatorID,G4TRBWf3
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,"DOL/A""ASAM/WORKLIFE CTR"
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026937636
+cbYrsInJob,4
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, N5460, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,KAREN M CUNNINGHl_M
+borrowerName_9,KAREN M CUNNINGHl_M
+borrowerName_10,KAREN M CUNNINGHl_M
+cborrowerName_3,JACK D HOTCHKISS
+cBorrowerName_9,JACK D HOTCHKISS
+cborrowerName_10,JACK D HOTCHKISS
+signingDateB_10,03-DEC-2015
+signingDateCB_10,03-DEC-2015

@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Office Assistant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,fk86LpV5FB1Obj
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TVWB-5553556665
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$7888.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,san angAalo national bank
+Interest,9.79%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"3471 KNICKERBOCKER RD, SAN ANGELO, TX"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,73307237014035
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,183.20"
+PropAddress,"2000 ARDAUGH AVE , JOLIET, IL, 60403"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,340.96"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1999
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2561.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$20168.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7888.00
+bTotalIncome,$2561.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2446.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$7888.00
+refinanCost,$7888.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALFONSO IZQUIERDO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-DEC-2060
+cbTotalIncome,$2446.00
+fundingFee,$0.00
+borrowerName,CARLA M CONWAY
+cbtBaseSalary,$5007.00
+disocuntValue,$0.00
+bSecurityNumber,434825644
+cbtOverttime,$0.00
+totalTxnCost,$7888.00
+bPhone,5014202765
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-APR-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$7888.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$7888.00
+bPresentAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+cbtTotalIncome,$24462561.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1620.00
+isOutstandingCourtCaseB,
+bMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+psntFirstLoan,$7888.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,TRAV1MS VON DESSONNECK
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,008184567
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0807414158
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,04-JUN-1981
+psntTotalExp,$7888.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$7888.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH ST , SEATTLE, WA_, 98115"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$7888.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,CARLA M CONWAY
+isDownpaymentBorrowedCB,No
+bEmpName,71)s DEPT OF LABOR WH
+depAmount,$788.80
+isCoWorkerCB,No
+bEmpAddress,"90 7TH STREET, SUITE 13 100, SAN FRANCISCO, CA"
+depBankName,SIDNEY FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"42 UNION ST, SIDNEY, NY"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,14302877411462
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$1419.84
+ typeOfProp,second home
+bDesignation,"Office Boy, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,19-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1025.44
+signingDateCB,19-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL AnASAM BOC OAS
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR WH
+cbEmpAddress,"200 CONSTITUTION AViVms NW SL/35, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,25Mf72Pe
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR WH
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,6
+loanOriginatorAddress,"100 N BARRANCA STREET, SUITE 850, WEST COVINA, CA"
+refinanImproveDescription_e,made
+borrowerName_3,CARLA M CONWAY
+borrowerName_9,CARLA M CONWAY
+borrowerName_10,CARLA M CONWAY
+cborrowerName_3,TRAV1MS VON DESSONNECK
+cBorrowerName_9,TRAV1MS VON DESSONNECK
+cborrowerName_10,TRAV1MS VON DESSONNECK
+signingDateB_10,19-DEC-2015
+signingDateCB_10,19-DEC-2015

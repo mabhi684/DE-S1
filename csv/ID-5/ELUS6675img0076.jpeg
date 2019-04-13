@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Legal Executive, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7wr4my5tZKD3SL
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SRBX-6333002364
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$98159.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.73%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"6403 GROSSE DR , BROOK PARK, OH, 44142"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1994
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2406.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$58401.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20557.00
+bTotalIncome,$2406.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1894.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$98159.00
+refinanCost,$20557.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARL LIPSKI
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,03-JUN-2075
+cbTotalIncome,$1894.00
+fundingFee,$0.00
+borrowerName,ESMERALDA CAMPOS
+cbtBaseSalary,$4300.00
+disocuntValue,$0.00
+bSecurityNumber,344644760
+cbtOverttime,$0.00
+totalTxnCost,$98159.00
+bPhone,6458757026
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-SEP-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$98159.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$98159.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$18942406.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1486.00
+isOutstandingCourtCaseB,No
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$98159.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,RONALD B IRVIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,475807550
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2562648670
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,06-JAN-1989
+psntTotalExp,$98159.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$98159.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"10500 UNV CTR DR STE 215 MS 156, MIAMI, FL, 33178"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$98159.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ESMERALDA CAMPOS
+isDownpaymentBorrowedCB,No
+bEmpName,DOL SOL
+depAmount,$13742.26
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM N-2414, WASHINGTON, DC"
+depBankName,WEOKIE CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 26090, OKLAHOMA CITY, OK"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,11453652225276
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$20613.39
+ typeOfProp,principal residence
+bDesignation,"Office Boy, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,27-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$10797.49
+signingDateCB,27-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL ETA
+preLoanBankName,NA
+loanOriginatorName,WAGE HOUR REGIONAL OFF
+cbEmpAddress,"THE CURTIS CENTER STE 815 E, 170 S INDEPENDENCE MALL W, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,4V6nep24
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,WAGE HOUR REGIONAL OFF
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,6
+loanOriginatorAddress,"124 BARNARD ST, RM B-210, SAVANNAH, GA"
+refinanImproveDescription_e,made
+borrowerName_3,ESMERALDA CAMPOS
+borrowerName_9,ESMERALDA CAMPOS
+borrowerName_10,ESMERALDA CAMPOS
+cborrowerName_3,RONALD B IRVIN
+cBorrowerName_9,RONALD B IRVIN
+cborrowerName_10,RONALD B IRVIN
+signingDateB_10,27-DEC-2015
+signingDateCB_10,27-DEC-2015

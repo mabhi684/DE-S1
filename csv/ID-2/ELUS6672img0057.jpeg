@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Secretary, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,KvFIG4CavQel2b
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EPRU-5038102531
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$104173.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,keystone united methodist fcu
+Interest,10.42%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1204 Freedom Road, Cranberry Twp, Pa"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,06578317120184
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,417.30"
+PropAddress,"285 PLANTATION CIR S , PONTE VEDRA, FL, 32082"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$21,876.33"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,st josephs parish buffalo fcu
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"454 ENGLEWOOD AVENUE, BA>FFALO, NY"
+YearBuilt,2001
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,07637864638803
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$15,625.95"
+propFor,Seconday
+bBaseSalary,$2053.00
+pre_loan_bank_balance_02,"$18,751.14"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$104173.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8124.00
+bTotalIncome,$2053.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3070.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$104173.00
+refinanCost,$8124.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,EDWARD WHALEN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-MAY-2063
+cbTotalIncome,$3070.00
+fundingFee,$0.00
+borrowerName,KRISTINA F EGSTAD
+cbtBaseSalary,$5123.00
+disocuntValue,$0.00
+bSecurityNumber,124570133
+cbtOverttime,$0.00
+totalTxnCost,$104173.00
+bPhone,4846127331
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,24-OCT-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$104173.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$104173.00
+bPresentAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+cbtTotalIncome,$30702053.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1730.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+psntFirstLoan,$104173.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,WILLIAM D HYDE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,818726876
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7555030651
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,31-DEC-1987
+psntTotalExp,$104173.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$104173.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"12703 RESEARCH PKWY , ORLANDO, FL, 32826"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$104173.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,KRISTINA F EGSTAD
+isDownpaymentBorrowedCB,
+bEmpName,AmS DEPT OF LABOR
+depAmount,$10417.30
+isCoWorkerCB,No
+bEmpAddress,"2300 MAIN ST, STE 1020, KANSAS CITY, MO"
+depBankName,FIRST DAKOTA NATIONAL BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 156 225 CEDAR, YANKTON, SD"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,88661238838845
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$21876.33
+ typeOfProp,investment property
+bDesignation,"Legal Executive, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,14-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$13542.49
+signingDateCB,14-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL ETA OWBL
+preLoanBankName,NA
+loanOriginatorName,AiSDOL OLMS
+cbEmpAddress,"200 CONSTITUTIA•N AVE NW, RM C5321, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,3RdhODtb
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OLMS
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2063988071
+cbYrsInJob,9
+loanOriginatorAddress,"1111 3RD AVE STE 605, WA"
+refinanImproveDescription_e,made
+borrowerName_3,KRISTINA F EGSTAD
+borrowerName_9,KRISTINA F EGSTAD
+borrowerName_10,KRISTINA F EGSTAD
+cborrowerName_3,WILLIAM D HYDE
+cBorrowerName_9,WILLIAM D HYDE
+cborrowerName_10,WILLIAM D HYDE
+signingDateB_10,14-FEB-2016
+signingDateCB_10,14-FEB-2016

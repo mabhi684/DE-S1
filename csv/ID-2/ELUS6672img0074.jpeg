@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Sr Accountant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,2TCt8rfzhGpx3h
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VUJL -2444530851
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$14260.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Wells Fargo Education FAIlAn Svcs
+Interest,10.16%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"301 East 58th Street North, Sioux Falls, Sd"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,87314230213028
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,139.00"
+PropAddress,"3930 N 69TH ST , LINCOLN, NAA, 68507"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,137.20"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1987
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3553.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$14260.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15803.00
+bTotalIncome,$3553.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5720.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$14260.00
+refinanCost,$15803.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CRYSTAL SHAFER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-AUG-2074
+cbTotalIncome,$5720.00
+fundingFee,$0.00
+borrowerName,GARY L MARTINEZ
+cbtBaseSalary,$9273.00
+disocuntValue,$0.00
+bSecurityNumber,263707147
+cbtOverttime,$0.00
+totalTxnCost,$14260.00
+bPhone,3764228311
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-OCT-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$14260.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$14260.00
+bPresentAddress,"WEST 904 RIVERSIDE AVE , SPOKANE, WA, 99201"
+cbtTotalIncome,$57203553.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1488.00
+isOutstandingCourtCaseB,
+bMailAddress,"WEST 904 RIVERSIDE AVE , SPAnEANE, WA, 99201"
+psntFirstLoan,$14260.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JEFFREY EMAN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,450370518
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2233080301
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,22-MAR-1987
+psntTotalExp,$14260.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$14260.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"WEST 904 RIVERSIDAA AVE , SPOKANE, WA, 99201"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$14260.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,GARY L MARTINEZ
+isDownpaymentBorrowedCB,No
+bEmpName,R1 BLS - MCSWEENEY
+depAmount,$1426.00
+isCoWorkerCB,No
+bEmpAddress,"JFK FED BLDG, RM E310, BOSTON, MA"
+depBankName,FITZSIMONS COMMUNITY FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"14305 E ALAMEDA AVE, AURORA, CO"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,84860173843715
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$2852.00
+ typeOfProp,investment property
+bDesignation,"Machinist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,14-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1711.20
+signingDateCB,14-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OLMS
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"233 CA>MBERLAND BEND DR, STE 110, NASHVILLE, TN"
+preLoanBankAdd,NA
+loanOriginatorID,w5z1Z20Q
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123866919
+cbYrsInJob,6
+loanOriginatorAddress,"626 COCHRANS MILL RD, PO BOX 18233, PITTSBURGH, PA"
+refinanImproveDescription_e,made
+borrowerName_3,GARY L MARTINEZ
+borrowerName_9,GARY L MARTINEZ
+borrowerName_10,GARY L MARTINEZ
+cborrowerName_3,JEFFREY EMAN
+cBorrowerName_9,JEFFREY EMAN
+cborrowerName_10,JEFFREY EMAN
+signingDateB_10,14-JAN-2016
+signingDateCB_10,14-JAN-2016

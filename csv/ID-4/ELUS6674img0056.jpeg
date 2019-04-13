@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Trainer, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7PIdYTTj sJLpPY
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FVSB -3032217773
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$43159.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.16%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"5280 AREZZO DR , SAN JOSE, CA, 95138"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1986
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$4596.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$43159.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9428.00
+bTotalIncome,$4596.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3396.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$43159.00
+refinanCost,$9428.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ARMI DIZON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,18-DEC-2070
+cbTotalIncome,$3396.00
+fundingFee,$0.00
+borrowerName,JAMIE M SPRANDO
+cbtBaseSalary,$7992.00
+disocuntValue,$0.00
+bSecurityNumber,811130132
+cbtOverttime,$0.00
+totalTxnCost,$43159.00
+bPhone,1848322574
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-AUG-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$43159.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$43159.00
+bPresentAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+cbtTotalIncome,$33964596.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1768.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+psntFirstLoan,$43159.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JOSEPH W MARTIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,518047302
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7478606784
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,01-MAY-1982
+psntTotalExp,$43159.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$43159.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"101 PITKIN ST , EAST HARTFORD, CT, 6108"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$43159.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JAMIE M SPRANDO
+isDownpaymentBorrowedCB,No
+bEmpName,DOL/OASAM ACADEMY -HRC
+depAmount,$5179.08
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, ROOM C5517, WASHINGTON, DC"
+depBankName,"BONY MELLON ELT GOAL FINANCIAL, LLC"
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"10161 CENTURION PKWY, JACKSONVILLE, FL"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,50860324868610
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$9063.39
+ typeOfProp,principal residence
+bDesignation,"Sales Agent, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,15-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$5610.67
+signingDateCB,15-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL ETA OHR
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR OPA
+cbEmpAddress,"200 CONSTITUTION AVE NW, ROOM S5214, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,731iwByC
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR OPA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3038441302
+cbYrsInJob,7
+loanOriginatorAddress,"1999 BROADWAY STE 1640, DENVER, CO"
+refinanImproveDescription_e,to be made
+borrowerName_3,JAMIE M SPRANDO
+borrowerName_9,JAMIE M SPRANDO
+borrowerName_10,JAMIE M SPRANDO
+cborrowerName_3,JOSEPH W MARTIN
+cBorrowerName_9,JOSEPH W MARTIN
+cborrowerName_10,JOSEPH W MARTIN
+signingDateB_10,15-DEC-2015
+signingDateCB_10,15-DEC-2015

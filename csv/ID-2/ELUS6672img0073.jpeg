@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"HR Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,d223gif181zQEs
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZSAK-3761206152
+lt2y_cb_emp_name1,"Dol Enforcement Programs; 200 Constitution Av, Rm N3653, Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$66105.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,Great Falls Teachers Federal Cu
+Interest,8.08%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"1500 RIVER DRIVE NORTH, GREAT FA,LLS, MT"
+Tenure,180 months
+lt2y_cb_emp_salary1,"$4,967.56"
+pre_loan_bank_acNo_01,53446502204231
+AmortType,GPM
+lt2y_cb_emp_designation1,Hr Managercontract
+pre_loan_bank_EMI_01,"$8,593.65"
+PropAddress,"4204 TREE CRA-SSINGS PKWY , BIRMINGHAM, AL, 35244"
+lt2y_cb_emp_name2,"DOL BLS; 2 MASSACHUSETTS AVM; NE, ROOM 4985, WASHINGTON, DC"
+pre_loan_bank_balance_01,"$13,882.05"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,1993
+lt2y_cb_emp_salary2,"$3,998.28"
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,hr managerpermanent
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3280.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$66105.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15803.00
+bTotalIncome,$3280.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6057.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$66105.00
+refinanCost,$15803.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,TINA ELTON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,08-JUL-2063
+cbTotalIncome,$6057.00
+fundingFee,$0.00
+borrowerName,SCOTT A THASL
+cbtBaseSalary,$9337.00
+disocuntValue,$0.00
+bSecurityNumber,636862611
+cbtOverttime,$0.00
+totalTxnCost,$66105.00
+bPhone,5736487102
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,12-OCT-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$66105.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$66105.00
+bPresentAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+cbtTotalIncome,$60573280.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1293.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+psntFirstLoan,$66105.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KENNA D BUTLER
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,682036330
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6714527640
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,11-SEP-1982
+psntTotalExp,$66105.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$66105.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PO BAnX 1230 , IOWA CITY, IA, 52244"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$66105.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,SCOTT A THUL
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL WAGE AND HOUR
+depAmount,$7932.60
+isCoWorkerCB,
+bEmpAddress,"90 7TH STREAM, SUITE 18 300, SAN FRANCISCO, CA"
+depBankName,1ST NAT'L BANK OF CANADIAN
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"1420 4TH AVE., CANADIAN, TX"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,51504308337032
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$13882.05
+ typeOfProp,principal residence
+bDesignation,"HR Specialist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,13-DEC-2015
+lt2y_b_emp_name1,"mine saf & hlth; executive plaza ste 103, 2001 state hill rd, wyomissing, pa"
+subTotLiqValue,$8593.65
+signingDateCB,13-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$3,035.07"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,ACCOUNT ADMIN CONTRACT
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"US DOL OIG OA; 230 S DEARBORN ST, RM 744, CHACAGO, IL"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$2,398.08"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,account admin temperory
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL WAGE AND HOUR
+preLoanBankName,NA
+loanOriginatorName,DOL ASSISTANT SECRETARY
+cbEmpAddress,"US DOL WAGE HOUR DIV, 2800 COTTAGE WAY STE W 1836, SACRAMENTO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,iL2dk7us
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ASSISTAENT SECRETARY
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026932150
+cbYrsInJob,5
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N3425, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,SCOTT A THASL
+borrowerName_9,SCOTT A THASL
+borrowerName_10,SCOTT A THASL
+cborrowerName_3,KENNA D BUTLER
+cBorrowerName_9,KENNA D BUTLER
+cborrowerName_10,KENNA D BUTLER
+signingDateB_10,13-DEC-2015
+signingDateCB_10,13-DEC-2015

@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Cleaner, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,2EhtA3KOVt2k1s
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WLRK-0081284711
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$22047.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,CONNECTICUT SLF
+Interest,9.50%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"525 Brook Street, Rocky Hill, Ct"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,22444731317277
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$3,086.58"
+PropAddress,"103BERWER BOULEVARD , WARSAW, NC, 28398"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,968.46"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,us bank elt knowledgefunding ohio
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"425 walnut st. 6th floor, cincinnati, oh"
+YearBuilt,1968
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,77723253711885
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,866.11"
+propFor,Primary
+bBaseSalary,$2755.00
+pre_loan_bank_balance_02,"$3,747.99"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Oklahoma State APtliversity
+construcOrigCost,$22047.00
+bBonus,$0.00
+pre_loan_bank_add_03,"207 Whitehust, Comptroller, StillwAfter, Ok"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,40662536253787
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$3,086.58"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$4,409.40"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11124.00
+bTotalIncome,$2755.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1859.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$22047.00
+refinanCost,$11124.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARL ELLERBE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,23-JUN-2072
+cbTotalIncome,$1859.00
+fundingFee,$0.00
+borrowerName,DAERRYL W HONDORP
+cbtBaseSalary,$4614.00
+disocuntValue,$0.00
+bSecurityNumber,871635026
+cbtOverttime,$0.00
+totalTxnCost,$22047.00
+bPhone,7152716131
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-MAR-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$22047.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$22047.00
+bPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+cbtTotalIncome,$18592755.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1365.00
+isOutstandingCourtCaseB,
+bMailAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+psntFirstLoan,$22047.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,PERRY J DRAPER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,314845005
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1071737484
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-FEB-1990
+psntTotalExp,$22047.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$22047.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1451 GREEN RD , ANN ARBOR, mkt, 48105"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$22047.00
+isDeliquentCB,
+lt2y_cb_res_since,6
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"1451 GREEN RD , ANN ARBA•R, MI, 48105"
+depPurchHeldBy,DARRYL W HONDORP
+isDownpaymentBorrowedCB,No
+bEmpName,DOL SOL BLLLS
+depAmount,$2425.17
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTIAnN AVE NW, FPB STE N2117, WASHINGTON, DC"
+depBankName,ADVANTAGE CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1848 EAST MAIN STREET, ONALASKA, WI"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,33571126566765
+isNewPropPermanentB,
+bYrsInJob,8
+depBankBal,$4409.40
+ typeOfProp,investment property
+bDesignation,"Computer Admit, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,09-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3086.58
+signingDateCB,09-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL R1 WB
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR OLMS
+cbEmpAddress,"JFK FED BLDG, RM 525A, BOSTA-N, MA"
+preLoanBankAdd,NA
+loanOriginatorID,00aRAMHe
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DIAPT OF LABOR OLMS
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4142971501
+cbYrsInJob,6
+loanOriginatorAddress,"310 W WISCONSIN AVE RM 1160, MILWAUKEE, WI"
+refinanImproveDescription_e,made
+borrowerName_3,DAERRYL W HONDORP
+borrowerName_9,DAERRYL W HONDORP
+borrowerName_10,DAERRYL W HONDORP
+cborrowerName_3,PERRY J DRAPER
+cBorrowerName_9,PERRY J DRAPER
+cborrowerName_10,PERRY J DRAPER
+signingDateB_10,09-FEB-2016
+signingDateCB_10,09-FEB-2016

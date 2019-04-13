@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Computer Operator, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,JHDGbMCHbPsu6j
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WFQX-0605302628
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$9275.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,First Premier Bank
+Interest,7.02%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"PO BOX 228, LAKE NORDA-N, SD"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,63708341786787
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,298.50"
+PropAddress,"500 DAVIS ST , RADFA""RD, VA, 24141"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,040.50"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1988
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4991.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$27609.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9275.00
+bTotalIncome,$4991.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2697.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$9275.00
+refinanCost,$9275.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ADAM PHILLIPS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-AUG-2075
+cbTotalIncome,$2697.00
+fundingFee,$0.00
+borrowerName,SHAWN T MCKINNEY
+cbtBaseSalary,$7688.00
+disocuntValue,$0.00
+bSecurityNumber,263826853
+cbtOverttime,$0.00
+totalTxnCost,$9275.00
+bPhone,1106030525
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-FEB-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$9275.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$9275.00
+bPresentAddress,"303 NATIONAL CENTER , RESTA-N, VA, 20192"
+cbtTotalIncome,$26974991.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$898.00
+isOutstandingCourtCaseB,
+bMailAddress,"303 NATIONAL CENTMR , RESTON, VA, 20192"
+psntFirstLoan,$9275.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JASON S WESTFALL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,320082572
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3174160173
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,01-JAN-1989
+psntTotalExp,$9275.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$9275.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"303 NATIONAL CENTER , RESTA""N, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$9275.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,SHAWN T MCKINNEY
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFA-TY & HEALTH
+depAmount,$1391.25
+isCoWorkerCB,No
+bEmpAddress,"PO Bin( 18233, PSHTC, PITTSBURGH, PA"
+depBankName,CLEARVIEW FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"8805 UNIVERSITY BLVD., MOON TWP, PA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,24200723555765
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$1762.25
+ typeOfProp,investment property
+bDesignation,"Sales Agent, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,18-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$927.50
+signingDateCB,18-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OASAM/BOC
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA
+cbEmpAddress,"200 CONSTITUTION AVIA NW, RM 54307, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,UOGflowf
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL osHke
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7574413820
+cbYrsInJob,6
+loanOriginatorAddress,"200 GRANBY ST, RM 614, NORFOLK, VA"
+refinanImproveDescription_e,made
+borrowerName_3,SHAWN T MCKINNEY
+borrowerName_9,SHAWN T MCKINNEY
+borrowerName_10,SHAWN T MCKINNEY
+cborrowerName_3,JASON S WESTFALL
+cBorrowerName_9,JASON S WESTFALL
+cborrowerName_10,JASON S WESTFALL
+signingDateB_10,18-JAN-2016
+signingDateCB_10,18-JAN-2016

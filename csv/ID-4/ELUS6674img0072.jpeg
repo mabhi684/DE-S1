@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Trainer, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,glojlffxv1EYli
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,DIXV-7085354662
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$7571.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.28%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"11053 RIVERPORT CT , JACKSONVILLE, FL, 32223"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2008
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3047.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$45701.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7571.00
+bTotalIncome,$3047.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3454.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$7571.00
+refinanCost,$7571.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,EMILY PIPPIN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-MAY-2070
+cbTotalIncome,$3454.00
+fundingFee,$0.00
+borrowerName,TROY WOOD
+cbtBaseSalary,$6501.00
+disocuntValue,$0.00
+bSecurityNumber,180143632
+cbtOverttime,$0.00
+totalTxnCost,$7571.00
+bPhone,5684638611
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-APR-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$7571.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$7571.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$34543047.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$987.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$7571.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GREGORY A HREN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,083568005
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6348360011
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-APR-1984
+psntTotalExp,$7571.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$7571.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$7571.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,TROY WOOD
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA DALLAS AREA
+depAmount,$1135.65
+isCoWorkerCB,No
+bEmpAddress,"8344 E RL THORNTON FRWY, STE 420, DALLAS, TX"
+depBankName,BRONCO FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"135 STEWART DRIVE, FRANKLIN, VA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,17085304630261
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$1665.62
+ typeOfProp,principal residence
+bDesignation,"Supervisor, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,26-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$832.81
+signingDateCB,26-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR MSHA
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM HRC
+cbEmpAddress,"1301 AIRPORT ROAD, WV"
+preLoanBankAdd,NA
+loanOriginatorID,pgEExlWk
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM HRC
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026937725
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, N5464, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,TROY WOOD
+borrowerName_9,TROY WOOD
+borrowerName_10,TROY WOOD
+cborrowerName_3,GREGORY A HREN
+cBorrowerName_9,GREGORY A HREN
+cborrowerName_10,GREGORY A HREN
+signingDateB_10,26-JAN-2016
+signingDateCB_10,26-JAN-2016
