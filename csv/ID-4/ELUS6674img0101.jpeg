@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"HR Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,CObRU2aMDY26hQ
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FINX-8155822775
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$20973.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.44%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"6767 N 7TH ST UNIT 220, PHOENIX, AZ, 85014"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1975
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2617.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$105552.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20973.00
+bTotalIncome,$2617.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3198.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$20973.00
+refinanCost,$20973.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DONALD BARAJAS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,31-MAR-2057
+cbTotalIncome,$3198.00
+fundingFee,$0.00
+borrowerName,ALISON C WAXMAN
+cbtBaseSalary,$5815.00
+disocuntValue,$0.00
+bSecurityNumber,337466828
+cbtOverttime,$0.00
+totalTxnCost,$20973.00
+bPhone,1108343363
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,27-AUG-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$20973.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$20973.00
+bPresentAddress,"11 SHERMAN PLACE U 5015 , STORRS, CT, 6269"
+cbtTotalIncome,$31982617.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1354.00
+isOutstandingCourtCaseB,No
+bMailAddress,"11 SHERMAN PLACE U 5015 , STORRS, CT, 6269"
+psntFirstLoan,$20973.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LINDA M OTT
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,382672004
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0456104254
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,09-MAY-1989
+psntTotalExp,$20973.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$20973.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2630 FANTA REED RD , LA CROSSE, WI, 54603"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"11 SHERMAN PLACE U 5015 , STORRS, CT, 6269"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$20973.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ALISON C WAXMAN
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ADMIN LAW JUDGES
+depAmount,$2097.30
+isCoWorkerCB,No
+bEmpAddress,"800 K ST NW, STE 400N, WASHINGTON, DC"
+depBankName,US BANK NA
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2751 SHEPARD RD, ST. PAUL, MN"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,11335060062547
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$4194.60
+ typeOfProp,investment property
+bDesignation,"Office Assistant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,26-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2516.76
+signingDateCB,26-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR WH
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OWCP
+cbEmpAddress,"211 E 7TH ST, RM 102, EUGENE, OR"
+preLoanBankAdd,NA
+loanOriginatorID,OWrjcJ6V
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OWCP
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026930912
+cbYrsInJob,5
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, N3454, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,ALISON C WAXMAN
+borrowerName_9,ALISON C WAXMAN
+borrowerName_10,ALISON C WAXMAN
+cborrowerName_3,LINDA M OTT
+cBorrowerName_9,LINDA M OTT
+cborrowerName_10,LINDA M OTT
+signingDateB_10,26-JAN-2016
+signingDateCB_10,26-JAN-2016

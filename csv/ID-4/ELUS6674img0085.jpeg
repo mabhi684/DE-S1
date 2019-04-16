@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Account Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,EnpyFduNM4RuLQ
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GGIC-1274636138
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$106705.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.44%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"5012 CHIMNEYIAKE DR , LAFAYETTE, IN, 47905"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1987
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3260.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$106705.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21387.00
+bTotalIncome,$3260.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3502.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$106705.00
+refinanCost,$21387.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRAD KELLER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-JUL-2069
+cbTotalIncome,$3502.00
+fundingFee,$0.00
+borrowerName,GUILFORD J HENRY
+cbtBaseSalary,$6762.00
+disocuntValue,$0.00
+bSecurityNumber,540384876
+cbtOverttime,$0.00
+totalTxnCost,$106705.00
+bPhone,5387183218
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,23-MAR-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$106705.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$106705.00
+bPresentAddress,"1400 INDEPENDENCE RD MS 317, ROLLA, MO, 65401"
+cbtTotalIncome,$35023260.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1295.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1400 INDEPENDENCE RD MS 317, ROLLA, MO, 65401"
+psntFirstLoan,$106705.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GREGORY K BOUGHTON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,433280227
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4541554875
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,27-JUL-1987
+psntTotalExp,$106705.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$106705.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2617 E LINCOLNWAY STE B, CHEYENNE, WY, 82001"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1400 INDEPENDENCE RD MS 317, ROLLA, MO, 65401"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$106705.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,GUILFORD J HENRY
+isDownpaymentBorrowedCB,No
+bEmpName,DOL/ADMIN LAW JUDGES
+depAmount,$16005.75
+isCoWorkerCB,No
+bEmpAddress,"428E BOSTON ST 1ST FLOOR, LA"
+depBankName,AVANTA FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"3212 CENTRAL AVE., BILLINGS, MT"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,12866846464846
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$18139.85
+ typeOfProp,principal residence
+bDesignation,"Computer Admin, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,28-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$14938.70
+signingDateCB,28-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OIG OA HEADQUARTERS
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OWCP SE REGION
+cbEmpAddress,"OFFICE OF AUDIT ROOM 55512, 200 CONSTITUTION AVENUE N W, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,EpBAeoxP
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OWCP SE REGION
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9043574752
+cbYrsInJob,7
+loanOriginatorAddress,"400 W BAY ST STE 943, SUITE 1026, JACKSONVILLE, FL"
+refinanImproveDescription_e,made
+borrowerName_3,GUILFORD J HENRY
+borrowerName_9,GUILFORD J HENRY
+borrowerName_10,GUILFORD J HENRY
+cborrowerName_3,GREGORY K BOUGHTON
+cBorrowerName_9,GREGORY K BOUGHTON
+cborrowerName_10,GREGORY K BOUGHTON
+signingDateB_10,28-NOV-2015
+signingDateCB_10,28-NOV-2015

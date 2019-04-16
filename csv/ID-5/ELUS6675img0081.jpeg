@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Guard, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,p1058TbWsFiI3o
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,QIWE-8701425443
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$106257.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.97%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"22102 SW 115TH CT , MIAMI, FL, 33170"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2003
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$5317.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$106257.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20658.00
+bTotalIncome,$5317.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1216.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$106257.00
+refinanCost,$20658.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CYNTHIA WELDON-PERPALL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-NOV-2072
+cbTotalIncome,$1216.00
+fundingFee,$0.00
+borrowerName,DENNIS A WENTZ
+cbtBaseSalary,$6533.00
+disocuntValue,$0.00
+bSecurityNumber,257323445
+cbtOverttime,$0.00
+totalTxnCost,$106257.00
+bPhone,1402207864
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-AUG-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$106257.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$106257.00
+bPresentAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR E, SACRAMENTO, CA, 95819"
+cbtTotalIncome,$12165317.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$948.00
+isOutstandingCourtCaseB,No
+bMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR E, SACRAMENTO, CA, 95819"
+psntFirstLoan,$106257.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LORNA Y YOUNG
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,844602682
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6054886118
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-AUG-1987
+psntTotalExp,$106257.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$106257.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"677 ALA MOANA BLVD STE 615, HONOLULU, HI, 96813"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR E, SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$106257.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DENNIS A WENTZ
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA REG 2 - VELEZ
+depAmount,$10625.70
+isCoWorkerCB,No
+bEmpAddress,"1030 ST GEORGE AVE, STE 205, AVENEL, NJ"
+depBankName,VANTAGE CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"4020 FEE ROAD, BRIDGETON, MO"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,44455274524200
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$18063.69
+ typeOfProp,principal residence
+bDesignation,"Asst Accountant, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,27-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$15938.55
+signingDateCB,27-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OASAM
+preLoanBankName,NA
+loanOriginatorName,WAGE HOUR DIVISION
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM 54316, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,rAnT10Eo
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,WAGE HOUR DIVISION
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,3
+loanOriginatorAddress,"310 W WISCONSIN AVENUE, SUITE 1170, MILWAUKEE, WI"
+refinanImproveDescription_e,to be made
+borrowerName_3,DENNIS A WENTZ
+borrowerName_9,DENNIS A WENTZ
+borrowerName_10,DENNIS A WENTZ
+cborrowerName_3,LORNA Y YOUNG
+cBorrowerName_9,LORNA Y YOUNG
+cborrowerName_10,LORNA Y YOUNG
+signingDateB_10,27-JAN-2016
+signingDateCB_10,27-JAN-2016

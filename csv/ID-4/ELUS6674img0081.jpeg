@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"HR Specialist, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,sk4cwQR6VJAHtE
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WLWD-0716080151
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$36124.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.05%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2081 PIPER DR , CHARLESTON, SC, 29407"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2000
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1990.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$36124.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$16322.00
+bTotalIncome,$1990.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3210.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$36124.00
+refinanCost,$16322.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DANIEL KINGSLEY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-APR-2067
+cbTotalIncome,$3210.00
+fundingFee,$0.00
+borrowerName,PAMELA L NAGLER
+cbtBaseSalary,$5200.00
+disocuntValue,$0.00
+bSecurityNumber,773885041
+cbtOverttime,$0.00
+totalTxnCost,$36124.00
+bPhone,4830346241
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-APR-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$36124.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$36124.00
+bPresentAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+cbtTotalIncome,$32101990.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1548.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+psntFirstLoan,$36124.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KRISTEN M HART
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,386415630
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6876566527
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-JUL-1983
+psntTotalExp,$36124.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$36124.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"12703 RESEARCH PKWY , ORLANDO, FL, 32826"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$36124.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,PAMELA L NAGLER
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$4696.12
+isCoWorkerCB,No
+bEmpAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+depBankName,PURDUE UNIVERSITY
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"ROOM 130 HOVDE HALL, WEST LAFAYETTE, IN"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,36225063807064
+isNewPropPermanentB,No
+bYrsInJob,2
+depBankBal,$6863.56
+ typeOfProp,second home
+bDesignation,"Legal Executive, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,04-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4334.88
+signingDateCB,04-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR PWBA
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA
+cbEmpAddress,"200 W ADAMS ST, STE 1600, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,2wXXU18g
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6186328612
+cbYrsInJob,3
+loanOriginatorAddress,"11 EXECUTIVE DRIVE, HEIGHTS, IL"
+refinanImproveDescription_e,to be made
+borrowerName_3,PAMELA L NAGLER
+borrowerName_9,PAMELA L NAGLER
+borrowerName_10,PAMELA L NAGLER
+cborrowerName_3,KRISTEN M HART
+cBorrowerName_9,KRISTEN M HART
+cborrowerName_10,KRISTEN M HART
+signingDateB_10,04-FEB-2016
+signingDateCB_10,04-FEB-2016

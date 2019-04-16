@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Sales Agent, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,PD6L3HqEaW2s14
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GACR-6816018125
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$97140.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,ABNB FCU
+Interest,8.28%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"830 Greenbrier Circle, Chesapeake, Va"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,72641371374874
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$13,599.60"
+PropAddress,"90 ESPLANDAA ST , SELKIRK, NY, 12158"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$20,399.40"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Merck Sharp & Dohme Fcu
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"p.o. box 127, chalfont, pa"
+YearBuilt,1993
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,52337434030623
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$11,656.80"
+propFor,Investment
+bBaseSalary,$2516.00
+pre_loan_bank_balance_02,"$16,513.80"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Allegia@ny Valley Fed Cr Union
+construcOrigCost,$19076.00
+bBonus,$0.00
+pre_loan_bank_add_03,"250 william Pitt wAty, pittsburgh, pa"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,33818775074032
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$11,656.80"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$16,513.80"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6977.00
+bTotalIncome,$2516.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5512.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$97140.00
+refinanCost,$6977.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMANDA TALAR
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-MAR-2075
+cbTotalIncome,$5512.00
+fundingFee,$0.00
+borrowerName,"ROBERT BARTA""N"
+cbtBaseSalary,$8028.00
+disocuntValue,$0.00
+bSecurityNumber,061686070
+cbtOverttime,$0.00
+totalTxnCost,$97140.00
+bPhone,6032854677
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-FEB-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$97140.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$97140.00
+bPresentAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+cbtTotalIncome,$55122516.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1476.00
+isOutstandingCourtCaseB,No
+bMailAddress,"384 WOODS HOLE RD , WA•ODS HOLE, MA, 2543"
+psntFirstLoan,$97140.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,MARILYN CARMOS INO
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,101841750
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2145755430
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,11-JUN-1977
+psntTotalExp,$97140.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$97140.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$97140.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ROBERT BARTON
+isDownpaymentBorrowedCB,
+bEmpName,VETS
+depAmount,$13599.60
+isCoWorkerCB,No
+bEmpAddress,"33 S STATE ST, RM 8174, CHICAGO, IL"
+depBankName,THE COCA-COLA CO FAMILY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"ONE COCA-COLA PLAZA, ATLANTA, GA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,16283620724387
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$20399.40
+ typeOfProp,investment property
+bDesignation,"Office Boy, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,28-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$10685.40
+signingDateCB,28-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,DOL OCFO
+cbEmpAddress,"2 MASS AVE NE, RM 5890, WASHINGTA•N, DC"
+preLoanBankAdd,NA
+loanOriginatorID,vk6ZuSB1
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OCFO
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026938102
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW RM 54030„ WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,"ROBERT BARTA""N"
+borrowerName_9,"ROBERT BARTA""N"
+borrowerName_10,"ROBERT BARTA""N"
+cborrowerName_3,MARILYN CARMOS INO
+cBorrowerName_9,MARILYN CARMOS INO
+cborrowerName_10,MARILYN CARMOS INO
+signingDateB_10,28-DEC-2015
+signingDateCB_10,28-DEC-2015

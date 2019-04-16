@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Security Head, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,K3e68S7uRX46fy
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ENPY-5852456384
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$96962.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,CONCA•RDIA SEMINARY
+Interest,9.30%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"801 SEMINARY PLACE, SAINT LOUIS, MO"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,11518543861312
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$12,605.06"
+PropAddress,"2097 CALIFORNIA DR , VACAVILLE, CA, 95687"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$16,483.54"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,bA dger globe credit union
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"260 NORTH GREEN BAY ROAD, NEENAH, WI"
+YearBuilt,1973
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,32318018883832
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$14,544.30"
+propFor,Seconday
+bBaseSalary,$4174.00
+pre_loan_bank_balance_02,"$16,483.54"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,KAgmba Financial Cu
+construcOrigCost,$80098.00
+bBonus,$0.00
+pre_loan_bank_add_03,"P.o.box 307370, Gahanna, Oh"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,20356523174248
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$13,574.68"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$21,331.64"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$16623.00
+bTotalIncome,$4174.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4352.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$96962.00
+refinanCost,$16623.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,SHANTEE KEY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-DEC-2060
+cbTotalIncome,$4352.00
+fundingFee,$0.00
+borrowerName,WILLAAM H EDWARDS
+cbtBaseSalary,$8526.00
+disocuntValue,$0.00
+bSecurityNumber,882662557
+cbtOverttime,$0.00
+totalTxnCost,$96962.00
+bPhone,2056740165
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-MAY-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$96962.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$96962.00
+bPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+cbtTotalIncome,$43524174.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1423.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+psntFirstLoan,$96962.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JAMES D BREWTON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,783248308
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1181103708
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-MAR-1989
+psntTotalExp,$96962.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$96962.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"BOX 25046 MS 973 DFC , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"1451 GREEN RD , ANN ARBAnR, MI, 48105"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$96962.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,WILLIAM H EDWARDS
+isDownpaymentBorrowedCB,No
+bEmpName,"USDOL OSHA,"
+depAmount,$13574.68
+isCoWorkerCB,No
+bEmpAddress,"1099 WINTERSON ROAD, SUATTE 140, LINTHICUM, MD"
+depBankName,US BANK ELT EFSI
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"425 WALNUT ST., CINCINNATI, OH"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,33574778618646
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$20362.02
+ typeOfProp,principal residence
+bDesignation,"Security Head, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,29-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$10665.82
+signingDateCB,29-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DA-L BLS
+preLoanBankName,NA
+loanOriginatorName,DOL OPA
+cbEmpAddress,"2 MASSACHUSETTS AVE NE, DC"
+preLoanBankAdd,NA
+loanOriginatorID,A5Fg42NQ
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OPA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934656
+cbYrsInJob,4
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM S1032, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,WILLAAM H EDWARDS
+borrowerName_9,WILLAAM H EDWARDS
+borrowerName_10,WILLAAM H EDWARDS
+cborrowerName_3,JAMES D BREWTON
+cBorrowerName_9,JAMES D BREWTON
+cborrowerName_10,JAMES D BREWTON
+signingDateB_10,29-NOV-2015
+signingDateCB_10,29-NOV-2015

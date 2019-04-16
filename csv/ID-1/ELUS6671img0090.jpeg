@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Network Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XbnGoGFqLoOqkj
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ILVK -4215283387
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$3324.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,PENINSULA BANK
+Interest,9.70%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"100 S MA,IN STREET, ISHPEMING, MI"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,45136780813488
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$432.12
+PropAddress,"3242 WINTON ROAD SOUTH J 12 , ROCHESTER, NY, 14623"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,$565.08
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1990
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$5877.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$85616.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3324.00
+bTotalIncome,$5877.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6174.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$3324.00
+refinanCost,$3324.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANNI HSU
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-NOV-2069
+cbTotalIncome,$6174.00
+fundingFee,$0.00
+borrowerName,BRIAN L PETRI
+cbtBaseSalary,$12051.00
+disocuntValue,$0.00
+bSecurityNumber,031712544
+cbtOverttime,$0.00
+totalTxnCost,$3324.00
+bPhone,3711648547
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-APR-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$3324.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$3324.00
+bPresentAddress,"1515 FERGUSON LANE , A_ USTIN, TX, 78754"
+cbtTotalIncome,$61745877.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1181.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1515 FERGUSIO'N LANE , AUSTIN, TX, 78754"
+psntFirstLoan,$3324.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DEBRA A WILLARD
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,778730246
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6374361372
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-MAR-1987
+psntTotalExp,$3324.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$3324.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"926A NATL CTR , RA°3/4STON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1515 FERGUSON LANE , AA""STIN, TX, 78754"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$3324.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,BRIAN L PETRI
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OWCP DFEC
+depAmount,$432.12
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVA- NW, RM S3229, WASHINGTON, DC"
+depBankName,WENATCHEE VALLEY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"636 VALLEY MALL PARKWAY, E WENATCHEE, WA"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,11541202031304
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$565.08
+ typeOfProp,principal residence
+bDesignation,"HR Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,21-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$365.64
+signingDateCB,21-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OPA
+preLoanBankName,NA
+loanOriginatorName,AmS DEPT OF LABOR-ETA
+cbEmpAddress,"200 CONSTITUTION AVE NW, N6315, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,hITOm6od
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR-3242A
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3125965452
+cbYrsInJob,7
+loanOriginatorAddress,"230 S DEARBORN ST 6TH FL, CHICAGO, IL"
+refinanImproveDescription_e,made
+borrowerName_3,BRIAN L PETRI
+borrowerName_9,BRIAN L PETRI
+borrowerName_10,BRIAN L PETRI
+cborrowerName_3,DEBRA A WILLARD
+cBorrowerName_9,DEBRA A WILLARD
+cborrowerName_10,DEBRA A WILLARD
+signingDateB_10,21-DEC-2015
+signingDateCB_10,21-DEC-2015

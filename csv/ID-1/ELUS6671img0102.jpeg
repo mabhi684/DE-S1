@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Asst Accountant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,wKbRY2dXKYOmCr
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,QMFG-5517082135
+lt2y_cb_emp_name1,"Dol Bls; 2 Massachusetts Av? Ne, Rm 2930, Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$50146.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,ALLIANCE CREDIT UNION
+Interest,10.96%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"2780 ADAMS AVENUE, OGDEN, UT"
+Tenure,48 months
+lt2y_cb_emp_salary1,"$11,903.03"
+pre_loan_bank_acNo_01,88476772264051
+AmortType,Other
+lt2y_cb_emp_designation1,grocers suppliertemperory
+pre_loan_bank_EMI_01,"$5,516.06"
+PropAddress,"94 GARDINERS AVE , LEVITTOWN, NY, 11756"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$9,026.28"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1962
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2538.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$19198.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6203.00
+bTotalIncome,$2538.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5302.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$50146.00
+refinanCost,$6203.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARLOS BENITEZ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-JAN-2057
+cbTotalIncome,$5302.00
+fundingFee,$0.00
+borrowerName,STEPHEN A WILSON
+cbtBaseSalary,$7840.00
+disocuntValue,$0.00
+bSecurityNumber,311681065
+cbtOverttime,$0.00
+totalTxnCost,$50146.00
+bPhone,6376835404
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-APR-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$50146.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$50146.00
+bPresentAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+cbtTotalIncome,$53022538.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1748.00
+isOutstandingCourtCaseB,
+bMailAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+psntFirstLoan,$50146.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,MICHAEL HOLT
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,432164456
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1518034280
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,25-MAY-1985
+psntTotalExp,$50146.00
+isCoWorkerB,
+cbYrsSchool,1984
+propFirstLoan,$50146.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"4821 QUAIL CREST PLACE , LAWRAtNCE, KS, 66049"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$50146.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,STEPHEN A WILSON
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR EBSA
+depAmount,$6017.52
+isCoWorkerCB,
+bEmpAddress,"1055 E COLORADO BLVD, STE 200, PASADENA, CA"
+depBankName,DELTA COMMUNITY CU
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"1025 VIRGINIA AVENUE, ATLANTA, GA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,11577327621344
+isNewPropPermanentB,No
+bYrsInJob,2
+depBankBal,$9026.28
+ typeOfProp,second home
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,19-FEB-2016
+lt2y_b_emp_name1,"usdol osha; 1320 w cA'mmerce drive, suite 800, peoria, it"
+subTotLiqValue,$5516.06
+signingDateCB,19-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$12,613.08"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Grocers Supplikrtemperory
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"us dept of labor msha; 1100 wilson blvd, rm 2136, arlA®ngton, va"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$8,503.20"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,GROCERS SUPPLIA-RCONTRACT
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL R9 OASAM SAN FRAN
+preLoanBankName,NA
+loanOriginatorName,US DOL BAT
+cbEmpAddress,"90 7TH STREET, SUITE 2 650, SAN FRANCISCA•, CA"
+preLoanBankAdd,NA
+loanOriginatorID,rXazLlTz
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL BUT
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5129165436
+cbYrsInJob,5
+loanOriginatorAddress,"ETA ATELS, 300 EAST 8TH ST STE 914, AUSTIN, TX"
+refinanImproveDescription_e,to be made
+borrowerName_3,STEPHEN A WILSON
+borrowerName_9,STEPHEN A WILSON
+borrowerName_10,STEPHEN A WILSON
+cborrowerName_3,MICHAEL HOLT
+cBorrowerName_9,MICHAEL HOLT
+cborrowerName_10,MICHAEL HOLT
+signingDateB_10,19-FEB-2016
+signingDateCB_10,19-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Guard, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,vR8g5pt1AjVX71
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UOLA-1707147036
+lt2y_cb_emp_name1,"Dol Esa A-fccp; 200 Constitution Av? Nw 53506, , Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$45567.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,Cone Credit Union
+Interest,8.87%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"211 Walnut St, Neenah, Wi"
+Tenure,24 months
+lt2y_cb_emp_salary1,"$3,124.80"
+pre_loan_bank_acNo_01,82276728207582
+AmortType,GPM
+lt2y_cb_emp_designation1,TRAINERTEMPERORY
+pre_loan_bank_EMI_01,"$4,556.70"
+PropAddress,"1137 SAWYER WAY , SUN PRAIRIE, WI, 53590"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,202.06"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Signal Financial Fcu
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"3015 UNIVERSITY BLVD WEST, KENSINGTON, MD"
+YearBuilt,1973
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,22361851025348
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$4,556.70"
+propFor,Primary
+bBaseSalary,$3237.00
+pre_loan_bank_balance_02,"$7,746.39"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$45567.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$19857.00
+bTotalIncome,$3237.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1186.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$45567.00
+refinanCost,$19857.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CRAIG LEBEAU
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-FEB-2076
+cbTotalIncome,$1186.00
+fundingFee,$0.00
+borrowerName,NOEL M HA>RLEY JR
+cbtBaseSalary,$4423.00
+disocuntValue,$0.00
+bSecurityNumber,364147036
+cbtOverttime,$0.00
+totalTxnCost,$45567.00
+bPhone,5711404116
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-FEB-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$45567.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$45567.00
+bPresentAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+cbtTotalIncome,$11863237.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1699.00
+isOutstandingCourtCaseB,
+bMailAddress,"720 GRACAARN RD , COLUMBIA, SC, 29210"
+psntFirstLoan,$45567.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LORI A BRAMSCHREIBER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,485521316
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1143504882
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,04-MAR-1986
+psntTotalExp,$45567.00
+isCoWorkerB,
+cbYrsSchool,1985
+propFirstLoan,$45567.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"WEST 904 RIVERSIDE AVE , SPOKANE, WA, 99201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$45567.00
+isDeliquentCB,
+lt2y_cb_res_since,8
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"917 NATL CTR , RESTON, VA, 20192"
+depPurchHeldBy,NOEL M HURLEY JR
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL OSHA AtA0
+depAmount,$5012.37
+isCoWorkerCB,
+bEmpAddress,"7935 E PRENTICE AV, SUITE 209, GREENWOOD VILLAGE, CO"
+depBankName,AMERICAN 1 FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"718 EAST MICHIGAN AVENUE, JACKSON, MI"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,15823023742332
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$8202.06
+ typeOfProp,second home
+bDesignation,"HR Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,23-FEB-2016
+lt2y_b_emp_name1,"US DOL OWCP DCMWC; 1 TECH PARK DRIVE, SUITE 250, JOHNSTOWN, PA"
+subTotLiqValue,$4556.70
+signingDateCB,23-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$1,760.00"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,project kissistantpermanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"us dol osha ctc; 435 Alm st stAJD 500, cincinnati, oh"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,408.00"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,PROJECT ASS ISTANTCONTRACT
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,ARRA-PENDLETON
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR MSHA.
+cbEmpAddress,"JFK FEDERAL BLDG RM E-215, 25 NEW SUDBA>RY ST, BOSTON, MA"
+preLoanBankAdd,NA
+loanOriginatorID,mDzVVYAq
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR MSHA
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2187205448
+cbYrsInJob,5
+loanOriginatorAddress,"FEDERAL BLDG, 515 W 1ST ST RM 333, DULUTH, MN"
+refinanImproveDescription_e,to be made
+borrowerName_3,NOEL M HA>RLEY JR
+borrowerName_9,NOEL M HA>RLEY JR
+borrowerName_10,NOEL M HA>RLEY JR
+cborrowerName_3,LORI A BRAMSCHREIBER
+cBorrowerName_9,LORI A BRAMSCHREIBER
+cborrowerName_10,LORI A BRAMSCHREIBER
+signingDateB_10,23-FEB-2016
+signingDateCB_10,23-FEB-2016

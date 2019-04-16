@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Receptionist, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,JcbBWlpdniHcm5
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,AZRQ-1187015041
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$96848.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.14%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"9020 E NASSAU AVE , DENVER, CO, 80237"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1998
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2173.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$96848.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18343.00
+bTotalIncome,$2173.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1866.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$96848.00
+refinanCost,$18343.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MARK RUSHQ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-NOV-2069
+cbTotalIncome,$1866.00
+fundingFee,$0.00
+borrowerName,GARY L SOLIN
+cbtBaseSalary,$4039.00
+disocuntValue,$0.00
+bSecurityNumber,422422347
+cbtOverttime,$0.00
+totalTxnCost,$96848.00
+bPhone,3788787362
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,12-JAN-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$96848.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$96848.00
+bPresentAddress,"4210 UNIVERSITY DRIVE , ANCHORAGE, AK, 99508"
+cbtTotalIncome,$18662173.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1216.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4210 UNIVERSITY DRIVE , ANCHORAGE, AK, 99508"
+psntFirstLoan,$96848.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,NEAL H CRAIG
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,182350642
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2508543746
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,28-MAR-1989
+psntTotalExp,$96848.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$96848.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"308 SOUTH AIRPORT RD , PEARL, MS, 39208"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4210 UNIVERSITY DRIVE , ANCHORAGE, AK, 99508"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$96848.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,GARY L SOLIN
+isDownpaymentBorrowedCB,No
+bEmpName,DOL MSHA
+depAmount,$10653.28
+isCoWorkerCB,No
+bEmpAddress,"PO BOX 25367 DFC„ DENVER, CO"
+depBankName,KEY BANK NA
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"50 FOUNTAIN PLAZA, BUFFALO, NY"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,08702641804374
+isNewPropPermanentB,No
+bYrsInJob,2
+depBankBal,$16464.16
+ typeOfProp,second home
+bDesignation,"Office Boy, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,09-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$9684.80
+signingDateCB,09-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OLMS
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA
+cbEmpAddress,"310 W WISCONSIN AVE RM 1160, MILWAUKEE, WI"
+preLoanBankAdd,NA
+loanOriginatorID,oH03Xftt
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158614900
+cbYrsInJob,3
+loanOriginatorAddress,"THE CURTIS CENTER SUITE 740 WEST, 170 SOUTH INDEPENDENCE MALL WEST, PHILADELPHIA, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,GARY L SOLIN
+borrowerName_9,GARY L SOLIN
+borrowerName_10,GARY L SOLIN
+cborrowerName_3,NEAL H CRAIG
+cBorrowerName_9,NEAL H CRAIG
+cborrowerName_10,NEAL H CRAIG
+signingDateB_10,09-DEC-2015
+signingDateCB_10,09-DEC-2015

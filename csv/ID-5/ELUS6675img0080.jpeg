@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"HR Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,yIf1b71eE1kFgD
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,JCKA-1471014171
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$20658.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.50%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"85 QUEEN AVE , ENOLA, PA, 17025"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1984
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$8597.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$39654.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20658.00
+bTotalIncome,$8597.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2837.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$20658.00
+refinanCost,$20658.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,KEITH MORRONE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-MAY-2061
+cbTotalIncome,$2837.00
+fundingFee,$0.00
+borrowerName,JO ANNE F GIBSON
+cbtBaseSalary,$11434.00
+disocuntValue,$0.00
+bSecurityNumber,621754761
+cbtOverttime,$0.00
+totalTxnCost,$20658.00
+bPhone,0726461046
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-AUG-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$20658.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$20658.00
+bPresentAddress,"10500 UNIVERSITY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+cbtTotalIncome,$28378597.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1038.00
+isOutstandingCourtCaseB,No
+bMailAddress,"10500 UNIVERSITY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+psntFirstLoan,$20658.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GLORIA L GOZA
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,858677157
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1564811125
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-JAN-1977
+psntTotalExp,$20658.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$20658.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"10500 UNIVERSITY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$20658.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JO ANNE F GIBSON
+isDownpaymentBorrowedCB,No
+bEmpName,DOL BLS
+depAmount,$2685.54
+isCoWorkerCB,No
+bEmpAddress,"2 MASSACHUSETTS AVE NE, STE 2905, WASHINGTON, DC"
+depBankName,TEMPE SCHOOLS CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"2800 SOUTH MILL AVENUE, TEMPE, AZ"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,30788805572816
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$3511.86
+ typeOfProp,second home
+bDesignation,"Sr Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,10-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2478.96
+signingDateCB,10-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OSHA REG 2 - JUDSON
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM GOV BENEFITS
+cbEmpAddress,"299 CHERRY HILL RD STE 103, NJ"
+preLoanBankAdd,NA
+loanOriginatorID,52Gq3sWb
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM GOV BENEFITS
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934052
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM S-2203, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,JO ANNE F GIBSON
+borrowerName_9,JO ANNE F GIBSON
+borrowerName_10,JO ANNE F GIBSON
+cborrowerName_3,GLORIA L GOZA
+cBorrowerName_9,GLORIA L GOZA
+cborrowerName_10,GLORIA L GOZA
+signingDateB_10,10-JAN-2016
+signingDateCB_10,10-JAN-2016

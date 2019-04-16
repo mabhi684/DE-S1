@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Legal Executive, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,VFIPc7xLyV7g26
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GYVZ -7220624037
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$30023.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,slm ecfc
+Interest,10.42%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"12061 bluemont way, reston, vki"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,14430187818347
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$3,902.99"
+PropAddress,"37248 JEROME LN , MURRIETA, CA, 92562"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$5,404.14"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,texas dow employees credit union
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1001 F M 2004, Lake Jackson, Tx"
+YearBuilt,1971
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,22800034523601
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$4,503.45"
+propFor,Investment
+bBaseSalary,$1828.00
+pre_loan_bank_balance_02,"$6,605.06"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,first peoples community fcu
+construcOrigCost,$30023.00
+bBonus,$0.00
+pre_loan_bank_add_03,"153 Baltimore St, Cumberland, Md"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,18727162734233
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$3,602.76"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$5,404.14"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12180.00
+bTotalIncome,$1828.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1850.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$30023.00
+refinanCost,$12180.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANNAMARIE AMBROSIO -OGANA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-FEB-2066
+cbTotalIncome,$1850.00
+fundingFee,$0.00
+borrowerName,CHRISTOPHER GERALD SMITH
+cbtBaseSalary,$3678.00
+disocuntValue,$0.00
+bSecurityNumber,570378780
+cbtOverttime,$0.00
+totalTxnCost,$30023.00
+bPhone,0275805077
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-NOV-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$30023.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$30023.00
+bPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+cbtTotalIncome,$18501828.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1620.00
+isOutstandingCourtCaseB,
+bMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+psntFirstLoan,$30023.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,5
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,GREGORY J PERRY
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,805532641
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,6012084276
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,19-OCT-1988
+psntTotalExp,$30023.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$30023.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"934 BROADWAY SUITE 300 , TACOMA, WA, 98402"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$30023.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CHRISTOPHER GERALD SMITH
+isDownpaymentBorrowedCB,No
+bEmpName,71)s DEPT OF LABOR-OSHA
+depAmount,$4503.45
+isCoWorkerCB,
+bEmpAddress,"1150 N CURTIS ROAD, SUITE 201, BOISAA, ID"
+depBankName,PROMEDICA FEDERAL CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"2301 WEST CENTRAL AVE, TOLEDO, OH"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,23006202285644
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$5704.37
+ typeOfProp,investment property
+bDesignation,"Project Assistant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,15-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4503.45
+signingDateCB,15-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL WAGE AND HOUR
+preLoanBankName,NA
+loanOriginatorName,"US DEPT LABA""R/VETS"
+cbEmpAddress,"US DOL WAGE HOUR DIV, 2800 COTTAGE WAY STE W 1836, SACRAMENTO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,dAutkbiX
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,"US DEPT LA,BOR/VETS"
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9728504720
+cbYrsInJob,8
+loanOriginatorAddress,"525 S GRIFFIN STREET, SUITE 858, DALLAS, TX"
+refinanImproveDescription_e,made
+borrowerName_3,CHRISTOPHER GERALD SMITH
+borrowerName_9,CHRISTOPHER GERALD SMITH
+borrowerName_10,CHRISTOPHER GERALD SMITH
+cborrowerName_3,GREGORY J PERRY
+cBorrowerName_9,GREGORY J PERRY
+cborrowerName_10,GREGORY J PERRY
+signingDateB_10,15-JAN-2016
+signingDateCB_10,15-JAN-2016

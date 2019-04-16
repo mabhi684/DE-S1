@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Worker, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Ouozq8JPY5weiq
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LJOM-6502705702
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$52249.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.79%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"608 E 81ST ST , BROOKLYN, NY, 11236"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1974
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1967.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$52249.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5251.00
+bTotalIncome,$1967.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4173.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$52249.00
+refinanCost,$5251.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALONZO PAYTON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-FEB-2074
+cbTotalIncome,$4173.00
+fundingFee,$0.00
+borrowerName,RALPH E PUCKETT
+cbtBaseSalary,$6140.00
+disocuntValue,$0.00
+bSecurityNumber,657074610
+cbtOverttime,$0.00
+totalTxnCost,$52249.00
+bPhone,1615143872
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,24-AUG-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$52249.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$52249.00
+bPresentAddress,"9818 BLUEGRASS PKWY , LOUISVILLE, KY, 40299"
+cbtTotalIncome,$41731967.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1377.00
+isOutstandingCourtCaseB,No
+bMailAddress,"9818 BLUEGRASS PKWY , LOUISVILLE, KY, 40299"
+psntFirstLoan,$52249.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,RHONDA Y DART
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,065086204
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1151400747
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-OCT-1980
+psntTotalExp,$52249.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$52249.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"777 NW 9th ST STE 400 , CORVALLIS, OR, 97330"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"9818 BLUEGRASS PKWY , LOUISVILLE, KY, 40299"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$52249.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RALPH E PUCKETT
+isDownpaymentBorrowedCB,No
+bEmpName,LITTLE ROCK AREA OFF
+depAmount,$5224.90
+isCoWorkerCB,No
+bEmpAddress,"10810 EXECUTIVE CENTER DR, DANVILLE BLDG STE 206, LITTLE ROCK, AR"
+depBankName,CITY & COUNTY CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"144 E 11TH ST, ST PAUL, MN"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,84421211803232
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$10449.80
+ typeOfProp,second home
+bDesignation,"Project Assistant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,19-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$7837.35
+signingDateCB,19-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL REGION VI OSHA
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR OASAM
+cbEmpAddress,"525 GRIFFIN ST ROOM 602, DALLAS, TX"
+preLoanBankAdd,NA
+loanOriginatorID,sPqevbpd
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR OASAM
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4043025816
+cbYrsInJob,4
+loanOriginatorAddress,"61 FORSYTH ST SW, RM 6B25, ATLANTA, GA"
+refinanImproveDescription_e,made
+borrowerName_3,RALPH E PUCKETT
+borrowerName_9,RALPH E PUCKETT
+borrowerName_10,RALPH E PUCKETT
+cborrowerName_3,RHONDA Y DART
+cBorrowerName_9,RHONDA Y DART
+cborrowerName_10,RHONDA Y DART
+signingDateB_10,19-DEC-2015
+signingDateCB_10,19-DEC-2015

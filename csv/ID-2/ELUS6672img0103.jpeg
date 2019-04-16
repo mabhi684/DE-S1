@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Cleaner, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,OKqs8KTWb8z3BB
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WUOG -3601386078
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$42312.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Flagship Bank
+Interest,8.02%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"PO BOX 130, WINSTED, MN"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,88536384228721
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,654.32"
+PropAddress,"1741 RED CEDAR DR APT 7, FORT MYERS, FL, 33907"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$7,616.16"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,FloApdwood Area Credit Union
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"Po Box 318, Floodwood, Mn"
+YearBuilt,1986
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,57468388612585
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$5,923.68"
+propFor,Investment
+bBaseSalary,$4910.00
+pre_loan_bank_balance_02,"$7,616.16"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$42312.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13229.00
+bTotalIncome,$4910.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1902.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$42312.00
+refinanCost,$13229.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,EDITH VELAZQUEZ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-JUN-2064
+cbTotalIncome,$1902.00
+fundingFee,$0.00
+borrowerName,ROBERT L BASKIN
+cbtBaseSalary,$6812.00
+disocuntValue,$0.00
+bSecurityNumber,804588803
+cbtOverttime,$0.00
+totalTxnCost,$42312.00
+bPhone,2518401770
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,28-OCT-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$42312.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$42312.00
+bPresentAddress,"2329 W ORTON CIRCLE , WAB'ST VALLEY CITY, UT, 84119"
+cbtTotalIncome,$19024910.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1126.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, UT, 84119"
+psntFirstLoan,$42312.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,10
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"912 National Center , Resat, Va, 20192"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MICHAEL J RinBERTS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,675055221
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2206852220
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,23-JUN-1982
+psntTotalExp,$42312.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$42312.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"2329 W ORTON CIRCLE , WA-ST VALLEY CITY, UT, 84119"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$42312.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ROBERT L BASKIN
+isDownpaymentBorrowedCB,No
+bEmpName,OFF OF REG ADMIN WH
+depAmount,$5077.44
+isCoWorkerCB,No
+bEmpAddress,"600 S MAESTRI STREET, RM 615, NEW ORLEANS, LA"
+depBankName,ADVANTAGE CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1848 EAST MAIN STREET, ONALASKA, WI"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,87142877326407
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$8885.52
+ typeOfProp,principal residence
+bDesignation,"Security Member, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,11-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5923.68
+signingDateCB,11-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL SOL
+preLoanBankName,NA
+loanOriginatorName,DOL Ac SA OFCCP
+cbEmpAddress,"2300 MAIN ST STE1020„ KIENSAS CITY, MO"
+preLoanBankAdd,NA
+loanOriginatorID,jAx3JEfu
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL AtSA OFCCP
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026930957
+cbYrsInJob,5
+loanOriginatorAddress,"2075 EDINBURGH CT, MD"
+refinanImproveDescription_e,made
+borrowerName_3,ROBERT L BASKIN
+borrowerName_9,ROBERT L BASKIN
+borrowerName_10,ROBERT L BASKIN
+cborrowerName_3,MICHAEL J RinBERTS
+cBorrowerName_9,MICHAEL J RinBERTS
+cborrowerName_10,MICHAEL J RinBERTS
+signingDateB_10,11-FEB-2016
+signingDateCB_10,11-FEB-2016

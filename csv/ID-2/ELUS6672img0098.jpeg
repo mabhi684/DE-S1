@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Labor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,tWCRPawFb2Byxb
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BVIM -4862768288
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$23997.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,BANK OF WHITMAN
+Interest,10.02%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"p o box 270, colfax, wa"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,28055517425306
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$3,119.61"
+PropAddress,"3015 SPENCER AVE , OROVILLE, CA, 95966"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,079.49"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,"Bank Anf America, Na"
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"P.O. BOX 419038, KANSAS CITY, MO"
+YearBuilt,1976
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,24725180118220
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,639.67"
+propFor,Primary
+bBaseSalary,$4669.00
+pre_loan_bank_balance_02,"$4,319.46"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$23997.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12180.00
+bTotalIncome,$4669.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4043.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$23997.00
+refinanCost,$12180.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHONG CHUE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,28-JUL-2059
+cbTotalIncome,$4043.00
+fundingFee,$0.00
+borrowerName,KATHY L HA_.UMANN
+cbtBaseSalary,$8712.00
+disocuntValue,$0.00
+bSecurityNumber,615710511
+cbtOverttime,$0.00
+totalTxnCost,$23997.00
+bPhone,3778883088
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,25-DEC-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$23997.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$23997.00
+bPresentAddress,"202 NATIONAL CENT&°4R , RESTON, VA, 20192"
+cbtTotalIncome,$40434669.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1300.00
+isOutstandingCourtCaseB,
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$23997.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,LORI A BRAMSCHREIBER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,702003542
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3102835820
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,29-JUL-1985
+psntTotalExp,$23997.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$23997.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"WEST 904 RIVERSIDE AVE , SPA•EANE, WA, 99201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONA,L CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$23997.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KATHY L HAUMANN
+isDownpaymentBorrowedCB,
+bEmpName,"DEPT OF LABA""R"
+depAmount,$3119.61
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM C0049, WASHINGTON, DC"
+depBankName,NORWAY SAVINGS BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"261 MAIN STREET, NORWAY, ME"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,16212524228471
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$4799.40
+ typeOfProp,investment property
+bDesignation,"Worker, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,02-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3359.58
+signingDateCB,02-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OPAJ
+preLoanBankName,NA
+loanOriginatorName,DOL OASAN
+cbEmpAddress,"ATLANTA FEDERAL BLDG 61 FORSYTH ST, PUBLIC AFFAIRS RM 6B75, ATLANTA, GA"
+preLoanBankAdd,NA
+loanOriginatorID,z5UC3odD
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAN
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8162857211
+cbYrsInJob,6
+loanOriginatorAddress,"2300 MAIN ST, STE 1070, KANSAS CITY, MO"
+refinanImproveDescription_e,made
+borrowerName_3,KATHY L HA_.UMANN
+borrowerName_9,KATHY L HA_.UMANN
+borrowerName_10,KATHY L HA_.UMANN
+cborrowerName_3,LORI A BRAMSCHREIBER
+cBorrowerName_9,LORI A BRAMSCHREIBER
+cborrowerName_10,LORI A BRAMSCHREIBER
+signingDateB_10,02-JAN-2016
+signingDateCB_10,02-JAN-2016

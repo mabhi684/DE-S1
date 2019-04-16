@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Account Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,6MhdAM10p20p6t
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MFUV-4433274718
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$15463.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,farmers & merchants state bank of n
+Interest,7.09%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"po box 278, new york 10111"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,75573735611625
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,164.82"
+PropAddress,"1560 COMMONWEALTH AVE , BRAnGHTON, MA, 2135"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,628.71"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,HOMETOWN BANK
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"80 Sheboygan St., Fond Du Lac, Wi"
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,43621170544653
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,010.19"
+propFor,Seconday
+bBaseSalary,$2100.00
+pre_loan_bank_balance_02,"$3,092.60"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$40898.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15463.00
+bTotalIncome,$2100.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3816.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$15463.00
+refinanCost,$15463.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANDREA HUNTOON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-DEC-2067
+cbTotalIncome,$3816.00
+fundingFee,$0.00
+borrowerName,JAMIE P HUGHAAS
+cbtBaseSalary,$5916.00
+disocuntValue,$0.00
+bSecurityNumber,053512785
+cbtOverttime,$0.00
+totalTxnCost,$15463.00
+bPhone,5187816108
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,16-OCT-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$15463.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$15463.00
+bPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MA•, 65201"
+cbtTotalIncome,$38162100.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1508.00
+isOutstandingCourtCaseB,
+bMailAddress,"4200 NEW HAVEN RD , COLUMBAA, MO, 65201"
+psntFirstLoan,$15463.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,"JA""SEPH PLESHA"
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,107446802
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2718504172
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-AUG-1983
+psntTotalExp,$15463.00
+isCoWorkerB,
+cbYrsSchool,1983
+propFirstLoan,$15463.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4200 NEW HAVIAN RD , COLUMBIA, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$15463.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JAMIE P HUGHES
+isDownpaymentBorrowedCB,No
+bEmpName,OSEC / OFFICAA OF JOB CORPS
+depAmount,$2164.82
+isCoWorkerCB,
+bEmpAddress,"1627 WOODLAND AVE, , AAASTIN, TX"
+depBankName,CITIZENS AND NORTHERN BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"428 MAIN STREET, TOWANDA, PA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,74084540047467
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$2628.71
+ typeOfProp,second home
+bDesignation,"Project Assistant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,27-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2010.19
+signingDateCB,27-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL SCIENCE TECHNOLOGY & MED
+preLoanBankName,NA
+loanOriginatorName,DOL BLS OA DHROM
+cbEmpAddress,"200 CONSTITUTION AVE NW, N3653, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,tx2aKjvT
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS OA DHROM
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026916602
+cbYrsInJob,6
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE RM G440, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,JAMIE P HUGHAAS
+borrowerName_9,JAMIE P HUGHAAS
+borrowerName_10,JAMIE P HUGHAAS
+cborrowerName_3,"JA""SEPH PLESHA"
+cBorrowerName_9,"JA""SEPH PLESHA"
+cborrowerName_10,"JA""SEPH PLESHA"
+signingDateB_10,27-JAN-2016
+signingDateCB_10,27-JAN-2016

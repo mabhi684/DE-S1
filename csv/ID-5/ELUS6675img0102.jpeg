@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Labor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7JviT44d3T3kF4
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZEIP-1121231731
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$27937.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.46%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"189 LACY LN , HUNTSVILLE, AL, 35811"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1968
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4211.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$27937.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18343.00
+bTotalIncome,$4211.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3989.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$27937.00
+refinanCost,$18343.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,SHA JORDAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-APR-2069
+cbTotalIncome,$3989.00
+fundingFee,$0.00
+borrowerName,BRADY R COUVILLION
+cbtBaseSalary,$8200.00
+disocuntValue,$0.00
+bSecurityNumber,473305011
+cbtOverttime,$0.00
+totalTxnCost,$27937.00
+bPhone,6870178401
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,10-SEP-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$27937.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$27937.00
+bPresentAddress,"700 CAJUNDOME BLVD , LAFAYETTE, LA, 70506"
+cbtTotalIncome,$39894211.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1667.00
+isOutstandingCourtCaseB,No
+bMailAddress,"700 CAJUNDOME BLVD , LAFAYETTE, LA, 70506"
+psntFirstLoan,$27937.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BETH A DAHL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,275573231
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7878623064
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,27-NOV-1984
+psntTotalExp,$27937.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$27937.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"700 CAJUNDOME BLVD , LAFAYETTE, LA, 70506"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$27937.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,BRADY R COUVILLION
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT LABOR/VETS
+depAmount,$3352.44
+isCoWorkerCB,No
+bEmpAddress,"140 EAST 300 SOUTH, , SALT LAKE CITY, UT"
+depBankName,OMAHA DOUGLAS FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"8251 WEST CENTER RD, OMAHA, NE"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,84114167562520
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$6146.14
+ typeOfProp,principal residence
+bDesignation,"Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,08-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2793.70
+signingDateCB,08-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR BAT
+preLoanBankName,NA
+loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"BUREAU OF APPRENTICESHIP, 1222 SPRUCE RM 9 102E, SAINT LOUIS, MO"
+preLoanBankAdd,NA
+loanOriginatorID,
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8037565244
+cbYrsInJob,7
+loanOriginatorAddress,"1835 ASSEMBLY ST, RM 608, COLUMBIA, SC"
+refinanImproveDescription_e,to be made
+borrowerName_3,BRADY R COUVILLION
+borrowerName_9,BRADY R COUVILLION
+borrowerName_10,BRADY R COUVILLION
+cborrowerName_3,BETH A DAHL
+cBorrowerName_9,BETH A DAHL
+cborrowerName_10,BETH A DAHL
+signingDateB_10,08-JAN-2016
+signingDateCB_10,08-JAN-2016

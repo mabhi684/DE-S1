@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Office Assistant, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5n6c3Ctza3dbjq
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,HLAY-2285706815
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$17662.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,zions bank elt loanstar asset ptnrs (gth
+Interest,7.59%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1001 17th st., denver, co"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,24188365256065
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,942.82"
+PropAddress,"4 SULKY CT , RANDASLLSTOWN, MD, 21133"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,355.78"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1995
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3049.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$85616.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3324.00
+bTotalIncome,$3049.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2496.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$17662.00
+refinanCost,$3324.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CLAUDIA JOYNER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-DEC-2065
+cbTotalIncome,$2496.00
+fundingFee,$0.00
+borrowerName,STEPHA-N P RUBIN
+cbtBaseSalary,$5545.00
+disocuntValue,$0.00
+bSecurityNumber,402138654
+cbtOverttime,$0.00
+totalTxnCost,$17662.00
+bPhone,6172815153
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,09-NOV-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$17662.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$17662.00
+bPresentAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+cbtTotalIncome,$24963049.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1780.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+psntFirstLoan,$17662.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,REBECCA V CORONEL
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,736570135
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2043613321
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-AUG-1986
+psntTotalExp,$17662.00
+isCoWorkerB,No
+cbYrsSchool,1985
+propFirstLoan,$17662.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"520 N PARK AVE SUITE 221 , TUCSON, AZ, 85719"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$17662.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,STEPHEN P RUBIN
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL WAGE AND HOUR
+depAmount,$2119.44
+isCoWorkerCB,No
+bEmpAddress,"90 7TH STREET, SA>ITE 13 100, SAN FRANCISCO, CA"
+depBankName,AMERICA'S CHRISTIAN CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2009 S GROVE, WICHITA, KS"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,37121803633763
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$3532.40
+ typeOfProp,investment property
+bDesignation,"Central Supervisor, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,29-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2296.06
+signingDateCB,29-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL R9 ArASAM SAN FRAN
+preLoanBankName,NA
+loanOriginatorName,DEPTA OF LABOR - OSHA
+cbEmpAddress,"90 7TH ST STE 2-650, SAN FRA,NCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,7plsgzej
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DEPTA OF LABOR - OSHA
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8162838745
+cbYrsInJob,8
+loanOriginatorAddress,"2300 MAIN ST, STE 1010, KANSAS CITY, MO"
+refinanImproveDescription_e,made
+borrowerName_3,STEPHA-N P RUBIN
+borrowerName_9,STEPHA-N P RUBIN
+borrowerName_10,STEPHA-N P RUBIN
+cborrowerName_3,REBECCA V CORONEL
+cBorrowerName_9,REBECCA V CORONEL
+cborrowerName_10,REBECCA V CORONEL
+signingDateB_10,29-JAN-2016
+signingDateCB_10,29-JAN-2016

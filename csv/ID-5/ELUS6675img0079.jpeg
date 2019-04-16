@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Supervisor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,703ZFAbwbTDg3b
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UXED-7672773887
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$10307.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.14%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"65535 DENNIS RD , ASHLAND, WI, 54806"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1991
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3482.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$39654.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10307.00
+bTotalIncome,$3482.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3475.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$10307.00
+refinanCost,$10307.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DEBORAH KOLESKI
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-SEP-2056
+cbTotalIncome,$3475.00
+fundingFee,$0.00
+borrowerName,GREGORY L FERNETTE
+cbtBaseSalary,$6957.00
+disocuntValue,$0.00
+bSecurityNumber,052555080
+cbtOverttime,$0.00
+totalTxnCost,$10307.00
+bPhone,7348720313
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-MAR-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$10307.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$10307.00
+bPresentAddress,"BOX 25046 MS 421 DFC , DENVER, CO, 80225"
+cbtTotalIncome,$34753482.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1003.00
+isOutstandingCourtCaseB,No
+bMailAddress,"BOX 25046 MS 421 DFC , DENVER, CO, 80225"
+psntFirstLoan,$10307.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DENNIS J LOW
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,602713075
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4754218052
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-DEC-1988
+psntTotalExp,$10307.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$10307.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"215 LIMEKILN RD , NEW CUMBERLAND, PA, 17070"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 MS 421 DFC , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$10307.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,GREGORY L FERNETTE
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OCFO
+depAmount,$1236.84
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, ROOM S-4030, WASHINGTON, DC"
+depBankName,SEATTLE METROPOLITAN CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 780, SEATTLE, WA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,55236850036707
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$1752.19
+ typeOfProp,second home
+bDesignation,"Machinist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,16-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1339.91
+signingDateCB,16-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"310 W WISCONSIN AV, 1180, MILWAUKEE, WI"
+preLoanBankAdd,NA
+loanOriginatorID,7mR01mFra
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026067550
+cbYrsInJob,9
+loanOriginatorAddress,"2 MASS AVE NE, ROOM 5140, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,GREGORY L FERNETTE
+borrowerName_9,GREGORY L FERNETTE
+borrowerName_10,GREGORY L FERNETTE
+cborrowerName_3,DENNIS J LOW
+cBorrowerName_9,DENNIS J LOW
+cborrowerName_10,DENNIS J LOW
+signingDateB_10,16-DEC-2015
+signingDateCB_10,16-DEC-2015

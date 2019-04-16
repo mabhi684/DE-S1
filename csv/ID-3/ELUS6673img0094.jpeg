@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Asst Accountant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,zWpeVxn86vWzNF
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZCXO -1706458100
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$96815.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Emory Alliance Fcu
+Interest,8.32%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1237 clairmont road, decatur, ga"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,58545238128300
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,649.65"
+PropAddress,"822 HARRINGTON AVE APT 4, NORFOLK, VA, 23517"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$21,299.30"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1979
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$5025.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$80098.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6977.00
+bTotalIncome,$5025.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5273.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$96815.00
+refinanCost,$6977.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALAIN BERRY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-AUG-2066
+cbTotalIncome,$5273.00
+fundingFee,$0.00
+borrowerName,MARY L MCGANN
+cbtBaseSalary,$10298.00
+disocuntValue,$0.00
+bSecurityNumber,356874318
+cbtOverttime,$0.00
+totalTxnCost,$96815.00
+bPhone,3082785026
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-JUL-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$96815.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$96815.00
+bPresentAddress,"345 MIDDLEFIMLD RD MS 999 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$52735025.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$959.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+psntFirstLoan,$96815.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,FLOYD GRAY
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,418476022
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0083362654
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,30-MAR-1989
+psntTotalExp,$96815.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$96815.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"WEST 904 RIVERSIDE AVE , SPOKANE, WA, 99201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$96815.00
+isDeliquentCB,
+lt2y_cb_res_since,6
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"box 25046 ms 415 bldg 53 dfc, denver, co, 80225"
+depPurchHeldBy,MARY L MCGANN
+isDownpaymentBorrowedCB,
+bEmpName,US DOL A<SA OFCCP
+depAmount,$12585.95
+isCoWorkerCB,No
+bEmpAddress,"800 DOLOROSA ST, RM 200, SAN ANTONIO, TX"
+depBankName,NORTHERN HILLS FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 759 1080 MAIN STREET, STURGIS, SD"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,53710187072367
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$16458.55
+ typeOfProp,second home
+bDesignation,"Sr Accountant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,15-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$11617.80
+signingDateCB,15-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OASAM BOC OPPP
+preLoanBankName,NA
+loanOriginatorName,WAGAA HOUR DIVISION
+cbEmpAddress,"200 CONSTITUTIION AVE NW, ROOM 51519B, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,WPeAr5ud
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,WAGE HOUR DIVISION
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5153232196
+cbYrsInJob,7
+loanOriginatorAddress,"210 WALNUT ST, RM 643, DES MOINES, IA"
+refinanImproveDescription_e,made
+borrowerName_3,MARY L MCGANN
+borrowerName_9,MARY L MCGANN
+borrowerName_10,MARY L MCGANN
+cborrowerName_3,FLOYD GRAY
+cBorrowerName_9,FLOYD GRAY
+cborrowerName_10,FLOYD GRAY
+signingDateB_10,15-DEC-2015
+signingDateCB_10,15-DEC-2015

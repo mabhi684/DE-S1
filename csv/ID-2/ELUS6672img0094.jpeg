@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Security Head, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,rbajajHPOdW3ZR
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GQTX-0326741063
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$91661.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,"US BANK NA,"
+Interest,8.57%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"2751 shepard rd, st. mn"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,57743081276364
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$12,832.54"
+PropAddress,"2840 OCEAN PKWY APT 16A, BRA•OKLYN, NY, 11235"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$20,165.42"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1978
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2555.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$91661.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12180.00
+bTotalIncome,$2555.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4153.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$91661.00
+refinanCost,$12180.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALEXANDER TENENBOYM
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-DEC-2070
+cbTotalIncome,$4153.00
+fundingFee,$0.00
+borrowerName,DEANN M DUTTON
+cbtBaseSalary,$6708.00
+disocuntValue,$0.00
+bSecurityNumber,141828168
+cbtOverttime,$0.00
+totalTxnCost,$91661.00
+bPhone,8223865763
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-SEP-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$91661.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$91661.00
+bPresentAddress,"3162 BOZEMAN 11,vm , HELENA, MT, 59601"
+cbtTotalIncome,$41532555.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1307.00
+isOutstandingCourtCaseB,No
+bMailAddress,"3162 BA-ZEMAN AVE , HELENA, MT, 59601"
+psntFirstLoan,$91661.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CRYSTAL SVERDSTEN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,346401620
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7581626654
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,11-FEB-1990
+psntTotalExp,$91661.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$91661.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"230 COLLINS RD , BOISE, ID, 83702"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3162 BOZEMAN AVE , HELENA, MT, 59601"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$91661.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DEANN M DUTTON
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT LABOR WB
+depAmount,$13749.15
+isCoWorkerCB,No
+bEmpAddress,"5675 RUFFIN RD, SUITE 310, SAN DIEGO, CA_"
+depBankName,PACIFIC GRADUATE SCHOOL OF PSYCHOLOGY
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"405 BROADWAY ST., REDWOOD CITY, CA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,72572284065580
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$17415.59
+ typeOfProp,second home
+bDesignation,"Office Assistant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,23-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$9166.10
+signingDateCB,23-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OIG OI
+preLoanBankName,NA
+loanOriginatorName,USDOL REGION VI OSHA
+cbEmpAddress,"1111 THIRD AVE STE 600, WA"
+preLoanBankAdd,NA
+loanOriginatorID,ZtYncOlg
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL RintGION VI OSHA
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9728504169
+cbYrsInJob,4
+loanOriginatorAddress,"525 GRIFFIN ST ROOM 602, , DALLAS, TX"
+refinanImproveDescription_e,made
+borrowerName_3,DEANN M DUTTON
+borrowerName_9,DEANN M DUTTON
+borrowerName_10,DEANN M DUTTON
+cborrowerName_3,CRYSTAL SVERDSTEN
+cBorrowerName_9,CRYSTAL SVERDSTEN
+cborrowerName_10,CRYSTAL SVERDSTEN
+signingDateB_10,23-FEB-2016
+signingDateCB_10,23-FEB-2016

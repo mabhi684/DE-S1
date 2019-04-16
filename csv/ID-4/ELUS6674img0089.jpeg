@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Asst Accountant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,QNmluCq628Zen5
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,PJFT-2633428026
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$26496.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.86%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"173 COUNTY ROAD 3986 , JASPER, AL, 35503"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2093.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$26496.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21387.00
+bTotalIncome,$2093.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5409.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$26496.00
+refinanCost,$21387.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRYANA BRIDGMON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-MAY-2057
+cbTotalIncome,$5409.00
+fundingFee,$0.00
+borrowerName,JOHN R WEANT
+cbtBaseSalary,$7502.00
+disocuntValue,$0.00
+bSecurityNumber,238607215
+cbtOverttime,$0.00
+totalTxnCost,$26496.00
+bPhone,6471367576
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-MAR-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$26496.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$26496.00
+bPresentAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+cbtTotalIncome,$54092093.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1754.00
+isOutstandingCourtCaseB,No
+bMailAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+psntFirstLoan,$26496.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DAWN M LAND
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,246702040
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1530077480
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-MAY-1989
+psntTotalExp,$26496.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$26496.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1730 EAST PARHAM RD , RICHMOND, VA, 23228"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$26496.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOHN R WEANT
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL ATELS BAT
+depAmount,$3444.48
+isCoWorkerCB,No
+bEmpAddress,"405 CAPITAL ST, SUITE 409, CHARLESTON, WV"
+depBankName,FULTON BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1695 STATE STREET, EAST PETERSBURG, PA"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,07482853227502
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$5564.16
+ typeOfProp,principal residence
+bDesignation,"Receptionist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,31-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2649.60
+signingDateCB,31-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL R2 ESA WHD
+preLoanBankName,NA
+loanOriginatorName,US DOL ESA OFCCP
+cbEmpAddress,"3131 PRINCETON PIKE, BUILDING 5 RM 216, LAWRENCEVILLE, NJ"
+preLoanBankAdd,NA
+loanOriginatorID,3NmeTiTt
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL ESA OFCCP
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9728502551
+cbYrsInJob,3
+loanOriginatorAddress,"525 S GRIFFIN ST, RM 840, DALLAS, TX"
+refinanImproveDescription_e,made
+borrowerName_3,JOHN R WEANT
+borrowerName_9,JOHN R WEANT
+borrowerName_10,JOHN R WEANT
+cborrowerName_3,DAWN M LAND
+cBorrowerName_9,DAWN M LAND
+cborrowerName_10,DAWN M LAND
+signingDateB_10,31-DEC-2015
+signingDateCB_10,31-DEC-2015

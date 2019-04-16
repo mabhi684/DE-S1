@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Trainer, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,U2t235yj72wnxF
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WLUW-1756575700
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$20510.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.94%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2101 CHESTNUT ST UNIT 809, PHILADELPHIA, PA, 19103"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1973
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4068.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$20510.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18343.00
+bTotalIncome,$4068.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3415.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$20510.00
+refinanCost,$18343.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,EUN JI KWON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-OCT-2070
+cbTotalIncome,$3415.00
+fundingFee,$0.00
+borrowerName,JACOB L GREGG
+cbtBaseSalary,$7483.00
+disocuntValue,$0.00
+bSecurityNumber,370081713
+cbtOverttime,$0.00
+totalTxnCost,$20510.00
+bPhone,3456367221
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,06-MAY-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$20510.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$20510.00
+bPresentAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+cbtTotalIncome,$34154068.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1700.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+psntFirstLoan,$20510.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CRISTINA A VEGA
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,158117627
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1202032655
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,01-MAR-1986
+psntTotalExp,$20510.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$20510.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"156 NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$20510.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JACOB L GREGG
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA WAGE & HOUR
+depAmount,$2256.10
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, ROOM 53502, WASHINGTON, DC"
+depBankName,NORTH ALABAMA EDUCATORS CU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 128, HUNTSVILLE, AL"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,16417302473062
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$3691.80
+ typeOfProp,second home
+bDesignation,"Worker, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,18-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2051.00
+signingDateCB,18-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,DOL OPA
+cbEmpAddress,"6295 EDSALL RD, STE 180, ALEXANDRIA, VA"
+preLoanBankAdd,NA
+loanOriginatorID,CcnpV38d
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OPA
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934684
+cbYrsInJob,8
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, N6315, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,JACOB L GREGG
+borrowerName_9,JACOB L GREGG
+borrowerName_10,JACOB L GREGG
+cborrowerName_3,CRISTINA A VEGA
+cBorrowerName_9,CRISTINA A VEGA
+cborrowerName_10,CRISTINA A VEGA
+signingDateB_10,18-DEC-2015
+signingDateCB_10,18-DEC-2015

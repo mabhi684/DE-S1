@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Sr Accountant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ZS37nAw8C6V4v6
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WEPR-0724324571
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$88194.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,BARAGA COUNTY FEDAARAL CREDIT UNION
+Interest,9.98%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"101 EAST BROL.D STREET, L'ANSE, MI"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,67026280365003
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,701.34"
+PropAddress,"12 PINE LN , OCEA,N, NJ, 7712"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$18,520.74"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,HAZELTON SCHOOL EMPLOYEES CR Aar
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1049 wilbA4r ct, hazelton, Pa"
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,16017758825305
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$8,819.40"
+propFor,Investment
+bBaseSalary,$5086.00
+pre_loan_bank_balance_02,"$16,756.86"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$88194.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$16623.00
+bTotalIncome,$5086.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5375.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$88194.00
+refinanCost,$16623.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,SAMUEL COOPER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-AUG-2059
+cbTotalIncome,$5375.00
+fundingFee,$0.00
+borrowerName,"MARY E TA""DD"
+cbtBaseSalary,$10461.00
+disocuntValue,$0.00
+bSecurityNumber,221645430
+cbtOverttime,$0.00
+totalTxnCost,$88194.00
+bPhone,4573373141
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-MAY-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$88194.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$88194.00
+bPresentAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+cbtTotalIncome,$53755086.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1013.00
+isOutstandingCourtCaseB,
+bMailAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+psntFirstLoan,$88194.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JOSHUA B SCHERETTE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,045002606
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7538008654
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-SEP-1990
+psntTotalExp,$88194.00
+isCoWorkerB,
+cbYrsSchool,1980
+propFirstLoan,$88194.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 DFC MS 935 , DENVIaR, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$88194.00
+isDeliquentCB,No
+lt2y_cb_res_since,1
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"Placer Hall 6000 J St , Sacram?nto, Ca, 95819"
+depPurchHeldBy,MARY E TODD
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL A-SA WH
+depAmount,$10583.28
+isCoWorkerCB,
+bEmpAddress,"SECOND CHESNUT ST, ROOM 400, PHILADELPHIA, PA"
+depBankName,FRICK TRI COUNTY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"235 PITTSBURGH ST, UNIONTOWN, PA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,50126152067810
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$17638.80
+ typeOfProp,investment property
+bDesignation,"Sales Agent, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,08-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8819.40
+signingDateCB,08-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OSHA REG 2 - MENDELSON
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OMAP
+cbEmpAddress,"201 VARICK ST, RM 670, NEW YORK, NY"
+preLoanBankAdd,NA
+loanOriginatorID,L8cVXchF
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OMAP
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026930395
+cbYrsInJob,8
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N4416, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,"MARY E TA""DD"
+borrowerName_9,"MARY E TA""DD"
+borrowerName_10,"MARY E TA""DD"
+cborrowerName_3,JOSHUA B SCHERETTE
+cBorrowerName_9,JOSHUA B SCHERETTE
+cborrowerName_10,JOSHUA B SCHERETTE
+signingDateB_10,08-FEB-2016
+signingDateCB_10,08-FEB-2016

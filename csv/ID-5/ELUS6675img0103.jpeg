@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Sales Agent, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,QHGRM7nTX0s3LQ
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,REAJ-3663113312
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$86664.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.77%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"3023 CALCOTT CT , FREMONT, CA, 94555"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1965
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2930.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$27937.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18343.00
+bTotalIncome,$2930.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5270.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$86664.00
+refinanCost,$18343.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CAROLINA SILVA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-NOV-2066
+cbTotalIncome,$5270.00
+fundingFee,$0.00
+borrowerName,MOLLY A POPE
+cbtBaseSalary,$8200.00
+disocuntValue,$0.00
+bSecurityNumber,818245066
+cbtOverttime,$0.00
+totalTxnCost,$86664.00
+bPhone,1617377708
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-MAY-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$86664.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$86664.00
+bPresentAddress,"777 NW 9TH ST STE 400 , CORVALLIS, OR, 97330"
+cbtTotalIncome,$52702930.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1143.00
+isOutstandingCourtCaseB,No
+bMailAddress,"777 NW 9TH ST STE 400 , CORVALLIS, OR, 97330"
+psntFirstLoan,$86664.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,PATRICK RYAN JACKSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,270136300
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5744673586
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-DEC-1990
+psntTotalExp,$86664.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$86664.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1201 WEST UNIV AVENUE STE 100, URBANA, IL, 61801"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"777 NW 9TH ST STE 400 , CORVALLIS, OR, 97330"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$86664.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MOLLY A POPE
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL ETA
+depAmount,$12999.60
+isCoWorkerCB,No
+bEmpAddress,"THE CURTIS CENTER STE 815 E, 170 S INDEPENDENCE MALL W, PHILADELPHIA, PA"
+depBankName,ADVANTAGE FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P.O. BOX 1440, ROCHESTER, NY"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,41805857600261
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$19066.08
+ typeOfProp,principal residence
+bDesignation,"Computer Operator, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,27-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$8666.40
+signingDateCB,27-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,WAGE HOUR DIVISION
+preLoanBankName,NA
+loanOriginatorName,US DOL OWCP LSHW
+cbEmpAddress,"210 WALNUT ST, RM 643, DES MOINES, IA"
+preLoanBankAdd,NA
+loanOriginatorID,KRGzHpRv
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OWCP LSHW
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3019623677
+cbYrsInJob,7
+loanOriginatorAddress,"31 HOPKINS PLAZA RM 410B, BALTIMORE, MD"
+refinanImproveDescription_e,to be made
+borrowerName_3,MOLLY A POPE
+borrowerName_9,MOLLY A POPE
+borrowerName_10,MOLLY A POPE
+cborrowerName_3,PATRICK RYAN JACKSON
+cBorrowerName_9,PATRICK RYAN JACKSON
+cborrowerName_10,PATRICK RYAN JACKSON
+signingDateB_10,27-DEC-2015
+signingDateCB_10,27-DEC-2015

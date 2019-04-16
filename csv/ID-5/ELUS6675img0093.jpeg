@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"IT Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,zDOVDnERabUt5n
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FXWN-5358256630
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18136.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.74%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"6309 DENNISON AVE , KEYSTONE HGTS, FL, 32656"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1989
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3035.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$18136.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21115.00
+bTotalIncome,$3035.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4323.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$18136.00
+refinanCost,$21115.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRIAN MCLAIN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-FEB-2069
+cbTotalIncome,$4323.00
+fundingFee,$0.00
+borrowerName,SERAPHINE HOLDER
+cbtBaseSalary,$7358.00
+disocuntValue,$0.00
+bSecurityNumber,338353112
+cbtOverttime,$0.00
+totalTxnCost,$18136.00
+bPhone,3155361430
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-MAR-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$18136.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18136.00
+bPresentAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+cbtTotalIncome,$43233035.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1161.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+psntFirstLoan,$18136.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LAWRENCE R FARLEY JR
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,830642287
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5672208561
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,26-JUL-1986
+psntTotalExp,$18136.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$18136.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$18136.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,SERAPHINE HOLDER
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR ETA
+depAmount,$2176.32
+isCoWorkerCB,No
+bEmpAddress,"525 GRIFFIN ST RM 317, TX"
+depBankName,BONY MELLON ELT COLLEGE LOAN CORP
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"14303 GATEWAY PL., POWAY, CA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,53487013133462
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$3627.20
+ typeOfProp,investment property
+bDesignation,"Technician, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,08-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2357.68
+signingDateCB,08-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OASAM
+preLoanBankName,NA
+loanOriginatorName,US DOL BLS REGION 9
+cbEmpAddress,"201 VANICK ST, RM 813, NEW YORK, NY"
+preLoanBankAdd,NA
+loanOriginatorID,14FqqOys
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL BLS REGION 9
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156252249
+cbYrsInJob,6
+loanOriginatorAddress,"PO BOX 193766 SAN FRANCISCO, CA"
+refinanImproveDescription_e,to be made
+borrowerName_3,SERAPHINE HOLDER
+borrowerName_9,SERAPHINE HOLDER
+borrowerName_10,SERAPHINE HOLDER
+cborrowerName_3,LAWRENCE R FARLEY JR
+cBorrowerName_9,LAWRENCE R FARLEY JR
+cborrowerName_10,LAWRENCE R FARLEY JR
+signingDateB_10,08-DEC-2015
+signingDateCB_10,08-DEC-2015

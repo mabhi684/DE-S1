@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Trainer, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,VAn8Ex3HY2s8lu
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZZXH-8852653181
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$21990.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.32%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"760 LANDMARK DR , CASPER, WY, 82609"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2000
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$5469.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$21990.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5251.00
+bTotalIncome,$5469.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3356.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$21990.00
+refinanCost,$5251.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JAMIE MASON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-DEC-2071
+cbTotalIncome,$3356.00
+fundingFee,$0.00
+borrowerName,ANGELA M HUGHES
+cbtBaseSalary,$8825.00
+disocuntValue,$0.00
+bSecurityNumber,448385014
+cbtOverttime,$0.00
+totalTxnCost,$21990.00
+bPhone,4611512751
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,28-JUN-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$21990.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$21990.00
+bPresentAddress,"2280 WOODALE DR , MOUNDS VIEW, MN, 55112"
+cbtTotalIncome,$33565469.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1681.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2280 WOODALE DR , MOUNDS VIEW, MN, 55112"
+psntFirstLoan,$21990.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JENNIFER M LORENZ
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,201172033
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4518161124
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,30-NOV-1985
+psntTotalExp,$21990.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$21990.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"432 NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"2280 WOODALE DR , MOUNDS VIEW, MN, 55112"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$21990.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ANGELA M HUGHES
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA REG 2 - MENDELSON
+depAmount,$2858.70
+isCoWorkerCB,No
+bEmpAddress,"3300 VICKERY RD, , N SYRACUSE, NY"
+depBankName,UFCW FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"341 WYOMING AVE. BOX 258, WYOMING, PA"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,21827776664238
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$4837.80
+ typeOfProp,principal residence
+bDesignation,"Asst Accountant, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,09-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2199.00
+signingDateCB,09-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL R9 OSHA SAN FRAN
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"90 7TH ST STE 18100, FRANCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,4yAGqxGo
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026917661
+cbYrsInJob,7
+loanOriginatorAddress,"2 MASSACHUSETS AVE NE, RM 5250 01, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,ANGELA M HUGHES
+borrowerName_9,ANGELA M HUGHES
+borrowerName_10,ANGELA M HUGHES
+cborrowerName_3,JENNIFER M LORENZ
+cBorrowerName_9,JENNIFER M LORENZ
+cborrowerName_10,JENNIFER M LORENZ
+signingDateB_10,09-DEC-2015
+signingDateCB_10,09-DEC-2015

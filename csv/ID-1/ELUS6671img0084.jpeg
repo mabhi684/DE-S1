@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,u00P5na708uzlY
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,RIGV-2674663812
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$12866.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,EASTERN PITTSBURGH BELL FEDERAL C U
+Interest,8.13%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"539 rodi road, pittsburgh, pa"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,03852230500328
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,286.60"
+PropAddress,"3157 GLENCAIRN AViint , TOLEDO, OH, 43614"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,444.54"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,INDEPENDENCE FSB
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1229 ConnecticUt Ave., Washington, Dc"
+YearBuilt,2008
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,54020116660735
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,929.90"
+propFor,Seconday
+bBaseSalary,$3080.00
+pre_loan_bank_balance_02,"$2,701.86"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$40898.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12866.00
+bTotalIncome,$3080.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4685.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$12866.00
+refinanCost,$12866.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DORIOT RAY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,03-MAR-2069
+cbTotalIncome,$4685.00
+fundingFee,$0.00
+borrowerName,ANTHONY J D'a°11BONIS
+cbtBaseSalary,$7765.00
+disocuntValue,$0.00
+bSecurityNumber,754780260
+cbtOverttime,$0.00
+totalTxnCost,$12866.00
+bPhone,0488336075
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-SEP-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$12866.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$12866.00
+bPresentAddress,"361 COMMERCE WAY , PEMBROKE, NH, 3275"
+cbtTotalIncome,$46853080.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1524.00
+isOutstandingCourtCaseB,No
+bMailAddress,"361 COMMERCE WACY , PEMBROKE, NH, 3275"
+psntFirstLoan,$12866.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,PATRICIA M WATSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,742315614
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5277620571
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-MAY-1989
+psntTotalExp,$12866.00
+isCoWorkerB,
+cbYrsSchool,1979
+propFirstLoan,$12866.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"926A NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"361 COMMERCAA WAY , PEMBROKE, NH, 3275"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Rent
+propTotalExp,$12866.00
+isDeliquentCB,No
+lt2y_cb_res_since,7
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"Placer Hall 6000 J St , SacrAimento, Ca, 95819"
+depPurchHeldBy,ANTHONY J DEBONIS
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OASAM HRC
+depAmount,$1672.58
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM C5517, WASHINGTON, DC"
+depBankName,JP MORGANCHASE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"900 STEWART AVENUE, GARDEN CITY, NY"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,63421105432400
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$2187.22
+ typeOfProp,second home
+bDesignation,"HR Specialist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,08-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1543.92
+signingDateCB,08-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL/ADMAN LAW JUDGES
+preLoanBankName,NA
+loanOriginatorName,US DOL OASAM
+cbEmpAddress,"800 K ST NW, STE 400, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,LM2J75F7
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OASAM
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6462645001
+cbYrsInJob,6
+loanOriginatorAddress,"201 VARICK ST, RM 815, NEW YORK, NY"
+refinanImproveDescription_e,to be made
+borrowerName_3,ANTHONY J D'a°11BONIS
+borrowerName_9,ANTHONY J D'a°11BONIS
+borrowerName_10,ANTHONY J D'a°11BONIS
+cborrowerName_3,PATRICIA M WATSON
+cBorrowerName_9,PATRICIA M WATSON
+cborrowerName_10,PATRICIA M WATSON
+signingDateB_10,08-JAN-2016
+signingDateCB_10,08-JAN-2016

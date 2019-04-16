@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Technician, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ngSzar7av71t6S
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LFQH -8552731410
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$59281.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,life chiropractic cA'llege west
+Interest,10.67%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"25001 IndustrAnal Blvd, Hayward, Ca"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,73541887085765
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$5,928.10"
+PropAddress,"14292 VERMONT AVAc , BROOKSVILLE, FL, 34601"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$11,263.39"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1989
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3482.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$19076.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6977.00
+bTotalIncome,$3482.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3005.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$59281.00
+refinanCost,$6977.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALEXIS KING-GLANDON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-MAR-2066
+cbTotalIncome,$3005.00
+fundingFee,$0.00
+borrowerName,AMANDA L ARSIVNNAULT
+cbtBaseSalary,$6487.00
+disocuntValue,$0.00
+bSecurityNumber,845883446
+cbtOverttime,$0.00
+totalTxnCost,$59281.00
+bPhone,5518411832
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-MAY-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$59281.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$59281.00
+bPresentAddress,"196 WHAGITEN ROAD , AUGUSTA, ME, 4330"
+cbtTotalIncome,$30053482.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1708.00
+isOutstandingCourtCaseB,
+bMailAddress,"196 WHATTEN ROAD , AUGUSTA, ME, 4330"
+psntFirstLoan,$59281.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SCOTTY D MENDENHA_LL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,140506374
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,4771477724
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,09-AUG-1979
+psntTotalExp,$59281.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$59281.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SAL.. CRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"196 WHITTEN ROAD , AUGUSTA, MA-, 4330"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$59281.00
+isDeliquentCB,No
+lt2y_cb_res_since,7
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"5522 Research Park Drive , Catonsville, Md, 21228"
+depPurchHeldBy,AMANDA L ARSENAULT
+isDownpaymentBorrowedCB,No
+bEmpName,DOL R9 OASAM SAN FRAN
+depAmount,$8299.34
+isCoWorkerCB,
+bEmpAddress,"90 7TH STREET, SUITE 2- 50, SAN FRANCISCO, CA"
+depBankName,US BANK ELT STUDENT LOAN FUNDING
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"12061 BLUEMONT WAY, RESTON, VA"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,08414206177346
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$10670.58
+ typeOfProp,second home
+bDesignation,"Supervisor, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,07-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$6520.91
+signingDateCB,07-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL/OASAM/BOC/OAMS
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR OIPA
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM S4307, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,EkN1uZJf
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR OIPA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3123534727
+cbYrsInJob,6
+loanOriginatorAddress,"230 S DEARBORN ST, RM 3194, CHICAGO, IL"
+refinanImproveDescription_e,made
+borrowerName_3,AMANDA L ARSIVNNAULT
+borrowerName_9,AMANDA L ARSIVNNAULT
+borrowerName_10,AMANDA L ARSIVNNAULT
+cborrowerName_3,SCOTTY D MENDENHA_LL
+cBorrowerName_9,SCOTTY D MENDENHA_LL
+cborrowerName_10,SCOTTY D MENDENHA_LL
+signingDateB_10,07-DEC-2015
+signingDateCB_10,07-DEC-2015

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Security Member, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,dq4KTn77ebpIRX
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,NXVO-0481057442
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$85608.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,First Western Bank Of Sturgis
+Interest,10.46%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"P 0 BAIx 9 Student Loan Dept, Sturgis, Sd"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,26660251767336
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$12,841.20"
+PropAddress,"PO BOX 910 , RCHO SANTA FE, CA, 92067"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$14,553.36"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1970
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$7475.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$85608.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12240.00
+bTotalIncome,$7475.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4951.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$85608.00
+refinanCost,$12240.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ADRIAN MIKULICICH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-OCT-2072
+cbTotalIncome,$4951.00
+fundingFee,$0.00
+borrowerName,DANIELLAA K STOLL
+cbtBaseSalary,$12426.00
+disocuntValue,$0.00
+bSecurityNumber,872581212
+cbtOverttime,$0.00
+totalTxnCost,$85608.00
+bPhone,5240806012
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,03-FEB-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$85608.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$85608.00
+bPresentAddress,"926A NAITL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$49517475.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1354.00
+isOutstandingCourtCaseB,No
+bMailAddress,"926A NACTL CTR , RESTON, VA, 20192"
+psntFirstLoan,$85608.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,MARTIN TIM TINKER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,012654082
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1353787765
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-MAY-1979
+psntTotalExp,$85608.00
+isCoWorkerB,
+cbYrsSchool,1990
+propFirstLoan,$85608.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"926A NAIL CTR , RESTA•N, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$85608.00
+isDeliquentCB,
+lt2y_cb_res_since,8
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"11649 leetown rd , kearneysville, wv, 25430"
+depPurchHeldBy,DANIELLE K STOLL
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ODAtP
+depAmount,$11129.04
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITAPTION AVE NW, RM 51303, WASHINGTON, DC"
+depBankName,FIRST INTERSTATE BANK OF MONTANA
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"3021 3RD AVE NORTH, BILLINGS, MT"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,87373043171078
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$17121.60
+ typeOfProp,second home
+bDesignation,"Sr Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,08-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8560.80
+signingDateCB,08-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY HEALTH
+preLoanBankName,NA
+loanOriginatorName,US DOL OWCP
+cbEmpAddress,"567 W SILVER ST, STE 401, ELKO, NV"
+preLoanBankAdd,NA
+loanOriginatorID,4aworwxS
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OWCP
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158615404
+cbYrsInJob,5
+loanOriginatorAddress,"170 S INDEPENDENCE MALL W, STE 780 W, PHILADELPHIA, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,DANIELLAA K STOLL
+borrowerName_9,DANIELLAA K STOLL
+borrowerName_10,DANIELLAA K STOLL
+cborrowerName_3,MARTIN TIM TINKER
+cBorrowerName_9,MARTIN TIM TINKER
+cborrowerName_10,MARTIN TIM TINKER
+signingDateB_10,08-JAN-2016
+signingDateCB_10,08-JAN-2016

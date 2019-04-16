@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Account Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,sitE4pWhrprCZI
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TLVD -5626257081
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$16869.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,CALIFORNIA! PACIFIC FCU
+Interest,8.98%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"4075 NELSON AVENUE, CONCORD, CA"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,18863508071725
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,192.97"
+PropAddress,"17758 HERITAGE HWY , DENMARK, SC, 29042"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,373.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,BAPTIST CREDIT UNION
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"5815 Ih-10 West, San Antonio, Tx"
+YearBuilt,1996
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,60121003670883
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,192.97"
+propFor,Primary
+bBaseSalary,$3575.00
+pre_loan_bank_balance_02,"$3,711.18"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,bank of the west
+construcOrigCost,$95158.00
+bBonus,$0.00
+pre_loan_bank_add_03,"Po Box 8049, Walnut Creek, Ca"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,06601237188335
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$1,855.59"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$3,036.42"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$11584.00
+bTotalIncome,$3575.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3810.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$16869.00
+refinanCost,$11584.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHARLES RAYSOR
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,18-JUL-2071
+cbTotalIncome,$3810.00
+fundingFee,$0.00
+borrowerName,CHRISTOPHER MCGINNIS
+cbtBaseSalary,$7385.00
+disocuntValue,$0.00
+bSecurityNumber,647424274
+cbtOverttime,$0.00
+totalTxnCost,$16869.00
+bPhone,3100320851
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,16-AUG-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$16869.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$16869.00
+bPresentAddress,"6480 DOUBLETREE AEVE , COLUMBUS, OH, 43229"
+cbtTotalIncome,$38103575.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1712.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6480 DOUBLETREE AVE , COI/MMUS, OH, 43229"
+psntFirstLoan,$16869.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KIMBERLY P GRIFFIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,124414801
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,1627200136
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-JAN-1991
+psntTotalExp,$16869.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$16869.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"521 NATIONAL CENTAAR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6480 DOUBLETREE AVE , COLAcEMBUS, OH, 43229"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$16869.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CHRISTOPHER MCGINNIS
+isDownpaymentBorrowedCB,No
+bEmpName,AP'SDOL OSHA
+depAmount,$2192.97
+isCoWorkerCB,
+bEmpAddress,"701 LEE ST, STE 950, DES PLAINES, IL"
+depBankName,LAKE SHORE LOAN ASSN
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 512, NY"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,40506552482012
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$3711.18
+ typeOfProp,principal residence
+bDesignation,"Asst Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,20-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2024.28
+signingDateCB,20-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL R9 elISAOFCCP SAN FR
+preLoanBankName,NA
+loanOriginatorName,US DA-PT OF LABOR WH
+cbEmpAddress,"1111 3RD AVE SUITE 745, WA"
+preLoanBankAdd,NA
+loanOriginatorID,81ZHiG3c
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DAAPT OF LABOR WH
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,7
+loanOriginatorAddress,"3350 SHELBY ST, STE 340, ONTARIO, CA"
+refinanImproveDescription_e,made
+borrowerName_3,CHRISTOPHER MCGINNIS
+borrowerName_9,CHRISTOPHER MCGINNIS
+borrowerName_10,CHRISTOPHER MCGINNIS
+cborrowerName_3,KIMBERLY P GRIFFIN
+cBorrowerName_9,KIMBERLY P GRIFFIN
+cborrowerName_10,KIMBERLY P GRIFFIN
+signingDateB_10,20-JAN-2016
+signingDateCB_10,20-JAN-2016

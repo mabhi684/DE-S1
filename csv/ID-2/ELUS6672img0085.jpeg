@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Exec Secretary, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,3WOh7Ejz5H57jq
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MEXZ-8237221575
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$12240.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,jackson cokanty bank
+Interest,7.47%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"P 0 BOX 490, BLACK RIVER FALLS, WI"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,12112268232726
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,346.40"
+PropAddress,"66 ROLLSTONE AVE , WM:ST SAYVILLE, NY, 11796"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,080.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$5576.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$53153.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12240.00
+bTotalIncome,$5576.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3160.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$12240.00
+refinanCost,$12240.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CATHY KACZMAREK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-SEP-2061
+cbTotalIncome,$3160.00
+fundingFee,$0.00
+borrowerName,JESSICA D GARRETT
+cbtBaseSalary,$8736.00
+disocuntValue,$0.00
+bSecurityNumber,725063551
+cbtOverttime,$0.00
+totalTxnCost,$12240.00
+bPhone,3363526363
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-MAR-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$12240.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$12240.00
+bPresentAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+cbtTotalIncome,$31605576.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1380.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+psntFirstLoan,$12240.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,"KIMBERLY K YA,TES"
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,510201304
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4560764844
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,10-MAY-1989
+psntTotalExp,$12240.00
+isCoWorkerB,
+cbYrsSchool,1991
+propFirstLoan,$12240.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"600 4TH ST SOUTH , ST PETAtRSBURG, FL, 33701"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$12240.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JESSICA D GARRETT
+isDownpaymentBorrowedCB,
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$1224.00
+isCoWorkerCB,
+bEmpAddress,"APPROVAL CERTIFICATION CTR, 765 TECHNOLOGY DRIVA-, TRIADELPHIA, WV"
+depBankName,STATE BANK OF CHANDLER
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 128, CHANDLER, MN"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,72844327268678
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$2325.60
+ typeOfProp,investment property
+bDesignation,"HR Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,21-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1346.40
+signingDateCB,21-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,VETS
+preLoanBankName,NA
+loanOriginatorName,US DOL OSHA.' CTC
+cbEmpAddress,"4020 E 5TH AVE STE M-153, PO BOX 1618, COLUMBUS, OH"
+preLoanBankAdd,NA
+loanOriginatorID,3TbfeCwQ
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OSHA CTC
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5136846649
+cbYrsInJob,6
+loanOriginatorAddress,"435 ELM ST, STE 500, CINCINNATI, OH"
+refinanImproveDescription_e,to be made
+borrowerName_3,JESSICA D GARRETT
+borrowerName_9,JESSICA D GARRETT
+borrowerName_10,JESSICA D GARRETT
+cborrowerName_3,"KIMBERLY K YA,TES"
+cBorrowerName_9,"KIMBERLY K YA,TES"
+cborrowerName_10,"KIMBERLY K YA,TES"
+signingDateB_10,21-FEB-2016
+signingDateCB_10,21-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Security Head, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,iY6NLTj ItwZUpA
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,YRPB -7838068017
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$14213.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.33%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"465 GREENWOOD AVE APT 902, TRENTON, NJ, 8609"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1988
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2008.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$14213.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$12785.00
+bTotalIncome,$2008.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4453.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$14213.00
+refinanCost,$12785.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALVIN KELLETT
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-DEC-2070
+cbTotalIncome,$4453.00
+fundingFee,$0.00
+borrowerName,ENAS H SALEM
+cbtBaseSalary,$6461.00
+disocuntValue,$0.00
+bSecurityNumber,522533707
+cbtOverttime,$0.00
+totalTxnCost,$14213.00
+bPhone,3042415287
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,27-JAN-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$14213.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$14213.00
+bPresentAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+cbtTotalIncome,$44532008.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1684.00
+isOutstandingCourtCaseB,No
+bMailAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+psntFirstLoan,$14213.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CONNIE S JOHNSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,108623424
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1560385363
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,24-JUN-1991
+psntTotalExp,$14213.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$14213.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"11649 LEETOWN RD , KEARNEYSVILLE, WV, 25430"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 DFC MS 935 , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$14213.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ENAS H SALEH
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OFCCP
+depAmount,$1847.69
+isCoWorkerCB,No
+bEmpAddress,"400 W BAY ST, STE 63B, JACKSONVILLE, FL"
+depBankName,BANK MIDWEST N A
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1100 MAIN SUITE 350 D BALES, KANSAS CITY, MO"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,47027414760221
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3126.86
+ typeOfProp,principal residence
+bDesignation,"Project Assistant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,22-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1705.56
+signingDateCB,22-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ETA DIV/ADMIN SVCS
+preLoanBankName,NA
+loanOriginatorName,US DOL OSHA CTC
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM 55206, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,vatCs5AE
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OSHA CTC
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5136846649
+cbYrsInJob,7
+loanOriginatorAddress,"435 ELM STREET, STE 500, CINCINNATI, OH"
+refinanImproveDescription_e,to be made
+borrowerName_3,ENAS H SALEM
+borrowerName_9,ENAS H SALEM
+borrowerName_10,ENAS H SALEM
+cborrowerName_3,CONNIE S JOHNSON
+cBorrowerName_9,CONNIE S JOHNSON
+cborrowerName_10,CONNIE S JOHNSON
+signingDateB_10,22-JAN-2016
+signingDateCB_10,22-JAN-2016

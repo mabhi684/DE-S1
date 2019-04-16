@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Central Supervisor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,In8yGFNR823zqS
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SWTF-3670873228
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$23940.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,University Of Pittsburgh
+Interest,10.92%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"160 THACKERAY HALL, PITTSBURGH, PA"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,54843073654711
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,633.40"
+PropAddress,"1284 VALLEJO ST , SAN FRANCISCO, CA, 94109"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,788.00"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,first state bank belmond iowa
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"304 east main po box 39, belmond, is"
+YearBuilt,1967
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,53132014636471
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$3,351.60"
+propFor,Primary
+bBaseSalary,$6552.00
+pre_loan_bank_balance_02,"$4,309.20"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Conduit Deutschk- Elt Access Funding
+construcOrigCost,$19076.00
+bBonus,$0.00
+pre_loan_bank_add_03,"deutsche bank trust company america, new york, ny"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,25075842347647
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$3,351.60"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$4,548.60"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6977.00
+bTotalIncome,$6552.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2924.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$23940.00
+refinanCost,$6977.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BEN STUDER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-JUN-2061
+cbTotalIncome,$2924.00
+fundingFee,$0.00
+borrowerName,ISABELLA H GUTUOLIMREZ
+cbtBaseSalary,$9476.00
+disocuntValue,$0.00
+bSecurityNumber,856362818
+cbtOverttime,$0.00
+totalTxnCost,$23940.00
+bPhone,3001028105
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-JUL-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$23940.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$23940.00
+bPresentAddress,"425 JORDAN RD , TROY, NY, 12180"
+cbtTotalIncome,$29246552.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$897.00
+isOutstandingCourtCaseB,
+bMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+psntFirstLoan,$23940.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,J LAMM BLAIR
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,267033854
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,5751453483
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,01-AUG-1985
+psntTotalExp,$23940.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$23940.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$23940.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ISABELLA H GUTIERREZ
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OSHA
+depAmount,$3112.20
+isCoWorkerCB,
+bEmpAddress,"606 N CARANCAHAU, SUITE 700, CORPUS CHRISTI, TX"
+depBankName,CITY OF ALEXANDRIA ECU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"1416 DUKE ST, ALEXANDRIA, VA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,70800243863858
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$4309.20
+ typeOfProp,second home
+bDesignation,"HR Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,21-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3351.60
+signingDateCB,21-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL R6 JOB CORPS SAN FRAN
+preLoanBankName,NA
+loanOriginatorName,DEPT OF LABOR/ OASAM
+cbEmpAddress,"PO BOX 193768, SUITE 12 100, SAN FRA,NCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,YTThoEbi
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DEPT OF LABOR/ OASAM
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026936561
+cbYrsInJob,7
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N4123, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,ISABELLA H GUTUOLIMREZ
+borrowerName_9,ISABELLA H GUTUOLIMREZ
+borrowerName_10,ISABELLA H GUTUOLIMREZ
+cborrowerName_3,J LAMM BLAIR
+cBorrowerName_9,J LAMM BLAIR
+cborrowerName_10,J LAMM BLAIR
+signingDateB_10,21-FEB-2016
+signingDateCB_10,21-FEB-2016
