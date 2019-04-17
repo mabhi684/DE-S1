@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Asst Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,oc3tzdHqh3Ug76
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZLXR -0760258212
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18937.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.93%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2520 LANGSTRATH LN , CUMMING, GA, 30041"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2007
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2593.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$18937.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8641.00
+bTotalIncome,$2593.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3172.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$18937.00
+refinanCost,$8641.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BALA RANGANATHAN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,13-SEP-2059
+cbTotalIncome,$3172.00
+fundingFee,$0.00
+borrowerName,MARK A GUNN
+cbtBaseSalary,$5765.00
+disocuntValue,$0.00
+bSecurityNumber,585454308
+cbtOverttime,$0.00
+totalTxnCost,$18937.00
+bPhone,4773516401
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-MAR-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$18937.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18937.00
+bPresentAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+cbtTotalIncome,$31722593.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1024.00
+isOutstandingCourtCaseB,No
+bMailAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+psntFirstLoan,$18937.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,EBBIE I CABRERA
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,282732545
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7022621877
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,06-JUN-1986
+psntTotalExp,$18937.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$18937.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, UT, 84119"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$18937.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MARK A GUNN
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$2272.44
+isCoWorkerCB,No
+bEmpAddress,"PO BOX 18233, , PITTSBURGH, PA"
+depBankName,MILLER ELECTRIC CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"1235 WEST SPENCER, APPLETON, WI"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,77268260702417
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3408.66
+ typeOfProp,second home
+bDesignation,"Office Boy, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,27-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2083.07
+signingDateCB,27-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,MINE SAF & HLTH
+cbEmpAddress,"OFCCP, 1999 BROADWAY SUITE 1177, DENVER, CO"
+preLoanBankAdd,NA
+loanOriginatorID,Ii4b1Q3x
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAF & HLTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2766790230
+cbYrsInJob,6
+loanOriginatorAddress,"PO BOX 560, VA"
+refinanImproveDescription_e,to be made
+borrowerName_3,MARK A GUNN
+borrowerName_9,MARK A GUNN
+borrowerName_10,MARK A GUNN
+cborrowerName_3,EBBIE I CABRERA
+cBorrowerName_9,EBBIE I CABRERA
+cborrowerName_10,EBBIE I CABRERA
+signingDateB_10,27-DEC-2015
+signingDateCB_10,27-DEC-2015

@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Receptionist, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7AN2Jr0571A0zV
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZRYJ-7781605140
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$97353.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.98%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"625 MITCHELL AVE , SALISBURY, NC, 28144"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1991
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1729.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$97353.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$14513.00
+bTotalIncome,$1729.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2127.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$97353.00
+refinanCost,$14513.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHARLES HARRILL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-DEC-2056
+cbTotalIncome,$2127.00
+fundingFee,$0.00
+borrowerName,FELIX A RAMOS
+cbtBaseSalary,$3856.00
+disocuntValue,$0.00
+bSecurityNumber,331857706
+cbtOverttime,$0.00
+totalTxnCost,$97353.00
+bPhone,8756876070
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-FEB-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$97353.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$97353.00
+bPresentAddress,"GSA CTR 651 FEDERAL DR STE 400 15, GUAYMAS°, PR, 965"
+cbtTotalIncome,$21271729.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1674.00
+isOutstandingCourtCaseB,No
+bMailAddress,"GSA CTR 651 FEDERAL DR STE 400 15, GUAYNABO, PR, 965"
+psntFirstLoan,$97353.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BARBARA J JOHNSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,084876227
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1606312368
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,29-MAY-1977
+psntTotalExp,$97353.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$97353.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"GSA CTR 651 FEDERAL DR STE 400 15, GUAYMAS°, PR, 965"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$97353.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,FELIX A RAMOS
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OWCP DCMWC
+depAmount,$11682.36
+isCoWorkerCB,No
+bEmpAddress,"1 TECH PARK DRIVE, SUITE 250, JOHNSTOWN, PA"
+depBankName,SECURITY ONE FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 5583, ARLINGTON, TX"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,52584560318232
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$16550.01
+ typeOfProp,second home
+bDesignation,"Cleaner, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,12-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$10708.83
+signingDateCB,12-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OLMS
+preLoanBankName,NA
+loanOriginatorName,US DOL OSHA
+cbEmpAddress,"230 S DEARBORN ST, RM 774, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,PCnKWz3x
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OSHA
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,3
+loanOriginatorAddress,"606 N CARANCAHAU, SUITE 700, CORPUS CHRISTI, TX"
+refinanImproveDescription_e,made
+borrowerName_3,FELIX A RAMOS
+borrowerName_9,FELIX A RAMOS
+borrowerName_10,FELIX A RAMOS
+cborrowerName_3,BARBARA J JOHNSON
+cBorrowerName_9,BARBARA J JOHNSON
+cborrowerName_10,BARBARA J JOHNSON
+signingDateB_10,12-DEC-2015
+signingDateCB_10,12-DEC-2015

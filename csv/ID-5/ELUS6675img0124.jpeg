@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Secretary, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,om1MfA053Wdz02
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZJCB -0142457358
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$54018.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.24%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1671 DAYTONIA RD , MIAMI, FL, 33141"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2007
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3514.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$54018.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8641.00
+bTotalIncome,$3514.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2804.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$54018.00
+refinanCost,$8641.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,REGINA BEHAR
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-APR-2061
+cbTotalIncome,$2804.00
+fundingFee,$0.00
+borrowerName,LORI S PAYTON
+cbtBaseSalary,$6318.00
+disocuntValue,$0.00
+bSecurityNumber,314186163
+cbtOverttime,$0.00
+totalTxnCost,$54018.00
+bPhone,2742230770
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-JAN-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$54018.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$54018.00
+bPresentAddress,"425 JORDAN RD , TROY, NY, 12180"
+cbtTotalIncome,$28043514.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1712.00
+isOutstandingCourtCaseB,No
+bMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+psntFirstLoan,$54018.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ANNIE SCHULTZ
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,087604874
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4464456145
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,29-JUN-1980
+psntTotalExp,$54018.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$54018.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$54018.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,LORI S PAYTON
+isDownpaymentBorrowedCB,No
+bEmpName,DOL BLS
+depAmount,$8102.70
+isCoWorkerCB,No
+bEmpAddress,"OFC OF PRODUCTIVITY TECHNOLOGY, 2 MASSACHUSETTS AVE NE, WASHINGTON, DC"
+depBankName,CALIFORNIA BAPTIST UNIVERSITY
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"8432 MAGNOLIA AVE., RIVERSIDE, CA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,71614117673363
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$10803.60
+ typeOfProp,investment property
+bDesignation,"Supervisor, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,15-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7562.52
+signingDateCB,15-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAF & HLTH
+preLoanBankName,NA
+loanOriginatorName,USDOL WAGE & HOUR
+cbEmpAddress,"2 COMPUTER DR W, STE 102, ALBANY, NY"
+preLoanBankAdd,NA
+loanOriginatorID,p0AhNv1v
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL WAGE & HOUR
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,2
+loanOriginatorAddress,"915 WILSHIRE BLVD, SUITE 960, LOS ANGELES, CA"
+refinanImproveDescription_e,to be made
+borrowerName_3,LORI S PAYTON
+borrowerName_9,LORI S PAYTON
+borrowerName_10,LORI S PAYTON
+cborrowerName_3,ANNIE SCHULTZ
+cBorrowerName_9,ANNIE SCHULTZ
+cborrowerName_10,ANNIE SCHULTZ
+signingDateB_10,15-JAN-2016
+signingDateCB_10,15-JAN-2016

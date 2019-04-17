@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Technician, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,pKsy2VagmRWoJg
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SIEK-0477322157
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$23548.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,bayou federal credit union
+Interest,10.69%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"5880 FLORIDA BLVD, BARON ROUGE, LA"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,46832484272861
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,354.80"
+PropAddress,"609 W 189TH ST AIPT 5B, NEW YORK, NY, 10040"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$5,180.56"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1975
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3275.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$25180.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21052.00
+bTotalIncome,$3275.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2886.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$23548.00
+refinanCost,$21052.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ESMERALDA ESTRADA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,26-DEC-2059
+cbTotalIncome,$2886.00
+fundingFee,$0.00
+borrowerName,WILLIAM S VERNIEU
+cbtBaseSalary,$6161.00
+disocuntValue,$0.00
+bSecurityNumber,332728102
+cbtOverttime,$0.00
+totalTxnCost,$23548.00
+bPhone,8166784252
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-APR-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$23548.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$23548.00
+bPresentAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+cbtTotalIncome,$28863275.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1244.00
+isOutstandingCourtCaseB,
+bMailAddress,"2255 N GEMINA2 DR , FLAGSTAFF, AZ, 86001"
+psntFirstLoan,$23548.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DAWN M LAND
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,100426184
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,3421188062
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-AUG-1985
+psntTotalExp,$23548.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$23548.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1730 EAST PARHAM RD , RICHMOND, VA, 23228"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"2255 N GEMINI DR , FLAGSTAFF, AZ, 86001"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$23548.00
+isDeliquentCB,
+lt2y_cb_res_since,5
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"po box 1230 , iowa city, ia, 52244"
+depPurchHeldBy,WILLIAM S VERNIEU
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL R1 OSHA
+depAmount,$3061.24
+isCoWorkerCB,No
+bEmpAddress,"380 WESTMINISTER MAL, ROOM 543, PROVIDENCE, RI"
+depBankName,RIVERDALE CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"601 COUNTY ROAD 78, SELMA, AL"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,62457560541657
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$5180.56
+ typeOfProp,investment property
+bDesignation,"Machinist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,05-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$3296.72
+signingDateCB,05-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,"WAGE HOUR DIVISIA""N"
+cbEmpAddress,"6295 EDSALL RD, STE 180, ALEXANDRIA, VA"
+preLoanBankAdd,NA
+loanOriginatorID,U7KH5m78
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,WAGE HOUR DIVISION
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3132263008
+cbYrsInJob,9
+loanOriginatorAddress,"211 W FORT ST, ROOM 1317, DETROIT, MI"
+refinanImproveDescription_e,made
+borrowerName_3,WILLIAM S VERNIEU
+borrowerName_9,WILLIAM S VERNIEU
+borrowerName_10,WILLIAM S VERNIEU
+cborrowerName_3,DAWN M LAND
+cBorrowerName_9,DAWN M LAND
+cborrowerName_10,DAWN M LAND
+signingDateB_10,05-DEC-2015
+signingDateCB_10,05-DEC-2015

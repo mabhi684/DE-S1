@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Exec Secretary, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,j zy2Pt44y5Ldf1
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,QMTI-1448710183
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$25180.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Xerox Federal Credit Union
+Interest,10.01%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"2200 E GRAND AVENUE, EL SEGAPINDO, CA"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,47413472525514
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,769.80"
+PropAddress,"38410 NORTHFORK RD , NEHALEM, OR, 97131"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,280.60"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,COMPASS BANK
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"729 FT. WORTH DR., DENTON, TX"
+YearBuilt,1990
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,64758278872628
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$3,777.00"
+propFor,Seconday
+bBaseSalary,$2807.00
+pre_loan_bank_balance_02,"$4,784.20"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Independent Employers Group Fcu
+construcOrigCost,$25180.00
+bBonus,$0.00
+pre_loan_bank_add_03,"PO BOX 4369, HILO, HI"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,21547786467166
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$2,769.80"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$5,036.00"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21052.00
+bTotalIncome,$2807.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3201.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$25180.00
+refinanCost,$21052.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMANDA PIERCE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,20-JUN-2072
+cbTotalIncome,$3201.00
+fundingFee,$0.00
+borrowerName,GAIL SEXTON
+cbtBaseSalary,$6008.00
+disocuntValue,$0.00
+bSecurityNumber,652770453
+cbtOverttime,$0.00
+totalTxnCost,$25180.00
+bPhone,0345824883
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-AUG-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1976
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$25180.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$25180.00
+bPresentAddress,"384 WOODS HOLE RD , WOODS HOLM:, MA, 2543"
+cbtTotalIncome,$32012807.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1578.00
+isOutstandingCourtCaseB,No
+bMailAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+psntFirstLoan,$25180.00
+isBankcruptB,
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,3
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"8711 37th st se , jami-stown, nd, 58041"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BARBARA J JOHNSA-N
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,458687633
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6875108103
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-MAY-1985
+psntTotalExp,$25180.00
+isCoWorkerB,No
+cbYrsSchool,1976
+propFirstLoan,$25180.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$25180.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,GAIL SEXTON
+isDownpaymentBorrowedCB,No
+bEmpName,OFF OF REG ADMIN WH
+depAmount,$2769.80
+isCoWorkerCB,
+bEmpAddress,"600 S MAESTRI STREET, RM 615, NEW ORLEANS, LA"
+depBankName,DUPACO COMMUNITY CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 179, DUBUQUE, IA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,34035356054347
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$5539.60
+ typeOfProp,investment property
+bDesignation,"Technician, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,01-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3021.60
+signingDateCB,01-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL OASAM
+preLoanBankName,NA
+loanOriginatorName,US DEPARTMENT OF LABOR
+cbEmpAddress,"CURTIS CANTER STE 600 E, 170 S INDEPENDENCE MALL WEST, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,00hKo02q
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPARTMENT OF LABOR
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,1111111111
+cbYrsInJob,5
+loanOriginatorAddress,"17625 EL CAMINO REAL, STE 400, HOUSTON, TX"
+refinanImproveDescription_e,made
+borrowerName_3,GAIL SEXTON
+borrowerName_9,GAIL SEXTON
+borrowerName_10,GAIL SEXTON
+cborrowerName_3,BARBARA J JOHNSA-N
+cBorrowerName_9,BARBARA J JOHNSA-N
+cborrowerName_10,BARBARA J JOHNSA-N
+signingDateB_10,01-JAN-2016
+signingDateCB_10,01-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Payroll Specialist, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,DFMwf8aynZWr3D
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VNSS-3541104243
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$42732.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.80%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"475 CRESTONE CT , LOVELAND, CO, 80537"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2008
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$6425.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$42732.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18343.00
+bTotalIncome,$6425.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2796.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$42732.00
+refinanCost,$18343.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHARLENE DENT
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-APR-2059
+cbTotalIncome,$2796.00
+fundingFee,$0.00
+borrowerName,GEORGE G ESSLINGER
+cbtBaseSalary,$9221.00
+disocuntValue,$0.00
+bSecurityNumber,027438541
+cbtOverttime,$0.00
+totalTxnCost,$42732.00
+bPhone,1623627563
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-NOV-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$42732.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$42732.00
+bPresentAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+cbtTotalIncome,$27966425.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$874.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+psntFirstLoan,$42732.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SEAN F BUCKLEY
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,660026048
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2585466876
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,28-MAY-1982
+psntTotalExp,$42732.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$42732.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"11 SHERMAN PLACE U 5015 , STORRS, CT, 6269"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$42732.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,GEORGE G ESSLINGER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL BLS
+depAmount,$4700.52
+isCoWorkerCB,No
+bEmpAddress,"2 MASS AVE NE, RM 5110, WASHINGTON, DC"
+depBankName,COOPERATIVE CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"313 WEST 9TH, COFFEYVILLE, KS"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,70118172882682
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$7264.44
+ typeOfProp,second home
+bDesignation,"Network Admit, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,23-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5982.48
+signingDateCB,23-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL REGION 5 OSAM
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"230 S DEARBORN ST, RM 1086, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,5g5iTsyo
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026915630
+cbYrsInJob,6
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, RM 2150, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,GEORGE G ESSLINGER
+borrowerName_9,GEORGE G ESSLINGER
+borrowerName_10,GEORGE G ESSLINGER
+cborrowerName_3,SEAN F BUCKLEY
+cBorrowerName_9,SEAN F BUCKLEY
+cborrowerName_10,SEAN F BUCKLEY
+signingDateB_10,23-JAN-2016
+signingDateCB_10,23-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Sr Accountant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,rml0W5Eibxo75e
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,DDPU-7281232080
+lt2y_cb_emp_name1,"dol odep; 200 constitution ave nw, rm s1313, washington, dc"
+childSupportExpOwnedValue,$0.00
+Amount,$103055.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,zions fnb elt national ICducation
+Interest,7.14%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"1001 17th St., Denver, Co"
+Tenure,48 months
+lt2y_cb_emp_salary1,"$2,741.20"
+pre_loan_bank_acNo_01,82028113853472
+AmortType,GPM
+lt2y_cb_emp_designation1,computer admintemperory
+pre_loan_bank_EMI_01,"$14,427.70"
+PropAddress,"1678 CARRIGALLEN LN , COLUMBUS, OH, 43228"
+lt2y_cb_emp_name2,"osha-north houston; 507 n sam houston pkwy e, suA®te 400, houston, tx"
+pre_loan_bank_balance_01,"$18,549.90"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,1965
+lt2y_cb_emp_salary2,"$1,971.20"
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,COMPUTER ADMINPERMANENT
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3843.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$103055.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21209.00
+bTotalIncome,$3843.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6050.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$103055.00
+refinanCost,$21209.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHAUDHARY KHALIQ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-MAR-2059
+cbTotalIncome,$6050.00
+fundingFee,$0.00
+borrowerName,PHILIP J HABERMEHL
+cbtBaseSalary,$9893.00
+disocuntValue,$0.00
+bSecurityNumber,714686835
+cbtOverttime,$0.00
+totalTxnCost,$103055.00
+bPhone,5188247780
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-MAR-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$103055.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$103055.00
+bPresentAddress,"10500 ImNIVERSITY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+cbtTotalIncome,$60503843.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1376.00
+isOutstandingCourtCaseB,
+bMailAddress,"10500 UNIVERSA-.TY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+psntFirstLoan,$103055.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CHESTER A RULEMAN III
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,782672446
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7477470551
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,09-MAR-1988
+psntTotalExp,$103055.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$103055.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 980 DFC , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"10500 UNIVERSITY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$103055.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,PHILIP J HABERMEHL
+isDownpaymentBorrowedCB,
+bEmpName,MANE SAFETY & HEALTH
+depAmount,$15458.25
+isCoWorkerCB,No
+bEmpAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+depBankName,COLLEGE FOUNDATION INC
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 41966, RALEIGH, NC"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,28466308233886
+isNewPropPermanentB,
+bYrsInJob,3
+depBankBal,$21641.55
+ typeOfProp,investment property
+bDesignation,"Trainer, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,21-DEC-2015
+lt2y_b_emp_name1,"department of labor - whd; 135 high st, rm 210, hartford, ct"
+subTotLiqValue,$10305.50
+signingDateCB,21-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,769.14"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Accoltiast Adminpermanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OWCP DI-EOIC
+preLoanBankName,NA
+loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"1001 LAKESIDE AVE, STE 390, CLEVELAND, OH"
+preLoanBankAdd,NA
+loanOriginatorID,TO4IT8JV
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3053565674
+cbYrsInJob,7
+loanOriginatorAddress,"MIAMI AREA OFFICE, 909 SE 1ST AVE STE 722, MIAMI, FL"
+refinanImproveDescription_e,made
+borrowerName_3,PHILIP J HABERMEHL
+borrowerName_9,PHILIP J HABERMEHL
+borrowerName_10,PHILIP J HABERMEHL
+cborrowerName_3,CHESTER A RULEMAN III
+cBorrowerName_9,CHESTER A RULEMAN III
+cborrowerName_10,CHESTER A RULEMAN III
+signingDateB_10,21-DEC-2015
+signingDateCB_10,21-DEC-2015

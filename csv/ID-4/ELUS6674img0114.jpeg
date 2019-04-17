@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Grocers Supplier, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,zcESjHz5xY5i3I
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ETDL-3278053414
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$14925.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.63%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"666N7TH STREET , NEWARK, NJ, 7107"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1962
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2682.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$106252.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$14925.00
+bTotalIncome,$2682.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$14787.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$14925.00
+refinanCost,$14925.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALICIA VELEZ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-MAY-2071
+cbTotalIncome,$14787.00
+fundingFee,$0.00
+borrowerName,NANCY ARTZE
+cbtBaseSalary,$17469.00
+disocuntValue,$0.00
+bSecurityNumber,814228230
+cbtOverttime,$0.00
+totalTxnCost,$14925.00
+bPhone,1882627687
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,19-DEC-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$14925.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$14925.00
+bPresentAddress,"432 NATL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$147872682.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1633.00
+isOutstandingCourtCaseB,No
+bMailAddress,"432 NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$14925.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CHAD J OSTHEIMER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,802644664
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6672110283
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,22-AUG-1987
+psntTotalExp,$14925.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$14925.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"432 NATL CTR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$14925.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,NANCY ARTZE
+isDownpaymentBorrowedCB,No
+bEmpName,DIRECTORATE OF CONSTRUCTION
+depAmount,$2089.50
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM N3468, WASHINGTON, DC"
+depBankName,GREAT PLAINS BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 8, EUREKA, SD"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,78564101555413
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$2537.25
+ typeOfProp,second home
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,29-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1940.25
+signingDateCB,29-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,US DOL OSHA
+cbEmpAddress,"1001 LAKESIDE AVE, STE 390, CLEVELAND, OH"
+preLoanBankAdd,NA
+loanOriginatorID,w38i1387
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OSHA
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2165223818
+cbYrsInJob,7
+loanOriginatorAddress,"1240 E 9TH ST, ROOM 899, CLEVELAND, OH"
+refinanImproveDescription_e,to be made
+borrowerName_3,NANCY ARTZE
+borrowerName_9,NANCY ARTZE
+borrowerName_10,NANCY ARTZE
+cborrowerName_3,CHAD J OSTHEIMER
+cBorrowerName_9,CHAD J OSTHEIMER
+cborrowerName_10,CHAD J OSTHEIMER
+signingDateB_10,29-DEC-2015
+signingDateCB_10,29-DEC-2015

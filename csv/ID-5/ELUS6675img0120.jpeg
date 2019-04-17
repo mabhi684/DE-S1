@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Cook, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,CdMYd6ashdTeeX
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,JXQJ-1222704242
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$22699.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.82%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1806 26TH ST , LA GRANDE, OR, 97850"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1994
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3031.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$22699.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8641.00
+bTotalIncome,$3031.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1763.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$22699.00
+refinanCost,$8641.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BERTHA STARR
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-FEB-2067
+cbTotalIncome,$1763.00
+fundingFee,$0.00
+borrowerName,JINGPING XU
+cbtBaseSalary,$4794.00
+disocuntValue,$0.00
+bSecurityNumber,057765817
+cbtOverttime,$0.00
+totalTxnCost,$22699.00
+bPhone,2443483601
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-OCT-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$22699.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$22699.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$17633031.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$969.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+psntFirstLoan,$22699.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ANTHONY W WILTZ
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,436186037
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0571555132
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-JAN-1990
+psntTotalExp,$22699.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$22699.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"700 CAJUNDOME BLVD , LAFAYETTE, LA, 70506"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$22699.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JINGPING XU
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL WAGE AND HOUR
+depAmount,$3404.85
+isCoWorkerCB,No
+bEmpAddress,"230 N FIRST AVE, STE 402, PHOENIX, AZ"
+depBankName,WEST POINTE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1750 WITZEL AVENUE, OSHKOSH, WI"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,33152230148165
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$4539.80
+ typeOfProp,investment property
+bDesignation,"HR Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,30-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2269.90
+signingDateCB,30-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA WAGE & HOUR
+preLoanBankName,NA
+loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"200 CONSTITUTION AVE NW, S-3502, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,ONIiD6uX
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4048934565
+cbYrsInJob,4
+loanOriginatorAddress,"61 FORSYTH ST SW, STE 7B75, ATLANTA, GA"
+refinanImproveDescription_e,to be made
+borrowerName_3,JINGPING XU
+borrowerName_9,JINGPING XU
+borrowerName_10,JINGPING XU
+cborrowerName_3,ANTHONY W WILTZ
+cBorrowerName_9,ANTHONY W WILTZ
+cborrowerName_10,ANTHONY W WILTZ
+signingDateB_10,30-DEC-2015
+signingDateCB_10,30-DEC-2015

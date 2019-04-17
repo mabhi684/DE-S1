@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Trainer, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Htq6A6Stq5unq7
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UMBN-4726717400
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$9499.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,UNIVLRSITY DR VAH FCU
+Interest,7.96%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"UNIVERSITY DR C P 0 BOX 12053, PITTSBURGH, PA"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,75805816046168
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,234.87"
+PropAddress,"5704 KENNEDY AVA' , EXPORT, PA, 15632"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$1,804.81"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,membA-r's choice cu
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"23400 PLYMOUTH ROAD, REDFORD TOWNSHIP, MI"
+YearBuilt,2006
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,85070602804254
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,329.86"
+propFor,Primary
+bBaseSalary,$2127.00
+pre_loan_bank_balance_02,"$2,089.78"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$71544.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9499.00
+bTotalIncome,$2127.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3818.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$9499.00
+refinanCost,$9499.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRIAN REABE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-MAY-2056
+cbTotalIncome,$3818.00
+fundingFee,$0.00
+borrowerName,ELIZABETH L BROTHERS
+cbtBaseSalary,$5945.00
+disocuntValue,$0.00
+bSecurityNumber,072775155
+cbtOverttime,$0.00
+totalTxnCost,$9499.00
+bPhone,0263107411
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,03-FEB-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$9499.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$9499.00
+bPresentAddress,"4200 NEW HAVAUN RD , COLUMBIA, MO, 65201"
+cbtTotalIncome,$38182127.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1559.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4200 NEW HAVA'N RD , COLUMBIA, MO, 65201"
+psntFirstLoan,$9499.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,RICHARD WHITMAN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,515075033
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2001127773
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,17-OCT-1982
+psntTotalExp,$9499.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$9499.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4200 NEW HAVAUN RD , COLUMBIA, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$9499.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,ELIZABETH L BROTHERS
+isDownpaymentBorrowedCB,
+bEmpName,US DOL R1 ETA
+depAmount,$1234.87
+isCoWorkerCB,
+bEmpAddress,"JFK BLDG, RM E350, BOSTON, MA"
+depBankName,FIRST FIDELITY BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 376, BURKE, SD"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,77710776054311
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$1614.83
+ typeOfProp,principal residence
+bDesignation,"Legal Executive, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,23-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$949.90
+signingDateCB,23-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OFF OF REG ADMAN WH
+preLoanBankName,NA
+loanOriginatorName,US DOL ATMLS BAT
+cbEmpAddress,"1999 BROADWAY, SUITE 2445, DENVER, CO"
+preLoanBankAdd,NA
+loanOriginatorID,N4RhWdHh
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,A'S DOL ATELS BAT
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3043475794
+cbYrsInJob,8
+loanOriginatorAddress,"405 CAPITAL ST, SUITE 409, CHARLESTON, WV"
+refinanImproveDescription_e,made
+borrowerName_3,ELIZABETH L BROTHERS
+borrowerName_9,ELIZABETH L BROTHERS
+borrowerName_10,ELIZABETH L BROTHERS
+cborrowerName_3,RICHARD WHITMAN
+cBorrowerName_9,RICHARD WHITMAN
+cborrowerName_10,RICHARD WHITMAN
+signingDateB_10,23-JAN-2016
+signingDateCB_10,23-JAN-2016

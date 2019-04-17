@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Asst Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,H1h1kBCn6111Mg
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BGHB -0112102265
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$19418.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.19%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2102 JUSTUS LOOP , BRYANT, AR, 72022"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1981
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2757.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$55877.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$19418.00
+bTotalIncome,$2757.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3600.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$19418.00
+refinanCost,$19418.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,EMILY PICKENS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,05-MAY-2065
+cbTotalIncome,$3600.00
+fundingFee,$0.00
+borrowerName,CARRIE J CURRY
+cbtBaseSalary,$6357.00
+disocuntValue,$0.00
+bSecurityNumber,684863678
+cbtOverttime,$0.00
+totalTxnCost,$19418.00
+bPhone,0558558121
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,19-AUG-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$19418.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$19418.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$36002757.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1238.00
+isOutstandingCourtCaseB,No
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$19418.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BARBARA J JOHNSON
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,165143432
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0215000218
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,04-FEB-1978
+psntTotalExp,$19418.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$19418.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$19418.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CARRIE J CURRY
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL OSHA
+depAmount,$2330.16
+isCoWorkerCB,No
+bEmpAddress,"850 N 5TH ST, , ALLENTOWN, PA"
+depBankName,SOUTHERN CALIF INST OF ARCH
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"960 E. 3RD ST, LOS ANGELES, CA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,26100776325840
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$3301.06
+ typeOfProp,second home
+bDesignation,"Payroll Specialist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,16-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2524.34
+signingDateCB,16-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR MSHA
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR OSHA
+cbEmpAddress,"1100 WILSON BLVD, ROOM 2136, ARLINGTON, VA"
+preLoanBankAdd,NA
+loanOriginatorID,2IeRQZIp
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR OSHA
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,
+cbYrsInJob,5
+loanOriginatorAddress,"230 S DEARBORN ST, RM 3244, CHICAGO, IL"
+refinanImproveDescription_e,to be made
+borrowerName_3,CARRIE J CURRY
+borrowerName_9,CARRIE J CURRY
+borrowerName_10,CARRIE J CURRY
+cborrowerName_3,BARBARA J JOHNSON
+cBorrowerName_9,BARBARA J JOHNSON
+cborrowerName_10,BARBARA J JOHNSON
+signingDateB_10,16-JAN-2016
+signingDateCB_10,16-JAN-2016

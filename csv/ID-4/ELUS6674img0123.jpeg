@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Worker, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,38tqB1gz18mG3c
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,DSTW-2031218662
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$39165.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.40%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"190 CHABLIS WAY , CLOVERDALE, CA, 95425"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1966
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$6109.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$39165.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$4467.00
+bTotalIncome,$6109.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4541.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$39165.00
+refinanCost,$4467.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALEX LEPF
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-APR-2062
+cbTotalIncome,$4541.00
+fundingFee,$0.00
+borrowerName,TOBY D FEASTER
+cbtBaseSalary,$10650.00
+disocuntValue,$0.00
+bSecurityNumber,218803135
+cbtOverttime,$0.00
+totalTxnCost,$39165.00
+bPhone,1005680638
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-APR-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$39165.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$39165.00
+bPresentAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+cbtTotalIncome,$45416109.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1758.00
+isOutstandingCourtCaseB,No
+bMailAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+psntFirstLoan,$39165.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,EROL KALKAN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,373316631
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5085685820
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-JUL-1987
+psntTotalExp,$39165.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$39165.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"720 GRACERN RD , COLUMBIA, SC, 29210"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$39165.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,TOBY D FEASTER
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR-OSHA
+depAmount,$5483.10
+isCoWorkerCB,No
+bEmpAddress,"1150 N CURTIS ROAD, SUITE 201, BOISE, ID"
+depBankName,M & T BANK EDUCATIONAL LENDING
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"ONE FOUNTAIN PLAZA 8TH FLOOR, BUFFALO, NY"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,20654613044200
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$8224.65
+ typeOfProp,investment property
+bDesignation,"Network Admit, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,11-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4308.15
+signingDateCB,11-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL BLS OA DAS
+cbEmpAddress,"1100 COMMERCE STREET, ROOM 462, DALLAS, TX"
+preLoanBankAdd,NA
+loanOriginatorID,2BCFqqyk
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS OA DAS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026916007
+cbYrsInJob,7
+loanOriginatorAddress,"2 MASSACHUSETTS AVE, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,TOBY D FEASTER
+borrowerName_9,TOBY D FEASTER
+borrowerName_10,TOBY D FEASTER
+cborrowerName_3,EROL KALKAN
+cBorrowerName_9,EROL KALKAN
+cborrowerName_10,EROL KALKAN
+signingDateB_10,11-FEB-2016
+signingDateCB_10,11-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Project Assistant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,F352p11u6qcVdG
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GZEA-1261054117
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$13150.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.50%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2726 SANTA FE ST , RIVERBANK, CA, 95367"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1971
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$1123.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$48011.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13150.00
+bTotalIncome,$1123.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2021.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$13150.00
+refinanCost,$13150.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CECILIO CAMACHO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-JUN-2069
+cbTotalIncome,$2021.00
+fundingFee,$0.00
+borrowerName,RONALD C LANE
+cbtBaseSalary,$3144.00
+disocuntValue,$0.00
+bSecurityNumber,722428281
+cbtOverttime,$0.00
+totalTxnCost,$13150.00
+bPhone,5826552151
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-JUN-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$13150.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$13150.00
+bPresentAddress,"934 BROADWAY SUITE 300 , TACOMA, WA, 98402"
+cbtTotalIncome,$20211123.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1120.00
+isOutstandingCourtCaseB,No
+bMailAddress,"934 BROADWAY SUITE 300 , TACOMA, WA, 98402"
+psntFirstLoan,$13150.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KELLY R BARR
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,485137111
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8547778416
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-DEC-1989
+psntTotalExp,$13150.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$13150.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"934 BROADWAY SUITE 300 , TACOMA, WA, 98402"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$13150.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RONALD C LANE
+isDownpaymentBorrowedCB,No
+bEmpName,DEPT OF LABOR BAT
+depAmount,$1446.50
+isCoWorkerCB,No
+bEmpAddress,"1111 3RD AVE STE 830, , SEATTLE, WA"
+depBankName,"US BANK ELT FOR COMAL HEA, INC."
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"425 WALNUT STREET, 6TH FLOOR, CINCINNATI, OH"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,21457421380242
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$2893.00
+ typeOfProp,principal residence
+bDesignation,"Guard, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,09-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1315.00
+signingDateCB,09-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,DOL R9 ESAOFCCP SAN FR
+cbEmpAddress,"2183 NORTHLAKE PKWY, BLDG 7 STE 110, TUCKER, GA"
+preLoanBankAdd,NA
+loanOriginatorID,Mxgtt2V4
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL R9 ESAOFCCP SAN FR
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156257829
+cbYrsInJob,6
+loanOriginatorAddress,"90 7TH ST, STE 11 100, SAN FRANCISCO, CA"
+refinanImproveDescription_e,to be made
+borrowerName_3,RONALD C LANE
+borrowerName_9,RONALD C LANE
+borrowerName_10,RONALD C LANE
+cborrowerName_3,KELLY R BARR
+cBorrowerName_9,KELLY R BARR
+cborrowerName_10,KELLY R BARR
+signingDateB_10,09-DEC-2015
+signingDateCB_10,09-DEC-2015

@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Supervisor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,1pZu1DbaRmYuzY
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,XWVE -7623078064
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$100121.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.90%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"10684 RANDY LN , CUPERTINO, CA, 95014"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1992
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3186.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$100121.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8641.00
+bTotalIncome,$3186.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3042.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$100121.00
+refinanCost,$8641.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DARRELL KUYDENDALL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-JUL-2057
+cbTotalIncome,$3042.00
+fundingFee,$0.00
+borrowerName,CHRISTOPHER CHURCHILL
+cbtBaseSalary,$6228.00
+disocuntValue,$0.00
+bSecurityNumber,324186108
+cbtOverttime,$0.00
+totalTxnCost,$100121.00
+bPhone,8678260004
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,04-SEP-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$100121.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$100121.00
+bPresentAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+cbtTotalIncome,$30423186.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1704.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+psntFirstLoan,$100121.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MASTIN M MOUNT
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,177125520
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1538605282
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,09-DEC-1976
+psntTotalExp,$100121.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$100121.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$100121.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CHRISTOPHER CHURCHILL
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR MSHA
+depAmount,$12014.52
+isCoWorkerCB,No
+bEmpAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+depBankName,ILLINOIS VALLEY CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 17, PERU, IL"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,61818418548385
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$17020.57
+ typeOfProp,second home
+bDesignation,"Technician, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,09-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$11013.31
+signingDateCB,09-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL ETA
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"170 S INDEPENDENCE MALL WEST, STE 815 E, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,Oa8erlEu
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026065776
+cbYrsInJob,3
+loanOriginatorAddress,"2 MASS AV NE, RM 2930, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,CHRISTOPHER CHURCHILL
+borrowerName_9,CHRISTOPHER CHURCHILL
+borrowerName_10,CHRISTOPHER CHURCHILL
+cborrowerName_3,MASTIN M MOUNT
+cBorrowerName_9,MASTIN M MOUNT
+cborrowerName_10,MASTIN M MOUNT
+signingDateB_10,09-DEC-2015
+signingDateCB_10,09-DEC-2015

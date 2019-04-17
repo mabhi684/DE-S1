@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Trainer, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,nVfj45wocwfRA4
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EZNE-2121588283
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$13721.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,COMMUNITY 1 FCU
+Interest,9.71%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"280 COMMONWEALTH DR, GREENVILLE, SC"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,40080325116317
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,509.31"
+PropAddress,"160 TODT HILL RD , STATEN ISLAND, NY, 10314"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,881.41"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1991
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3050.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$90657.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13721.00
+bTotalIncome,$3050.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3294.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$13721.00
+refinanCost,$13721.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DEBORAH PANG
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-SEP-2062
+cbTotalIncome,$3294.00
+fundingFee,$0.00
+borrowerName,TRAVIS W SCHAEFFER
+cbtBaseSalary,$6344.00
+disocuntValue,$0.00
+bSecurityNumber,140730274
+cbtOverttime,$0.00
+totalTxnCost,$13721.00
+bPhone,0152867625
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-DEC-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$13721.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$13721.00
+bPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+cbtTotalIncome,$32943050.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$859.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4200 NEW HAVAAN RD , COLUMBIA, MO, 65201"
+psntFirstLoan,$13721.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,TERRI HOOKA
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,710667678
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5350247442
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,11-DEC-1978
+psntTotalExp,$13721.00
+isCoWorkerB,
+cbYrsSchool,1979
+propFirstLoan,$13721.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"440 NATIONAlL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"4200 NEW HAVEN RD , COLUMBAA, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$13721.00
+isDeliquentCB,
+lt2y_cb_res_since,9
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"Modoc Hall Usgs Ms 3006 3020 State A>niv Dr East, Sacramento, Ca, 95819"
+depPurchHeldBy,TRAVIS W SCHAEFFER
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL OLMS
+depAmount,$2058.15
+isCoWorkerCB,No
+bEmpAddress,"1111 3RD AVE STE 605, WA"
+depBankName,HAMLER STATE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"210 RANDOLPH ST., HAMLER, OH"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,51534444542747
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$2881.41
+ typeOfProp,investment property
+bDesignation,"Machinist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,11-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1920.94
+signingDateCB,11-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR ETA
+preLoanBankName,NA
+loanOriginatorName,DEPT OF LABOR
+cbEmpAddress,"525 GRIFFIN ST RM 317, TX"
+preLoanBankAdd,NA
+loanOriginatorID,dYd5RA2u
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DEPT OF LABOR
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6176246780
+cbYrsInJob,6
+loanOriginatorAddress,"JFK FEDERAL BLDG ROOM E-235, 25 NEW SUDBURY ST, BOSTON, MA"
+refinanImproveDescription_e,to be made
+borrowerName_3,TRAVIS W SCHAEFFER
+borrowerName_9,TRAVIS W SCHAEFFER
+borrowerName_10,TRAVIS W SCHAEFFER
+cborrowerName_3,TERRI HOOKA
+cBorrowerName_9,TERRI HOOKA
+cborrowerName_10,TERRI HOOKA
+signingDateB_10,11-JAN-2016
+signingDateCB_10,11-JAN-2016

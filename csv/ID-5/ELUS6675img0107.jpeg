@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Computer Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5Orn408T4hTm3
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SXBX-5484670445
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$14513.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.84%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2001 COURT ST APT A, NEWPORT BEACH, CA, 92663"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3323.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$42732.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$14513.00
+bTotalIncome,$3323.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2856.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$14513.00
+refinanCost,$14513.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DANIEL FREDINBURG
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-AUG-2060
+cbTotalIncome,$2856.00
+fundingFee,$0.00
+borrowerName,KRYSTALYNN J FROHNAPPLE
+cbtBaseSalary,$6179.00
+disocuntValue,$0.00
+bSecurityNumber,768285406
+cbtOverttime,$0.00
+totalTxnCost,$14513.00
+bPhone,5172020885
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-SEP-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$14513.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$14513.00
+bPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+cbtTotalIncome,$28563323.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1261.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+psntFirstLoan,$14513.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRIAN B HATFIELD
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,105866371
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3886684168
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,06-MAY-1986
+psntTotalExp,$14513.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$14513.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$14513.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KRYSTALYNN J FROHNAPPLE
+isDownpaymentBorrowedCB,No
+bEmpName,OFF OF REG ADMIN WH
+depAmount,$2031.82
+isCoWorkerCB,No
+bEmpAddress,"10127 MOROCCO STE 140, , SAN ANTONIO, TX"
+depBankName,ANDERSON FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 4146, ANDERSON, SC"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,83121444728251
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3192.86
+ typeOfProp,principal residence
+bDesignation,"Supervisor, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,12-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1596.43
+signingDateCB,12-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAF & HLTH
+preLoanBankName,NA
+loanOriginatorName,US DOL/OSHA
+cbEmpAddress,"PO BOX 560, NORTON, VA"
+preLoanBankAdd,NA
+loanOriginatorID,egLXYHpZ
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL/OSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3038445285
+cbYrsInJob,8
+loanOriginatorAddress,"1391 SPEER BLVD, SUITE 210, DENVER, CO"
+refinanImproveDescription_e,made
+borrowerName_3,KRYSTALYNN J FROHNAPPLE
+borrowerName_9,KRYSTALYNN J FROHNAPPLE
+borrowerName_10,KRYSTALYNN J FROHNAPPLE
+cborrowerName_3,BRIAN B HATFIELD
+cBorrowerName_9,BRIAN B HATFIELD
+cborrowerName_10,BRIAN B HATFIELD
+signingDateB_10,12-JAN-2016
+signingDateCB_10,12-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Machinist, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,FeYJzzWNP3yGip
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WDMA-2852282135
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$39128.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.12%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"18200 US HIGHWAY 31 N LOT 187, WESTFIELD, IN, 46074"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1973
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2175.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$57436.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$4467.00
+bTotalIncome,$2175.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3452.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$39128.00
+refinanCost,$4467.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BECCA REESE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-NOV-2058
+cbTotalIncome,$3452.00
+fundingFee,$0.00
+borrowerName,JERAD D BALES
+cbtBaseSalary,$5627.00
+disocuntValue,$0.00
+bSecurityNumber,530005022
+cbtOverttime,$0.00
+totalTxnCost,$39128.00
+bPhone,8575464300
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,16-MAY-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$39128.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$39128.00
+bPresentAddress,"STENNIS SPACE CTR BLDG 2010, STENNIS SPACE CTR, MS, 39529"
+cbtTotalIncome,$34522175.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1384.00
+isOutstandingCourtCaseB,No
+bMailAddress,"STENNIS SPACE CTR BLDG 2010, STENNIS SPACE CTR, MS, 39529"
+psntFirstLoan,$39128.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CYNTHIA W DUFFIELD
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,131384107
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7688726661
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,05-JAN-1983
+psntTotalExp,$39128.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$39128.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"STENNIS SPACE CTR BLDG 2010, STENNIS SPACE CTR, MS, 39529"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$39128.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JERAD D BALES
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL ILAB
+depAmount,$5086.64
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, 52235, WASHINGTON, DC"
+depBankName,NEW ENGLAND UNITED METHODIST FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P.O. BOX 245, WESTBROOK, ME"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,73543284132772
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$6651.76
+ typeOfProp,principal residence
+bDesignation,"Project Assistant, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,16-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3912.80
+signingDateCB,16-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM ITC
+cbEmpAddress,"PO BOX 18233, PSHTC, PITTSBURGH, PA"
+preLoanBankAdd,NA
+loanOriginatorID,0Sr51TWs
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM ITC
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934428
+cbYrsInJob,9
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N1301, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,JERAD D BALES
+borrowerName_9,JERAD D BALES
+borrowerName_10,JERAD D BALES
+cborrowerName_3,CYNTHIA W DUFFIELD
+cBorrowerName_9,CYNTHIA W DUFFIELD
+cborrowerName_10,CYNTHIA W DUFFIELD
+signingDateB_10,16-FEB-2016
+signingDateCB_10,16-FEB-2016

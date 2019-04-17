@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Cook, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Muetjm6aNes2hF
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IDWI-6283152280
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$57307.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,UNION BANK & TRUST ELT CHELA ED FUND INC
+Interest,10.65%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Po Box 82535, Lincoln, Ne"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,65664175604445
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,876.84"
+PropAddress,"1924 MCCLELLASND ST , HOUSTON, TX, 77093"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$12,034.47"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Sallie Mae Bank
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"5217 s. state street, murray, ut"
+YearBuilt,1968
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,22225501768182
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$6,876.84"
+propFor,Investment
+bBaseSalary,$6290.00
+pre_loan_bank_balance_02,"$9,742.19"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$57307.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13721.00
+bTotalIncome,$6290.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1814.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$57307.00
+refinanCost,$13721.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ROBERT GARCIA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-FEB-2072
+cbTotalIncome,$1814.00
+fundingFee,$0.00
+borrowerName,CARL D AILEXANDER
+cbtBaseSalary,$8104.00
+disocuntValue,$0.00
+bSecurityNumber,803168152
+cbtOverttime,$0.00
+totalTxnCost,$57307.00
+bPhone,4455575500
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,20-AUG-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$57307.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$57307.00
+bPresentAddress,"3535 S SHERWOOD FA""REST BL STE 120, BATON ROUGE, LA, 70816"
+cbtTotalIncome,$18146290.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1320.00
+isOutstandingCourtCaseB,No
+bMailAddress,"3535 S SHERWOOD FOREST BL STE 120, BATON ROUGE, LA, 70816"
+psntFirstLoan,$57307.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CATHERINE A RICHTER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,033222832
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7146802503
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,09-DEC-1979
+psntTotalExp,$57307.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$57307.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3535 S SHERWOOD FOREST BL STE 120, BATON ROUGE, LA, 70816"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$57307.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CARL D ALEXANDER
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL WAGE & HOUR
+depAmount,$6876.84
+isCoWorkerCB,
+bEmpAddress,"230 N 1ST AVE, RM 402, PHOENIX, AZ"
+depBankName,EQUITABLE BANK SSB
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2290 NORTH MAYFAIR ROAD, WAUWATOSA, WI"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,66304181455030
+isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$10315.26
+ typeOfProp,second home
+bDesignation,"Network Admin, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,11-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8596.05
+signingDateCB,11-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL A<SA WH
+preLoanBankName,NA
+loanOriginatorName,WAGE & HOUR
+cbEmpAddress,"103 S GAY STREET, RM 207, BALTIMORE, MD"
+preLoanBankAdd,NA
+loanOriginatorID,pcMhmTly
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,WAGE & HOUR
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5093530761
+cbYrsInJob,5
+loanOriginatorAddress,"PO BOX 1282, SPOKANE, WA"
+refinanImproveDescription_e,to be made
+borrowerName_3,CARL D AILEXANDER
+borrowerName_9,CARL D AILEXANDER
+borrowerName_10,CARL D AILEXANDER
+cborrowerName_3,CATHERINE A RICHTER
+cBorrowerName_9,CATHERINE A RICHTER
+cborrowerName_10,CATHERINE A RICHTER
+signingDateB_10,11-JAN-2016
+signingDateCB_10,11-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Asst Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,GCchesnam8UcaX
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ASZL-1017835407
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$4467.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.17%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1523 VAN BUREN CIR , SALT LAKE CITY, UT, 84104"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1966
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$6068.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$57436.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$4467.00
+bTotalIncome,$6068.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3629.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$4467.00
+refinanCost,$4467.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRANDEE SMITH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-AUG-2067
+cbTotalIncome,$3629.00
+fundingFee,$0.00
+borrowerName,MAGELLO N GONZALES
+cbtBaseSalary,$9697.00
+disocuntValue,$0.00
+bSecurityNumber,687217338
+cbtOverttime,$0.00
+totalTxnCost,$4467.00
+bPhone,2743871552
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,25-OCT-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$4467.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$4467.00
+bPresentAddress,"5957 LAKESIDE BLVD , INDIANAPOLIS, IN, 46278"
+cbtTotalIncome,$36296068.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1738.00
+isOutstandingCourtCaseB,No
+bMailAddress,"5957 LAKESIDE BLVD , INDIANAPOLIS, IN, 46278"
+psntFirstLoan,$4467.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,PETER J LASTER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,077768051
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4247484656
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,23-FEB-1985
+psntTotalExp,$4467.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$4467.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"5957 LAKESIDE BLVD , INDIANAPOLIS, IN, 46278"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$4467.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MAGELLO N GONZALES
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL BAT
+depAmount,$491.37
+isCoWorkerCB,No
+bEmpAddress,"ETA ATELS, 300 EAST 8TH ST STE 914, AUSTIN, TX"
+depBankName,FIRELANDS FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"221 EAST MAIN STREET, BELLEVUE, OH"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,25371258004781
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$804.06
+ typeOfProp,second home
+bDesignation,"HR Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,15-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$446.70
+signingDateCB,15-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPARTMENT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR OSHA
+cbEmpAddress,"61 FORSYTH ST SW, RM 7854, ATLANTA, GA"
+preLoanBankAdd,NA
+loanOriginatorID,4dLityno
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR OSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3144254249
+cbYrsInJob,7
+loanOriginatorAddress,"1222 SPRUCE STREET, ROOM 9104, SAINT LOUIS, MO"
+refinanImproveDescription_e,made
+borrowerName_3,MAGELLO N GONZALES
+borrowerName_9,MAGELLO N GONZALES
+borrowerName_10,MAGELLO N GONZALES
+cborrowerName_3,PETER J LASTER
+cBorrowerName_9,PETER J LASTER
+cborrowerName_10,PETER J LASTER
+signingDateB_10,15-FEB-2016
+signingDateCB_10,15-FEB-2016

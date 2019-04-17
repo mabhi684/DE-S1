@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Guard, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,J8zITEjq15offC
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ECGF-1230732425
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$21759.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.44%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"84 E ROCKS RD , NORWALK, CT, 6851"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2002
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$5799.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$21759.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$14513.00
+bTotalIncome,$5799.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1125.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$21759.00
+refinanCost,$14513.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANDRZEJ DARLOWSKI
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-MAY-2076
+cbTotalIncome,$1125.00
+fundingFee,$0.00
+borrowerName,AMARI R DOLAN CARET
+cbtBaseSalary,$6924.00
+disocuntValue,$0.00
+bSecurityNumber,188447555
+cbtOverttime,$0.00
+totalTxnCost,$21759.00
+bPhone,6078771075
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-JAN-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$21759.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$21759.00
+bPresentAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+cbtTotalIncome,$11255799.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1704.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+psntFirstLoan,$21759.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JENNIFER A RUNKLE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,206532480
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0137481888
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-MAR-1990
+psntTotalExp,$21759.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$21759.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"47914 252nd St , Sioux Falls, SD, 57198"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$21759.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,AMARI R DOLAN CARET
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OWCP SE REGION
+depAmount,$2611.08
+isCoWorkerCB,No
+bEmpAddress,"400 W BAY ST STE 943, SUITE 1026, JACKSONVILLE, FL"
+depBankName,SHELL FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"301 EAST 13TH STREET, DEER PARK, TX"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,03555007212376
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$4351.80
+ typeOfProp,investment property
+bDesignation,"HR Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,05-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3263.85
+signingDateCB,05-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR MSHA
+cbEmpAddress,"45 EAST 1375 SOUTH, UT"
+preLoanBankAdd,NA
+loanOriginatorID,vQ60j DPA
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR MSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3042563389
+cbYrsInJob,7
+loanOriginatorAddress,"NATL MINE HEALTH SAFETY ACADEMY, 1301 AIRPORT RD, BEAVER, WV"
+refinanImproveDescription_e,made
+borrowerName_3,AMARI R DOLAN CARET
+borrowerName_9,AMARI R DOLAN CARET
+borrowerName_10,AMARI R DOLAN CARET
+cborrowerName_3,JENNIFER A RUNKLE
+cBorrowerName_9,JENNIFER A RUNKLE
+cborrowerName_10,JENNIFER A RUNKLE
+signingDateB_10,05-JAN-2016
+signingDateCB_10,05-JAN-2016

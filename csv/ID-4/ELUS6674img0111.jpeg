@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Cleaner, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Lx5Ag48xmC5asd
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UFMR-1437876271
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$47323.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.87%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"8426 BEVERLY PL , EL PASO, TX, 79907"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1979
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2910.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$47323.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15812.00
+bTotalIncome,$2910.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1706.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$47323.00
+refinanCost,$15812.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CASSANDRA ALVAREZ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,31-JAN-2068
+cbTotalIncome,$1706.00
+fundingFee,$0.00
+borrowerName,JENNIFER K TESCHLER
+cbtBaseSalary,$4616.00
+disocuntValue,$0.00
+bSecurityNumber,424150645
+cbtOverttime,$0.00
+totalTxnCost,$47323.00
+bPhone,8600300401
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-AUG-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$47323.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$47323.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$17062910.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1607.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+psntFirstLoan,$47323.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRENDA K CARPER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,458604332
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6376360424
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-AUG-1981
+psntTotalExp,$47323.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$47323.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFIELD RD MS 466 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$47323.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JENNIFER K TESCHLER
+isDownpaymentBorrowedCB,No
+bEmpName,OIG OI
+depAmount,$5678.76
+isCoWorkerCB,No
+bEmpAddress,"201 VARICK STREET, ROOM 891, NEW YORK, NY"
+depBankName,MN HIGHER EDUCATION SERVICES OFFICE
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1450 ENERGY PARK DR, ST PAUL, MN"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,88180521075840
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$8518.14
+ typeOfProp,second home
+bDesignation,"Central Supervisor, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,14-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5205.53
+signingDateCB,14-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,WOMENS BUREAU
+preLoanBankName,NA
+loanOriginatorName,OFFICE OF SOLICITOR
+cbEmpAddress,"230 S DEARBORN, RM 1022, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,r214Mj68
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OFFICE OF SOLICITOR
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2065530940
+cbYrsInJob,3
+loanOriginatorAddress,"1111 3RD AVE, STE 945, SEATTLE, WA"
+refinanImproveDescription_e,made
+borrowerName_3,JENNIFER K TESCHLER
+borrowerName_9,JENNIFER K TESCHLER
+borrowerName_10,JENNIFER K TESCHLER
+cborrowerName_3,BRENDA K CARPER
+cBorrowerName_9,BRENDA K CARPER
+cborrowerName_10,BRENDA K CARPER
+signingDateB_10,14-JAN-2016
+signingDateCB_10,14-JAN-2016

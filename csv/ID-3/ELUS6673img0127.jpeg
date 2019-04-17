@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Asst Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,HrAa5PbYeoRWFe
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IPRP-7375740756
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$28560.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,genco fed?ral credit union
+Interest,10.54%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"731 N. Valley Mills Drivka, Waco, Tx"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,62406200218140
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$3,998.40"
+PropAddress,"227 HIGHLAND ST , LONMNBURG, MA, 1462"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,855.20"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1973
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3608.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$85955.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21052.00
+bTotalIncome,$3608.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3668.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$28560.00
+refinanCost,$21052.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ADELINE KETONEN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-SEP-2059
+cbTotalIncome,$3668.00
+fundingFee,$0.00
+borrowerName,BETH WILSON
+cbtBaseSalary,$7276.00
+disocuntValue,$0.00
+bSecurityNumber,586036805
+cbtOverttime,$0.00
+totalTxnCost,$28560.00
+bPhone,4443428268
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-APR-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$28560.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$28560.00
+bPresentAddress,"4200 NEW HAVEN RD , COLAAMBIA, MO, 65201"
+cbtTotalIncome,$36683608.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1383.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+psntFirstLoan,$28560.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,TODD A LUCAS
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,032816208
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,1281812412
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,20-OCT-1984
+psntTotalExp,$28560.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$28560.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2617 E LINCOLNWAY STE B, CHEYENNE, WY, 82001"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"4200 NEW HAVEN RD , COLUMBIAJ, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$28560.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,BETH WILSON
+isDownpaymentBorrowedCB,No
+bEmpName,DOL/ADMIN LAW JUDGES
+depAmount,$3427.20
+isCoWorkerCB,No
+bEmpAddress,"11870 MERCHANTS WALK STE 204, , NEWPAYRT NEWS, VA"
+depBankName,FIRSTRUST SAVINGS BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"15 E. RIDGE PIKE, CONSHOHOCKEN, PA"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,06645288548458
+isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$6283.20
+ typeOfProp,principal residence
+bDesignation,"Account Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,05-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4284.00
+signingDateCB,05-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL OSHA
+preLoanBankName,NA
+loanOriginatorName,OIG OMAC PROCUREMENT
+cbEmpAddress,"850 N 5TH ST, ALLENTOWN, PA"
+preLoanBankAdd,NA
+loanOriginatorID,ExnlclBp
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OIG OMAC PROCUREMENT
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123954495
+cbYrsInJob,5
+loanOriginatorAddress,"1000 LIBERTY AVE, RM 1401, PITTSBURGH, PA"
+refinanImproveDescription_e,made
+borrowerName_3,BETH WILSON
+borrowerName_9,BETH WILSON
+borrowerName_10,BETH WILSON
+cborrowerName_3,TODD A LUCAS
+cBorrowerName_9,TODD A LUCAS
+cborrowerName_10,TODD A LUCAS
+signingDateB_10,05-JAN-2016
+signingDateCB_10,05-JAN-2016

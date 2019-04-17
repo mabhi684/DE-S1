@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Guard, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,geo6izkVD27h05
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TUXK -3044108812
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$48011.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.01%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"9326 GREENWOOD AVE , DES PLAINES, IL, 60016"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2008
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2840.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$48011.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$19426.00
+bTotalIncome,$2840.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1074.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$48011.00
+refinanCost,$19426.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,EMMA DEVENECIA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-NOV-2058
+cbTotalIncome,$1074.00
+fundingFee,$0.00
+borrowerName,AUGUSTA WARDEN
+cbtBaseSalary,$3914.00
+disocuntValue,$0.00
+bSecurityNumber,304455533
+cbtOverttime,$0.00
+totalTxnCost,$48011.00
+bPhone,2851214612
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-JUN-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$48011.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$48011.00
+bPresentAddress,"BOX 25046 MS 973 DFC , DENVER, CO, 80225"
+cbtTotalIncome,$10742840.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$870.00
+isOutstandingCourtCaseB,No
+bMailAddress,"BOX 25046 MS 973 DFC , DENVER, CO, 80225"
+psntFirstLoan,$48011.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LISA L LEISER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,467068138
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8354784653
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,04-OCT-1985
+psntTotalExp,$48011.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$48011.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 MS 973 DFC , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$48011.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,AUGUSTA WARDEN
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL BAT
+depAmount,$7201.65
+isCoWorkerCB,No
+bEmpAddress,"ETA ATELS BATS, 2500 WEST 49TH STREET STE 204, SIOUX FALLS, SD"
+depBankName,NUMERICA CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 6011, SPOKANE, WA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,06658878858237
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$10562.42
+ typeOfProp,investment property
+bDesignation,"HR Specialist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,08-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4801.10
+signingDateCB,08-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL/ADMIN LAW JUDGES
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"428E BOSTON ST 1ST FLOOR, LA"
+preLoanBankAdd,NA
+loanOriginatorID,2yvLt2sg
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2147678430
+cbYrsInJob,7
+loanOriginatorAddress,"1100 COMMERCE ST, RM 462, DALLAS, TX"
+refinanImproveDescription_e,to be made
+borrowerName_3,AUGUSTA WARDEN
+borrowerName_9,AUGUSTA WARDEN
+borrowerName_10,AUGUSTA WARDEN
+cborrowerName_3,LISA L LEISER
+cBorrowerName_9,LISA L LEISER
+cborrowerName_10,LISA L LEISER
+signingDateB_10,08-JAN-2016
+signingDateCB_10,08-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Asst Accountant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,uRJvRldDeEIr2v
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,XBVN -0186884040
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$9655.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.15%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"710 GROVE ST , BELDING, MI, 48809"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1970
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$6370.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$36946.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9655.00
+bTotalIncome,$6370.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4974.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$9655.00
+refinanCost,$9655.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMY CRUZ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-MAY-2063
+cbTotalIncome,$4974.00
+fundingFee,$0.00
+borrowerName,COLIN M DOVICHIN
+cbtBaseSalary,$11344.00
+disocuntValue,$0.00
+bSecurityNumber,212076005
+cbtOverttime,$0.00
+totalTxnCost,$9655.00
+bPhone,8212651446
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,09-OCT-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$9655.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$9655.00
+bPresentAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+cbtTotalIncome,$49746370.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$943.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+psntFirstLoan,$9655.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JOSEPH M NANIKAS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,030554664
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3211253874
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,20-DEC-1978
+psntTotalExp,$9655.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$9655.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$9655.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,COLIN M DOVICHIN
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL WAGE & HOUR
+depAmount,$1062.05
+isCoWorkerCB,No
+bEmpAddress,"770A THE CITY DR S, SUITE 5710, ORANGE, CA"
+depBankName,SELH FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 8709, MANDEVILLE, LA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,87633075460532
+isNewPropPermanentB,No
+bYrsInJob,10
+depBankBal,$2027.55
+ typeOfProp,principal residence
+bDesignation,"Network Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,17-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1062.05
+signingDateCB,17-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OASAM ITC
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR MSHA
+cbEmpAddress,"200 CONSTITUTION AVE NW, ROOM N1301, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,tffic0xWa
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR MSHA
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026939824
+cbYrsInJob,9
+loanOriginatorAddress,"1100 WILSON BLVD, RM 2426, ARLINGTON, VA"
+refinanImproveDescription_e,to be made
+borrowerName_3,COLIN M DOVICHIN
+borrowerName_9,COLIN M DOVICHIN
+borrowerName_10,COLIN M DOVICHIN
+cborrowerName_3,JOSEPH M NANIKAS
+cBorrowerName_9,JOSEPH M NANIKAS
+cborrowerName_10,JOSEPH M NANIKAS
+signingDateB_10,17-FEB-2016
+signingDateCB_10,17-FEB-2016

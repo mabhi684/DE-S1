@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Computer Operator, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Q0DJXv3agvrI5q
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ROJM -7440034144
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$41831.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,COMMERCIAL STATE BANK
+Interest,10.07%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"204 s main stre?t, wagner, sd"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,78486232418157
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,601.41"
+PropAddress,"8810 FONTAINEBLEAU BLVD APT 119, MIAMI, FL, 33172"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,784.51"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1961
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$1721.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$41831.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18409.00
+bTotalIncome,$1721.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2882.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$41831.00
+refinanCost,$18409.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,STEPHANY MORENO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-NOV-2057
+cbTotalIncome,$2882.00
+fundingFee,$0.00
+borrowerName,JESSICA A TMUNIS
+cbtBaseSalary,$4603.00
+disocuntValue,$0.00
+bSecurityNumber,027416744
+cbtOverttime,$0.00
+totalTxnCost,$41831.00
+bPhone,8405225174
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,03-JUN-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$41831.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$41831.00
+bPresentAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+cbtTotalIncome,$28821721.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1352.00
+isOutstandingCourtCaseB,
+bMailAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+psntFirstLoan,$41831.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,4
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"700 cajundome blvd , lafayA'tte, la, 70506"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LORI J VANCOULTER
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,150711037
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7452882742
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,22-JUL-1982
+psntTotalExp,$41831.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$41831.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$41831.00
+isDeliquentCB,
+lt2y_cb_res_since,5
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"202 NatA-onal Center , RestA'n, Va, 20192"
+depPurchHeldBy,JESSICA A TEUNIS
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$5019.72
+isCoWorkerCB,No
+bEmpAddress,"1100 COMMERCE STREET, ROOM 462, DALLAS, TX"
+depBankName,POSTAL FAMILY FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P 0 BOX 9318, FARGO, ND"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,31140374140365
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$8784.51
+ typeOfProp,investment property
+bDesignation,"Cook, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,04-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5438.03
+signingDateCB,04-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR/MSHA
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR
+cbEmpAddress,"EXECUTIVE PLAZA STE 103, 2001 STATE HILL RD, WYA-MISSING, PA"
+preLoanBankAdd,NA
+loanOriginatorID,xBhlaWqx
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABA-R
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3038441748
+cbYrsInJob,9
+loanOriginatorAddress,"US DEPT OF LABOR-SOLICITORS OFC, 1999 BROADWAY STE 1600, DENVER, CO"
+refinanImproveDescription_e,to be made
+borrowerName_3,JESSICA A TMUNIS
+borrowerName_9,JESSICA A TMUNIS
+borrowerName_10,JESSICA A TMUNIS
+cborrowerName_3,LORI J VANCOULTER
+cBorrowerName_9,LORI J VANCOULTER
+cborrowerName_10,LORI J VANCOULTER
+signingDateB_10,04-FEB-2016
+signingDateCB_10,04-FEB-2016

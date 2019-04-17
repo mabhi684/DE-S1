@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Supervisor, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,YA2x156oSiN2Xe
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZKKL -0805542444
+lt2y_cb_emp_name1,"Us Dlopt Of Labor Msha; 1100 Wilson Blvd, Rm 2303, Arlington, Va"
+childSupportExpOwnedValue,$0.00
+Amount,$96958.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,ys fa1/4
+Interest,10.27%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"217 xenia avenue, yellow springs, oh"
+Tenure,240 months
+lt2y_cb_emp_salary1,"$2,720.85"
+pre_loan_bank_acNo_01,84810578752177
+AmortType,GPM
+lt2y_cb_emp_designation1,payroll specialistcontract
+pre_loan_bank_EMI_01,"$14,543.70"
+PropAddress,"151 DELP RD , LANCASTER, PA, 17601"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$17,452.44"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1963
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2990.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$96958.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21052.00
+bTotalIncome,$2990.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3001.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$96958.00
+refinanCost,$21052.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DAVE NATALE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,24-AUG-2060
+cbTotalIncome,$3001.00
+fundingFee,$0.00
+borrowerName,GARY L MINNICH
+cbtBaseSalary,$5991.00
+disocuntValue,$0.00
+bSecurityNumber,121427220
+cbtOverttime,$0.00
+totalTxnCost,$96958.00
+bPhone,4020808534
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-MAR-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$96958.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$96958.00
+bPresentAddress,"47914 252nd St , SAoux Falls, SD, 57198"
+cbtTotalIncome,$30012990.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$875.00
+isOutstandingCourtCaseB,
+bMailAddress,"47914 252nd St , SiA'ux Falls, SD, 57198"
+psntFirstLoan,$96958.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,MARTIN LAFEVERS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,305461758
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2400164450
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-MAR-1989
+psntTotalExp,$96958.00
+isCoWorkerB,
+cbYrsSchool,1977
+propFirstLoan,$96958.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1300 SE CARDINAL CT BLDG 1OSTE 100, VANCOUVER, WA, 98683"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"47914 252nd St , Sioux Falls, SD, 57198"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$96958.00
+isDeliquentCB,
+lt2y_cb_res_since,7
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"11 SHERMAN PLI_CE U 5015 , STORRS, CT, 6269"
+depPurchHeldBy,GARY L MINNICH
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR OSHA
+depAmount,$9695.80
+isCoWorkerCB,No
+bEmpAddress,"315 W ALLEGAN RM 207, MA2"
+depBankName,WEA CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 8003, MADISON, WI"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,38488620322288
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$16482.86
+ typeOfProp,second home
+bDesignation,"Technician, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,07-FEB-2016
+lt2y_b_emp_name1,"Mine Safety & HA'alth; 3837 S Us Hwy 25 E, Ky"
+subTotLiqValue,$14543.70
+signingDateCB,07-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,000.00"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Office Boy Temperkry
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"DOL BLS; 2 MASSACHAmSETTS AVI- NE, ROOM 4985, WASHINGTON, DC"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,750.00"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,Office Boy Contract
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL OSAM CPPR
+cbEmpAddress,"1999 BROADWAY SUA-.TE 1690, DENVER, CO"
+preLoanBankAdd,NA
+loanOriginatorID,NyVtfvv3
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OSA_M CPPR
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026936610
+cbYrsInJob,4
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N2245, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,GARY L MINNICH
+borrowerName_9,GARY L MINNICH
+borrowerName_10,GARY L MINNICH
+cborrowerName_3,MARTIN LAFEVERS
+cBorrowerName_9,MARTIN LAFEVERS
+cborrowerName_10,MARTIN LAFEVERS
+signingDateB_10,07-FEB-2016
+signingDateCB_10,07-FEB-2016

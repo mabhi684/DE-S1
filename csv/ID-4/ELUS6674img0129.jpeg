@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Sales Agent, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,cEyukQ4jg1mGow
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MTHM-0507704623
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$39414.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.58%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1376 HARRIS HOLLOW RD , CHARLOTTE, TN, 37036"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1980
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1934.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$36946.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9655.00
+bTotalIncome,$1934.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5201.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$39414.00
+refinanCost,$9655.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CAROL BROATCH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,03-JUL-2063
+cbTotalIncome,$5201.00
+fundingFee,$0.00
+borrowerName,KEVIN S HOUSEL
+cbtBaseSalary,$7135.00
+disocuntValue,$0.00
+bSecurityNumber,013840815
+cbtOverttime,$0.00
+totalTxnCost,$39414.00
+bPhone,3378513635
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,20-MAY-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$39414.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$39414.00
+bPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+cbtTotalIncome,$52011934.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1548.00
+isOutstandingCourtCaseB,No
+bMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+psntFirstLoan,$39414.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CLINT D VAN SCHEPEN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,167773121
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2313876367
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,19-MAR-1987
+psntTotalExp,$39414.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$39414.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$39414.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KEVIN S HOUSEL
+isDownpaymentBorrowedCB,No
+bEmpName,OFFICE OF SOLICITOR
+depAmount,$5912.10
+isCoWorkerCB,No
+bEmpAddress,"230 S DEARBORN ST RM 844, IL"
+depBankName,FIRST NATIONAL BANK AT DARLINGTON
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"245 MAIN STREET, DARLINGTON, WI"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,56701514310583
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$6700.38
+ typeOfProp,principal residence
+bDesignation,"Cleaner, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,24-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4729.68
+signingDateCB,24-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR MSHA
+cbEmpAddress,"1400 INDEPENDENCE ROAD, SUITE 100, ROLLA, MO"
+preLoanBankAdd,NA
+loanOriginatorID,7f1G82EE
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR MSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4128926913
+cbYrsInJob,7
+loanOriginatorAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,KEVIN S HOUSEL
+borrowerName_9,KEVIN S HOUSEL
+borrowerName_10,KEVIN S HOUSEL
+cborrowerName_3,CLINT D VAN SCHEPEN
+cBorrowerName_9,CLINT D VAN SCHEPEN
+cborrowerName_10,CLINT D VAN SCHEPEN
+signingDateB_10,24-JAN-2016
+signingDateCB_10,24-JAN-2016
