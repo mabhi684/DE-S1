@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Network Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,cNWAxlpRvlEKkh
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MWCH -2312446126
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$33538.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.65%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"14 WALNUT ST , LOWELL, MA, 1852"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1981
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2893.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$33538.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$4722.00
+bTotalIncome,$2893.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6091.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$33538.00
+refinanCost,$4722.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANANDKUMAR ISRANI
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-AUG-2062
+cbTotalIncome,$6091.00
+fundingFee,$0.00
+borrowerName,ROBERT GALE
+cbtBaseSalary,$8984.00
+disocuntValue,$0.00
+bSecurityNumber,764603818
+cbtOverttime,$0.00
+totalTxnCost,$33538.00
+bPhone,3632135575
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-APR-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$33538.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$33538.00
+bPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+cbtTotalIncome,$60912893.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1033.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+psntFirstLoan,$33538.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,LAURA A STERN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,545061326
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1807012276
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-DEC-1983
+psntTotalExp,$33538.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$33538.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$33538.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ROBERT GALE
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR MSHA
+depAmount,$4024.56
+isCoWorkerCB,No
+bEmpAddress,"FEDERAL BLDG, 515 W 1ST ST RM 333, DULUTH, MN"
+depBankName,NCPD FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"777 OLD COUNTRY RD, PLAINVIEW, NY"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,74253377787810
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$7042.98
+ typeOfProp,principal residence
+bDesignation,"Central Supervisor, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,19-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5030.70
+signingDateCB,19-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"APPROVAL CERTIFICATION CTR, 765 TECHNOLOGY DRIVE, TRIADELPHIA, WV"
+preLoanBankAdd,NA
+loanOriginatorID,bM7zyxqv
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5173771751
+cbYrsInJob,5
+loanOriginatorAddress,"315 W ALLEGAN ST, RM 230, LANSING, MI"
+refinanImproveDescription_e,made
+borrowerName_3,ROBERT GALE
+borrowerName_9,ROBERT GALE
+borrowerName_10,ROBERT GALE
+cborrowerName_3,LAURA A STERN
+cBorrowerName_9,LAURA A STERN
+cborrowerName_10,LAURA A STERN
+signingDateB_10,19-FEB-2016
+signingDateCB_10,19-FEB-2016

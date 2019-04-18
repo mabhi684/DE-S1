@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Labor, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,1z7I5h1zjgyH11
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GPKD -3266572227
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$17340.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.49%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"35401 WOODSPUR RD , ONTONAGON, MI, 49953"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1982
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3248.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$17340.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$19129.00
+bTotalIncome,$3248.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3621.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$17340.00
+refinanCost,$19129.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CONNIE MYHREN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,13-AUG-2056
+cbTotalIncome,$3621.00
+fundingFee,$0.00
+borrowerName,JOHN A ORGANEK
+cbtBaseSalary,$6869.00
+disocuntValue,$0.00
+bSecurityNumber,773027321
+cbtOverttime,$0.00
+totalTxnCost,$17340.00
+bPhone,5232753157
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-MAY-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$17340.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$17340.00
+bPresentAddress,"101 PITKIN ST , EAST HARTFORD, CT, 6108"
+cbtTotalIncome,$36213248.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1169.00
+isOutstandingCourtCaseB,No
+bMailAddress,"101 PITKIN ST , EAST HARTFORD, CT, 6108"
+psntFirstLoan,$17340.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,FRANK P CAMPBELL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,632564835
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2186545525
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,12-DEC-1990
+psntTotalExp,$17340.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$17340.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"215 LIMEKILN RD , NEW CUMBERLAND, PA, 17070"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"101 PITKIN ST , EAST HARTFORD, CT, 6108"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$17340.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOHN A ORGANEK
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OSHA
+depAmount,$1734.00
+isCoWorkerCB,No
+bEmpAddress,"1600 167TH ST, STE 9, CALUMET CITY, IL"
+depBankName,LOS ANGELES POLICE FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"16150 SHERMAN WAY, VAN NUYS, CA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,45005240483082
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$3121.20
+ typeOfProp,second home
+bDesignation,"Technician, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,29-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1907.40
+signingDateCB,29-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"365 SMOKE TREE PLAZA, AURORA, IL"
+preLoanBankAdd,NA
+loanOriginatorID,MF26Mw5j
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026916043
+cbYrsInJob,9
+loanOriginatorAddress,"2 MASSACHUSETTS AVE, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,JOHN A ORGANEK
+borrowerName_9,JOHN A ORGANEK
+borrowerName_10,JOHN A ORGANEK
+cborrowerName_3,FRANK P CAMPBELL
+cBorrowerName_9,FRANK P CAMPBELL
+cborrowerName_10,FRANK P CAMPBELL
+signingDateB_10,29-DEC-2015
+signingDateCB_10,29-DEC-2015

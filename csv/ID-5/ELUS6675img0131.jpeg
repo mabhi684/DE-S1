@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"HR Admin, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,K8ybilejcWF6PP
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IZEL-0448528668
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$16294.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.72%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"22365 SANDY LN , CLEVELAND, OH, 44126"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1981
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3703.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$16294.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$13150.00
+bTotalIncome,$3703.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3011.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$16294.00
+refinanCost,$13150.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANDRESA SZWAGULAK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-AUG-2073
+cbTotalIncome,$3011.00
+fundingFee,$0.00
+borrowerName,KATHERINE A NEUJAHR
+cbtBaseSalary,$6714.00
+disocuntValue,$0.00
+bSecurityNumber,717270083
+cbtOverttime,$0.00
+totalTxnCost,$16294.00
+bPhone,5207567238
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,25-APR-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$16294.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$16294.00
+bPresentAddress,"5231 SOUTH 19TH , LINCOLN, NE, 68512"
+cbtTotalIncome,$30113703.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1595.00
+isOutstandingCourtCaseB,No
+bMailAddress,"5231 SOUTH 19TH , LINCOLN, NE, 68512"
+psntFirstLoan,$16294.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,HARLAND L GOLDSTEIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,350678481
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6160316642
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-NOV-1986
+psntTotalExp,$16294.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$16294.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 MS 980 DFC , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"5231 SOUTH 19TH , LINCOLN, NE, 68512"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$16294.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KATHERINE A NEUJAHR
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ESA OFCCP
+depAmount,$1629.40
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM C3321, WASHINGTON, DC"
+depBankName,SEASONS FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"524 S. MAIN ST., MIDDLETOWN, CT"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,48183326141866
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$3584.68
+ typeOfProp,principal residence
+bDesignation,"Asst Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,17-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2118.22
+signingDateCB,17-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL R9 OASAM SAN FRAN
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM ITC
+cbEmpAddress,"ATTN PAUL CARDENAS, 90 7TH ST STE 12300, SAN FRANCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,X2rsxY8H
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM ITC
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934447
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N1301, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,KATHERINE A NEUJAHR
+borrowerName_9,KATHERINE A NEUJAHR
+borrowerName_10,KATHERINE A NEUJAHR
+cborrowerName_3,HARLAND L GOLDSTEIN
+cBorrowerName_9,HARLAND L GOLDSTEIN
+cborrowerName_10,HARLAND L GOLDSTEIN
+signingDateB_10,17-FEB-2016
+signingDateCB_10,17-FEB-2016

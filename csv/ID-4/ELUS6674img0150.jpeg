@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Receptionist, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,OpS5Oug6xT51x1
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,HUOV-8415435252
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$52409.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.78%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1023 SAINT CLAIR AVE , SHEBOYGAN, WI, 53081"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1999
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2503.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$52409.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5576.00
+bTotalIncome,$2503.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2172.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$52409.00
+refinanCost,$5576.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DIANE BELL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-APR-2073
+cbTotalIncome,$2172.00
+fundingFee,$0.00
+borrowerName,ERICA L RAU
+cbtBaseSalary,$4675.00
+disocuntValue,$0.00
+bSecurityNumber,580551302
+cbtOverttime,$0.00
+totalTxnCost,$52409.00
+bPhone,0461516282
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-MAR-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$52409.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$52409.00
+bPresentAddress,"10500 UNIVERSITY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+cbtTotalIncome,$21722503.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1148.00
+isOutstandingCourtCaseB,No
+bMailAddress,"10500 UNIVERSITY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+psntFirstLoan,$52409.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRENDA K CARPER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,824002763
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5232414451
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,06-OCT-1980
+psntTotalExp,$52409.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$52409.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"10500 UNIVERSITY CENTER D STE 215 MS 156, TAMPA, FL, 33612"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$52409.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ERICA L RAU
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$7861.35
+isCoWorkerCB,No
+bEmpAddress,"135 GEMINI CIR, STE 212, BIRMINGHAM, AL"
+depBankName,OKLAHOMA STUDENT LOAN AUTHORITY
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 18145, OKLAHOMA CITY, OK"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,46873266430677
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$10481.80
+ typeOfProp,investment property
+bDesignation,"Computer Operator, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,27-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$7337.26
+signingDateCB,27-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL BAT REG6 FIELD OFC
+cbEmpAddress,"1000 LIBERTY AVE, RM 905, PITTSBURGH, PA"
+preLoanBankAdd,NA
+loanOriginatorID,wWnEg5de
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BAT REG6 FIELD OFC
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7023886771
+cbYrsInJob,7
+loanOriginatorAddress,"600 LAS VEGAS BLV S, STE 520, LAS VEGAS, NV"
+refinanImproveDescription_e,made
+borrowerName_3,ERICA L RAU
+borrowerName_9,ERICA L RAU
+borrowerName_10,ERICA L RAU
+cborrowerName_3,BRENDA K CARPER
+cBorrowerName_9,BRENDA K CARPER
+cborrowerName_10,BRENDA K CARPER
+signingDateB_10,27-DEC-2015
+signingDateCB_10,27-DEC-2015

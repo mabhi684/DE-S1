@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Asst Accountant, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,8iDxZrc1FHPg02
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LDEC-0168317515
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$17087.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.55%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2838 WEBSTER AVE , PITTSBURGH, PA, 15219"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1961
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3149.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$90028.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17087.00
+bTotalIncome,$3149.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5137.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$17087.00
+refinanCost,$17087.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BIGLOW KENLEY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-JUL-2057
+cbTotalIncome,$5137.00
+fundingFee,$0.00
+borrowerName,HEATHER A JIMENEZ
+cbtBaseSalary,$8286.00
+disocuntValue,$0.00
+bSecurityNumber,821742670
+cbtOverttime,$0.00
+totalTxnCost,$17087.00
+bPhone,5611116751
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-AUG-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$17087.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$17087.00
+bPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+cbtTotalIncome,$51373149.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1217.00
+isOutstandingCourtCaseB,No
+bMailAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+psntFirstLoan,$17087.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JESSICA A TEUNIS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,771308205
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2574888228
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,09-MAR-1990
+psntTotalExp,$17087.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$17087.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$17087.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,HEATHER A JIMENEZ
+isDownpaymentBorrowedCB,No
+bEmpName,DOL BLS
+depAmount,$1708.70
+isCoWorkerCB,No
+bEmpAddress,"2 MASSACHUSETTS AVE NE, DC"
+depBankName,BANK OF LAKE MILLS
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"136 EAST MADISON ST, LAKE MILLS, WI"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,41788676418453
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$3075.66
+ typeOfProp,second home
+bDesignation,"Supervisor, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,25-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$1879.57
+signingDateCB,25-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA CTC
+preLoanBankName,NA
+loanOriginatorName,USDOL OFF OF SOLICITOR
+cbEmpAddress,"435 ELM ST STE 500, CINCINNATI, OH"
+preLoanBankAdd,NA
+loanOriginatorID,B10Kb1Jx
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OFF OF SOLICITOR
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4045622057
+cbYrsInJob,5
+loanOriginatorAddress,"61 FORSYTH STREET, RM 7T10, ATLANTA, GA"
+refinanImproveDescription_e,to be made
+borrowerName_3,HEATHER A JIMENEZ
+borrowerName_9,HEATHER A JIMENEZ
+borrowerName_10,HEATHER A JIMENEZ
+cborrowerName_3,JESSICA A TEUNIS
+cBorrowerName_9,JESSICA A TEUNIS
+cborrowerName_10,JESSICA A TEUNIS
+signingDateB_10,25-DEC-2015
+signingDateCB_10,25-DEC-2015

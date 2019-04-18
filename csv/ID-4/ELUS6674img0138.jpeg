@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Legal Executive, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,jkbhkwE5A0IUdC
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FFTL-0105412283
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$77269.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.47%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"PO BOX 2530 , BUIES CREEK, NC, 27506"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1973
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2899.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$77269.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5906.00
+bTotalIncome,$2899.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1783.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$77269.00
+refinanCost,$5906.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHRISTINE FILTER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-SEP-2057
+cbTotalIncome,$1783.00
+fundingFee,$0.00
+borrowerName,GWEN M KVECH
+cbtBaseSalary,$4682.00
+disocuntValue,$0.00
+bSecurityNumber,521220000
+cbtOverttime,$0.00
+totalTxnCost,$77269.00
+bPhone,1325101753
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-MAY-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$77269.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$77269.00
+bPresentAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+cbtTotalIncome,$17832899.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1180.00
+isOutstandingCourtCaseB,No
+bMailAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+psntFirstLoan,$77269.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,EDWARD M OLEXA
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,315357743
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2522448324
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,23-JUL-1976
+psntTotalExp,$77269.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$77269.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"USGS AJM JOHNSON HALL MSU, BOZEMAN, MT, 59717"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"5522 RESEARCH PARK DRIVE , CATONSVILLE, MD, 21228"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$77269.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,GWEN M KVECH
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA-NORTH HOUSTON
+depAmount,$10817.66
+isCoWorkerCB,No
+bEmpAddress,"507 N SAM HOUSTON PKWY E STE 400, , HOUSTON, TX"
+depBankName,MIDWESTERN UNIVERSITY
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"555 31ST ST, DOWNERS GROVE, IL"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,53460172166214
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$13908.42
+ typeOfProp,second home
+bDesignation,"HR Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,10-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$7726.90
+signingDateCB,10-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPTA OF LABOR - OSHA
+preLoanBankName,NA
+loanOriginatorName,US DOL OFCCP
+cbEmpAddress,"2 PERSHING SQUARE BLDG, 2300 MAIN ST STE 1010, KANSAS CITY, MO"
+preLoanBankAdd,NA
+loanOriginatorID,cTib0a40
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158615759
+cbYrsInJob,4
+loanOriginatorAddress,"170 S INDEPENDENCE MALL WEST, CURTIS CTR STE 750 W, PHILADELPHIA, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,GWEN M KVECH
+borrowerName_9,GWEN M KVECH
+borrowerName_10,GWEN M KVECH
+cborrowerName_3,EDWARD M OLEXA
+cBorrowerName_9,EDWARD M OLEXA
+cborrowerName_10,EDWARD M OLEXA
+signingDateB_10,10-DEC-2015
+signingDateCB_10,10-DEC-2015

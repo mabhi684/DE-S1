@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Account Admin, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,lt6yKbIo4xyNf3
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,HXVR -1271258572
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$42017.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,WEST MILTON STATE BANK
+Interest,8.63%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Po Box 69, West Milton, Pa"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,68252826181630
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,621.87"
+PropAddress,"1064 LAKA< DR W , BROWNSBURG, IN, 46112"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$7,983.23"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,M & T Bank Educational Lending
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"One Fountain Plaza 8th Floor, Buffalo, Ny"
+YearBuilt,1960
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,36517144808541
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$4,201.70"
+propFor,Investment
+bBaseSalary,$1918.00
+pre_loan_bank_balance_02,"$7,563.06"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$42017.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9655.00
+bTotalIncome,$1918.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3243.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$42017.00
+refinanCost,$9655.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMANDA WALKUP
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-MAR-2076
+cbTotalIncome,$3243.00
+fundingFee,$0.00
+borrowerName,LANCE B MCNEW
+cbtBaseSalary,$5161.00
+disocuntValue,$0.00
+bSecurityNumber,671254554
+cbtOverttime,$0.00
+totalTxnCost,$42017.00
+bPhone,0343772802
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-FEB-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$42017.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$42017.00
+bPresentAddress,"MODA""C HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+cbtTotalIncome,$32431918.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1158.00
+isOutstandingCourtCaseB,No
+bMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+psntFirstLoan,$42017.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,EDNA DUFF
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,433042562
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8241331274
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,11-JUL-1982
+psntTotalExp,$42017.00
+isCoWorkerB,
+cbYrsSchool,1983
+propFirstLoan,$42017.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1700 EAST POINTE DRIVAt SUITE 202, COLUMBIA, MO, 65201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$42017.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,LANCE B MCNEW
+isDownpaymentBorrowedCB,
+bEmpName,DOL/ADMIN LAW JUDGMS
+depAmount,$5882.38
+isCoWorkerCB,
+bEmpAddress,"90 7TH STREET, SUITE 4-800, SAN FRANCAOSCO, CA"
+depBankName,WEBSTER CITY FSB
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 638, WEBSTER CITY, IA"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,77240477278014
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$7142.89
+ typeOfProp,second home
+bDesignation,"Legal Executive, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,26-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4621.87
+signingDateCB,26-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,MINE SAAATY & HEALTH
+cbEmpAddress,"2 MASSACHUSETTE AVE NE, DHROM RM 4280, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,hFFSj kSh
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MAINE SAFETY & HEALTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8635335390
+cbYrsInJob,5
+loanOriginatorAddress,"1662 N PARK AVE, BARTOW, FL"
+refinanImproveDescription_e,made
+borrowerName_3,LANCE B MCNEW
+borrowerName_9,LANCE B MCNEW
+borrowerName_10,LANCE B MCNEW
+cborrowerName_3,EDNA DUFF
+cBorrowerName_9,EDNA DUFF
+cborrowerName_10,EDNA DUFF
+signingDateB_10,26-JAN-2016
+signingDateCB_10,26-JAN-2016

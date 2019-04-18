@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Worker, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,lOpYhKv4q07exl
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,HSMP-4161784318
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$58281.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.55%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"2 WHITMAN ST , BLOOMFIELD, NJ, 7003"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1962
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$4079.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$58281.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$19129.00
+bTotalIncome,$4079.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4633.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$58281.00
+refinanCost,$19129.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,SABINO OLANIO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-JAN-2061
+cbTotalIncome,$4633.00
+fundingFee,$0.00
+borrowerName,JEFFREY D TOONE
+cbtBaseSalary,$8712.00
+disocuntValue,$0.00
+bSecurityNumber,416124074
+cbtOverttime,$0.00
+totalTxnCost,$58281.00
+bPhone,3067708118
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-SEP-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$58281.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$58281.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$46334079.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$979.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$58281.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,EDWARD SCHENK
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,722885055
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0470378168
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-OCT-1979
+psntTotalExp,$58281.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$58281.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"432 NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$58281.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JEFFREY D TOONE
+isDownpaymentBorrowedCB,No
+bEmpName,DOL BLS
+depAmount,$8742.15
+isCoWorkerCB,No
+bEmpAddress,"2 MASSACHUSETTS AVE NE STE 5890, , WASHINGTON, DC"
+depBankName,PARK COMMUNITY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"6101 FERN VALLEY ROAD, LOUISVILLE, KY"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,17724633824852
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$12821.82
+ typeOfProp,principal residence
+bDesignation,"Security Head, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,29-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$6410.91
+signingDateCB,29-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OPA
+preLoanBankName,NA
+loanOriginatorName,US DOL R2 SOL
+cbEmpAddress,"200 CONSTITUTION AVE, RM N6309, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,yillq72Wb
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL R2 SOL
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6462643696
+cbYrsInJob,9
+loanOriginatorAddress,"201 VARICK ST, RM 983, NEW YORK, NY"
+refinanImproveDescription_e,made
+borrowerName_3,JEFFREY D TOONE
+borrowerName_9,JEFFREY D TOONE
+borrowerName_10,JEFFREY D TOONE
+cborrowerName_3,EDWARD SCHENK
+cBorrowerName_9,EDWARD SCHENK
+cborrowerName_10,EDWARD SCHENK
+signingDateB_10,29-DEC-2015
+signingDateCB_10,29-DEC-2015

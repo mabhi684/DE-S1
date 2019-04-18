@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Project Assistant, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Ilgl5i3h6LkOCV
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,CQHA-0206802223
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$40237.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,HI-LAND HOSPITAiL FCU
+Interest,9.22%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1000 South Ave., Rochester, Ny"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,86622108236530
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,035.55"
+PropAddress,"171 WAWAYANDA AVE , MIDDLETOWN, NY, 10940"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,852.14"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1980
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$5648.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$83182.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20994.00
+bTotalIncome,$5648.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2077.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$40237.00
+refinanCost,$20994.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BEAUFORD CHERISE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-SEP-2063
+cbTotalIncome,$2077.00
+fundingFee,$0.00
+borrowerName,JEFFREY S SCHMIDT
+cbtBaseSalary,$7725.00
+disocuntValue,$0.00
+bSecurityNumber,074850665
+cbtOverttime,$0.00
+totalTxnCost,$40237.00
+bPhone,3877611135
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-MAR-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$40237.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$40237.00
+bPresentAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+cbtTotalIncome,$20775648.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1557.00
+isOutstandingCourtCaseB,
+bMailAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CA"", 80225"
+psntFirstLoan,$40237.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,DEBORAH A FRICKE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,127683872
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2012074778
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,27-JAN-1987
+psntTotalExp,$40237.00
+isCoWorkerB,
+cbYrsSchool,1987
+propFirstLoan,$40237.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQL ERQUE, NM, 87109"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$40237.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JEFFREY S SCHMIDT
+isDownpaymentBorrowedCB,
+bEmpName,OIG OMAC PROCUREMENT
+depAmount,$6035.55
+isCoWorkerCB,No
+bEmpAddress,"201 VARICK STREET, ROOM 871, NEW YORK, NY"
+depBankName,FULTON COUNTY FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"355 HALES HILLS RD, GLOVERSVILLE, NY"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,53883480413153
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$6840.29
+ typeOfProp,principal residence
+bDesignation,"HR Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,23-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4828.44
+signingDateCB,23-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"2 MASSACHAmSETTS AVE NE, RM 4130, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,kLjyWJq0
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026917561
+cbYrsInJob,7
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, ROOM 2905, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,JEFFREY S SCHMIDT
+borrowerName_9,JEFFREY S SCHMIDT
+borrowerName_10,JEFFREY S SCHMIDT
+cborrowerName_3,DEBORAH A FRICKE
+cBorrowerName_9,DEBORAH A FRICKE
+cborrowerName_10,DEBORAH A FRICKE
+signingDateB_10,23-JAN-2016
+signingDateCB_10,23-JAN-2016

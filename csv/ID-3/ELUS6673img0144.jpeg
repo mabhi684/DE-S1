@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Supervisor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ZrORyo8N2o735U
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SQMX -7561140541
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$67315.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,United A-ducators Credit Union
+Interest,8.91%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"6789 Upper Afton Road, Woodbury, Mn"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,74780551852058
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$8,077.80"
+PropAddress,"951 N 900 W , RENSSELAER, A-.N, 47978"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$14,136.15"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,A+ Fediaral Credit Union
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"po box 14867, austin, tx"
+YearBuilt,1988
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,06756702058761
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$6,731.50"
+propFor,Primary
+bBaseSalary,$2967.00
+pre_loan_bank_balance_02,"$13,463.00"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,FAIRFAX COUNTY FEDERAL CREDIT UNION
+construcOrigCost,$67315.00
+bBonus,$0.00
+pre_loan_bank_add_03,"4201 rust road, faA%rfax, va"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,16413265621856
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$6,731.50"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$12,789.85"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9655.00
+bTotalIncome,$2967.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3451.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$67315.00
+refinanCost,$9655.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,COLEMAN OCICERMANN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-APR-2062
+cbTotalIncome,$3451.00
+fundingFee,$0.00
+borrowerName,TERRI MOORA.<
+cbtBaseSalary,$6418.00
+disocuntValue,$0.00
+bSecurityNumber,307335623
+cbtOverttime,$0.00
+totalTxnCost,$67315.00
+bPhone,5362570010
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-DEC-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$67315.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$67315.00
+bPresentAddress,"440 NATIONAL CENTAAR , RESTON, VA, 20192"
+cbtTotalIncome,$34512967.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1255.00
+isOutstandingCourtCaseB,
+bMailAddress,"440 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$67315.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,SCOTT A HAEFNER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,645546521
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6477313816
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,30-MAR-1978
+psntTotalExp,$67315.00
+isCoWorkerB,
+cbYrsSchool,1982
+propFirstLoan,$67315.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENU- PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"440 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$67315.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,TERRI MOORE
+isDownpaymentBorrowedCB,No
+bEmpName,OIG OI
+depAmount,$10097.25
+isCoWorkerCB,No
+bEmpAddress,"OIG SUITE 309, 200 SHEFFA-.ELD STREET, MOUNTAINSIDE, NJ"
+depBankName,LLR-G TX GUARANTEED STU LOAN
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"301 SUNDANCE PARKWAY, ROUND ROCK, TX"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,20305684700828
+isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$11443.55
+ typeOfProp,second home
+bDesignation,"Central Supervisor, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,13-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$6731.50
+signingDateCB,13-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,DOL R9 OSHA SAN FRAN
+cbEmpAddress,"2 MASSACHUSETTS AVE, RM 5110, WASHA-NGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,0Qwv3nrith
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL R9 OSHA SAN FRAN
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5106373824
+cbYrsInJob,5
+loanOriginatorAddress,"90 7TH STREET SUITE 18100, SAN FRANCISCO, CA"
+refinanImproveDescription_e,made
+borrowerName_3,TERRI MOORA.<
+borrowerName_9,TERRI MOORA.<
+borrowerName_10,TERRI MOORA.<
+cborrowerName_3,SCOTT A HAEFNER
+cBorrowerName_9,SCOTT A HAEFNER
+cborrowerName_10,SCOTT A HAEFNER
+signingDateB_10,13-FEB-2016
+signingDateCB_10,13-FEB-2016

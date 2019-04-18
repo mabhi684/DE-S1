@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Grocers Supplier, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,by2LLmkcX6NzSo
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FKOE -1343261450
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$85241.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,PAGE COUNTY SIETE BANK
+Interest,8.58%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"po box 237, clarinda, is"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,74586633066283
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$8,524.10"
+PropAddress,"48 CAMEO CT , DALY CITY, CA, 94015"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$18,753.02"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,East TexAls Professional Cu
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"409 E LOOP 281 P 0 BOX 6750, LONGVIA<W, TX"
+YearBuilt,1967
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,65215717333518
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$10,228.92"
+propFor,Investment
+bBaseSalary,$2701.00
+pre_loan_bank_balance_02,"$16,195.79"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$85241.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9062.00
+bTotalIncome,$2701.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$12612.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$85241.00
+refinanCost,$9062.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHRISTINE BUCOG
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-AUG-2075
+cbTotalIncome,$12612.00
+fundingFee,$0.00
+borrowerName,GENEVA M DUHA-N
+cbtBaseSalary,$15313.00
+disocuntValue,$0.00
+bSecurityNumber,276011123
+cbtOverttime,$0.00
+totalTxnCost,$85241.00
+bPhone,6102110011
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-OCT-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$85241.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$85241.00
+bPresentAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+cbtTotalIncome,$126122701.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1324.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1515 FERGUSON LANE , AUSTIN, TX, 78754"
+psntFirstLoan,$85241.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,RALPH J HAEFNER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,440133750
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4161282713
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,16-JUN-1979
+psntTotalExp,$85241.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$85241.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1515 FERGUSON LANE , AUSTA-.N, TX, 78754"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$85241.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,GENEVA M DUHON
+isDownpaymentBorrowedCB,No
+bEmpName,DOL REGION VII WB
+depAmount,$12786.15
+isCoWorkerCB,
+bEmpAddress,"2300 MAIN ST, STE 1050, KANSAS CITY, MO"
+depBankName,REGIONS BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 2527, MOBILE, AL"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,05066331153361
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$17048.20
+ typeOfProp,second home
+bDesignation,"Technician, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,06-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$11081.33
+signingDateCB,06-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA TA-.
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OMAP
+cbEmpAddress,"2020 S ARLINGTON HTS RD, HTS, IL"
+preLoanBankAdd,NA
+loanOriginatorID,Q8oyDz8y
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OMAP
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026930395
+cbYrsInJob,5
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N4416, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,GENEVA M DUHA-N
+borrowerName_9,GENEVA M DUHA-N
+borrowerName_10,GENEVA M DUHA-N
+cborrowerName_3,RALPH J HAEFNER
+cBorrowerName_9,RALPH J HAEFNER
+cborrowerName_10,RALPH J HAEFNER
+signingDateB_10,06-JAN-2016
+signingDateCB_10,06-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Labor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ycCV5GItvY5Hgg
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,NZQT-0412032670
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$49509.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.86%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"100 KNOEDLER RD , CHARLOTTE, NC, 28216"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1964
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3027.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$49509.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6622.00
+bTotalIncome,$3027.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3753.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$49509.00
+refinanCost,$6622.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ASHLEY WINGATE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-OCT-2057
+cbTotalIncome,$3753.00
+fundingFee,$0.00
+borrowerName,JULIE E DIETZE
+cbtBaseSalary,$6780.00
+disocuntValue,$0.00
+bSecurityNumber,504233753
+cbtOverttime,$0.00
+totalTxnCost,$49509.00
+bPhone,7674555880
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-JAN-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$49509.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$49509.00
+bPresentAddress,"4821 QUAIL CREST PLACE , LAWRENCE, KS, 66049"
+cbtTotalIncome,$37533027.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$971.00
+isOutstandingCourtCaseB,No
+bMailAddress,"4821 QUAIL CREST PLACE , LAWRENCE, KS, 66049"
+psntFirstLoan,$49509.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,HEATHER A JIMENEZ
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,255020771
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6471114363
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,03-JUL-1985
+psntTotalExp,$49509.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$49509.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4821 QUAIL CREST PLACE , LAWRENCE, KS, 66049"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$49509.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JULIE E DIETZE
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA REG 2 - JUDSON
+depAmount,$6436.17
+isCoWorkerCB,No
+bEmpAddress,"1030 ST GEORGES AVE, STE 205, AVENEL, NJ"
+depBankName,US BANK ELT EDAMERICA
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"298 N. SEVEN OAKS DR., KNOXVILLE, TN"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,50547218157850
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$8911.62
+ typeOfProp,principal residence
+bDesignation,"Machinist, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,12-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4950.90
+signingDateCB,12-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL VETS- THOMPSON
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"JFK FEDERAL BLDG, RM E315, BOSTON, MA"
+preLoanBankAdd,NA
+loanOriginatorID,zSmoZiYO
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY & HEALTH
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123866984
+cbYrsInJob,8
+loanOriginatorAddress,"PO BOX 18233, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,JULIE E DIETZE
+borrowerName_9,JULIE E DIETZE
+borrowerName_10,JULIE E DIETZE
+cborrowerName_3,HEATHER A JIMENEZ
+cBorrowerName_9,HEATHER A JIMENEZ
+cborrowerName_10,HEATHER A JIMENEZ
+signingDateB_10,12-FEB-2016
+signingDateCB_10,12-FEB-2016

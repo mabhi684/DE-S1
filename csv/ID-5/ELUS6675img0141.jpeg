@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Machinist, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5jQRRr4xakOA8v
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WFAV-2773406741
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$74735.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.95%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1320 HUNTSWOOD WAY , OXNARD, CA, 93030"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2009
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3239.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$84129.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18563.00
+bTotalIncome,$3239.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3184.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$74735.00
+refinanCost,$18563.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DANIEL KUBILOS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-JAN-2059
+cbTotalIncome,$3184.00
+fundingFee,$0.00
+borrowerName,KATHY A KUNZ
+cbtBaseSalary,$6423.00
+disocuntValue,$0.00
+bSecurityNumber,730274410
+cbtOverttime,$0.00
+totalTxnCost,$74735.00
+bPhone,0818672238
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-MAY-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$74735.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$74735.00
+bPresentAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+cbtTotalIncome,$31843239.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1752.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+psntFirstLoan,$74735.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GREGORY A WETHERBEE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,101156743
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,1531313256
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,27-DEC-1976
+psntTotalExp,$74735.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$74735.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$74735.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KATHY A KUNZ
+isDownpaymentBorrowedCB,No
+bEmpName,OSHA LUBBOCK AREA OFFC
+depAmount,$10462.90
+isCoWorkerCB,No
+bEmpAddress,"4849 N MESA STREET, SUITE 200, EL PASO, TX"
+depBankName,CHEMUNG CANAL TRUST COMPANY
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"ONE CHEMUNG CANAL PLAZA, ELMIRA, NY"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,33007802084577
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$16441.70
+ typeOfProp,principal residence
+bDesignation,"Computer Admin, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,01-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$11210.25
+signingDateCB,01-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,OFFICE OF LEGAL SERVICES
+cbEmpAddress,"1240 E 9TH ST, ROOM 899, CLEVELAND, OH"
+preLoanBankAdd,NA
+loanOriginatorID,y77vy0mE
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OFFICE OF LEGAL SERVICES
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026935116
+cbYrsInJob,4
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM 55506, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,KATHY A KUNZ
+borrowerName_9,KATHY A KUNZ
+borrowerName_10,KATHY A KUNZ
+cborrowerName_3,GREGORY A WETHERBEE
+cBorrowerName_9,GREGORY A WETHERBEE
+cborrowerName_10,GREGORY A WETHERBEE
+signingDateB_10,01-FEB-2016
+signingDateCB_10,01-FEB-2016

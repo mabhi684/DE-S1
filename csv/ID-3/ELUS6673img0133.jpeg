@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Technician, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,AKzkl8kO2DupEq
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,RFJB-2487602668
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$71669.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,NELNET 833500 MST BANK
+Interest,7.92%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"213 MARKET STREET, HARRISBA""RG, PA"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,08318853077556
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,750.35"
+PropAddress,"768 KITTY ST , NelINBURY PARK, CA, 91320"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$15,050.49"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Aneca Fax.
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"4361 youree dr., shreveport, 11."
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,46022480838465
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$9,316.97"
+propFor,Seconday
+bBaseSalary,$2927.00
+pre_loan_bank_balance_02,"$12,900.42"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$23715.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9062.00
+bTotalIncome,$2927.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3193.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$71669.00
+refinanCost,$9062.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ARTURO COUGH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,07-OCT-2060
+cbTotalIncome,$3193.00
+fundingFee,$0.00
+borrowerName,DAVID T CONELL
+cbtBaseSalary,$6120.00
+disocuntValue,$0.00
+bSecurityNumber,408457714
+cbtOverttime,$0.00
+totalTxnCost,$71669.00
+bPhone,7604400475
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-APR-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$71669.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$71669.00
+bPresentAddress,"PO BinX 1230 , IOWA CITY, IA, 52244"
+cbtTotalIncome,$31932927.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1009.00
+isOutstandingCourtCaseB,
+bMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+psntFirstLoan,$71669.00
+isBankcruptB,No
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,11
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"202 NationAM1 Center , Reston, Va, 20192"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ROBERT L BA_SKIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,878638566
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7351840454
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,02-OCT-1981
+psntTotalExp,$71669.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$71669.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, APT, 84119"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$71669.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DAVID T CONELL
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OSAM CPPR
+depAmount,$7883.59
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM 53317, WASHINGTON, DC"
+depBankName,SEMC FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"581 DUDLEY ROAD, EDGEWOOD, KY"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,07558288863783
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$15050.49
+ typeOfProp,principal residence
+bDesignation,"Computer Admin, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,06-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8600.28
+signingDateCB,06-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OSBP
+preLoanBankName,NA
+loanOriginatorName,DOL ESA_ OWCP
+cbEmpAddress,"200 CONSTITUTION AVic NW, RM C2313, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,OvKBEdKn
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OWCP
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9728502495
+cbYrsInJob,8
+loanOriginatorAddress,"525 GRIFFIN ST ROOM 407, , DALLAS, TX"
+refinanImproveDescription_e,to be made
+borrowerName_3,DAVID T CONELL
+borrowerName_9,DAVID T CONELL
+borrowerName_10,DAVID T CONELL
+cborrowerName_3,ROBERT L BA_SKIN
+cBorrowerName_9,ROBERT L BA_SKIN
+cborrowerName_10,ROBERT L BA_SKIN
+signingDateB_10,06-FEB-2016
+signingDateCB_10,06-FEB-2016

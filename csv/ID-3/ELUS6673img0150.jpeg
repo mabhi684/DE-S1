@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Worker, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,oq57rzliEeBp6QQ
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LXQV-4508165063
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$80470.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,US BANK ELT STUDENT LOAN FUNDING
+Interest,10.81%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"12061 bluemont way, rAaston, va"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,44365686871637
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$8,851.70"
+PropAddress,"813 STAMFORD RD , BALTIMORE, MD, 21229"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$14,484.60"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Joplin Metro Credit Union
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"3301 TEXAS, JOPLIN, MO"
+YearBuilt,2003
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,05400041232755
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$9,656.40"
+propFor,Investment
+bBaseSalary,$3035.00
+pre_loan_bank_balance_02,"$16,094.00"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$103321.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9655.00
+bTotalIncome,$3035.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4335.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$80470.00
+refinanCost,$9655.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MARCUS WILLIAMS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-JAN-2060
+cbTotalIncome,$4335.00
+fundingFee,$0.00
+borrowerName,STEPHEN A DAEVIS
+cbtBaseSalary,$7370.00
+disocuntValue,$0.00
+bSecurityNumber,233468885
+cbtOverttime,$0.00
+totalTxnCost,$80470.00
+bPhone,4047320873
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-NOV-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1976
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$80470.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$80470.00
+bPresentAddress,"3916 SUNSET RIDGE RD , RALEIGH, NC, 27607"
+cbtTotalIncome,$43353035.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1676.00
+isOutstandingCourtCaseB,No
+bMailAddress,"3916 SUNSET AIDA:: RD , RALEIGH, NC, 27607"
+psntFirstLoan,$80470.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,NATALIE KAROUNA RENIER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,307224804
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4483776748
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,04-JAN-1992
+psntTotalExp,$80470.00
+isCoWorkerB,No
+cbYrsSchool,1976
+propFirstLoan,$80470.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3916 SUNSET RIDGE RD , RALEIGH, NC, 27607"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$80470.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,STEPHEN A DAVIS
+isDownpaymentBorrowedCB,No
+bEmpName,DOL R9 OWCP SAN FRAN
+depAmount,$9656.40
+isCoWorkerCB,
+bEmpAddress,"401 E OCEAN BLVD STE 720, , BEACH, CA"
+depBankName,CLINTON NATIONAL BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 1510, CLINTON, IA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,17734071817030
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$17703.40
+ typeOfProp,principal residence
+bDesignation,"Payroll Specialist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,21-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8851.70
+signingDateCB,21-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OSHA REG 2 - MENDELSON
+preLoanBankName,NA
+loanOriginatorName,OSHA BACTON ROUGE AREA
+cbEmpAddress,"BBV PLZA BLDG STE 5B, 1510 FD, GUL.YNABO, PR"
+preLoanBankAdd,NA
+loanOriginatorID,z36=25Y
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OSHA BATON ROUGE ARAAA
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2253890474
+cbYrsInJob,8
+loanOriginatorAddress,"9100 BLUEBONNET CENTRE STE 201, BATON ROUGE, LA"
+refinanImproveDescription_e,made
+borrowerName_3,STEPHEN A DAEVIS
+borrowerName_9,STEPHEN A DAEVIS
+borrowerName_10,STEPHEN A DAEVIS
+cborrowerName_3,NATALIE KAROUNA RENIER
+cBorrowerName_9,NATALIE KAROUNA RENIER
+cborrowerName_10,NATALIE KAROUNA RENIER
+signingDateB_10,21-FEB-2016
+signingDateCB_10,21-FEB-2016

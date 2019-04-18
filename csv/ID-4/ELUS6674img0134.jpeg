@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Office Assistant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,j1PYdZWM1vMj1E
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,UEDH -8645440175
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$32371.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.05%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"101 BELLAIR DR , DOBBS FERRY, NY, 10522"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1999
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2958.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$33538.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$4722.00
+bTotalIncome,$2958.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2363.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$32371.00
+refinanCost,$4722.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ELLEN MILLER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-OCT-2071
+cbTotalIncome,$2363.00
+fundingFee,$0.00
+borrowerName,KATHLEEN M SPIEGELBERG
+cbtBaseSalary,$5321.00
+disocuntValue,$0.00
+bSecurityNumber,636667263
+cbtOverttime,$0.00
+totalTxnCost,$32371.00
+bPhone,7704024707
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-AUG-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$32371.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$32371.00
+bPresentAddress,"956 NAIL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$23632958.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1765.00
+isOutstandingCourtCaseB,No
+bMailAddress,"956 NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$32371.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JASON A GROSS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,268166751
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8667854111
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,27-MAY-1988
+psntTotalExp,$32371.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$32371.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"USGS AJM JOHNSON HALL MSU, BOZEMAN, MT, 59717"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"956 NAIL CTR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$32371.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KATHLEEN M SPIEGELBERG
+isDownpaymentBorrowedCB,No
+bEmpName,WAGE HOUR REGIONAL OFF
+depAmount,$4855.65
+isCoWorkerCB,No
+bEmpAddress,"332 W. BROADWAY, SUITE 410, LOUISVILLE, KY"
+depBankName,BONY MELLON ELT EDSOUTH
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"10161 CENTURION PKWY, JACKSONVILLE, FL"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,41823054237888
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$5503.07
+ typeOfProp,principal residence
+bDesignation,"Machinist, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,27-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$3884.52
+signingDateCB,27-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ASSISTANT SECRETARY
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM HRC
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM N3425, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,hcTo5Z3w
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM HRC
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026936677
+cbYrsInJob,8
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N5454, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,KATHLEEN M SPIEGELBERG
+borrowerName_9,KATHLEEN M SPIEGELBERG
+borrowerName_10,KATHLEEN M SPIEGELBERG
+cborrowerName_3,JASON A GROSS
+cBorrowerName_9,JASON A GROSS
+cborrowerName_10,JASON A GROSS
+signingDateB_10,27-NOV-2015
+signingDateCB_10,27-NOV-2015

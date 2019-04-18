@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Sales Agent, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,eFk4Tc23yTvk4s
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FZQA-2406567534
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$6667.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.47%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1379 BROOKEVILLE AVE , COLUMBUS, OH, 43229"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2000
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$5513.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$19193.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6667.00
+bTotalIncome,$5513.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5101.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$6667.00
+refinanCost,$6667.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRYAN BECK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-MAR-2060
+cbTotalIncome,$5101.00
+fundingFee,$0.00
+borrowerName,JOANNE C JONES
+cbtBaseSalary,$10614.00
+disocuntValue,$0.00
+bSecurityNumber,444034444
+cbtOverttime,$0.00
+totalTxnCost,$6667.00
+bPhone,6738576210
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,19-JUL-1984
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$6667.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$6667.00
+bPresentAddress,"STENNIS DATA CTR BLDG 2010, STENNIS SP CN, MS, 39529"
+cbtTotalIncome,$51015513.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1153.00
+isOutstandingCourtCaseB,No
+bMailAddress,"STENNIS DATA CTR BLDG 2010, STENNIS SP CN, MS, 39529"
+psntFirstLoan,$6667.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,STACEY A ARCHFIELD
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,541708775
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5520836458
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,14-NOV-1979
+psntTotalExp,$6667.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$6667.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"361 COMMERCE WAY , PEMBROKE, NH, 32753"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"STENNIS DATA CTR BLDG 2010, STENNIS SP CN, MS, 39529"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$6667.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOANNE C JONES
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$1000.05
+isCoWorkerCB,No
+bEmpAddress,"1992 FLORIDA AVE SW, STE A, DENHAM SPRINGS, LA"
+depBankName,GEORGIA METHODIST FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"1991 LOWER ROSEWELL ROAD, MARIETTA, GA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,11730810216724
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$1466.74
+ typeOfProp,principal residence
+bDesignation,"Sales Agent, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,29-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$666.70
+signingDateCB,29-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OIG OI
+preLoanBankName,NA
+loanOriginatorName,OIG OI
+cbEmpAddress,"OIG RM S5021, 200 CONSTITUTION AVENUE NW, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,TGpaeHap
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OIG OI
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2154463733
+cbYrsInJob,8
+loanOriginatorAddress,"150 S INDEPENDENCE MALL WEST, SUITE 1072, PHILADELPHIA, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,JOANNE C JONES
+borrowerName_9,JOANNE C JONES
+borrowerName_10,JOANNE C JONES
+cborrowerName_3,STACEY A ARCHFIELD
+cBorrowerName_9,STACEY A ARCHFIELD
+cborrowerName_10,STACEY A ARCHFIELD
+signingDateB_10,29-JAN-2016
+signingDateCB_10,29-JAN-2016

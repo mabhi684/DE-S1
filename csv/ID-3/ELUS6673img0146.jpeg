@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Computer Admin, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,poe42k11D7hrls
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VIYI-2588726844
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$89881.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,The First National Bank At Paris
+Interest,8.11%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Box 31 11 East Main, Paris, Ar"
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,23147408865753
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$8,988.10"
+PropAddress,"179 MAPLE AVE , RED BANK, NJ, 7701"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$17,976.20"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Navigator Credit UniApn
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"po box 1647, pascagoula, ms"
+YearBuilt,1988
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,55776616878577
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$12,583.34"
+propFor,Primary
+bBaseSalary,$3105.00
+pre_loan_bank_balance_02,"$15,279.77"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$89881.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9655.00
+bTotalIncome,$3105.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3031.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$89881.00
+refinanCost,$9655.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ARTHUR OBERLE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,03-JUN-2063
+cbTotalIncome,$3031.00
+fundingFee,$0.00
+borrowerName,RODOLFO J TROCHE
+cbtBaseSalary,$6136.00
+disocuntValue,$0.00
+bSecurityNumber,835061236
+cbtOverttime,$0.00
+totalTxnCost,$89881.00
+bPhone,0661340164
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-MAY-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$89881.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$89881.00
+bPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+cbtTotalIncome,$30313105.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1424.00
+isOutstandingCourtCaseB,No
+bMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+psntFirstLoan,$89881.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,10
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"6006 schroeder rd , mALdison, wi, 53711"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,PHILIP T HARTE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,564788307
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7603628507
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,03-SEP-1978
+psntTotalExp,$89881.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$89881.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"361 COMMERCE WAY , PEMBROKE, NH, 3275"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"600 4TH ST SOUTH , ST PETERSBAARG, FL, 33701"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$89881.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RODOLFO J TROCHE
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OPA
+depAmount,$11684.53
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVAA NW, ROOM N6310, WASHINGTON, DC"
+depBankName,FEDCOM CU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"150 ANN STREET N W, GRAND RAPIDS, MI"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,68217365213686
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$17976.20
+ typeOfProp,investment property
+bDesignation,"Technician, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,06-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8988.10
+signingDateCB,06-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL OSHA
+preLoanBankName,NA
+loanOriginatorName,"DOL SA""LICITOR MSH"
+cbEmpAddress,"1999 BROADWAY SUITE 1690, CO"
+preLoanBankAdd,NA
+loanOriginatorID,WTgkBoAl
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL SOLICAnTOR MSH
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026939333
+cbYrsInJob,8
+loanOriginatorAddress,"1100 WILSON BLVD, 22ND FLOOR, ARLINGTON, VA"
+refinanImproveDescription_e,made
+borrowerName_3,RODOLFO J TROCHE
+borrowerName_9,RODOLFO J TROCHE
+borrowerName_10,RODOLFO J TROCHE
+cborrowerName_3,PHILIP T HARTE
+cBorrowerName_9,PHILIP T HARTE
+cborrowerName_10,PHILIP T HARTE
+signingDateB_10,06-JAN-2016
+signingDateCB_10,06-JAN-2016

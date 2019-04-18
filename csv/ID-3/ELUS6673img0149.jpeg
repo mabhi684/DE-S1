@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Asst Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,OBXvxE7woNsKRA
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WINV-3834182866
+lt2y_cb_emp_name1,"Dol Bls; 2 MassA0 chusetts Ave Ne Rm 4135, , Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$50862.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,first state bank
+Interest,10.14%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"PO BOX 610, ARMOUR, SD"
+Tenure,24 months
+lt2y_cb_emp_salary1,"$5,209.02"
+pre_loan_bank_acNo_01,66583576007014
+AmortType,ARM
+lt2y_cb_emp_designation1,NETWORK ADMINPERMANENT
+pre_loan_bank_EMI_01,"$6,103.44"
+PropAddress,"149 PSI DR , BOONE, NC, 28607"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$10,681.02"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1980
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4700.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$103321.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9655.00
+bTotalIncome,$4700.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3576.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$50862.00
+refinanCost,$9655.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ROBERT MCNEELY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-APR-2061
+cbTotalIncome,$3576.00
+fundingFee,$0.00
+borrowerName,KYLE W KingLSO
+cbtBaseSalary,$8276.00
+disocuntValue,$0.00
+bSecurityNumber,637285004
+cbtOverttime,$0.00
+totalTxnCost,$50862.00
+bPhone,0557364121
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-MAY-1986
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$50862.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$50862.00
+bPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+cbtTotalIncome,$35764700.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1508.00
+isOutstandingCourtCaseB,No
+bMailAddress,"600 4TH ST SOUTH , ST PETERSBASRG, FL, 33701"
+psntFirstLoan,$50862.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,TIMOTHY K COWDERY
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,238574170
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8661626482
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-JAN-1981
+psntTotalExp,$50862.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$50862.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2280 WOODALE DR , MOUNDS VIEW, MN, 55112"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$50862.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KYLE W KELSO
+isDownpaymentBorrowedCB,No
+bEmpName,11)s DEPT OF LABOR MSHA
+depAmount,$7120.68
+isCoWorkerCB,No
+bEmpAddress,"NATL MINE HEALTH SAFETY ACADEMY, 1301 AIRPORT RD, BAntAVER, WV"
+depBankName,TOWN & COUNTRY BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 1157, STEPHENSVILLE, TX"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,03362282341236
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$9155.16
+ typeOfProp,principal residence
+bDesignation,"Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,05-FEB-2016
+lt2y_b_emp_name1,"dol esa week« & hour; 200 constitA4tion eve nw, s-3502, washington, dc"
+subTotLiqValue,$5594.82
+signingDateCB,05-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$3,868.80"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,IT MANAGERCONTRACT
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"oig omac prA'curement; 230 s dearbA'rn st, rm 744, chicago, it"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$3,385.20"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,It Managercontract
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM
+cbEmpAddress,"200 CONSTITUTION AVENAmE NW, , WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,41s0Cjtq
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026935032
+cbYrsInJob,5
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, ROOM N5101, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,KYLE W KingLSO
+borrowerName_9,KYLE W KingLSO
+borrowerName_10,KYLE W KingLSO
+cborrowerName_3,TIMOTHY K COWDERY
+cBorrowerName_9,TIMOTHY K COWDERY
+cborrowerName_10,TIMOTHY K COWDERY
+signingDateB_10,05-FEB-2016
+signingDateCB_10,05-FEB-2016

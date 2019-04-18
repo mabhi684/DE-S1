@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Central Supervisor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,m50oRkHcQi6Omf
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VSBI-7740677266
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$101459.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.36%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1809 W MARTHA LN , SANTA ANA, CA, 92706"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1992
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2571.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$101459.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6622.00
+bTotalIncome,$2571.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2858.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$101459.00
+refinanCost,$6622.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARLOS GARCIA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-JUN-2062
+cbTotalIncome,$2858.00
+fundingFee,$0.00
+borrowerName,SIMONETTE L RIVERA
+cbtBaseSalary,$5429.00
+disocuntValue,$0.00
+bSecurityNumber,355437275
+cbtOverttime,$0.00
+totalTxnCost,$101459.00
+bPhone,6821281585
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-FEB-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$101459.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$101459.00
+bPresentAddress,"425 JORDAN RD , TROY, NY, 12180"
+cbtTotalIncome,$28582571.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1154.00
+isOutstandingCourtCaseB,No
+bMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+psntFirstLoan,$101459.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,TIMOTHY C ELFERS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,170784441
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8876826118
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-JUN-1988
+psntTotalExp,$101459.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$101459.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"425 JORDAN RD , TROY, NY, 12180"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$101459.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,SIMONETTE L RIVERA
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR MSHA
+depAmount,$12175.08
+isCoWorkerCB,No
+bEmpAddress,"FEDERAL BLDG, 515 W 1ST ST RM 333, DULUTH, MN"
+depBankName,BONY MELLON ELT BARCLAYS
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"10161 CENTURION PKWY, JACKSONVILLE, FL"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,74505336516526
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$21306.39
+ typeOfProp,principal residence
+bDesignation,"Office Boy, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,26-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$10145.90
+signingDateCB,26-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OWCP
+preLoanBankName,NA
+loanOriginatorName,OFF OF REG ADMIN WH
+cbEmpAddress,"230 S DEARBORN ST RM 800, IL"
+preLoanBankAdd,NA
+loanOriginatorID,lOCvku4y
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OFF OF REG ADMIN WH
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7202643292
+cbYrsInJob,9
+loanOriginatorAddress,"1999 BROADWAY, SUITE 2445, DENVER, CO"
+refinanImproveDescription_e,to be made
+borrowerName_3,SIMONETTE L RIVERA
+borrowerName_9,SIMONETTE L RIVERA
+borrowerName_10,SIMONETTE L RIVERA
+cborrowerName_3,TIMOTHY C ELFERS
+cBorrowerName_9,TIMOTHY C ELFERS
+cborrowerName_10,TIMOTHY C ELFERS
+signingDateB_10,26-JAN-2016
+signingDateCB_10,26-JAN-2016

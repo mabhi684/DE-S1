@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Trainer, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,PTRivczs6phdkE
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EYPA-7141760084
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$42439.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.58%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"781 BALBOA AVE , LAGUNA BEACH, CA, 92651"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2003
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2617.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$42439.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6622.00
+bTotalIncome,$2617.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3268.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$42439.00
+refinanCost,$6622.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMIN KHAEF
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-DEC-2074
+cbTotalIncome,$3268.00
+fundingFee,$0.00
+borrowerName,ALLAN J RUDDY
+cbtBaseSalary,$5885.00
+disocuntValue,$0.00
+bSecurityNumber,821270657
+cbtOverttime,$0.00
+totalTxnCost,$42439.00
+bPhone,2254117164
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-MAR-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$42439.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$42439.00
+bPresentAddress,"215 LIMEKILN RD , NEW CUMBERLAND, PA, 17070"
+cbtTotalIncome,$32682617.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$982.00
+isOutstandingCourtCaseB,No
+bMailAddress,"215 LIMEKILN RD , NEW CUMBERLAND, PA, 17070"
+psntFirstLoan,$42439.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SCHUYLER E MERRITZ
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,028803623
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3565755060
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,15-JUN-1982
+psntTotalExp,$42439.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$42439.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"361 COMMERCE WAY , PEMBROKE, NH, 3275"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"215 LIMEKILN RD , NEW CUMBERLAND, PA, 17070"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$42439.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ALLAN J RUDDY
+isDownpaymentBorrowedCB,No
+bEmpName,DOL ETA DIV/ADMIN SVCS
+depAmount,$5517.07
+isCoWorkerCB,No
+bEmpAddress,"61 FORSYTH ST SW RM 6M12, SAM NUNN AFC, ATLANTA, GA"
+depBankName,MIDLAND FEDERAL S&L
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"8929 S HARLEM AVENUE, BRIDGEVIEW, IL"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,02118857322664
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$8063.41
+ typeOfProp,investment property
+bDesignation,"Office Assistant, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,02-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$5092.68
+signingDateCB,02-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL R2 SOL
+preLoanBankName,NA
+loanOriginatorName,BISMARCK AREA OFFICE
+cbEmpAddress,"201 VARICK ST, RM 983, NEW YORK, NY"
+preLoanBankAdd,NA
+loanOriginatorID,sjzSJyto
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,BISMARCK AREA OFFICE
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7012504521
+cbYrsInJob,5
+loanOriginatorAddress,"OSHA BISMARCK AREA OFFICE, 1640 E CAPITOL AVE, BISMARCK, ND"
+refinanImproveDescription_e,to be made
+borrowerName_3,ALLAN J RUDDY
+borrowerName_9,ALLAN J RUDDY
+borrowerName_10,ALLAN J RUDDY
+cborrowerName_3,SCHUYLER E MERRITZ
+cBorrowerName_9,SCHUYLER E MERRITZ
+cborrowerName_10,SCHUYLER E MERRITZ
+signingDateB_10,02-DEC-2015
+signingDateCB_10,02-DEC-2015

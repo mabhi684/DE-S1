@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Project Assistant, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,70kPv2NPMcFmpX
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,JMYB-7543335466
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$92646.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,GREECE COMMUNITY FCU
+Interest,8.92%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1795 ENGLISH ROAD, RA•CHESTER, NY"
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,61643224286436
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$12,043.98"
+PropAddress,"6 MUSTANG CT , ANGLAATON, TX, 77515"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$19,455.66"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,sycamore bank
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"301 E Main St Po Box 96, Sera tobia, Ms"
+YearBuilt,1982
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,23162243825575
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$12,970.44"
+propFor,Seconday
+bBaseSalary,$1779.00
+pre_loan_bank_balance_02,"$15,749.82"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,RAY COOPERATIVE CREDIT UNION
+construcOrigCost,$92646.00
+bBonus,$0.00
+pre_loan_bank_add_03,"10 main street, ray, nd"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,68788243710662
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$12,043.98"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$16,676.28"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20994.00
+bTotalIncome,$1779.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2110.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$92646.00
+refinanCost,$20994.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CYNTHIA SPEARS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-AUG-2063
+cbTotalIncome,$2110.00
+fundingFee,$0.00
+borrowerName,WILLIAM B HANKINS
+cbtBaseSalary,$3889.00
+disocuntValue,$0.00
+bSecurityNumber,167855380
+cbtOverttime,$0.00
+totalTxnCost,$92646.00
+bPhone,2656682546
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,28-DEC-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$92646.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$92646.00
+bPresentAddress,"1300 SE CARDINAL CT BLDG 1OSTE 100, VANCOUVER, WA, 98683"
+cbtTotalIncome,$21101779.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1171.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1300 SE CARDINAL CT BLDG 1OSTE 100, VANCOUVER, WA, 98683"
+psntFirstLoan,$92646.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JAMES ALLEN SMITH
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,168150151
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8844063262
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-MAR-1978
+psntTotalExp,$92646.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$92646.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$92646.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,WILLIAM B HANKINS
+isDownpaymentBorrowedCB,No
+bEmpName,DAL BLS
+depAmount,$10191.06
+isCoWorkerCB,No
+bEmpAddress,"2 MASSACHUSETTS AVE NE, RM 1950, WASHINGTON, DC"
+depBankName,ONE COMMUNITY FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"531 FIFTH STREET, PARKERSBURG, WV"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,63346045157402
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$19455.66
+ typeOfProp,principal residence
+bDesignation,"Cleaner, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,07-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$9264.60
+signingDateCB,07-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DAAPT OF LABOR OLMS
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"800 N CAPITOL ST NW, STE 120, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,dvIe50dH
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026916602
+cbYrsInJob,10
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, RM G440, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,WILLIAM B HANKINS
+borrowerName_9,WILLIAM B HANKINS
+borrowerName_10,WILLIAM B HANKINS
+cborrowerName_3,JAMES ALLEN SMITH
+cBorrowerName_9,JAMES ALLEN SMITH
+cborrowerName_10,JAMES ALLEN SMITH
+signingDateB_10,07-JAN-2016
+signingDateCB_10,07-JAN-2016

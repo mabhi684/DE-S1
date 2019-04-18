@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Labor, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5HDQzKMxyPzaN5
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,JDUV-2116845464
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$42714.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.52%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"70 HOLYOKE ST , QUINCY, MA, 2171"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1985
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2563.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$16764.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5576.00
+bTotalIncome,$2563.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4246.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$42714.00
+refinanCost,$5576.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CORINNE VOLPE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,23-JUN-2061
+cbTotalIncome,$4246.00
+fundingFee,$0.00
+borrowerName,JOHN W UNRUH
+cbtBaseSalary,$6809.00
+disocuntValue,$0.00
+bSecurityNumber,776288607
+cbtOverttime,$0.00
+totalTxnCost,$42714.00
+bPhone,4137763671
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,06-AUG-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$42714.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$42714.00
+bPresentAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+cbtTotalIncome,$42462563.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1019.00
+isOutstandingCourtCaseB,No
+bMailAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+psntFirstLoan,$42714.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,BRIAN D EDWARDS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,523065787
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7070183258
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,29-MAY-1982
+psntTotalExp,$42714.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$42714.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"345 MIDDLEFIELD RD MS 999 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"5338 MONTGOMERY BLVD NE STE 400/300, ALBUQUERQUE, NM, 87109"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$42714.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JOHN W UNRUH
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OSAM CPPR
+depAmount,$5552.82
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM N-2445, WASHINGTON, DC"
+depBankName,BOULDER VALLEY CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"5505 ARAPAHOE AVENUE, BOULDER, CO"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,66814041615733
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$8542.80
+ typeOfProp,investment property
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,03-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5979.96
+signingDateCB,03-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OSHA
+preLoanBankName,NA
+loanOriginatorName,VETS
+cbEmpAddress,"230 S DEARBORN ST, STE 3244, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,ZUt553h2
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,VETS
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8164267151
+cbYrsInJob,8
+loanOriginatorAddress,"2300 MAIN ST, SUITE 1130, KANSAS CITY, MO"
+refinanImproveDescription_e,made
+borrowerName_3,JOHN W UNRUH
+borrowerName_9,JOHN W UNRUH
+borrowerName_10,JOHN W UNRUH
+cborrowerName_3,BRIAN D EDWARDS
+cBorrowerName_9,BRIAN D EDWARDS
+cborrowerName_10,BRIAN D EDWARDS
+signingDateB_10,03-JAN-2016
+signingDateCB_10,03-JAN-2016

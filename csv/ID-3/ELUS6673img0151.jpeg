@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"IT Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,DA1f31mHJ3Utam
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,JCZQ-2312838674
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$20994.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,CABOT & NOI EMPLOYEES CREDIT UNION
+Interest,8.81%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Po Box 2217, Pampa, Tx"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,87600776828778
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,729.22"
+PropAddress,"5 BERGEN MILLS RD , MILLSTONE TOWNSHIP, NJ, 8535"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,618.68"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,missouri vAllley fcu
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"7900 Mexico Road, St Peters, Mo"
+YearBuilt,1992
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,15851010026627
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,939.16"
+propFor,Primary
+bBaseSalary,$3008.00
+pre_loan_bank_balance_02,"$4,198.80"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$103321.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$20994.00
+bTotalIncome,$3008.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4573.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$20994.00
+refinanCost,$20994.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BARBARA DAVIDOWICH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,10-OCT-2057
+cbTotalIncome,$4573.00
+fundingFee,$0.00
+borrowerName,MOLLY A POPE
+cbtBaseSalary,$7581.00
+disocuntValue,$0.00
+bSecurityNumber,827517756
+cbtOverttime,$0.00
+totalTxnCost,$20994.00
+bPhone,6332745237
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,28-OCT-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$20994.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$20994.00
+bPresentAddress,"777 NW 9TH CORVALLIS,"
+cbtTotalIncome,$45733008.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1587.00
+isOutstandingCourtCaseB,
+bMailAddress,"777 NW 9TH CORVALLIS,"
+psntFirstLoan,$20994.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JOHN F CRUSIUS
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,436755420
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3483322603
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,17-MAY-1988
+psntTotalExp,$20994.00
+isCoWorkerB,
+cbYrsSchool,1988
+propFirstLoan,$20994.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"777 NW 9TH ST STAA 400 , CORVALLIS, OR, 97330"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$20994.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MOLLY A POPE
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR OLMS
+depAmount,$2099.40
+isCoWorkerCB,No
+bEmpAddress,"233 CUMBERLAND BEND DR, STE 110, NASHVALLE, TN"
+depBankName,BONY MELLON ELT NELLIE MAE
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"12061 BLUEMONT WAY, RESTON, VA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,60803853253063
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$3568.98
+ typeOfProp,second home
+bDesignation,"Computer Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,02-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3149.10
+signingDateCB,02-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MS DEPT OF LABOR OFCCP
+preLoanBankName,NA
+loanOriginatorName,US DOL OWCP DCMWC
+cbEmpAddress,"230 S DEARBORN ST, STE 570, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,3AeaH7DD
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OWCP DGMWC
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5708266467
+cbYrsInJob,9
+loanOriginatorAddress,"100 N WILKES-BARRE BLVD, STE 300A, WILKES BARRE, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,MOLLY A POPE
+borrowerName_9,MOLLY A POPE
+borrowerName_10,MOLLY A POPE
+cborrowerName_3,JOHN F CRUSIUS
+cBorrowerName_9,JOHN F CRUSIUS
+cborrowerName_10,JOHN F CRUSIUS
+signingDateB_10,02-JAN-2016
+signingDateCB_10,02-JAN-2016
