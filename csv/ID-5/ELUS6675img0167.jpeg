@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Receptionist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ZYr06zvDQ31rJx
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,AJYR-1035305606
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$34649.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.31%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"121 SOUTH 13TH STREET', LINCOLN, NE"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"441 PEQUANKET DR , CONWAY, NH, 3818"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1971
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$1114.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$58876.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$4867.00
+bTotalIncome,$1114.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2004.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$34649.00
+refinanCost,$4867.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANN HOLBR
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,10-NOV-2056
+cbTotalIncome,$2004.00
+fundingFee,$0.00
+borrowerName,LISA J MORROW
+cbtBaseSalary,$3118.00
+disocuntValue,$0.00
+bSecurityNumber,366007532
+cbtOverttime,$0.00
+totalTxnCost,$34649.00
+bPhone,2137736223
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,09-FEB-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$34649.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$34649.00
+bPresentAddress,"600 4TH ST SOUTH , ST PETERSBAP'RG, FL, 33701"
+cbtTotalIncome,$20041114.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$959.00
+isOutstandingCourtCaseB,No
+bMailAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+psntFirstLoan,$34649.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JAMES E ULRICH
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,322162142
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,3115875861
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,09-OCT-1983
+psntTotalExp,$34649.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$34649.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$34649.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,LISA J MORROW
+isDownpaymentBorrowedCB,No
+bEmpName,VETS
+depAmount,$3464.90
+isCoWorkerCB,No
+bEmpAddress,"230 S DEARBORN ST, RM 1064, CHICA_GO, IL"
+depBankName,CLASSIC FEDERAL CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"PO BOX 488, AMELIA, OH"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,24527781533777
+isNewPropPermanentB,
+bYrsInJob,8
+depBankBal,$6583.31
+ typeOfProp,investment property
+bDesignation,"Guard, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,13-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3811.39
+signingDateCB,13-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL VATS
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM/BOC
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,OL5Ymw8U
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM/BOC
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934596
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM 54307, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,LISA J MORROW
+borrowerName_9,LISA J MORROW
+borrowerName_10,LISA J MORROW
+cborrowerName_3,JAMES E ULRICH
+cBorrowerName_9,JAMES E ULRICH
+cborrowerName_10,JAMES E ULRICH
+signingDateB_10,13-JAN-2016
+signingDateCB_10,13-JAN-2016

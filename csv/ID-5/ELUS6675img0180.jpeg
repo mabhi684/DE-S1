@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Receptionist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,2wyhBWK072R55y
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BEZA-2084260877
+lt2y_cb_emp_name1,"MINE SAFAUTY AND HEALTH; PO BOX 25367, DENVER, CO"
+childSupportExpOwnedValue,$0.00
+Amount,$40756.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,MARQUETTE SAVINGS ASSOCIATION
+Interest,10.18%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,300 months
+lt2y_cb_emp_salary1,"$2,777.80"
+pre_loan_bank_acNo_01,20160860407300
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,890.72"
+PropAddress,
+lt2y_cb_emp_name2,"Usdol Solicitors; 1100 Wilson Blvd, 22nd Fl W, Arlington, Va"
+pre_loan_bank_balance_01,"$8,151.20"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,2010
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,asst manager contract
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3308.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$40756.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5195.00
+bTotalIncome,$3308.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1920.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$40756.00
+refinanCost,$5195.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BETH DOKE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,08-AUG-2069
+cbTotalIncome,$1920.00
+fundingFee,$0.00
+borrowerName,KENNETH F TIFFAN
+cbtBaseSalary,$5228.00
+disocuntValue,$0.00
+bSecurityNumber,678086445
+cbtOverttime,$0.00
+totalTxnCost,$40756.00
+bPhone,0156683206
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-AUG-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1976
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$40756.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$40756.00
+bPresentAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+cbtTotalIncome,$19203308.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1512.00
+isOutstandingCourtCaseB,
+bMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+psntFirstLoan,$40756.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,414233512
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,0608833151
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,27-SEP-1982
+psntTotalExp,$40756.00
+isCoWorkerB,
+cbYrsSchool,1976
+propFirstLoan,$40756.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, UT, 84119"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$40756.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KENNETH F TIFFAN
+isDownpaymentBorrowedCB,
+bEmpName,US DOL R2 ESA WHD
+depAmount,$6113.40
+isCoWorkerCB,No
+bEmpAddress,
+depBankName,PHELPS COUNTY BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"718 NORTH PINE STREET, ROLLA, MO"
+isPermanentAlienCB,
+bYrsInCJob,2
+depBankAcc,82724505038277
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$6928.52
+ typeOfProp,principal residence
+bDesignation,"Account Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,25-DEC-2015
+lt2y_b_emp_name1,"dol ebsa; rm n5625, 200 constitution ave nw, washington, dc"
+subTotLiqValue,$4890.72
+signingDateCB,25-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$10,157.34"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Grocers Supplierpermanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR MSHA
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA
+cbEmpAddress,"COCHRANS MILL RD, PO BOX 18233, PITTSBURGH, PA"
+preLoanBankAdd,NA
+loanOriginatorID,176rxSUS
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8478034800
+cbYrsInJob,7
+loanOriginatorAddress,"701 LEE ST, STE 950, DES PLAINES, IL"
+refinanImproveDescription_e,made
+borrowerName_3,KENNETH F TIFFAN
+borrowerName_9,KENNETH F TIFFAN
+borrowerName_10,KENNETH F TIFFAN
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,25-DEC-2015
+signingDateCB_10,25-DEC-2015

@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Labor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,zevFD37ucBm21Q
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,DRNL -3030581210
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$78037.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.29%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"5702 W US HWY 2, HURLEY, WI"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,81368228171100
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$15,607.40"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,First Credit Union
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,00777135234476
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$9,364.44"
+propFor,Seconday
+bBaseSalary,$4020.00
+pre_loan_bank_balance_02,"$14,046.66"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$78037.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6622.00
+bTotalIncome,$4020.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4127.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$78037.00
+refinanCost,$6622.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALAN SVOBODA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-SEP-2064
+cbTotalIncome,$4127.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$8147.00
+disocuntValue,$0.00
+bSecurityNumber,216774188
+cbtOverttime,$0.00
+totalTxnCost,$78037.00
+bPhone,4250271660
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-AUG-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$78037.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$78037.00
+bPresentAddress,"934 BROADWAY SUITE 300 , TACOMA, WA, 98402"
+cbtTotalIncome,$41274020.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1504.00
+isOutstandingCourtCaseB,No
+bMailAddress,"934 BROADWAY SUITE 300 , TACOMA"", WA, 98402"
+psntFirstLoan,$78037.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JIM E MA•NICAL
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,618765744
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,5328714071
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,05-JUN-1976
+psntTotalExp,$78037.00
+isCoWorkerB,
+cbYrsSchool,1978
+propFirstLoan,$78037.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"934 BROADWAY SUITAc 300 , TACOMA, WA, 98402"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$78037.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ERIC PORTER
+isDownpaymentBorrowedCB,No
+bEmpName,DOL A-SA OFCCP
+depAmount,$9364.44
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW, RM C3310, WL.SHINGTON, DC"
+depBankName,ARCADIA UNIVERSITY
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"450 S. EASTON ROAD, GLENSIDE, PA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,28361405835613
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$14827.03
+ typeOfProp,second home
+bDesignation,"Security Head, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,14-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$10925.18
+signingDateCB,14-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,USDOL OSHA EAO
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,nfyvUlf0
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA EACO
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3038434500
+cbYrsInJob,7
+loanOriginatorAddress,"7935 E PRENTICE AVE, NO 209, GREENWOOD VILLAGE, CO"
+refinanImproveDescription_e,to be made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,JIM E MA•NICAL
+cBorrowerName_9,JIM E MA•NICAL
+cborrowerName_10,JIM E MA•NICAL
+signingDateB_10,14-DEC-2015
+signingDateCB_10,14-DEC-2015

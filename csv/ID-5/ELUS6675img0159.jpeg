@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Labor, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,j5kkfYQziOmfNz
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,PSRQ-6520434511
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18782.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Kootenai Valley Fcu
+Interest,9.84%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"PO BOX 636, LIBBY, MT"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,11826304613557
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,253.84"
+PropAddress,"523 N MOFFET AVE , JOPLIN, MO, 64801"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1969
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,629.48"
+propFor,Seconday
+bBaseSalary,$2695.00
+pre_loan_bank_balance_02,"$3,192.94"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$78037.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18782.00
+bTotalIncome,$2695.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3790.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$18782.00
+refinanCost,$18782.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHRYSTINA BOYD
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-DEC-2074
+cbTotalIncome,$3790.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$6485.00
+disocuntValue,$0.00
+bSecurityNumber,275827182
+cbtOverttime,$0.00
+totalTxnCost,$18782.00
+bPhone,0463854100
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-JUL-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$18782.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18782.00
+bPresentAddress,"1451 GREMN RD , ANN ARBOR, MI, 48105"
+cbtTotalIncome,$37902695.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1238.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1451 GREA-N RD , ANN ARBOR, MI, 48105"
+psntFirstLoan,$18782.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,3
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"8711 37th st se , jamesdcwn, nd, 58041"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,TANIA M LARSON
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,238133177
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8821615080
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,17-MAR-1991
+psntTotalExp,$18782.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$18782.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$18782.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,STEVEN A FARHA
+isDownpaymentBorrowedCB,No
+bEmpName,"ESA WAGE HA""UR"
+depAmount,$1878.20
+isCoWorkerCB,
+bEmpAddress,"550 MAIN ST, RM 10-409, CINCINNATI, OH"
+depBankName,MST BANK EDUCATIONAL LENDING
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"ONE FOUNTAIN PLAZA 8TH FL, BUFFALO, NY"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,05061177327702
+isNewPropPermanentB,
+bYrsInJob,8
+depBankBal,$3756.40
+ typeOfProp,second home
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,05-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2066.02
+signingDateCB,05-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL R1 OSHA
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"1441 MAIN ST, RM 550, SPRUNGFIELD, MA"
+preLoanBankAdd,NA
+loanOriginatorID,fhHKkBpg
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9197903066
+cbYrsInJob,4
+loanOriginatorAddress,"4407 BLAND RD, STE 260, RALEIGH, NC"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,TANIA M LARSON
+cBorrowerName_9,TANIA M LARSON
+cborrowerName_10,TANIA M LARSON
+signingDateB_10,05-FEB-2016
+signingDateCB_10,05-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,PUEmu0K0iBo3gB
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,AOSU-7016617827
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$25268.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,YS FCU
+Interest,10.17%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,17618640240472
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,779.48"
+PropAddress,"982 MERILYN LN , ALGER, MI, 48610"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$5,053.60"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1968
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3543.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$25268.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6622.00
+bTotalIncome,$3543.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4927.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$25268.00
+refinanCost,$6622.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DIANE DAYAK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,08-JUN-2070
+cbTotalIncome,$4927.00
+fundingFee,$0.00
+borrowerName,MATTHEW LOGAN
+cbtBaseSalary,$8470.00
+disocuntValue,$0.00
+bSecurityNumber,558077070
+cbtOverttime,$0.00
+totalTxnCost,$25268.00
+bPhone,8072887767
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,06-JUN-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$25268.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$25268.00
+bPresentAddress,
+cbtTotalIncome,$49273543.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$835.00
+isOutstandingCourtCaseB,No
+bMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOAPTER, WA, 98683"
+psntFirstLoan,$25268.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,0
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"box 25046 ms 421 dfc , denver, co, 80225"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JUSTIN J WHA-ITE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,016477306
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,5707866076
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,11-MAY-1985
+psntTotalExp,$25268.00
+isCoWorkerB,No
+cbYrsSchool,1981
+propFirstLoan,$25268.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"202 NW 66TH ST BLDG 7 , OKLAHOMA CITY, OK, 73116"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VANCOUVER, WA, 98683"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$25268.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,MATTHEW LOGAN
+isDownpaymentBorrowedCB,
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$2526.80
+isCoWorkerCB,
+bEmpAddress,"APPROVAL CERTIFICATIA•N CTR, 765 TECHNOLOGY DRIVE, TRIADELPHIA, WV"
+depBankName,FIRST NATIONAL BANK OF BELLEVUE
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"PO BOX 210, BELLEVUE, OH"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,44182877780342
+isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$5053.60
+ typeOfProp,second home
+bDesignation,"Account Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,26-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$3790.20
+signingDateCB,26-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,DOL ESA OFCCP
+cbEmpAddress,"OFFICE OF INVESTIGATION, P 0 BOX 1080, ROANOKE, VA"
+preLoanBankAdd,NA
+loanOriginatorID,czPc7n3X
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL ESA OFCCP
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026930110
+cbYrsInJob,8
+loanOriginatorAddress,"200 CONSTITUTION AVENUE NW, WASHINGTON, DC"
+refinanImproveDescription_e,to be made
+borrowerName_3,MATTHEW LOGAN
+borrowerName_9,MATTHEW LOGAN
+borrowerName_10,MATTHEW LOGAN
+cborrowerName_3,JUSTIN J WHA-ITE
+cBorrowerName_9,JUSTIN J WHA-ITE
+cborrowerName_10,JUSTIN J WHA-ITE
+signingDateB_10,26-DEC-2015
+signingDateCB_10,26-DEC-2015

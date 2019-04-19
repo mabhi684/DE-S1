@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Cook, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,OczE74avJ7pcNu
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZGAE-2151642552
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$82250.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.34%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"455 elm st., graham, tx"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,65880751468760
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$12,337.50"
+PropAddress,"538 JACK ANDERS RD , EROS, LA, 71238"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1971
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2829.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$62081.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5195.00
+bTotalIncome,$2829.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1728.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$82250.00
+refinanCost,$5195.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHRISTOPHER SAMUEL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-OCT-2068
+cbTotalIncome,$1728.00
+fundingFee,$0.00
+borrowerName,CATHI LYNNE BAnWLES
+cbtBaseSalary,$4557.00
+disocuntValue,$0.00
+bSecurityNumber,401302645
+cbtOverttime,$0.00
+totalTxnCost,$82250.00
+bPhone,4446068388
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,20-SEP-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$82250.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$82250.00
+bPresentAddress,"917 NAIL CTR , RESTON, VA, 20192"
+cbtTotalIncome,$17282829.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$805.00
+isOutstandingCourtCaseB,
+bMailAddress,"917 NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$82250.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,"RHONDA G ATA""N"
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,311637082
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8114871357
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,16-SEP-1991
+psntTotalExp,$82250.00
+isCoWorkerB,
+cbYrsSchool,1982
+propFirstLoan,$82250.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"917 NATL CTR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$82250.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"Placer Hall 6000 J St , Sacram?nto, Ca, 95819"
+depPurchHeldBy,CATHI LYNNE BOWLES
+isDownpaymentBorrowedCB,
+bEmpName,DOL R9 OASAM SAN FRAN
+depAmount,$9870.00
+isCoWorkerCB,
+bEmpAddress,"90 7TH STREET, SUITE 2-50, SAN FRANCISCA"", CA"
+depBankName,ZIONS FNB ELT EDUCATION SOLUTIONS INC.
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"121 SOUTH 13TH STREET, LINCOLN, NE"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,67252021504642
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$14805.00
+ typeOfProp,second home
+bDesignation,"Secretary, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,29-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$9870.00
+signingDateCB,29-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,MINE SAF & HLTH
+cbEmpAddress,"2 MASS RIVE NE, RM 5110, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,P721431Z
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MAGEE SAF & HLTH
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7247722334
+cbYrsInJob,7
+loanOriginatorAddress,"THORN HILL INDUSTRIAL PARK, 547 KEYSTONE DR STE 400, WARRENDALE, PA"
+refinanImproveDescription_e,made
+borrowerName_3,CATHI LYNNE BAnWLES
+borrowerName_9,CATHI LYNNE BAnWLES
+borrowerName_10,CATHI LYNNE BAnWLES
+cborrowerName_3,"RHONDA G ATA""N"
+cBorrowerName_9,"RHONDA G ATA""N"
+cborrowerName_10,"RHONDA G ATA""N"
+signingDateB_10,29-DEC-2015
+signingDateCB_10,29-DEC-2015

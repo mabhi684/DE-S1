@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,IbchRS7pj2YX6t
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,COWH -6016851247
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18553.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,cornerstone community fa.
+Interest,10.43%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"55 Stevens Street, Lockport, Ny"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,21857841601017
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,226.36"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,339.54"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1987
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$6014.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$102880.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$18553.00
+bTotalIncome,$6014.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4636.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$18553.00
+refinanCost,$18553.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,NINAH LANG
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,10-JAN-2062
+cbTotalIncome,$4636.00
+fundingFee,$0.00
+borrowerName,ROBERT TURK
+cbtBaseSalary,$10650.00
+disocuntValue,$0.00
+bSecurityNumber,224550755
+cbtOverttime,$0.00
+totalTxnCost,$18553.00
+bPhone,6763301235
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-SEP-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$18553.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18553.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 975 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$46366014.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1517.00
+isOutstandingCourtCaseB,
+bMailAddress,"345 MIDDLEFIELD RD MS 975 , MENLO PARK, CA, 94025"
+psntFirstLoan,$18553.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"345 Middlefield Rd Ms 975 , Menlo Park, Ca, 94025"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,IAN D ISLER
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,201445266
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2465208755
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,08-SEP-1981
+psntTotalExp,$18553.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$18553.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"345 MIDDLEFIAULD RD MS 975 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$18553.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,ROBERT TURK
+isDownpaymentBorrowedCB,No
+bEmpName,
+depAmount,$2226.36
+isCoWorkerCB,
+bEmpAddress,
+depBankName,IBEW 76
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"3049 S 36TH ST #103, TACOMA, WA"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,58354682283821
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$4081.66
+ typeOfProp,principal residence
+bDesignation,"Network Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,09-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2411.89
+signingDateCB,09-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY AND HEALTH
+cbEmpAddress,"90 7TH STREET, SAAITE 15 100, SAN FRANCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,qVN7UBGF
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8128827617
+cbYrsInJob,5
+loanOriginatorAddress,"2300 WILLOW ST, STE 200, VINCENNES, IN"
+refinanImproveDescription_e,made
+borrowerName_3,ROBERT TURK
+borrowerName_9,ROBERT TURK
+borrowerName_10,ROBERT TURK
+cborrowerName_3,IAN D ISLER
+cBorrowerName_9,IAN D ISLER
+cborrowerName_10,IAN D ISLER
+signingDateB_10,09-DEC-2015
+signingDateCB_10,09-DEC-2015

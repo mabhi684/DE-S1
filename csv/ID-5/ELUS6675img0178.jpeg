@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Central Supervisor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5m6avObubMH4V4
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LGPA-2521400345
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18219.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.89%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"201 MAIN STREET, SUITE 301, FORT WA""RTH, TX"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,34640104414205
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,186.28"
+PropAddress,"3825 SHADYCREEK DR , GARLAND, TX, 75042"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,18638641204360
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,004.09"
+propFor,Seconday
+bBaseSalary,$5570.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$62081.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5195.00
+bTotalIncome,$5570.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2924.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$18219.00
+refinanCost,$5195.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHARLES LAWSON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-OCT-2075
+cbTotalIncome,$2924.00
+fundingFee,$0.00
+borrowerName,KATHY A KUNZ
+cbtBaseSalary,$8494.00
+disocuntValue,$0.00
+bSecurityNumber,133461718
+cbtOverttime,$0.00
+totalTxnCost,$18219.00
+bPhone,8472780522
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-APR-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$18219.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18219.00
+bPresentAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+cbtTotalIncome,$29245570.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$811.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+psntFirstLoan,$18219.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,066577572
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8584748230
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,21-JUL-1986
+psntTotalExp,$18219.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$18219.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"1730 EAST PARHAM RD , RICHMOND, VA, 23228"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,6 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"6006 SCHROEDER RD , MADISON, WI, 53711"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$18219.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KATHY A KUNZ
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPARTMENT OF LABOR
+depAmount,$2186.28
+isCoWorkerCB,No
+bEmpAddress,"17625 EL CAMINO RAAAL, SUITE 400, HOUSTON, TX"
+depBankName,POLICE & FIRE FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"901 ARCH ST, PHILADELPHIA, PA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,10887266531557
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$3279.42
+ typeOfProp,second home
+bDesignation,"Asst Accountant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,31-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2368.47
+signingDateCB,31-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"620 SW MAIN STREET, STE 423, PORTLAND, OR"
+preLoanBankAdd,NA
+loanOriginatorID,OMAyKCcW
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6084415388
+cbYrsInJob,6
+loanOriginatorAddress,"4802 E BROADWAY MADISON, WI"
+refinanImproveDescription_e,made
+borrowerName_3,KATHY A KUNZ
+borrowerName_9,KATHY A KUNZ
+borrowerName_10,KATHY A KUNZ
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,31-JAN-2016
+signingDateCB_10,31-JAN-2016

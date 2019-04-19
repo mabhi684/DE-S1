@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Labor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5eabgkzD4OWFwG
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,XSGO-8573058150
+lt2y_cb_emp_name1,"USDOL OSHA; 49 N PROGRESS AVE, HARRISBURG, PA"
+childSupportExpOwnedValue,$0.00
+Amount,$5195.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Farmers & Merchants Bank
+Interest,8.97%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,
+Tenure,300 months
+lt2y_cb_emp_salary1,"$3,332.97"
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,Asst Manager Temperory
+pre_loan_bank_EMI_01,$675.35
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1967
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3287.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$80538.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5195.00
+bTotalIncome,$3287.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4258.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$5195.00
+refinanCost,$5195.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CASSONDRA WARD
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-JUL-2061
+cbTotalIncome,$4258.00
+fundingFee,$0.00
+borrowerName,ROLANDO M GARCIA
+cbtBaseSalary,$7545.00
+disocuntValue,$0.00
+bSecurityNumber,750546317
+cbtOverttime,$0.00
+totalTxnCost,$5195.00
+bPhone,6630626717
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,20-FEB-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$5195.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$5195.00
+bPresentAddress,"11649 LEETOWN ROAD , KEARNEYSVA,LLE, WV, 25430"
+cbtTotalIncome,$42583287.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1665.00
+isOutstandingCourtCaseB,
+bMailAddress,"11649 LEETOWN ROAD , KEACRNEYSVILLE, WV, 25430"
+psntFirstLoan,$5195.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,5
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"box 25046 ms 421 dfc , denvAar, co, 80225"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JENNIFER P MCCLAIN COUNTS
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,845720340
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7053668647
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,24-DEC-1983
+psntTotalExp,$5195.00
+isCoWorkerB,
+cbYrsSchool,1981
+propFirstLoan,$5195.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"12703 RESEARCH PKWY , ORLANDA•, FL, 32826"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$5195.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,ROLANDO M GARCIA
+isDownpaymentBorrowedCB,
+bEmpName,
+depAmount,$727.30
+isCoWorkerCB,
+bEmpAddress,
+depBankName,PP&L G 0 L D CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"TWO NORTH NINTH STREET, ALLENTOWN, PA"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,45711042513753
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$1142.90
+ typeOfProp,principal residence
+bDesignation,"Exec Secretary, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,24-DEC-2015
+lt2y_b_emp_name1,"US DOL OASAJN; 201 VARICK ST, RM 815, NEW YORK, NY"
+subTotLiqValue,$571.45
+signingDateCB,24-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$1,625.24"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Project Assistant Permanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"Us Dol Bat; Eta Atels Bats, 2500 West 49th Stre?t Ste 204, SAigoux Falls, Sd"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,268.48"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,PROJECT ASSISTANT TEMPERORY
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL/ADMIN LAW JUDGAt S
+cbEmpAddress,"315 W ALLEGAN RM 207, MI"
+preLoanBankAdd,NA
+loanOriginatorID,o8nugxMC
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL/ADMIN LAW JAADGES
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4126445754
+cbYrsInJob,4
+loanOriginatorAddress,"1000 LIBERTY AVENUE, SUITE 1800, PITTSBURGH, PA"
+refinanImproveDescription_e,made
+borrowerName_3,ROLANDO M GARCIA
+borrowerName_9,ROLANDO M GARCIA
+borrowerName_10,ROLANDO M GARCIA
+cborrowerName_3,JENNIFER P MCCLAIN COUNTS
+cBorrowerName_9,JENNIFER P MCCLAIN COUNTS
+cborrowerName_10,JENNIFER P MCCLAIN COUNTS
+signingDateB_10,24-DEC-2015
+signingDateCB_10,24-DEC-2015

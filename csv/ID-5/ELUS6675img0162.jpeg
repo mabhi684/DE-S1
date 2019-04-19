@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Labor, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,kbJi4R8UgKpF61
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VVGE -0877307364
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$74544.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.15%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"111 NORTH B STREET, LIVINGSTON, MT"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,16533215240245
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$7,454.40"
+PropAddress,"6182 PINEWOOD CT A.,PT 307, WILLOWBROOK, IL, 60527"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$14,163.36"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1964
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2790.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$78037.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7695.00
+bTotalIncome,$2790.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3733.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$74544.00
+refinanCost,$7695.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MATTHEW CORLEY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,01-DEC-2069
+cbTotalIncome,$3733.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$6523.00
+disocuntValue,$0.00
+bSecurityNumber,662623417
+cbtOverttime,$0.00
+totalTxnCost,$74544.00
+bPhone,3014515805
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-APR-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$74544.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$74544.00
+bPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$37332790.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1553.00
+isOutstandingCourtCaseB,
+bMailAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$74544.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,7
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"2130 sw 5th avenue , portlALnd, Yelr, 97201"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,780116762
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2683460028
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,07-JAN-1977
+psntTotalExp,$74544.00
+isCoWorkerB,
+cbYrsSchool,1982
+propFirstLoan,$74544.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"6480 DOUBLETREE AfVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"202 NATIONAL CENTAUR , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$74544.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JACQUELINE S STILES
+isDownpaymentBorrowedCB,No
+bEmpName,DEPT OF LABOR
+depAmount,$10436.16
+isCoWorkerCB,No
+bEmpAddress,"33 WHITEHA,LL ST, RM 1200, NEW YORK, NY"
+depBankName,GRADUATE LEVERAGE 834172 WELLS FARGO
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"7077 BONNEVAL RD., STE 400, JACKSONVILLE, FL"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,74732288418341
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$14163.36
+ typeOfProp,investment property
+bDesignation,"Secretary, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,23-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8199.84
+signingDateCB,23-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM BOC DSTM
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,b4Fpveby
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934003
+cbYrsInJob,10
+loanOriginatorAddress,"US DOL, 200 CONSTITUTION AVE NW RM 51508, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,23-JAN-2016
+signingDateCB_10,23-JAN-2016

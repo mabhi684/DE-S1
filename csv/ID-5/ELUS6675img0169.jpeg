@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Grocers Supplier, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,r1jNi4at3jv5a5
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,XHMJ -7647417030
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$95716.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.03%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"3717 Se 17th, PortlALnd, Or"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$11,485.92 $20,100.36"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1997
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$8007.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$95716.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$4867.00
+bTotalIncome,$8007.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$14510.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$95716.00
+refinanCost,$4867.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DORIS MOREY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-APR-2064
+cbTotalIncome,$14510.00
+fundingFee,$0.00
+borrowerName,VANESSA AA VANN ZERR
+cbtBaseSalary,$22517.00
+disocuntValue,$0.00
+bSecurityNumber,168463556
+cbtOverttime,$0.00
+totalTxnCost,$95716.00
+bPhone,3662764110
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-JUN-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$95716.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$95716.00
+bPresentAddress,"MODA""C HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+cbtTotalIncome,$145108007.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1204.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$95716.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,170667316
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,0058145735
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,06-JUN-1989
+psntTotalExp,$95716.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$95716.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODA-C HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$95716.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,VANESSA E VANN ZERR
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABOR-A'TA
+depAmount,$10528.76
+isCoWorkerCB,No
+bEmpAddress,"230 S DEARBORN ST 6TH FL, IL"
+depBankName,GEORGETOWN UNIVERSITY
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"600 NEW JERSEY AVE. FIN AID, WASHINGTON, DC"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,63407761785633
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$20100.36
+ typeOfProp,principal residence
+bDesignation,"Sr Manager, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,04-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$9571.60
+signingDateCB,04-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,USDOL WAGE AND HOUR
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"90 7TH STREET, SUITE 18 300, SAN FRAENCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,x7Ei3jFb
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,VETS
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4024375289
+cbYrsInJob,10
+loanOriginatorAddress,"1033 0 ST, BOX 128, LINCOLN, NE"
+refinanImproveDescription_e,made
+borrowerName_3,VANESSA AA VANN ZERR
+borrowerName_9,VANESSA AA VANN ZERR
+borrowerName_10,VANESSA AA VANN ZERR
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,04-JAN-2016
+signingDateCB_10,04-JAN-2016
