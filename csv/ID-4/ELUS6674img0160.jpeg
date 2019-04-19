@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Grocers Supplier, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,wPhRDtNYuQQ200
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BMJH -4164310410
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$106413.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,"COLLEGEDALE CREDIT UNIA""N"
+Interest,9.29%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"5000 Fleming plaza, collegedale, to"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$15,961.95"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$22,346.73"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1967
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$5729.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$106413.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15172.00
+bTotalIncome,$5729.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$13230.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$106413.00
+refinanCost,$15172.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANDREW PINGREY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,09-DEC-2060
+cbTotalIncome,$13230.00
+fundingFee,$0.00
+borrowerName,JEFFREY R BARNARD
+cbtBaseSalary,$18959.00
+disocuntValue,$0.00
+bSecurityNumber,828821301
+cbtOverttime,$0.00
+totalTxnCost,$106413.00
+bPhone,3072424210
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,31-JUL-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1976
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$106413.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$106413.00
+bPresentAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CO, 80225"
+cbtTotalIncome,$132305729.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1780.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$106413.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,AMY J SYMSTAD
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,722357665
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2212572841
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,15-AUG-1987
+psntTotalExp,$106413.00
+isCoWorkerB,
+cbYrsSchool,1976
+propFirstLoan,$106413.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"8711 37TH ST SE , JAMESTOWN, ND, 58041"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, an, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$106413.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JEFFREY R BARNARD
+isDownpaymentBorrowedCB,
+bEmpName,DOL BLS
+depAmount,$13833.69
+isCoWorkerCB,
+bEmpAddress,"2 MASSACHUSETTS AVAc NE, RM 4945, WASHINGTON, DC"
+depBankName,CHOICE 1 FEDERAL CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"101 HAZEL STREET, WILEES-BARRE, PA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,81853150636428
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$22346.73
+ typeOfProp,investment property
+bDesignation,"Network Admin, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,14-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$10641.30
+signingDateCB,14-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,USDOL WAGE AND HOUR
+cbEmpAddress,"COCHRANS MILL RD, POB 18233, PITTSBURGH, PA"
+preLoanBankAdd,NA
+loanOriginatorID,2HiCg26B
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL WAGE AIND HOUR
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156257721
+cbYrsInJob,9
+loanOriginatorAddress,"90 7TH STREET, SUITE 18 300, SAN FRANCISCO, CA"
+refinanImproveDescription_e,made
+borrowerName_3,JEFFREY R BARNARD
+borrowerName_9,JEFFREY R BARNARD
+borrowerName_10,JEFFREY R BARNARD
+cborrowerName_3,AMY J SYMSTAD
+cBorrowerName_9,AMY J SYMSTAD
+cborrowerName_10,AMY J SYMSTAD
+signingDateB_10,14-FEB-2016
+signingDateCB_10,14-FEB-2016

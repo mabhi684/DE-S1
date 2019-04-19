@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"HR Admin, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ojVbcuZfb2cNmh
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,TZCT-0524316444
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$39287.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Otis Fcu
+Interest,7.17%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"p.o. box 27, jay, me"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,68732478868250
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,714.44"
+PropAddress,"355 RACE ST APT 106, SAN JOSAA, CA, 95126"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,643.14"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1970
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2968.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$106413.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15172.00
+bTotalIncome,$2968.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2791.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$39287.00
+refinanCost,$15172.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,EVA ABREGO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-APR-2063
+cbTotalIncome,$2791.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$5759.00
+disocuntValue,$0.00
+bSecurityNumber,246437541
+cbtOverttime,$0.00
+totalTxnCost,$39287.00
+bPhone,7213778647
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,10-NOV-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$39287.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$39287.00
+bPresentAddress,
+cbtTotalIncome,$27912968.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1145.00
+isOutstandingCourtCaseB,
+bMailAddress,"MODA•C HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 94025"
+psntFirstLoan,$39287.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,ARTS G ASPIOTES
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,246472007
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,2567273458
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,27-MAR-1987
+psntTotalExp,$39287.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$39287.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"MODOC HALL USGS MS 3001 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Own
+propTotalExp,$39287.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"308 SOUTH AIRPORT RD , PEA,RL, MS, 39208"
+depPurchHeldBy,ROBERT P PENA
+isDownpaymentBorrowedCB,
+bEmpName,MINE SAFAUTY & HEALTH
+depAmount,$4714.44
+isCoWorkerCB,
+bEmpAddress,"1415 W AZTEC BLVD, STE 1, AZTEC, NM"
+depBankName,JEFFERSON BANK & TRUST COMPANY
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"MARKET AT TWENTY-THIRD STREET, ST LOUIS, MO"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,53828413417274
+isNewPropPermanentB,
+bYrsInJob,10
+depBankBal,$8250.27
+ typeOfProp,principal residence
+bDesignation,"Machinist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,14-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$5893.05
+signingDateCB,14-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABOR OSHA
+cbEmpAddress,"210 WALNUT ST, RM 815, DES MOINES, IA,"
+preLoanBankAdd,NA
+loanOriginatorID,5873MjiF
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2065535930
+cbYrsInJob,9
+loanOriginatorAddress,"1111 3RD AVENUE, SUITE 715, SEATTLE, WA"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,ARTS G ASPIOTES
+cBorrowerName_9,ARTS G ASPIOTES
+cborrowerName_10,ARTS G ASPIOTES
+signingDateB_10,14-DEC-2015
+signingDateCB_10,14-DEC-2015

@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Legal Executive, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5oQmMJA540vR2F
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZNQL-1025834540
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$15172.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,US BANK ELT ATLANTIC SFC
+Interest,7.20%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"111 S 18th, Waco, Tx"
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,86321615125211
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,517.20"
+PropAddress,"422 S MAIN ST APT B, BA""TLER, MO, 64730"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,882.68"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2001
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3091.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$17340.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15172.00
+bTotalIncome,$3091.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2109.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$15172.00
+refinanCost,$15172.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARLA STEPHENS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-MAR-2068
+cbTotalIncome,$2109.00
+fundingFee,$0.00
+borrowerName,THOMAS W MAY
+cbtBaseSalary,$5200.00
+disocuntValue,$0.00
+bSecurityNumber,775246817
+cbtOverttime,$0.00
+totalTxnCost,$15172.00
+bPhone,4382753385
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,23-MAR-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$15172.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$15172.00
+bPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+cbtTotalIncome,$21093091.00
+cashDepByBorrower,$0.00
+bResSince,6 year(s)
+psntRent,$1407.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$15172.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,547463758
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,4266007734
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,03-FEB-1982
+psntTotalExp,$15172.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$15172.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"5231 SOAmTH 19TH , LINCOLN, NE, 68512"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"4200 NEW HAVIAN RD , COLUMBIA, MO, 65201"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$15172.00
+isDeliquentCB,
+lt2y_cb_res_since,12
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,THOMAS W MAY
+isDownpaymentBorrowedCB,
+bEmpName,DOL BLS
+depAmount,$1972.36
+isCoWorkerCB,
+bEmpAddress,
+depBankName,BAYER HERITAGE FCU
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 12, PROCTOR, WV"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,05646447763114
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3186.12
+ typeOfProp,investment property
+bDesignation,"Supervisor, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,03-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1820.64
+signingDateCB,03-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,US DOL R2 AASA WHD
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,GO8gzOLm
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL R2 AASA WHD
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6099892247
+cbYrsInJob,10
+loanOriginatorAddress,"207 APPRAISERS STORES BLVD, 103 S GAY ST, BALTIMORE, MD"
+refinanImproveDescription_e,made
+borrowerName_3,THOMAS W MAY
+borrowerName_9,THOMAS W MAY
+borrowerName_10,THOMAS W MAY
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,03-FEB-2016
+signingDateCB_10,03-FEB-2016

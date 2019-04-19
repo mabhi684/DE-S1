@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Trainer, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,biYgyunKB7xjji
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IOQG-8553834673
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$88734.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Texas Health CA°
+Interest,10.85%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"P.o. BA'x 4003, Austin, Tx"
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,70515210203881
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$13,310.10"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Palisadics Fcu
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"300 North Middletown Road, Pearl River, Ny"
+YearBuilt,1967
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$10,648.08"
+propFor,Investment
+bBaseSalary,$4740.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,erie general electric emp fcu
+construcOrigCost,$88734.00
+bBonus,$0.00
+pre_loan_bank_add_03,"2154 E LAKE RD, ERIE, PA"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,25158625557352
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$9,760.74"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$18,634.14"
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17252.00
+bTotalIncome,$4740.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3232.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$88734.00
+refinanCost,$17252.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DANIEL STROEMPLE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-AUG-2073
+cbTotalIncome,$3232.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$7972.00
+disocuntValue,$0.00
+bSecurityNumber,114035462
+cbtOverttime,$0.00
+totalTxnCost,$88734.00
+bPhone,0518125613
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,13-DEC-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$88734.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$88734.00
+bPresentAddress,
+cbtTotalIncome,$32324740.00
+cashDepByBorrower,$0.00
+bResSince,0 year(s)
+psntRent,$1532.00
+isOutstandingCourtCaseB,
+bMailAddress,"MODOC HALL USGS MS 3006 3020 STATE UNIV DR EAST, SACRAMENTO, CA, 95819"
+psntFirstLoan,$88734.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,12
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"Placer Hall 6000 J St , Sacramento, Ca, 95819"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CARMEN M DIAZ PENSLER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,828743515
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8173670402
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,11-AUG-1990
+psntTotalExp,$88734.00
+isCoWorkerB,No
+cbYrsSchool,1984
+propFirstLoan,$88734.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"440 NATA-IONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"MODOC HALL USGS MS 3006 3020 STATE APNIV DR EAST, SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$88734.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"2730 N DEER RAW ROAD , CARSON CITY, NV, 89701"
+depPurchHeldBy,BRIAN J HALSTEAD
+isDownpaymentBorrowedCB,No
+bEmpName,EMPLinYEES BENEFIT SERV A
+depAmount,$13310.10
+isCoWorkerCB,
+bEmpAddress,"525 S GRIFFIN ST, STE 900, DALLAS, TX"
+depBankName,MINNWEST BANK SIOUX FALLS
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"5001 S LOUISE AVE, SIOUX FALLS, SD"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,18321674438522
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$15972.12
+ typeOfProp,principal residence
+bDesignation,"Security Head, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,21-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$12422.76
+signingDateCB,21-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,OSHA LUBBOCK AREA OFFC
+preLoanBankName,NA
+loanOriginatorName,US DAAPT OF LABOR-OWCP
+cbEmpAddress,"1205 TEXAS AVMNUE RM 806, TX"
+preLoanBankAdd,NA
+loanOriginatorID,xvUC31Dx
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR -OWCP
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2063988220
+cbYrsInJob,9
+loanOriginatorAddress,"1111 3RD AVENUE, SUITE 650, SEATTLE, WA"
+refinanImproveDescription_e,to be made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,CARMEN M DIAZ PENSLER
+cBorrowerName_9,CARMEN M DIAZ PENSLER
+cborrowerName_10,CARMEN M DIAZ PENSLER
+signingDateB_10,21-FEB-2016
+signingDateCB_10,21-FEB-2016

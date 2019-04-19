@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Asst Accountant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Yo5Coc7fd0k8sA
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,MXUY -6687325282
+lt2y_cb_emp_name1,"us dept of labk'r wh; 100 n barranca ave, sA°ite 850, west covina, ca"
+childSupportExpOwnedValue,$0.00
+Amount,$29193.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,THE MARIES COUNTY BAfNK
+Interest,8.71%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Po Box 203, VIOBenna, Mo"
+Tenure,120 months
+lt2y_cb_emp_salary1,"$2,778.16"
+pre_loan_bank_acNo_01,24628085205326
+AmortType,GPM
+lt2y_cb_emp_designation1,TECHNICIAN TEMPERORY
+pre_loan_bank_EMI_01,"$3,795.09"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$6,422.46"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1994
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$6495.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$29193.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15172.00
+bTotalIncome,$6495.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4739.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$29193.00
+refinanCost,$15172.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,LINDA HECK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-JAN-2076
+cbTotalIncome,$4739.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$11234.00
+disocuntValue,$0.00
+bSecurityNumber,150673856
+cbtOverttime,$0.00
+totalTxnCost,$29193.00
+bPhone,2611662461
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,15-DEC-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1986
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$29193.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$29193.00
+bPresentAddress,"1451 GREEN RD , ANN ARBOR, MI, 48105"
+cbtTotalIncome,$47396495.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1449.00
+isOutstandingCourtCaseB,
+bMailAddress,
+psntFirstLoan,$29193.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,KA_THERINE J WHEELER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,074548142
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2820325067
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-SEP-1984
+psntTotalExp,$29193.00
+isCoWorkerB,No
+cbYrsSchool,1986
+propFirstLoan,$29193.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$29193.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"5231 South 19th , Lincoln, N?, 68512"
+depPurchHeldBy,ALEX M KACZYNSKI
+isDownpaymentBorrowedCB,
+bEmpName,US DAAPT OF LABOR MSHA
+depAmount,$3795.09
+isCoWorkerCB,
+bEmpAddress,"FEDERAL BLDG, 515 W 1ST ST RM 333, DULUTH, MN"
+depBankName,MINNCO CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"235 WEST FIRST AVENUE, CAMBRIDGE, MN"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,55263886804453
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$5254.74
+ typeOfProp,second home
+bDesignation,"HR Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,15-JAN-2016
+lt2y_b_emp_name1,"DOL EVALUATION & ANALYSIS; 200 CONSTITUTION AVM; NW, RM 3641N, WASHINGTON, DC"
+subTotLiqValue,$3503.16
+signingDateCB,15-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,exec secretarycontract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL A•ASAM HRC
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,hmax8UDx
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7074479844
+cbYrsInJob,6
+loanOriginatorAddress,"2060 PEABODY RD STE 610, VACAVILLE, CA"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,KA_THERINE J WHEELER
+cBorrowerName_9,KA_THERINE J WHEELER
+cborrowerName_10,KA_THERINE J WHEELER
+signingDateB_10,15-JAN-2016
+signingDateCB_10,15-JAN-2016

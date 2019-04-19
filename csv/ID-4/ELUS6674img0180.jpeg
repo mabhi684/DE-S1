@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Supervisor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XwrDdQS0JkBf5H
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EGEN -5065775327
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$94514.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,STRUTHERS FCU
+Interest,8.24%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"964 5th st., strAkthers, oh"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,04348616088263
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,396.54"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1982
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3982.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$94514.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10899.00
+bTotalIncome,$3982.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3484.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$94514.00
+refinanCost,$10899.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CANHAM ALICE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-DEC-2074
+cbTotalIncome,$3484.00
+fundingFee,$0.00
+borrowerName,DEBORAH COLLEY
+cbtBaseSalary,$7466.00
+disocuntValue,$0.00
+bSecurityNumber,713440788
+cbtOverttime,$0.00
+totalTxnCost,$94514.00
+bPhone,4873880127
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-JUL-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$94514.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$94514.00
+bPresentAddress,"926A NATL CTR , RA-STON, VA, 20192"
+cbtTotalIncome,$34843982.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1730.00
+isOutstandingCourtCaseB,No
+bMailAddress,"926A NATL CTR , RESTON, VA, 20192"
+psntFirstLoan,$94514.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ADAM W JONA'S
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,812484246
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7227204838
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,20-NOV-1977
+psntTotalExp,$94514.00
+isCoWorkerB,
+cbYrsSchool,1980
+propFirstLoan,$94514.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"401 HARDIN RD , LITTLE ROCK, AR, 72211"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"926A NATL CTR , RESTAnN, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$94514.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DEBORAH COLLEY
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABOR OSHA
+depAmount,$9451.40
+isCoWorkerCB,No
+bEmpAddress,
+depBankName,MARKET USA FEDERAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"8871 GORMAN RD, LAUREL, MD"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,10528627215732
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$17957.66
+ typeOfProp,investment property
+bDesignation,"Labor, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,20-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$12286.82
+signingDateCB,20-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL AASA OWCP
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,Z4Myt45t
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OLMS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8085412777
+cbYrsInJob,5
+loanOriginatorAddress,"300 ALA MOANA BLVD 5121, PO BOX 50204, HONOLULU, HI"
+refinanImproveDescription_e,made
+borrowerName_3,DEBORAH COLLEY
+borrowerName_9,DEBORAH COLLEY
+borrowerName_10,DEBORAH COLLEY
+cborrowerName_3,ADAM W JONA'S
+cBorrowerName_9,ADAM W JONA'S
+cborrowerName_10,ADAM W JONA'S
+signingDateB_10,20-JAN-2016
+signingDateCB_10,20-JAN-2016

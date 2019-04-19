@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"HR Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,TOtoH7df0EdBcd
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,HIPD-4501035551
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$3415.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,front rkyal fcu
+Interest,10.91%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"230 north rural avenue, front royal, va"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,13756548210672
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$478.10
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,$683.00
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1616 CHURCH STREET SE, DECATAmR, AL"
+YearBuilt,1961
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$4916.00
+pre_loan_bank_balance_02,$648.85
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$106413.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3415.00
+bTotalIncome,$4916.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6087.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$3415.00
+refinanCost,$3415.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BETTY KOPPL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,02-NOV-2072
+cbTotalIncome,$6087.00
+fundingFee,$0.00
+borrowerName,SARA MAY THORSON
+cbtBaseSalary,$11003.00
+disocuntValue,$0.00
+bSecurityNumber,425783206
+cbtOverttime,$0.00
+totalTxnCost,$3415.00
+bPhone,3417584834
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-AUG-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$3415.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$3415.00
+bPresentAddress,
+cbtTotalIncome,$60874916.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1777.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$3415.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,244231308
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8502880451
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,28-DEC-1989
+psntTotalExp,$3415.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$3415.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,0 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"47914 252nd St , Sioux Falls, SD, 57198"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$3415.00
+isDeliquentCB,
+lt2y_cb_res_since,9
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"600 4TH ST SOUTH , ST PETERSBAARG, FL, 33701"
+depPurchHeldBy,SARA MAY THORSON
+isDownpaymentBorrowedCB,
+bEmpName,DOL OSEC
+depAmount,$409.80
+isCoWorkerCB,No
+bEmpAddress,"200 CONSTITUTION AVE NW RM 52018„ WASHINGTON, DC"
+depBankName,FRANKENMUTH CU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"580 N. MAIN ST., FRANKENMUTH, MI"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,52570202125024
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$751.30
+ typeOfProp,principal residence
+bDesignation,"IT Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,14-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$375.65
+signingDateCB,14-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPTA OF LABOR - OSHA
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,CL2SJ2sU
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,USDOL OSHA
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8144611492
+cbYrsInJob,8
+loanOriginatorAddress,"1128 STATE ST, STE 200, ERIE, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,SARA MAY THORSON
+borrowerName_9,SARA MAY THORSON
+borrowerName_10,SARA MAY THORSON
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,14-JAN-2016
+signingDateCB_10,14-JAN-2016

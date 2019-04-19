@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Legal Executive, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,58rSzOOVGCF0qJ
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SQYC-5042338663
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$58079.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,K V Federal Credit Union
+Interest,10.14%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,67673842238838
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,969.48"
+PropAddress,"4927 CLEARWATER LN , NAPERVILLE, IL, 60564"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$12,777.38"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Texas Bay Area Credit Union
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1301 Hwy 225, Pasadiana, Tx"
+YearBuilt,1983
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,71565207476554
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2665.00
+pre_loan_bank_balance_02,"$11,615.80"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$70128.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10899.00
+bTotalIncome,$2665.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2136.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$58079.00
+refinanCost,$10899.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JEN SALA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-APR-2059
+cbTotalIncome,$2136.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$4801.00
+disocuntValue,$0.00
+bSecurityNumber,158208114
+cbtOverttime,$0.00
+totalTxnCost,$58079.00
+bPhone,1467235483
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,14-JUN-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$58079.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$58079.00
+bPresentAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+cbtTotalIncome,$21362665.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1781.00
+isOutstandingCourtCaseB,
+bMailAddress,"11649 LEETOWN ROAD , KEARNEYSVILLE, WV, 25430"
+psntFirstLoan,$58079.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,"box 25046 dfc ms 935 , denver, co, 80225"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JAN J RYAN
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,841205445
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,8620616158
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,22-OCT-1979
+psntTotalExp,$58079.00
+isCoWorkerB,
+cbYrsSchool,1988
+propFirstLoan,$58079.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$58079.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,ROLANDO M GARCIA
+isDownpaymentBorrowedCB,
+bEmpName,US DOL OIG
+depAmount,$6969.48
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVE NW, RM S5506, WASHINGTON, DC"
+depBankName,THE PEOPLES BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 368, WILLACOOCHEE, GA"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,53657360215847
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$11615.80
+ typeOfProp,investment property
+bDesignation,"Central Supervisor, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,14-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$6388.69
+signingDateCB,14-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL EBSA
+preLoanBankName,NA
+loanOriginatorName,US DOL ESAC OFCCP DOWNING
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,0g61zGSI
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL ESA OFCCP DOWNING
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9083176969
+cbYrsInJob,7
+loanOriginatorAddress,"200 SHEFFIELD ST, RM 102, MOUNTAINSIDE, NJ"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,JAN J RYAN
+cBorrowerName_9,JAN J RYAN
+cborrowerName_10,JAN J RYAN
+signingDateB_10,14-JAN-2016
+signingDateCB_10,14-JAN-2016

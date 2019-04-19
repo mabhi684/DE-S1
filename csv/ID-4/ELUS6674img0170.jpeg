@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Cleaner, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,QtgstOBi5LdsaF
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,GRXE -6148857020
+lt2y_cb_emp_name1,"osha; 2400 herodian way, sam 250, smyrna, ga"
+childSupportExpOwnedValue,$0.00
+Amount,$93257.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,WACHOVIA ED FINANCE 805595 BONY
+Interest,9.48%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,325.70"
+PropAddress,
+lt2y_cb_emp_name2,"OSHA BATON ROUGE AREA; 9100 BLU?BONNET CENTRE STE 201, BATON ROUGE, LA"
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,city national bank of taylor
+PropDescription,Shop
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,"Po Box 1099, Taylor, Tx"
+YearBuilt,1969
+lt2y_cb_emp_salary2,"$9,269.08"
+pre_loan_bank_acNo_02,84136744633015
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$2006.00
+pre_loan_bank_balance_02,"$19,583.97"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,us bank AO
+construcOrigCost,$93257.00
+bBonus,$0.00
+pre_loan_bank_add_03,"2751 SHEPARD RD, ST PAAmL, MN"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,03812603384865
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$13,988.55"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$20,516.54"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17252.00
+bTotalIncome,$2006.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1769.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$93257.00
+refinanCost,$17252.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CLAUDE ANDERSON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-NOV-2073
+cbTotalIncome,$1769.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$3775.00
+disocuntValue,$0.00
+bSecurityNumber,812318161
+cbtOverttime,$0.00
+totalTxnCost,$93257.00
+bPhone,5311371338
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,31-JAN-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$93257.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$93257.00
+bPresentAddress,"6505 NE 65TH STREET , SEATTLE, Ai, 98115"
+cbtTotalIncome,$17692006.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1016.00
+isOutstandingCourtCaseB,
+bMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+psntFirstLoan,$93257.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,020703425
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,4181235452
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,05-NOV-1989
+psntTotalExp,$93257.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$93257.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"516 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$93257.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,LESLIE HOLLAND BARTELS
+isDownpaymentBorrowedCB,
+bEmpName,US DOL OWCP DCMWC
+depAmount,$9325.70
+isCoWorkerCB,
+bEmpAddress,"1 TECH PARK DRIVE, SUITE 250, JOHNSTOWN, PA"
+depBankName,GLENDALE AREA SCHOOL FCU
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"1800 BROADVIEW DR, GLENDALE, CA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,07711853748475
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$19583.97
+ typeOfProp,investment property
+bDesignation,"Project Assistant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,05-JAN-2016
+lt2y_b_emp_name1,"MINE SAFETY & HEALTH; 1415 W AZTEC BLVD, STE 1, AZTEC, NM"
+subTotLiqValue,$12123.41
+signingDateCB,05-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,SECURITY HEAD TEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"2 MASS AVE NE, RM 5890, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,b1wkHLso
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAF & HLTH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,7249255150
+cbYrsInJob,3
+loanOriginatorAddress,"PALADIN PROFESSIONAL CENTER, 631 EXCEL DRIVE SUITE 100, MOUNT PLEASANT, PA"
+refinanImproveDescription_e,to be made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,05-JAN-2016
+signingDateCB_10,05-JAN-2016

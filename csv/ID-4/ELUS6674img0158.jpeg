@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Central Supervisor, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Of2hAo5gEsaclE
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FWHU -0574866404
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$32802.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,ntl ed financing ii 834378 wells fargo
+Interest,7.54%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,34211170676114
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,iowa student loan liquidity corp
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"6805 Vista Drive, West Des Moines, Ia"
+YearBuilt,2006
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,33272110137181
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$3,936.24"
+propFor,Seconday
+bBaseSalary,$3471.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$32802.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$15172.00
+bTotalIncome,$3471.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2595.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$32802.00
+refinanCost,$15172.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ELYSIA RITSCHEE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-MAR-2074
+cbTotalIncome,$2595.00
+fundingFee,$0.00
+borrowerName,MICHELLE A STERN
+cbtBaseSalary,$6066.00
+disocuntValue,$0.00
+bSecurityNumber,511416235
+cbtOverttime,$0.00
+totalTxnCost,$32802.00
+bPhone,5323725055
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,27-NOV-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$32802.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$32802.00
+bPresentAddress,
+cbtTotalIncome,$25953471.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1795.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$32802.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GARTH HERRAING
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,121846787
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5230374338
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,31-JAN-1984
+psntTotalExp,$32802.00
+isCoWorkerB,
+cbYrsSchool,1988
+propFirstLoan,$32802.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"777 NW 9TH ST STE 400 , CORVA,LLIS, OR, 97330"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Rent
+propTotalExp,$32802.00
+isDeliquentCB,No
+lt2y_cb_res_since,7
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"1201 West Univ Avenkwe Ste 100, Urbana, Il, 61801"
+depPurchHeldBy,MICHELLE A STERN
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABOR WH
+depAmount,$3936.24
+isCoWorkerCB,No
+bEmpAddress,"90 7TH ST, STE 13-100, SAN FRANCISCO, CA"
+depBankName,CATHOLIC FEDERAL CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"6180 STATE ST P 0 BOX 6338, SAGINAW, MI"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,36130818715310
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$5576.34
+ typeOfProp,second home
+bDesignation,"Exec Secretary, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,29-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$3608.22
+signingDateCB,29-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,MAINE SAFETY & HEALTH
+cbEmpAddress,"APPRAISERS STORES BLDG RM 202, 103 S GAY ST, BALTIMORE, MD"
+preLoanBankAdd,NA
+loanOriginatorID,vin4g1m8
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4123866980
+cbYrsInJob,4
+loanOriginatorAddress,"PSHTC, PO BOX 18233, PITTSBURGH, PA"
+refinanImproveDescription_e,made
+borrowerName_3,MICHELLE A STERN
+borrowerName_9,MICHELLE A STERN
+borrowerName_10,MICHELLE A STERN
+cborrowerName_3,GARTH HERRAING
+cBorrowerName_9,GARTH HERRAING
+cborrowerName_10,GARTH HERRAING
+signingDateB_10,29-NOV-2015
+signingDateCB_10,29-NOV-2015

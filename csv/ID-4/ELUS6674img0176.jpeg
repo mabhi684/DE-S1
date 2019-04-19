@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Exec Secretary, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,vLvxo2mwJzx6y1
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,QTUD-3607045287
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$70128.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Nickel Steel FederA 1 Credit Union
+Interest,10.64%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"1067 South Main St, Lima, Oh"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,60252172680207
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$7,714.08"
+PropAddress,"119 GLADE DR , TULLAHAnMA, TN, 37388"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$11,921.76"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Los AngelAes Police Fcu
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1998
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,50137430415781
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1900.00
+pre_loan_bank_balance_02,"$14,025.60"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$70128.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10899.00
+bTotalIncome,$1900.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3158.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$70128.00
+refinanCost,$10899.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CLYDE TUCKER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,27-MAR-2072
+cbTotalIncome,$3158.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$5058.00
+disocuntValue,$0.00
+bSecurityNumber,466368255
+cbtOverttime,$0.00
+totalTxnCost,$70128.00
+bPhone,2514161088
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,13-OCT-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$70128.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$70128.00
+bPresentAddress,
+cbtTotalIncome,$31581900.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1028.00
+isOutstandingCourtCaseB,No
+bMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+psntFirstLoan,$70128.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,KATHERINM A NEUJAHR
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,433354776
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,4883383868
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,07-OCT-1977
+psntTotalExp,$70128.00
+isCoWorkerB,No
+cbYrsSchool,1987
+propFirstLoan,$70128.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH STREET , SEATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Rent
+propTotalExp,$70128.00
+isDeliquentCB,No
+lt2y_cb_res_since,10
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"5338 montgomery blvd ne ste 400/300, albuquiarque, nm, 87109"
+depPurchHeldBy,PHILIP V HANER
+isDownpaymentBorrowedCB,
+bEmpName,US DOL R1 SAL
+depAmount,$9116.64
+isCoWorkerCB,No
+bEmpAddress,"RM E375 JFK FEDERAL BLDG, MA"
+depBankName,KIMCENTRAL CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 568, NEENAH, WI"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,83535532321363
+isNewPropPermanentB,
+bYrsInJob,10
+depBankBal,$13324.32
+ typeOfProp,second home
+bDesignation,"Cook, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,22-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$9817.92
+signingDateCB,22-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL WAGE AND HOUR
+preLoanBankName,NA
+loanOriginatorName,DOL SOLICATOR PBS
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,AsOsZxnk
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL SOLICITOR PBS
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026935629
+cbYrsInJob,8
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N4611, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,KATHERINM A NEUJAHR
+cBorrowerName_9,KATHERINM A NEUJAHR
+cborrowerName_10,KATHERINM A NEUJAHR
+signingDateB_10,22-JAN-2016
+signingDateCB_10,22-JAN-2016

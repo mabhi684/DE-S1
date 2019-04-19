@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Technician, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,4oY1vI5So1qXnq
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OTCA-2548340177
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$14519.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,WELLS FARGO AtDUCATION FIN SVCS
+Interest,9.10%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,83074351552367
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$1,742.28"
+PropAddress,"105 BURRINGTA-N RD , GREENVILLE, NC, 27834"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$2,903.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,COMMUNITY EDUCATORS CREDIT UNION
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1030 South U.s. #1, Rockleder, Fl"
+YearBuilt,1994
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,57046266521464
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,742.28"
+propFor,Seconday
+bBaseSalary,$4871.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Sallie Mae Bank
+construcOrigCost,$106413.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,20885440063366
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$2,613.42"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$14519.00
+bTotalIncome,$4871.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3244.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$14519.00
+refinanCost,$14519.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MCFADDIN TONI
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,31-JUL-2063
+cbTotalIncome,$3244.00
+fundingFee,$0.00
+borrowerName,JEFFREY DUDA
+cbtBaseSalary,$8115.00
+disocuntValue,$0.00
+bSecurityNumber,183515262
+cbtOverttime,$0.00
+totalTxnCost,$14519.00
+bPhone,0480627511
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,23-APR-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$14519.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$14519.00
+bPresentAddress,
+cbtTotalIncome,$32444871.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$902.00
+isOutstandingCourtCaseB,
+bMailAddress,"6505 NE 65TH ST , SEATTLE, WA, 98115"
+psntFirstLoan,$14519.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,CATHERINE L REID
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,743443656
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,6777807236
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,08-APR-1978
+psntTotalExp,$14519.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$14519.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"202 NATIONAL CENTER , RESTA•N, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"6505 NE 65TH ST , SLATTLE, WA, 98115"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$14519.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JEFFREY DUDA
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABOR BAT
+depAmount,$1451.90
+isCoWorkerCB,
+bEmpAddress,"BUREAU OF APPRENTICESHIP, 1222 SPRUCE RM 9 102E, SAINT LOUIS, MO"
+depBankName,PENNSYLVANIA STATE EMPLOYEES CREDIT
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"1 CREDIT UNION PLACE, HARRISBURG, PA"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,65711042386565
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$3048.99
+ typeOfProp,investment property
+bDesignation,"Worker, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,07-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2177.85
+signingDateCB,07-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,kua5TG6k
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3045472002
+cbYrsInJob,7
+loanOriginatorAddress,"APPROVAL CERTIFICATION CTR, 765 TECHNOLOGY DRIVE, TRIADELPHIA, WV"
+refinanImproveDescription_e,to be made
+borrowerName_3,JEFFREY DUDA
+borrowerName_9,JEFFREY DUDA
+borrowerName_10,JEFFREY DUDA
+cborrowerName_3,CATHERINE L REID
+cBorrowerName_9,CATHERINE L REID
+cborrowerName_10,CATHERINE L REID
+signingDateB_10,07-JAN-2016
+signingDateCB_10,07-JAN-2016
