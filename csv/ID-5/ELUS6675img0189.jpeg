@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Project Assistant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,dv12tS7uEJ43TZ
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,KKDG -1573221426
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$53218.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,10.88%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"state capitol-200 w 24th st., cheyenne, wy"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,386.16"
+PropAddress,"504 POINSAATTIA RD , NOKOMIS, FL, 34275"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"52 west main street, fillmore, ny"
+YearBuilt,1968
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$6,918.34"
+propFor,Seconday
+bBaseSalary,$3097.00
+pre_loan_bank_balance_02,"$9,047.06"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$53218.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$3097.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1953.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$53218.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DONALD ATTON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,30-APR-2069
+cbTotalIncome,$1953.00
+fundingFee,$0.00
+borrowerName,MASTIN M MOUNT
+cbtBaseSalary,$5050.00
+disocuntValue,$0.00
+bSecurityNumber,427503070
+cbtOverttime,$0.00
+totalTxnCost,$53218.00
+bPhone,0645734746
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,29-AUG-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$53218.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$53218.00
+bPresentAddress,"5522 RESEARCH PAJRK DRIVE , CATONSVILLE, MD, 21228"
+cbtTotalIncome,$19533097.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1669.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$53218.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,NAROTTAM B KHATRI
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,453138666
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7322613660
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,16-NOV-1984
+psntTotalExp,$53218.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$53218.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"516 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$53218.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MASTIN M MOUNT
+isDownpaymentBorrowedCB,
+bEmpName,USDOL WAIGE & HOUR
+depAmount,$6386.16
+isCoWorkerCB,
+bEmpAddress,"915 WILSHIRE BLVD, SUITE 960, LOS ANGELES, CA"
+depBankName,SILVER STATE SCHOOLS CU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"4221 MCLEOD DR, LAS VEGAS, NV"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,88534864425810
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$9579.24
+ typeOfProp,principal residence
+bDesignation,"HR Specialist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,08-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5321.80
+signingDateCB,08-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OSHA
+preLoanBankName,NA
+loanOriginatorName,A-s DEPT OF LABOR OASAM
+cbEmpAddress,"1648 TRIPARK WAY, APPLETON, wise"
+preLoanBankAdd,NA
+loanOriginatorID,bHJuyaH8
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR OASAM
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4043025820
+cbYrsInJob,7
+loanOriginatorAddress,"61 FORSYTH ST, STE 6B25, ATLANTA, GA"
+refinanImproveDescription_e,made
+borrowerName_3,MASTIN M MOUNT
+borrowerName_9,MASTIN M MOUNT
+borrowerName_10,MASTIN M MOUNT
+cborrowerName_3,NAROTTAM B KHATRI
+cBorrowerName_9,NAROTTAM B KHATRI
+cborrowerName_10,NAROTTAM B KHATRI
+signingDateB_10,08-JAN-2016
+signingDateCB_10,08-JAN-2016

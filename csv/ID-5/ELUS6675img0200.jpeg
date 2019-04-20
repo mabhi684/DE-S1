@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Sales Agent, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,1u0uP1Db772w2m
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FROB -4110885800
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$18992.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Endura Financial Fcu
+Interest,10.19%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"820 North Lilac Drive, Minneapolis, Mn"
+Tenure,48 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,848.80"
+PropAddress,"PO BOX 231 , IRVINGTON, VA, 22480"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,178.24"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"PO BOX 130, BERKELEY SPRANGS, WV"
+YearBuilt,1973
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,58600510463518
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,899.20"
+propFor,Primary
+bBaseSalary,$5067.00
+pre_loan_bank_balance_02,"$3,228.64"
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$18992.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$4,178.24"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$5067.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4823.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$18992.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BURDETTE WARWICK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,06-JUL-2058
+cbTotalIncome,$4823.00
+fundingFee,$0.00
+borrowerName,LAWRENCE M BAKER
+cbtBaseSalary,$9890.00
+disocuntValue,$0.00
+bSecurityNumber,630622162
+cbtOverttime,$0.00
+totalTxnCost,$18992.00
+bPhone,2027800500
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,30-OCT-1987
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1987
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$18992.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$18992.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$48235067.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1247.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$18992.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,ROBERT K BONDE
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,626805104
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,3341842431
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,03-JUN-1986
+psntTotalExp,$18992.00
+isCoWorkerB,
+cbYrsSchool,1987
+propFirstLoan,$18992.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"12703 RESEARCH PKWY , ORLANDO, FL, 32826"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$18992.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,LAWRENCE M BAKER
+isDownpaymentBorrowedCB,
+bEmpName,WROI
+depAmount,$2468.96
+isCoWorkerCB,No
+bEmpAddress,
+depBankName,TWO RIVERS BANK & TRUST
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"100 W. WASHINGTON ST., MOUNT PLEASANT, IA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,08683770330785
+isNewPropPermanentB,No
+bYrsInJob,9
+depBankBal,$3798.40
+ typeOfProp,investment property
+bDesignation,"Asst Accountant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,07-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2658.88
+signingDateCB,07-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,USDOL WAGE AND HOAR
+cbEmpAddress,"2 MASSACHUSETTS AVE NE RM 1830, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,MwhLi6vZ
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9169786122
+cbYrsInJob,6
+loanOriginatorAddress,"RM W1836, 2800 COTTAGE WAY, SACRAMENTO, CA"
+refinanImproveDescription_e,made
+borrowerName_3,LAWRENCE M BAKER
+borrowerName_9,LAWRENCE M BAKER
+borrowerName_10,LAWRENCE M BAKER
+cborrowerName_3,ROBERT K BONDE
+cBorrowerName_9,ROBERT K BONDE
+cborrowerName_10,ROBERT K BONDE
+signingDateB_10,07-JAN-2016
+signingDateCB_10,07-JAN-2016

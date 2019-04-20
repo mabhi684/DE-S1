@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Exec Secretary, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,JO2u56RuR2v2Kk
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,YZCT-2010475860
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$3668.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,PENOBSCOT FCU
+Interest,9.24%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"191 Main St., Old Town, Me"
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,66242026100548
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$403.48
+PropAddress,"4358 HUNTERS PASS , BROOKSVILLE, FL, 34609"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Harris Bank
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1989
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,$550.20
+propFor,Primary
+bBaseSalary,$3167.00
+pre_loan_bank_balance_02,$806.96
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,beneficial bank
+construcOrigCost,$77797.00
+bBonus,$0.00
+pre_loan_bank_add_03,"530 WALNUT ST 1ST FLOOR/EDUC LOANS, PHILADA<LPHIA, PA"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,$476.84
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,$696.92
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3668.00
+bTotalIncome,$3167.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3274.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$3668.00
+refinanCost,$3668.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ALVIE CRAIG
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,14-MAY-2063
+cbTotalIncome,$3274.00
+fundingFee,$0.00
+borrowerName,BRUCE CHUCHEL
+cbtBaseSalary,$6441.00
+disocuntValue,$0.00
+bSecurityNumber,874602040
+cbtOverttime,$0.00
+totalTxnCost,$3668.00
+bPhone,5413008065
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-DEC-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$3668.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$3668.00
+bPresentAddress,
+cbtTotalIncome,$32743167.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$823.00
+isOutstandingCourtCaseB,
+bMailAddress,"345 MIDDLEFAIMELD RD MS 975 , MENLO PARK, CA, 94025"
+psntFirstLoan,$3668.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,STUART THIBODEAUX
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,328331841
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8328525204
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,12-MAY-1986
+psntTotalExp,$3668.00
+isCoWorkerB,
+cbYrsSchool,1977
+propFirstLoan,$3668.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"700 CAJUNDAnME BLVD , LAFAYETTE, LA, 70506"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"345 MIDDLEFAELD RD MS 975 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$3668.00
+isDeliquentCB,No
+lt2y_cb_res_since,8
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"placer hall 6000 j st , sacrA mento, ca, 95819"
+depPurchHeldBy,BRUCE CHUCHEL
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABAnR OSHA
+depAmount,$366.80
+isCoWorkerCB,
+bEmpAddress,"230 S DEERBORN ST, ROOM 3244, CHICAGO, IL"
+depBankName,REGIONS BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"210 E CAPITAL ST 9TH FL, JACKSON, MS"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,17236036268562
+isNewPropPermanentB,
+bYrsInJob,10
+depBankBal,$660.24
+ typeOfProp,second home
+bDesignation,"HR Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,30-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$550.20
+signingDateCB,30-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DA-L BLS
+preLoanBankName,NA
+loanOriginatorName,USDOL AnASAM
+cbEmpAddress,"2 MASSACHUSETTS AVM NE, STE 2905, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,I80J1u6I
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2158615066
+cbYrsInJob,7
+loanOriginatorAddress,"170 S INDEPENDENCE MALL W, SUITE 600 EAST, PHILADELPHIA, PA"
+refinanImproveDescription_e,made
+borrowerName_3,BRUCE CHUCHEL
+borrowerName_9,BRUCE CHUCHEL
+borrowerName_10,BRUCE CHUCHEL
+cborrowerName_3,STUART THIBODEAUX
+cBorrowerName_9,STUART THIBODEAUX
+cborrowerName_10,STUART THIBODEAUX
+signingDateB_10,30-JAN-2016
+signingDateCB_10,30-JAN-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Office Boy, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Ks16Zw6j2JwXxi
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,CZPB-3716654432
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$60930.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,cornhusker bank
+Interest,9.30%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,68624080226682
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,139.50"
+PropAddress,"741 11TH AVE S UNIT 1, HOPKINS, MN, 55343"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1993
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2253.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$60930.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$2253.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2557.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$60930.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MARY MILLER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,20-DEC-2063
+cbTotalIncome,$2557.00
+fundingFee,$0.00
+borrowerName,"GEA""RGE P HUBER"
+cbtBaseSalary,$4810.00
+disocuntValue,$0.00
+bSecurityNumber,303670832
+cbtOverttime,$0.00
+totalTxnCost,$60930.00
+bPhone,4036343002
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,24-FEB-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$60930.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$60930.00
+bPresentAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+cbtTotalIncome,$25572253.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1298.00
+isOutstandingCourtCaseB,No
+bMailAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+psntFirstLoan,$60930.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"956 NATL CTR , RESTON, VA, 20192"
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JAMIE L HARTMANN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,686572067
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0474642012
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,29-APR-1979
+psntTotalExp,$60930.00
+isCoWorkerB,
+cbYrsSchool,1990
+propFirstLoan,$60930.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"12100 BEECH FOREST RD , LAUREL, MD, 20708"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$60930.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"3916 sunset rider rd , raleigh, nc, 27607"
+depPurchHeldBy,GEORGE P HUBER
+isDownpaymentBorrowedCB,
+bEmpName,ARRA-BEATTY
+depAmount,$8530.20
+isCoWorkerCB,
+bEmpAddress,"WR COTTER BLDG, 135 HIGH ST ROAM 219, HARTFORD, CT"
+depBankName,VETERANS ADMINISTRATION CU
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"5000 W NATIONAL AVE, MILWAUKEE, WI"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,38348023652638
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$10967.40
+ typeOfProp,principal residence
+bDesignation,"Office Boy, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,29-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$9139.50
+signingDateCB,29-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPTA OF LABOR - OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL OASAfM HRC
+cbEmpAddress,"2300 MAIN STREET, STE 1010, KANSAS CITY, MO"
+preLoanBankAdd,NA
+loanOriginatorID,34431yDp
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL OASAM HRC
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026936677
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N5454, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,"GEA""RGE P HUBER"
+borrowerName_9,"GEA""RGE P HUBER"
+borrowerName_10,"GEA""RGE P HUBER"
+cborrowerName_3,JAMIE L HARTMANN
+cBorrowerName_9,JAMIE L HARTMANN
+cborrowerName_10,JAMIE L HARTMANN
+signingDateB_10,29-DEC-2015
+signingDateCB_10,29-DEC-2015

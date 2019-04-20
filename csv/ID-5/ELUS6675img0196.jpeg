@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Security Head, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,CIwDcY430ECFd3
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EYTL-3278846511
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$27766.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Baptist Credit Unli'n
+Interest,9.49%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"5815 ih-10 west, san antoniAp, tx"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,13441310508575
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$3,609.58"
+PropAddress,"9151 DIXIE , RA-DFORD, MI, 48239"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"221 n grand blvd, saint louis, mo"
+YearBuilt,1994
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,66661280817325
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$3,609.58"
+propFor,Seconday
+bBaseSalary,$4909.00
+pre_loan_bank_balance_02,"$5,553.20"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$27766.00
+bBonus,$0.00
+pre_loan_bank_add_03,"Po Box 1366, Janesville, Wi"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,31130470605812
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$4,997.88"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$4909.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4365.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$27766.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DIAMOND GASSAWAY-KING
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,17-JUN-2057
+cbTotalIncome,$4365.00
+fundingFee,$0.00
+borrowerName,MATTHEW T MOSER
+cbtBaseSalary,$9274.00
+disocuntValue,$0.00
+bSecurityNumber,436228723
+cbtOverttime,$0.00
+totalTxnCost,$27766.00
+bPhone,2176861312
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,26-JUN-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$27766.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$27766.00
+bPresentAddress,"5231 SOAPTH 19TH , LINCOLN, NE, 68512"
+cbtTotalIncome,$43654909.00
+cashDepByBorrower,$0.00
+bResSince,2 year(s)
+psntRent,$1631.00
+isOutstandingCourtCaseB,
+bMailAddress,"5231 SOUTH 19TH , LINCOLN, NE, 68512"
+psntFirstLoan,$27766.00
+isBankcruptB,No
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,9
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"6505 ne 65th street , skicattle, wa, 98115"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,CHRISTOPHER M DAETEL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,633701275
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,1444622202
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,08-DEC-1984
+psntTotalExp,$27766.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$27766.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,Own
+propTotalExp,$27766.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,"1400 Indep?ndence Rd Ms100, Rolla, MA', 65401"
+depPurchHeldBy,MATTHEW T MOSER
+isDownpaymentBorrowedCB,
+bEmpName,DOL BLS
+depAmount,$2776.60
+isCoWorkerCB,
+bEmpAddress,"2 MASS AVE NE, RM 5890, WASHINGTON, DC"
+depBankName,LANDMARK BANK NA
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 823, MADILL, OK"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,11212240448104
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$5553.20
+ typeOfProp,investment property
+bDesignation,"IT Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,25-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$3331.92
+signingDateCB,25-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM C4315, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,tUNjelOw
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5629803576
+cbYrsInJob,8
+loanOriginatorAddress,"401 E OCEAN BLVD, SUITE 720, LONG BEACH, CA"
+refinanImproveDescription_e,made
+borrowerName_3,MATTHEW T MOSER
+borrowerName_9,MATTHEW T MOSER
+borrowerName_10,MATTHEW T MOSER
+cborrowerName_3,CHRISTOPHER M DAETEL
+cBorrowerName_9,CHRISTOPHER M DAETEL
+cborrowerName_10,CHRISTOPHER M DAETEL
+signingDateB_10,25-JAN-2016
+signingDateCB_10,25-JAN-2016

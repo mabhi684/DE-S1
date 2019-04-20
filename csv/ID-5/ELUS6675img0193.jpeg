@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Cook, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ioeVGELMhN70P3
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,EJYY -2331767367
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$45280.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,First National Bank In Le Mars
+Interest,7.58%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"111 CENTRAL AVENUE NW, LE MARS, IA"
+Tenure,24 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,68254015371388
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,792.00"
+PropAddress,"2019 STEPHMNS CT , GOLDSBORO, NC, 27530"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,603.20"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Oxford Bank & Trust
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1111 W 22nd St., Oak Brook, Il"
+YearBuilt,2006
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$4130.00
+pre_loan_bank_balance_02,"$9,056.00"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,peoples state bank of wells
+construcOrigCost,$20932.00
+bBonus,$0.00
+pre_loan_bank_add_03,"22 South Broadway, Wells, Mn"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,40412678347826
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$4,980.80"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$9,056.00"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$4130.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1626.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$45280.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CHARLES LUCAS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-MAR-2057
+cbTotalIncome,$1626.00
+fundingFee,$0.00
+borrowerName,RICHARD L KOPASH
+cbtBaseSalary,$5756.00
+disocuntValue,$0.00
+bSecurityNumber,286716357
+cbtOverttime,$0.00
+totalTxnCost,$45280.00
+bPhone,5723887182
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,23-SEP-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$45280.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$45280.00
+bPresentAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+cbtTotalIncome,$16264130.00
+cashDepByBorrower,$0.00
+bResSince,9 year(s)
+psntRent,$1474.00
+isOutstandingCourtCaseB,
+bMailAddress,
+psntFirstLoan,$45280.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,006484853
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5374544372
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,21-DEC-1981
+psntTotalExp,$45280.00
+isCoWorkerB,
+cbYrsSchool,1978
+propFirstLoan,$45280.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"FORT COLLINS SCI CTR 2150 CENTRE AVE BLDG C, FORT COLLINS, CO, 805268118"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$45280.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,RICHARD L KOPISH
+isDownpaymentBorrowedCB,
+bEmpName,MINE SAFETY AND HEALTH
+depAmount,$4980.80
+isCoWorkerCB,No
+bEmpAddress,"PO Bin( 25367, , DENVER, CO"
+depBankName,BISSELL EMPLOYEES CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"2345 WALKER ROAD NW, GRAND RAPIDS, MI"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,56856375052413
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$9961.60
+ typeOfProp,principal residence
+bDesignation,"Security Head, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,13-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$5433.60
+signingDateCB,13-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL R1 OSHA
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM ITC
+cbEmpAddress,"639 GRANITE ST, SUITAA 402, BRAINTREE, MA"
+preLoanBankAdd,NA
+loanOriginatorID,rRg5dygN
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934447
+cbYrsInJob,4
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM N1301, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,RICHARD L KOPASH
+borrowerName_9,RICHARD L KOPASH
+borrowerName_10,RICHARD L KOPASH
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,13-FEB-2016
+signingDateCB_10,13-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Network Admin, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,gRDOYBEgPHUzRL
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ZPEK-6272022884
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$42060.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.44%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"701 N BRAND BLVD, GLENDALAA, CA"
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,03072226433087
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$5,047.20"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"Po Box 252, MexAfto, Me"
+YearBuilt,2005
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2145.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$42060.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$2145.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6242.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$42060.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,APRIL MCKINNEY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-MAR-2071
+cbTotalIncome,$6242.00
+fundingFee,$0.00
+borrowerName,CHARLES R HUTT
+cbtBaseSalary,$8387.00
+disocuntValue,$0.00
+bSecurityNumber,213431217
+cbtOverttime,$0.00
+totalTxnCost,$42060.00
+bPhone,4180146685
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,10-APR-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1979
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$42060.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$42060.00
+bPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+cbtTotalIncome,$62422145.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1440.00
+isOutstandingCourtCaseB,
+bMailAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+psntFirstLoan,$42060.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,BRYAN G MOORA»
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,682752336
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,4641783775
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,08-JUL-1982
+psntTotalExp,$42060.00
+isCoWorkerB,No
+cbYrsSchool,1979
+propFirstLoan,$42060.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"BOX 25046 MS 415 BLDG 53 DFC, DENVER, CA"", 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$42060.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,CHARLES R HUTT
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL ESA OFCCP
+depAmount,$4206.00
+isCoWorkerCB,No
+bEmpAddress,"525 FD ROOSEVELT AVE, PLAZA LOS AMERICAS STE 1202, SAN JUAN, PR"
+depBankName,LANDMARK CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"2400 NORTH GRANDVIEW BLVD, WAUKESHA, WI"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,50528760174402
+isNewPropPermanentB,No
+bYrsInJob,8
+depBankBal,$8832.60
+ typeOfProp,principal residence
+bDesignation,"Legal Executive, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,11-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$5047.20
+signingDateCB,11-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"200 CONSTITUTION AVE NW, FRANCES PERKAnNS BLDG STE N2117, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,7xVLur2P
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5152844794
+cbYrsInJob,7
+loanOriginatorAddress,"210 WALNUT ST, RM 815, DES MOINES, IA"
+refinanImproveDescription_e,made
+borrowerName_3,CHARLES R HUTT
+borrowerName_9,CHARLES R HUTT
+borrowerName_10,CHARLES R HUTT
+cborrowerName_3,BRYAN G MOORA»
+cBorrowerName_9,BRYAN G MOORA»
+cborrowerName_10,BRYAN G MOORA»
+signingDateB_10,11-DEC-2015
+signingDateCB_10,11-DEC-2015

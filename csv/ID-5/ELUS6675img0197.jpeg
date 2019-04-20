@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Account Admin, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,jtqM00aie0ASFb
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FKHI-1264367440
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$26765.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Bank Of Washington
+Interest,8.36%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"PO BOX 377, WASHINGTON, MO"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,26868420353451
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Citizens Nationkll Bank
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"127 south side square, maci'mb, it"
+YearBuilt,1987
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,66226041401337
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,676.50"
+propFor,Primary
+bBaseSalary,$3416.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$27766.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$3416.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3732.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$26765.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARLOS GIRALDO
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,04-FEB-2065
+cbTotalIncome,$3732.00
+fundingFee,$0.00
+borrowerName,CHRISTINE W FADELEY
+cbtBaseSalary,$7148.00
+disocuntValue,$0.00
+bSecurityNumber,767120166
+cbtOverttime,$0.00
+totalTxnCost,$26765.00
+bPhone,1728811574
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,31-MAR-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$26765.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$26765.00
+bPresentAddress,"12703 RESEARCH PKWY , ORLANDO, FL, 32826"
+cbtTotalIncome,$37323416.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1304.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$26765.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ERIC L BOYD
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,365638725
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7001702064
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,09-MAY-1989
+psntTotalExp,$26765.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$26765.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"12703 RESEARCH PKWY , ORLANDO, FL, 32826"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$26765.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,CHRISTINE W FADELEY
+isDownpaymentBorrowedCB,No
+bEmpName,DOL OSHA OKLAHOMA
+depAmount,$3211.80
+isCoWorkerCB,No
+bEmpAddress,"55 N ROBINSON, SUITE 315, OKLAHOMA CITY, OK"
+depBankName,RENASANT BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 709, TUPELO, MS"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,14610613378552
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$5353.00
+ typeOfProp,investment property
+bDesignation,"Account Admin, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,28-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$3747.10
+signingDateCB,28-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,EMPLOYEES BENA<FIT SERV A
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,05ePb1f2
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4156252249
+cbYrsInJob,10
+loanOriginatorAddress,"PO BOX 193766, SAN FRANCISCO, CA"
+refinanImproveDescription_e,made
+borrowerName_3,CHRISTINE W FADELEY
+borrowerName_9,CHRISTINE W FADELEY
+borrowerName_10,CHRISTINE W FADELEY
+cborrowerName_3,ERIC L BOYD
+cBorrowerName_9,ERIC L BOYD
+cborrowerName_10,ERIC L BOYD
+signingDateB_10,28-DEC-2015
+signingDateCB_10,28-DEC-2015

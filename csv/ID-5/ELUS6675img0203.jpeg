@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Machinist, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,XbKqEGXeCkGaiT
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,ESVP-4267526644
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$63501.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,Parks HeritAoge Fcu
+Interest,7.53%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"100 park street, glens Ands, ny"
+Tenure,84 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,02333066003062
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,350.10"
+PropAddress,"260 SOUTHFORK RD , GURDON, AR, 71743"
+lt2y_cb_emp_name2,"la DEPT OF LABOR MSHA; 1100 WILSON BLVD, ROOM 2136, ARLINGTON, VA"
+pre_loan_bank_balance_01,"$12,065.19"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"350 California St., 11th Fl, San Francisco, Ca"
+YearBuilt,1989
+lt2y_cb_emp_salary2,"$3,499.30"
+pre_loan_bank_acNo_02,54401854062477
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,At Managerpermanent
+pre_loan_bank_EMI_02,"$9,525.15"
+propFor,Investment
+bBaseSalary,$3132.00
+pre_loan_bank_balance_02,"$13,335.21"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$63501.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$3132.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3423.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$63501.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BARNEY WELLS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,13-MAR-2072
+cbTotalIncome,$3423.00
+fundingFee,$0.00
+borrowerName,MELISSA RENEE SIAABEN
+cbtBaseSalary,$6555.00
+disocuntValue,$0.00
+bSecurityNumber,850342337
+cbtOverttime,$0.00
+totalTxnCost,$63501.00
+bPhone,6133707584
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-JAN-1980
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$63501.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$63501.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMAUNTO, CA, 95819"
+cbtTotalIncome,$34233132.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1607.00
+isOutstandingCourtCaseB,No
+bMailAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+psntFirstLoan,$63501.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SKYE C CORBETT
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,732668378
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,6017052032
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-NOV-1978
+psntTotalExp,$63501.00
+isCoWorkerB,
+cbYrsSchool,1980
+propFirstLoan,$63501.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"345 MIDDLEFIELD RD MS 975 , MENLO PARK, CA, 94025"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,3 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"PLACER HALL 6000 J ST , SACRAMA-NTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$63501.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,MELISSA RENEE SIEBEN
+isDownpaymentBorrowedCB,No
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$8890.14
+isCoWorkerCB,No
+bEmpAddress,
+depBankName,ISEA CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 65760, WEST DES MOINES, IA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,23156080750854
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$13970.22
+ typeOfProp,principal residence
+bDesignation,"Computer Admin, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,16-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8890.14
+signingDateCB,16-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,654.08"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,computer iciakarator contract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$1,960.40"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,COMPUTER OPMRATOR PERMANEK'T
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM N4416, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,5ET8PKSv
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL MAINE SAFETY & HEALTH
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6064320944
+cbYrsInJob,2
+loanOriginatorAddress,"PIKEVILLE DISTRICT OFFICE, 100 FAE RAMSEY LANE, PIKEVILLE, KY"
+refinanImproveDescription_e,made
+borrowerName_3,MELISSA RENEE SIAABEN
+borrowerName_9,MELISSA RENEE SIAABEN
+borrowerName_10,MELISSA RENEE SIAABEN
+cborrowerName_3,SKYE C CORBETT
+cBorrowerName_9,SKYE C CORBETT
+cborrowerName_10,SKYE C CORBETT
+signingDateB_10,16-JAN-2016
+signingDateCB_10,16-JAN-2016

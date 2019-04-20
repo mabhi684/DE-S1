@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Grocers Supplier, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,PFpN3sEU8nCAOs
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,DNSU-1850332380
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$68659.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,LEGAAND BANK
+Interest,10.36%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"Po Box 1081, Bowie, Tx"
+Tenure,30 months
+lt2y_cb_emp_salary1,"$4,682.29"
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,sr accountant permanent
+pre_loan_bank_EMI_01,"$8,239.08"
+PropAddress,"19171 WASHBURN ST , DETROIT, MI, 48221"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$11,672.03"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"12061 BLUEMONT WAY, RAcSTON, VA"
+YearBuilt,1965
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,82036107346637
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$6,865.90"
+propFor,Primary
+bBaseSalary,$2776.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$20932.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$2776.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$14037.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$68659.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CLOTILDE MEEK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-JUN-2067
+cbTotalIncome,$14037.00
+fundingFee,$0.00
+borrowerName,ADAM R MI./CS
+cbtBaseSalary,$16813.00
+disocuntValue,$0.00
+bSecurityNumber,686178252
+cbtOverttime,$0.00
+totalTxnCost,$68659.00
+bPhone,1851708716
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,03-SEP-1989
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1989
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$68659.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$68659.00
+bPresentAddress,"PLACER HALL 6000 J ST , SACRAMENTO, CA, 95819"
+cbtTotalIncome,$140372776.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$977.00
+isOutstandingCourtCaseB,
+bMailAddress,
+psntFirstLoan,$68659.00
+isBankcruptB,No
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"BOX 25046 MS 421 DFC , DENVER, CO, 80225"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,204377301
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7724571274
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,06-JAN-1978
+psntTotalExp,$68659.00
+isCoWorkerB,No
+cbYrsSchool,1989
+propFirstLoan,$68659.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2730 N DEER RAPW ROAD , CARSON CITY, NV, 89701"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"PLACER HALL 6000 J ST , CRAMENTO, CA, 95819"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$68659.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,ADAM R KJOS
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL BAT
+depAmount,$10298.85
+isCoWorkerCB,No
+bEmpAddress,
+depBankName,CENTRIS FEDERAL CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"11718 M CIRCLE, OMAHA, NE"
+isPermanentAlienCB,
+bYrsInCJob,1
+depBankAcc,02285506177617
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$14418.39
+ typeOfProp,principal residence
+bDesignation,"Technician, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,09-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$9612.26
+signingDateCB,09-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$2,915.80"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,Workerpermankant
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,OFF OF RAG ADMIN WH
+cbEmpAddress,"200 CONSTITUTION AVA-, N6432, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,V2Sbs5Iq
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OFF OF REG ADMIN WH
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2103084530
+cbYrsInJob,5
+loanOriginatorAddress,"10127 MOROCCO STE 140, ANTONIO, TX"
+refinanImproveDescription_e,made
+borrowerName_3,ADAM R MI./CS
+borrowerName_9,ADAM R MI./CS
+borrowerName_10,ADAM R MI./CS
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,09-FEB-2016
+signingDateCB_10,09-FEB-2016

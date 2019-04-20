@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Sales Agent, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,6Snseob2cp8zln
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,LTDF-0300776148
+lt2y_cb_emp_name1,"DOL OASAM; 525 S GRIFFAN STREET, SUITE 707, DALLAS, TX"
+childSupportExpOwnedValue,$0.00
+Amount,$22851.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,
+Interest,10.67%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"9477 Waples St, San Diego, Ca"
+Tenure,54 months
+lt2y_cb_emp_salary1,"$2,436.00"
+pre_loan_bank_acNo_01,72072587845373
+AmortType,GPM
+lt2y_cb_emp_designation1,hr Admincontract
+pre_loan_bank_EMI_01,"$2,742.12"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,570.20"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1968
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,Hr Admincontract
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2828.00
+pre_loan_bank_balance_02,
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$22851.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$2828.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5598.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$22851.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JIM LAW
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,25-DEC-2058
+cbTotalIncome,$5598.00
+fundingFee,$0.00
+borrowerName,JOEL FRITSCH
+cbtBaseSalary,$8426.00
+disocuntValue,$0.00
+bSecurityNumber,885144408
+cbtOverttime,$0.00
+totalTxnCost,$22851.00
+bPhone,7562200467
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,31-DEC-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$22851.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$22851.00
+bPresentAddress,
+cbtTotalIncome,$55982828.00
+cashDepByBorrower,$0.00
+bResSince,8 year(s)
+psntRent,$1005.00
+isOutstandingCourtCaseB,No
+bMailAddress,"345 MIDDLEFIELD RD MS 466 , MENU- PARK, CA, 94025"
+psntFirstLoan,$22851.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,GEORGAA P INGERSOLL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,345785228
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7241154571
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,07-OCT-1985
+psntTotalExp,$22851.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$22851.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$22851.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JOEL FRITSCH
+isDownpaymentBorrowedCB,No
+bEmpName,
+depAmount,$2285.10
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION AVE NW, RM C2313, WAESHINGTON, DC"
+depBankName,ENTRUST FEDERAL CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"1801 DABNEY RD, RICHMOND, VA"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,05184386440235
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$5027.22
+ typeOfProp,principal residence
+bDesignation,"Payroll Specialist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,06-JAN-2016
+lt2y_b_emp_name1,"OSHA REG 2 - MENDELSON; 45 17 MARATHON PKWY, LATTLE NECK, NY"
+subTotLiqValue,$2970.63
+signingDateCB,06-JAN-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,"Sr 21,ccountantpermanent"
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"MINE SAF & HLTH; PO BA•X 25367 DFC, DENVER, CO"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OLMS
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"800 N CAPITOL ST NW, STE 120, WA_SHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,lah25kwB
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OFF OF REG kDMIN WH
+cbYrsInCJob,2
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5052486107
+cbYrsInJob,3
+loanOriginatorAddress,"500 GOLD STREET, SUITE 12000, ALBUQUERQUE, NM"
+refinanImproveDescription_e,made
+borrowerName_3,JOEL FRITSCH
+borrowerName_9,JOEL FRITSCH
+borrowerName_10,JOEL FRITSCH
+cborrowerName_3,GEORGAA P INGERSOLL
+cBorrowerName_9,GEORGAA P INGERSOLL
+cborrowerName_10,GEORGAA P INGERSOLL
+signingDateB_10,06-JAN-2016
+signingDateCB_10,06-JAN-2016

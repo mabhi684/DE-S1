@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"HR Specialist, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,E8CjUPMhw54aiS
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VPTA-5706010135
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$45160.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,IRCO COMMUNITY FCU
+Interest,8.87%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"450 Hillcrest Blvd, Nj"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,GPM
+lt2y_cb_emp_designation1,LABOR TEMPERORY
+pre_loan_bank_EMI_01,"$6,774.00"
+PropAddress,"PO BOX 233 , AUDUBON, MN, 56511"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,580.40"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1997
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$1978.00
+pre_loan_bank_balance_02,
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$45160.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$7072.00
+bTotalIncome,$1978.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3029.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$45160.00
+refinanCost,$7072.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,JENNIFER BLOCK
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,28-OCT-2068
+cbTotalIncome,$3029.00
+fundingFee,$0.00
+borrowerName,AMANDA H BELL
+cbtBaseSalary,$5007.00
+disocuntValue,$0.00
+bSecurityNumber,110421351
+cbtOverttime,$0.00
+totalTxnCost,$45160.00
+bPhone,7752281075
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,03-AUG-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$45160.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$45160.00
+bPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+cbtTotalIncome,$30291978.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1096.00
+isOutstandingCourtCaseB,
+bMailAddress,"8505 RESAUARCH WAY , MIDDLETON, WI, 53562"
+psntFirstLoan,$45160.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,"JOHN S WILLYI,AMS"
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,653251252
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,1667817303
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,29-DEC-1981
+psntTotalExp,$45160.00
+isCoWorkerB,
+cbYrsSchool,1988
+propFirstLoan,$45160.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"2130 SW 5TH AVENUE , PORTLAND, OR, 97201"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"8505 RESA-ARCH WAY , MIDDLETON, WI, 53562"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$45160.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,AMANDA H BELL
+isDownpaymentBorrowedCB,
+bEmpName,USDOL YO'SHA
+depAmount,$4967.60
+isCoWorkerCB,
+bEmpAddress,"701 LEE ST, STE 950, DES PLAINES, IL"
+depBankName,COUNTY NATIONAL BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"CORNER OF MARKET & 2ND STS, CLEARFIELD, PA"
+isPermanentAlienCB,No
+bYrsInCJob,2
+depBankAcc,31628867355853
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$9032.00
+ typeOfProp,investment property
+bDesignation,"Legal Executive, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,05-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$4967.60
+signingDateCB,05-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,SECURITY MEMBERTEMPERORY
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,MINE SAFETY & HEALTH
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY & HEALTH
+cbEmpAddress,"COCHRANS MILL RD, POB 18233, PlaTTSBURGH, PA"
+preLoanBankAdd,NA
+loanOriginatorID,zWEEshix
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3032315419
+cbYrsInJob,5
+loanOriginatorAddress,"PO BOX 25367 DFC DENVER, CO"
+refinanImproveDescription_e,made
+borrowerName_3,AMANDA H BELL
+borrowerName_9,AMANDA H BELL
+borrowerName_10,AMANDA H BELL
+cborrowerName_3,"JOHN S WILLYI,AMS"
+cBorrowerName_9,"JOHN S WILLYI,AMS"
+cborrowerName_10,"JOHN S WILLYI,AMS"
+signingDateB_10,05-JAN-2016
+signingDateCB_10,05-JAN-2016
