@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Worker, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,x12S4oYJWBNLpE
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,HYNU -3014724430
+lt2y_cb_emp_name1,"DOL BLS; 2 MASSACHUSETTS AVE NE, RM 5110, WASHINGTON, DC"
+childSupportExpOwnedValue,$0.00
+Amount,$59253.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Scott Schools Credit Union
+Interest,10.42%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,
+Tenure,300 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,34342145317252
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,"1206 CEDAR CT , LOUISVILLE, KY, 40203"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,"049 sw porter, portland, or"
+YearBuilt,1975
+lt2y_cb_emp_salary2,"$1,025.40"
+pre_loan_bank_acNo_02,05814375262671
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$2580.00
+pre_loan_bank_balance_02,"$10,073.01"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$79986.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$2736.00
+bTotalIncome,$2580.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4356.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$59253.00
+refinanCost,$2736.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,J GALVIN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-AUG-2057
+cbTotalIncome,$4356.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$6936.00
+disocuntValue,$0.00
+bSecurityNumber,866086604
+cbtOverttime,$0.00
+totalTxnCost,$59253.00
+bPhone,2242074016
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,03-SEP-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$59253.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$59253.00
+bPresentAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, UT, 84119"
+cbtTotalIncome,$43562580.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1195.00
+isOutstandingCourtCaseB,No
+bMailAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, UT, 84119"
+psntFirstLoan,$59253.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,434486031
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0078153225
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-AUG-1979
+psntTotalExp,$59253.00
+isCoWorkerB,No
+cbYrsSchool,1991
+propFirstLoan,$59253.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"384 WOODS HOLE RD , WOODS HOLE, MA, 2543"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,11 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"2329 W ORTON CIRCLE , WEST VALLEY CITY, UT, 84119"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$59253.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JAMES H HOWELLS
+isDownpaymentBorrowedCB,No
+bEmpName,USDOL REGION V1 OSHA
+depAmount,$7110.36
+isCoWorkerCB,No
+bEmpAddress,"800 DOLOROSA STREET, SUITE 203, SAN ANTONIO, TX"
+depBankName,FLOODWOOD AREA CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 318, FLOODWOOD, MN"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,76883740276673
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$13035.66
+ typeOfProp,investment property
+bDesignation,"Office Assistant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,23-FEB-2016
+lt2y_b_emp_name1,"Us Dol Ofccp; 4407 Bland Rd Ste 270, Raleigh, Nc"
+subTotLiqValue,$6517.83
+signingDateCB,23-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,exec secretarycontract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,"Directorate Of Construction; 200 Constitution Ave Nw, Rm N3468, Washington, Dc"
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,No
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,NA
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,"$2,039.05"
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,Exec Secretarycontract
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,US DEPT LABOR/VETS
+cbEmpAddress,"US CUSTOM HOUSE RM 242, 200 CHESTNUT ST, PHILADELPHIA, PA"
+preLoanBankAdd,NA
+loanOriginatorID,qShOgx11
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5053467502
+cbYrsInJob,2
+loanOriginatorAddress,"P. 0. BOX 25085, NM"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,23-FEB-2016
+signingDateCB_10,23-FEB-2016

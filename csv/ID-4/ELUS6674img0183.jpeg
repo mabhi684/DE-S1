@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Sales Agent, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,5ejK3C4PuGzOBF
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BTXL -4861521230
+lt2y_cb_emp_name1,"Ams Dept Of Labor Msha; 1100 Wilson Blvd, Room 2136, Arlington, Va"
+childSupportExpOwnedValue,$0.00
+Amount,$81038.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,First Tennessee Bank
+Interest,7.13%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,"$5,003.58"
+pre_loan_bank_acNo_01,72073383784336
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,724.56"
+PropAddress,"1186 BROADWA,Y , NEW YORK, NY, 10001"
+lt2y_cb_emp_name2,"us dol job corps; jfk federal bldg, job corps rm e350, boston, ma"
+pre_loan_bank_balance_01,"$17,017.98"
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,BATTLE CREEK POSTAL CREDIT UNION
+PropDescription,Appartment
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,1975
+lt2y_cb_emp_salary2,"$3,710.52"
+pre_loan_bank_acNo_02,78424486152278
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,HR MANAGERTEMPERORY
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$3115.00
+pre_loan_bank_balance_02,"$13,776.46"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,bony mellon elt panhandle plains hea
+construcOrigCost,$81038.00
+bBonus,$0.00
+pre_loan_bank_add_03,"1403 23rd Street, Canyon, Tx"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,07824286668736
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$8,914.18"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$4734.00
+bTotalIncome,$3115.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5515.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$81038.00
+refinanCost,$4734.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANGELA MCWILLIAMS
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-FEB-2072
+cbTotalIncome,$5515.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$8630.00
+disocuntValue,$0.00
+bSecurityNumber,602025370
+cbtOverttime,$0.00
+totalTxnCost,$81038.00
+bPhone,2767646030
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,18-OCT-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$81038.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$81038.00
+bPresentAddress,"FORT COLLINS SCI CTR 2150 CENTRE AVE BLDG C, FORT COLLINS, CO, 805268118"
+cbtTotalIncome,$55153115.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1587.00
+isOutstandingCourtCaseB,No
+bMailAddress,"FORT COLLINS SCI CTR 2150 CENTRAL AVE BLDG C, FORT COLLINS, CO, 805268118"
+psntFirstLoan,$81038.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,601878747
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,6122150740
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,02-MAR-1980
+psntTotalExp,$81038.00
+isCoWorkerB,
+cbYrsSchool,1982
+propFirstLoan,$81038.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"4200 NEW HAVEN RD , COLAAMBIA, MO, 65201"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$81038.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,PATRICK B SHAFROTH
+isDownpaymentBorrowedCB,
+bEmpName,DOL BLS
+depAmount,$12155.70
+isCoWorkerCB,
+bEmpAddress,"2 MASSCHUSETTS AVE NE, POSTAL SQUARE BLDG RM 4945, WASHACENGTON, DC"
+depBankName,"UNIVERSITY OF MD, CP"
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"102 LEE BUILDING, COLLEGE PARK, MD"
+isPermanentAlienCB,
+bYrsInCJob,2
+depBankAcc,08477186325830
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$14586.84
+ typeOfProp,second home
+bDesignation,"HR Specialist, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,02-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$9724.56
+signingDateCB,02-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,874.70"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,hr specialist permanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,WAGE HOUR DIVISION
+cbEmpAddress,"207 APPRAISERS STORAAS BLVD, 103 S GAY ST, BALTIMORE, MD"
+preLoanBankAdd,NA
+loanOriginatorID,o5wy7rpQ
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,"WA,GE HOUR DIVISION"
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2177935196
+cbYrsInJob,3
+loanOriginatorAddress,"3161 W WHITE OAKS DR, STE 203, SPRINGFIELD, IL"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,02-FEB-2016
+signingDateCB_10,02-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Computer Operator, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,StjPMcwKPS26SE
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,VGEJ -0010885743
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$67659.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.43%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,180 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,18551841468144
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$9,472.26"
+PropAddress,"4155 RISHEL CT , GROVA-CITY, OH, 43123"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1988
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$3293.00
+pre_loan_bank_balance_02,
+construcYrLotReq,4 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$67659.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21555.00
+bTotalIncome,$3293.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2807.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$67659.00
+refinanCost,$21555.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BAUTISTA GIUBER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-AUG-2069
+cbTotalIncome,$2807.00
+fundingFee,$0.00
+borrowerName,SHANNON M STAmBBS
+cbtBaseSalary,$6100.00
+disocuntValue,$0.00
+bSecurityNumber,347051153
+cbtOverttime,$0.00
+totalTxnCost,$67659.00
+bPhone,1065076784
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,27-DEC-1976
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$67659.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$67659.00
+bPresentAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+cbtTotalIncome,$28073293.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1258.00
+isOutstandingCourtCaseB,
+bMailAddress,"PO BOX 1230 , IOWA CITY, IA, 52244"
+psntFirstLoan,$67659.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,ANRIKA DEONARINE
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,316805108
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,6074577212
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,09-MAR-1978
+psntTotalExp,$67659.00
+isCoWorkerB,
+cbYrsSchool,1977
+propFirstLoan,$67659.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"954 NATL CTR , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"PO BOX 1230 , IOWA CITY, IA„ 52244"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$67659.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,SHANNON M STUBBS
+isDownpaymentBorrowedCB,No
+bEmpName,DEPT OF LABOR MSHA
+depAmount,$8119.08
+isCoWorkerCB,
+bEmpAddress,"604 CHEAT RD, WV"
+depBankName,SCO LINE CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"5951 EARLE BROWN DR STE 1100, BROOKLYN CENTER, MN"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,81132471247400
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$11502.03
+ typeOfProp,second home
+bDesignation,"Machinist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,12-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$8795.67
+signingDateCB,12-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,LKETTLE ROCK AREA OFF
+preLoanBankName,NA
+loanOriginatorName,VETS
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,186edvyh
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,4024375289
+cbYrsInJob,6
+loanOriginatorAddress,"1033 0 ST, BOX 128, LINCOLN, NE"
+refinanImproveDescription_e,to be made
+borrowerName_3,SHANNON M STAmBBS
+borrowerName_9,SHANNON M STAmBBS
+borrowerName_10,SHANNON M STAmBBS
+cborrowerName_3,ANRIKA DEONARINE
+cBorrowerName_9,ANRIKA DEONARINE
+cborrowerName_10,ANRIKA DEONARINE
+signingDateB_10,12-FEB-2016
+signingDateCB_10,12-FEB-2016

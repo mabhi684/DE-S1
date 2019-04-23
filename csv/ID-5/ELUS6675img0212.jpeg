@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"HR Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,7ruzYwqwZpamhj
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IIUF-2403550335
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$17396.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Holy Cross Hospital Employees' Cu
+Interest,8.55%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,03264525402270
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$3,479.20"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"121 S 13th St., Lincoln, Ne"
+YearBuilt,2007
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Seconday
+bBaseSalary,$1917.00
+pre_loan_bank_balance_02,"$3,305.24"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$101743.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"425 WALNUT ST., CINCINNATI, OH 20363866241674 $1,913.56"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$17396.00
+bTotalIncome,$1917.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$6078.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$17396.00
+refinanCost,$17396.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DORIS LONES
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,18-JUL-2070
+cbTotalIncome,$6078.00
+fundingFee,$0.00
+borrowerName,LLOYD LOOPE
+cbtBaseSalary,$7995.00
+disocuntValue,$0.00
+bSecurityNumber,813008486
+cbtOverttime,$0.00
+totalTxnCost,$17396.00
+bPhone,5660368171
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,05-MAY-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$17396.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$17396.00
+bPresentAddress,"677 ALA MOANA BLVD STE 615, HONOLULU, HI, 96813"
+cbtTotalIncome,$60781917.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1524.00
+isOutstandingCourtCaseB,
+bMailAddress,"677 ALA MOANA BLVD STE 615, HONOLULU, HI, 96813"
+psntFirstLoan,$17396.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,JAMIE P HUGHES
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,686325437
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,5554523528
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,18-MAR-1980
+psntTotalExp,$17396.00
+isCoWorkerB,
+cbYrsSchool,1981
+propFirstLoan,$17396.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"4200 NEW HAVEN RD , COLUMBIA, MO, 65201"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,2 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"677 ALA MOANA BLVD STE 615, HONOLULU, HI, 96813"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,Rent
+propTotalExp,$17396.00
+isDeliquentCB,No
+lt2y_cb_res_since,9
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"5231 South 19th , Lincoln, N?, 68512"
+depPurchHeldBy,LLOYD LOOPE
+isDownpaymentBorrowedCB,
+bEmpName,OSHA REG 2 - MENDELSON
+depAmount,$2435.44
+isCoWorkerCB,
+bEmpAddress,
+depBankName,FIRST FINANCIAL BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"ISU BANKING CENTER, TERRE HAUTE, IN"
+isPermanentAlienCB,
+bYrsInCJob,5
+depBankAcc,18422606622372
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$3827.12
+ typeOfProp,investment property
+bDesignation,"Cleaner, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,24-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2261.48
+signingDateCB,24-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"201 VARICK STREET, ROOM 891, NEW YORK, NY"
+preLoanBankAdd,NA
+loanOriginatorID,ds7mSDtZ
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL BLS
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026915121
+cbYrsInJob,6
+loanOriginatorAddress,"2 MASS AVE NE, RM 3985, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,LLOYD LOOPE
+borrowerName_9,LLOYD LOOPE
+borrowerName_10,LLOYD LOOPE
+cborrowerName_3,JAMIE P HUGHES
+cBorrowerName_9,JAMIE P HUGHES
+cborrowerName_10,JAMIE P HUGHES
+signingDateB_10,24-JAN-2016
+signingDateCB_10,24-JAN-2016

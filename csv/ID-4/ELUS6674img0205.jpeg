@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Office Assistant, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,gBo230X800QTae
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,KEAG -0215834043
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$21262.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.76%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,51646302127550
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,338.82"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,252.40"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Bank Of Elmwood
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"2704 Lathrop avenue, racine, wi"
+YearBuilt,1983
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,60483282330387
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$2,551.44"
+propFor,Seconday
+bBaseSalary,$1818.00
+pre_loan_bank_balance_02,"$4,252.40"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$36840.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,3 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21262.00
+bTotalIncome,$1818.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2614.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$21262.00
+refinanCost,$21262.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARMALITA GILLIAM
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,22-APR-2068
+cbTotalIncome,$2614.00
+fundingFee,$0.00
+borrowerName,KENNETH W HUDNUT
+cbtBaseSalary,$4432.00
+disocuntValue,$0.00
+bSecurityNumber,225861105
+cbtOverttime,$0.00
+totalTxnCost,$21262.00
+bPhone,4674647188
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,11-DEC-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1984
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$21262.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$21262.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 977 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$26141818.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1216.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$21262.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,MARK P WALDROP
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,576752338
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,6487368117
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,18-JUL-1985
+psntTotalExp,$21262.00
+isCoWorkerB,
+cbYrsSchool,1983
+propFirstLoan,$21262.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1300 SE CARDINAL CT BLDG 10STAA 100, VANCOUVER, WA, 98683"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$21262.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,KENNETH W HUDNUT
+isDownpaymentBorrowedCB,
+bEmpName,US DEPT OF LABOR OASAM
+depAmount,$2338.82
+isCoWorkerCB,
+bEmpAddress,"90 7TH STREAM, ROOM 12300, SAN FRANCISCO, CA"
+depBankName,"BANK OF AMERICA, NA"
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"P.O. BOX 419038, KANSAS CITY, MO"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,72567561508875
+isNewPropPermanentB,
+bYrsInJob,5
+depBankBal,$3827.16
+ typeOfProp,second home
+bDesignation,"Project Assistant, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,20-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$2551.44
+signingDateCB,20-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"PO BOX 25367 DFC, DENVER, CO"
+preLoanBankAdd,NA
+loanOriginatorID,rykVomil
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,BUREAU OF LAfBOR STATS
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9728504886
+cbYrsInJob,8
+loanOriginatorAddress,"525 S GRIFFIN ST, NO 221, DALLAS, TX"
+refinanImproveDescription_e,made
+borrowerName_3,KENNETH W HUDNUT
+borrowerName_9,KENNETH W HUDNUT
+borrowerName_10,KENNETH W HUDNUT
+cborrowerName_3,MARK P WALDROP
+cBorrowerName_9,MARK P WALDROP
+cborrowerName_10,MARK P WALDROP
+signingDateB_10,20-DEC-2015
+signingDateCB_10,20-DEC-2015

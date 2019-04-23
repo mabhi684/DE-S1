@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Security Member, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,cWjg6Wvyl2PsZc
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,KJUR-4356544544
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$5976.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,8.94%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,60 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$836.64
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,AMERICA'S CHRISTIAN CREDIT UNION
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"2009 s grove, wichita, ks"
+YearBuilt,2004
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$4626.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$39411.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,5 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$5976.00
+bTotalIncome,$4626.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$5317.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$5976.00
+refinanCost,$5976.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CARLA DUNLAP
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-MAY-2063
+cbTotalIncome,$5317.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$9943.00
+disocuntValue,$0.00
+bSecurityNumber,057528285
+cbtOverttime,$0.00
+totalTxnCost,$5976.00
+bPhone,4368403242
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,07-AUG-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$5976.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$5976.00
+bPresentAddress,"345 MIDDLEFIELD RD MS 975 , MENLO PARK, CA, 94025"
+cbtTotalIncome,$53174626.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$902.00
+isOutstandingCourtCaseB,
+bMailAddress,
+psntFirstLoan,$5976.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,851055458
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,3508551873
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,23-AUG-1985
+psntTotalExp,$5976.00
+isCoWorkerB,
+cbYrsSchool,1990
+propFirstLoan,$5976.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"6480 DOUBLETREE AVE , COLUMBUS, OH, 43229"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"345 MIDDLEFIELD RD MS 975 , MENLO PARK, CA, 94025"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$5976.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,DAVID R BEDFORD
+isDownpaymentBorrowedCB,
+bEmpName,OFF OF REG ADMIN WH
+depAmount,$836.64
+isCoWorkerCB,
+bEmpAddress,"1999 BROADWAY, SUITE 2445, DENVER, CO"
+depBankName,RED CANOE CREDIT UNION
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"PO BOX 3020, LONGVIEW, WA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,04723840045767
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$1314.72
+ typeOfProp,investment property
+bDesignation,"Manager, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,02-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$657.36
+signingDateCB,02-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OFCCP
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"4407 BLAND RD STE 270, NC"
+preLoanBankAdd,NA
+loanOriginatorID,13xEnaY0
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR BAT
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5633241339
+cbYrsInJob,5
+loanOriginatorAddress,"210 WALNUT ST, ROOM 715, DES MOINES, IA"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,02-FEB-2016
+signingDateCB_10,02-FEB-2016

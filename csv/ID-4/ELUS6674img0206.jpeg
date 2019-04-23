@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Security Head, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Td8xLOm878eDp6
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OHMU -4504441758
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$8794.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Alcoa Pittsburgh Fcu
+Interest,10.74%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Absc Building, Pittsburgh, PAX"
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$879.40
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2004
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2933.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$36840.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8794.00
+bTotalIncome,$2933.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4296.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$8794.00
+refinanCost,$8794.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANTONIO VISCIONE
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-AUG-2075
+cbTotalIncome,$4296.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$7229.00
+disocuntValue,$0.00
+bSecurityNumber,058648480
+cbtOverttime,$0.00
+totalTxnCost,$8794.00
+bPhone,0032741760
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,08-SEP-1977
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1977
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$8794.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$8794.00
+bPresentAddress,"440 NATIONAL CENTER , RESTON, VA, 20192"
+cbtTotalIncome,$42962933.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1522.00
+isOutstandingCourtCaseB,
+bMailAddress,
+psntFirstLoan,$8794.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,ROSE M MCGA-WAN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,482748357
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2760761023
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-AUG-1987
+psntTotalExp,$8794.00
+isCoWorkerB,No
+cbYrsSchool,1977
+propFirstLoan,$8794.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"308 SOAPTH AIRPORT RD , PEARL, MS, 39208"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,4 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$8794.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,BRENDA JANE JOHNSON
+isDownpaymentBorrowedCB,
+bEmpName,MINE SAFETY & HEALTH
+depAmount,$1055.28
+isCoWorkerCB,No
+bEmpAddress,
+depBankName,SAVINGS BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"P 0 BOX 457, PRIMGHAR, IA"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,41361452856635
+isNewPropPermanentB,
+bYrsInJob,10
+depBankBal,$1846.74
+ typeOfProp,principal residence
+bDesignation,"Machinist, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,26-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1319.10
+signingDateCB,26-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL BLS
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"2 MASSACHUSETTS AVENUE NE, ROOM 4135, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,K4H2QmpL
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,Ap's DEPT OF LABOR WH
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5033263075
+cbYrsInJob,8
+loanOriginatorAddress,"620 SW MAIN STREET, SUITE 423, PORTLAND, OR"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,ROSE M MCGA-WAN
+cBorrowerName_9,ROSE M MCGA-WAN
+cborrowerName_10,ROSE M MCGA-WAN
+signingDateB_10,26-JAN-2016
+signingDateCB_10,26-JAN-2016

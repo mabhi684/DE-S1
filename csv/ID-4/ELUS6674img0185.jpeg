@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Sr Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,gku5qTWe326q20
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,FJLH -4471026611
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$21555.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,The Wright Institute
+Interest,10.84%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"2728 DURANT AVE., BERKELEY, CA"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,371.05"
+PropAddress,"21487 KALLGREN RD , MASON, WI, 54856"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,742.10"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,The Union Banking Company
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2010
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,68003700433280
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$3448.00
+pre_loan_bank_balance_02,"$4,526.55"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,Bony Mellon Elt Ams Finkincing Entities
+construcOrigCost,$81038.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$3,664.35"
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21555.00
+bTotalIncome,$3448.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$7240.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$21555.00
+refinanCost,$21555.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMANDA KOCH
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,13-JAN-2072
+cbTotalIncome,$7240.00
+fundingFee,$0.00
+borrowerName,CATHY MCBIRNEY
+cbtBaseSalary,$10688.00
+disocuntValue,$0.00
+bSecurityNumber,313882222
+cbtOverttime,$0.00
+totalTxnCost,$21555.00
+bPhone,3387575184
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,25-MAR-1978
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1978
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$21555.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$21555.00
+bPresentAddress,"FSGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+cbtTotalIncome,$72403448.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$1737.00
+isOutstandingCourtCaseB,
+bMailAddress,"USGS MS 410 DFC BOX 25046, DENVER, CO, 80225"
+psntFirstLoan,$21555.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,GREGORY P MEEKER
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,232238414
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8473871511
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,20-AUG-1990
+psntTotalExp,$21555.00
+isCoWorkerB,No
+cbYrsSchool,1978
+propFirstLoan,$21555.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$21555.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,CATHY MCBIRNEY
+isDownpaymentBorrowedCB,
+bEmpName,
+depAmount,$2586.60
+isCoWorkerCB,
+bEmpAddress,"200 CONSTITUTION WW1/4 NW, RM C0049, WASHINGTON, DC"
+depBankName,CORTRUST BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"PO BOX 1246 ATTN: VICKI ADAMS, MITCHELL, SD"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,52370114731621
+isNewPropPermanentB,No
+bYrsInJob,7
+depBankBal,$4742.10
+ typeOfProp,principal residence
+bDesignation,"Machinist, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,18-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2371.05
+signingDateCB,18-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OLMS
+preLoanBankName,NA
+loanOriginatorName,US DOL R1 OSHA
+cbEmpAddress,"USDOL OLMS, JFK BUILDING E-365, BOSTON, MA"
+preLoanBankAdd,NA
+loanOriginatorID,yOTLKvmS
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2035795581
+cbYrsInJob,8
+loanOriginatorAddress,"1057 BROAD ST, 4TH FLOOR, BRIDGEPORT, CT"
+refinanImproveDescription_e,to be made
+borrowerName_3,CATHY MCBIRNEY
+borrowerName_9,CATHY MCBIRNEY
+borrowerName_10,CATHY MCBIRNEY
+cborrowerName_3,GREGORY P MEEKER
+cBorrowerName_9,GREGORY P MEEKER
+cborrowerName_10,GREGORY P MEEKER
+signingDateB_10,18-JAN-2016
+signingDateCB_10,18-JAN-2016

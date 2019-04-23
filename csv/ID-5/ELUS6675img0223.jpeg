@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Cleaner, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,bh14Da1pxyquau
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OAGL -8618231660
+lt2y_cb_emp_name1,"DOL BLS; 2 MASSACHUSETTS AVE NE, RM 4945, WASHINGTON, DC"
+childSupportExpOwnedValue,$0.00
+Amount,$36545.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,dauphin slt 94i educaid/wachovia
+Interest,10.13%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,
+Tenure,120 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,Other
+lt2y_cb_emp_designation1,TECHNICIANTEMPERORY
+pre_loan_bank_EMI_01,
+PropAddress,"7109 W BERWYN AVE , CHICAGO, IL, 60656"
+lt2y_cb_emp_name2,"dol assistant secretary; 200 constitution ave nw, ste n3609, washington, dc"
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,ALLIANCE OF MAINE FCU
+PropDescription,Farm House
+lt2y_cb_emp_duration2,NA
+pre_loan_bank_add_02,
+YearBuilt,1992
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,18200211354761
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$2681.00
+pre_loan_bank_balance_02,
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$36545.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3091.00
+bTotalIncome,$2681.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1624.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$36545.00
+refinanCost,$3091.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MATTHEW MARTINEZ
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,12-APR-2064
+cbTotalIncome,$1624.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$4305.00
+disocuntValue,$0.00
+bSecurityNumber,040157716
+cbtOverttime,$0.00
+totalTxnCost,$36545.00
+bPhone,7781654080
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,27-OCT-1991
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1991
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$36545.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$36545.00
+bPresentAddress,
+cbtTotalIncome,$16242681.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1442.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$36545.00
+isBankcruptB,
+lt2y_b_res_type,Own
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,0
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,"401 hardin rd , little rock, az., 72211"
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JOEL B SANKEY
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,276730680
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5505327163
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,14-JUN-1983
+psntTotalExp,$36545.00
+isCoWorkerB,
+cbYrsSchool,1991
+propFirstLoan,$36545.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"2255 NORTH GEMINI DRIVE , FLAGSTAFF, AZ, 86001"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,9 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$36545.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,JEFFREY EMAN
+isDownpaymentBorrowedCB,
+bEmpName,US DOL ILAB
+depAmount,$5481.75
+isCoWorkerCB,
+bEmpAddress,
+depBankName,THE NAPOLEON STATE BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"PO BOX 9, NAPOLEON, IN"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,10207685657652
+isNewPropPermanentB,
+bYrsInJob,4
+depBankBal,$6212.65
+ typeOfProp,second home
+bDesignation,"Central Supervisor, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,26-DEC-2015
+lt2y_b_emp_name1,"ms dept of labor ofccp; 230 s dearborn st, ste 570, chicago, it"
+subTotLiqValue,$4385.40
+signingDateCB,26-DEC-2015
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$4,256.24"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Sales 'Agent Temperory
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,OSHA LUBBOCK AREA OFFC
+cbEmpAddress,"138 RIVER RD, STE 102, ANDOVER, MA"
+preLoanBankAdd,NA
+loanOriginatorID,Q5enp4IR
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OSHA LUBBOCK AREA OFFC
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,9155346251
+cbYrsInJob,5
+loanOriginatorAddress,"4849 N MESA STREET, SUITE 200, EL PASO, TX"
+refinanImproveDescription_e,to be made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,JOEL B SANKEY
+cBorrowerName_9,JOEL B SANKEY
+cborrowerName_10,JOEL B SANKEY
+signingDateB_10,26-DEC-2015
+signingDateCB_10,26-DEC-2015

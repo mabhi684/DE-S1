@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Asst Manager, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,hOy84LfCa7G2J7
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,CNXN-5830854126
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$8730.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,qualtrust credit unA on
+Interest,9.45%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"6201 Am. campu dr, irving, tx"
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,85875745561120
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,cleveland chiropractA0c college
+PropDescription,Appartment
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1969
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,87313465278056
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$1,134.90"
+propFor,Seconday
+bBaseSalary,$1847.00
+pre_loan_bank_balance_02,"$1,658.70"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$98757.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$8730.00
+bTotalIncome,$1847.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3279.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$8730.00
+refinanCost,$8730.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,DALYAH RAIN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-JUL-2074
+cbTotalIncome,$3279.00
+fundingFee,$0.00
+borrowerName,"CHARLES WA,YNE WRIGHT"
+cbtBaseSalary,$5126.00
+disocuntValue,$0.00
+bSecurityNumber,713713865
+cbtOverttime,$0.00
+totalTxnCost,$8730.00
+bPhone,6253806057
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,13-AUG-1983
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1983
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$8730.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$8730.00
+bPresentAddress,"600 4TH ST SOUTH , ST PETERSBURG, FL, 33701"
+cbtTotalIncome,$32791847.00
+cashDepByBorrower,$0.00
+bResSince,12 year(s)
+psntRent,$1639.00
+isOutstandingCourtCaseB,
+bMailAddress,
+psntFirstLoan,$8730.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,455312453
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,7126646371
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,06-MAR-1986
+psntTotalExp,$8730.00
+isCoWorkerB,No
+cbYrsSchool,1983
+propFirstLoan,$8730.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"600 4TH ST SOUTH , ST PETAARSBURG, FL, 33701"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$8730.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,CHARLES WAYNE WRIGHT
+isDownpaymentBorrowedCB,
+bEmpName,DOL BLS
+depAmount,$873.00
+isCoWorkerCB,
+bEmpAddress,"2 MASSACHUSETTS AVE NE, ROOM 4945, WASHINGTON, DC"
+depBankName,ST MICHAEL' FCU
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"60 GARSIDE RIVER, MA"
+isPermanentAlienCB,No
+bYrsInCJob,3
+depBankAcc,58647514334465
+isNewPropPermanentB,No
+bYrsInJob,5
+depBankBal,$1920.60
+ typeOfProp,principal residence
+bDesignation,"Legal Executive, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,13-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$1134.90
+signingDateCB,13-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DEPT OF LABOR
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,ezIc5ngN
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2063736799
+cbYrsInJob,7
+loanOriginatorAddress,"719 2ND AVE STE 601, WA"
+refinanImproveDescription_e,made
+borrowerName_3,"CHARLES WA,YNE WRIGHT"
+borrowerName_9,"CHARLES WA,YNE WRIGHT"
+borrowerName_10,"CHARLES WA,YNE WRIGHT"
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,13-FEB-2016
+signingDateCB_10,13-FEB-2016

@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Payroll Specialist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,3y5ellIvf8zuaM
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,CKRA-3037507751
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$48248.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,Roeb117ng Bank
+Interest,7.48%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"34-36 Main Street, RApebling, Nj"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,82867706162582
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$6,272.24"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$10,132.08"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Slm Atcfc
+PropDescription,Farm House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2003
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,61162004328326
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$6,754.72"
+propFor,Investment
+bBaseSalary,$2545.00
+pre_loan_bank_balance_02,"$9,167.12"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$48248.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$9764.00
+bTotalIncome,$2545.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2969.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$48248.00
+refinanCost,$9764.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CAREY BROWN
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,11-MAY-2057
+cbTotalIncome,$2969.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$5514.00
+disocuntValue,$0.00
+bSecurityNumber,802660230
+cbtOverttime,$0.00
+totalTxnCost,$48248.00
+bPhone,2844623551
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,01-OCT-1988
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1988
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$48248.00
+bDpendents,1
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$48248.00
+bPresentAddress,
+cbtTotalIncome,$29692545.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$821.00
+isOutstandingCourtCaseB,
+bMailAddress,"9818 BLUEGRAESS PKWY , LOUISVILLE, KY, 40299"
+psntFirstLoan,$48248.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,618576408
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8474007761
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,21-JUN-1981
+psntTotalExp,$48248.00
+isCoWorkerB,No
+cbYrsSchool,1988
+propFirstLoan,$48248.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"9818 BLUEGRASS PKWY , LOUISVILLic, KY, 40299"
+propOther,$0.00
+isFailedLoanCB,No
+lt2y_cb_res_type,
+propTotalExp,$48248.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,MICHAEL S GRIFFIN
+isDownpaymentBorrowedCB,No
+bEmpName,MINA SAF & HLTH
+depAmount,$5789.76
+isCoWorkerCB,No
+bEmpAddress,"THORN HILL INDAmSTRIAL PARK, 547 KEYSTONE DR STE 400, WARRENDALE, PA"
+depBankName,FARMERS STATE BANK
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"220 EAST 5TH STREET P 0 BOX 178, CANTON, SD"
+isPermanentAlienCB,No
+bYrsInCJob,5
+depBankAcc,50023333648261
+isNewPropPermanentB,
+bYrsInJob,10
+depBankBal,$8202.16
+ typeOfProp,principal residence
+bDesignation,"Central Supervisor, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,10-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$6754.72
+signingDateCB,10-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,JFrn6Y2m
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DOL OFCCP
+cbYrsInCJob,5
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,6157815395
+cbYrsInJob,8
+loanOriginatorAddress,"1321 MURFREESBORO, SUITE 301, NASHVILLE, TN"
+refinanImproveDescription_e,to be made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,10-DEC-2015
+signingDateCB_10,10-DEC-2015

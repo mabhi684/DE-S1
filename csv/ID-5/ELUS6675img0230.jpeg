@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Legal Executive, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,xiKfaFrDq8optn
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,CRWN -6020525358
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$63677.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.58%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"Po Box 351, Ellwood City, Pa"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,85535600245658
+AmortType,GPM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$7,641.24"
+PropAddress,"57000 RED LANE RD , CUMBERLAND, OH, 43732"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$11,461.86"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"12061 BLUEMONT WAY, RESTON, VA"
+YearBuilt,1968
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$6,367.70"
+propFor,Seconday
+bBaseSalary,$2930.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$79986.00
+bBonus,$0.00
+pre_loan_bank_add_03,"384 STATE STREET PO BOX 147, BADEN, PA"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,63577878715320
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$8,914.78"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$14,008.94"
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,2 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$19611.00
+bTotalIncome,$2930.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$1846.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$63677.00
+refinanCost,$19611.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,MELISSA HALL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,19-JAN-2072
+cbTotalIncome,$1846.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$4776.00
+disocuntValue,$0.00
+bSecurityNumber,074718028
+cbtOverttime,$0.00
+totalTxnCost,$63677.00
+bPhone,4444507581
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,10-MAY-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1981
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$63677.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$63677.00
+bPresentAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+cbtTotalIncome,$18462930.00
+cashDepByBorrower,$0.00
+bResSince,5 year(s)
+psntRent,$1463.00
+isOutstandingCourtCaseB,
+bMailAddress,"810 BEAR TAVERN RD STE 206, WEST TRENTON, NJ, 8628"
+psntFirstLoan,$63677.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,CATHERINE L REID
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,832124141
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,5042030384
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,08-FEB-1983
+psntTotalExp,$63677.00
+isCoWorkerB,
+cbYrsSchool,1981
+propFirstLoan,$63677.00
+isUSCitizenB,
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"202 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,1 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$63677.00
+isDeliquentCB,
+lt2y_cb_res_since,8
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,"917 natl ctr , reston, va, 20192"
+depPurchHeldBy,JAMIE L HARTMANN
+isDownpaymentBorrowedCB,No
+bEmpName,
+depAmount,$8278.01
+isCoWorkerCB,No
+bEmpAddress,
+depBankName,COMMERCE BANK
+isUSCitizenCB,Yes
+bIsSelfEmp,No
+depBankAdd,"PO BOX 8599 ATTN: A/P DEPT, CAMP HILL, PA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,37810444463377
+isNewPropPermanentB,
+bYrsInJob,7
+depBankBal,$10825.09
+ typeOfProp,second home
+bDesignation,"Machinist, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,30-NOV-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$6367.70
+signingDateCB,30-NOV-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ESA OFCCP
+preLoanBankName,NA
+loanOriginatorName,DOL BLS
+cbEmpAddress,"200 CONSTITUTION AVE NW, RM S3229, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,WCcMHzHy
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026916723
+cbYrsInJob,8
+loanOriginatorAddress,"2 MASSACHUSETTS AVE NE, STE 5110, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,CATHERINE L REID
+cBorrowerName_9,CATHERINE L REID
+cborrowerName_10,CATHERINE L REID
+signingDateB_10,30-NOV-2015
+signingDateCB_10,30-NOV-2015

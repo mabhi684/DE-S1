@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"HR Specialist, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,h1r1Q2uslp2MuP
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IODL-5475187505
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$25520.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,9.56%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"2010 LAFAYETTE RD, PORTSMOUTH, NH"
+Tenure,36 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,20314586245212
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$2,552.00"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$4,848.80"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,SC STUDENT LOAN CORP 833668 WELLS FARGO
+PropDescription,Commercial Property
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"7077 bonneval road, jacksonville, fl"
+YearBuilt,1974
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,53044714268036
+purposeOfLoan,Construction-Permanent
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$3,572.80"
+propFor,Investment
+bBaseSalary,$3039.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$25520.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3783.00
+bTotalIncome,$3039.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2990.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$25520.00
+refinanCost,$3783.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRETT GARNER
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,26-OCT-2063
+cbTotalIncome,$2990.00
+fundingFee,$0.00
+borrowerName,ANDREW RYAN ERICKSON
+cbtBaseSalary,$6029.00
+disocuntValue,$0.00
+bSecurityNumber,040088110
+cbtOverttime,$0.00
+totalTxnCost,$25520.00
+bPhone,4283103305
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,09-APR-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$25520.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$25520.00
+bPresentAddress,"10500 erNV CTR DR STE 215 MS 156, MIAMI, FL, 33178"
+cbtTotalIncome,$29903039.00
+cashDepByBorrower,$0.00
+bResSince,10 year(s)
+psntRent,$923.00
+isOutstandingCourtCaseB,
+bMailAddress,"10500 ONV CTR DR STE 215 MS 156, MIAMI, FL, 33178"
+psntFirstLoan,$25520.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,SARA A KHAN
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,853425474
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,3523250036
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,25-APR-1985
+psntTotalExp,$25520.00
+isCoWorkerB,
+cbYrsSchool,1990
+propFirstLoan,$25520.00
+isUSCitizenB,Yes
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,4
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"156 NATIONAL CENTER , RESTON, VA, 20192"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,5 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"10500 UNV CTR DR STE 215 MS 156, MIAMI, FL, 33178"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$25520.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,ANDREW RYAN ERICKSON
+isDownpaymentBorrowedCB,
+bEmpName,
+depAmount,$3572.80
+isCoWorkerCB,
+bEmpAddress,
+depBankName,NORTHWEST GEORGIA CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"1307 REDMOND CIRCLE, ROME, GA"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,03060841584847
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$5614.40
+ typeOfProp,investment property
+bDesignation,"Technician, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,01-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$2807.20
+signingDateCB,01-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,DOL ETA DIV/ADMIN SVCS
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"230 S DEARBORN ST, RM 638, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,x0ogYKrq
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,OSHA REG 2 - JoiDSON
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2123372348
+cbYrsInJob,5
+loanOriginatorAddress,"201 VARICK ST, ROOM 670, NEW YORK, NY"
+refinanImproveDescription_e,to be made
+borrowerName_3,ANDREW RYAN ERICKSON
+borrowerName_9,ANDREW RYAN ERICKSON
+borrowerName_10,ANDREW RYAN ERICKSON
+cborrowerName_3,SARA A KHAN
+cBorrowerName_9,SARA A KHAN
+cborrowerName_10,SARA A KHAN
+signingDateB_10,01-FEB-2016
+signingDateCB_10,01-FEB-2016

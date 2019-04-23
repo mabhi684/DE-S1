@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"Secretary, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,wbthNr4sciEnd0H
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,OSLM-7666446642
+lt2y_cb_emp_name1,"Dol Osam Cppr; 200 Constitution Ave Nw, Rm 53317, Washington, Dc"
+childSupportExpOwnedValue,$0.00
+Amount,$3783.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,Credit Union Of Denver
+Interest,9.15%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"9305 West Alameda Pkwy, Lakewood, Co"
+Tenure,60 months
+lt2y_cb_emp_salary1,"$2,623.72"
+pre_loan_bank_acNo_01,70571567181370
+AmortType,ARM
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,$529.62
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,No
+pre_loan_bank_name_02,farmers state bank
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"Po Box 7, Marion, Sd"
+YearBuilt,1982
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,61853264057227
+purposeOfLoan,Refinance
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Investment
+bBaseSalary,$1674.00
+pre_loan_bank_balance_02,$756.60
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$41812.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$3783.00
+bTotalIncome,$1674.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3070.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$3783.00
+refinanCost,$3783.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,ANGEL MASON
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,20-SEP-2072
+cbTotalIncome,$3070.00
+fundingFee,$0.00
+borrowerName,RYAN E TOMPKINS
+cbtBaseSalary,$4744.00
+disocuntValue,$0.00
+bSecurityNumber,668885177
+cbtOverttime,$0.00
+totalTxnCost,$3783.00
+bPhone,3436343810
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,02-MAY-1982
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Separated
+cbtRentalIncome,$0.00
+loanAmountEx,$3783.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Rent
+cbtOtherIncome2,$0.00
+totalLoanAmount,$3783.00
+bPresentAddress,
+cbtTotalIncome,$30701674.00
+cashDepByBorrower,$0.00
+bResSince,1 year(s)
+psntRent,$1616.00
+isOutstandingCourtCaseB,No
+bMailAddress,"5231 SOUTH 19TH , LINCOLN, NE, 68512"
+psntFirstLoan,$3783.00
+isBankcruptB,
+lt2y_b_res_type,Rent
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,JOHN L FAUNDEEN
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,767730534
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,6781757621
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,16-SEP-1979
+psntTotalExp,$3783.00
+isCoWorkerB,
+cbYrsSchool,1982
+propFirstLoan,$3783.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,1
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"5231 SOUTH 19TH , LINCOLN, NE, 68512"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$3783.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,RYAN E TOMPKINS
+isDownpaymentBorrowedCB,
+bEmpName,US DOL R1 ETA
+depAmount,$567.45
+isCoWorkerCB,No
+bEmpAddress,"JFK BLDG, RM E350, BOSTON, MA"
+depBankName,FIRST TEXAS BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"501 EAST THIRD, LAMPASAS, TX"
+isPermanentAlienCB,
+bYrsInCJob,2
+depBankAcc,05164256036142
+isNewPropPermanentB,No
+bYrsInJob,4
+depBankBal,$680.94
+ typeOfProp,second home
+bDesignation,"Cleaner, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,31-JAN-2016
+lt2y_b_emp_name1,"dol vets; Frances perkins bldg, 200 constitution ave 51312 nw, washington, dc"
+subTotLiqValue,$453.96
+signingDateCB,31-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,552.00"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,TRAINERCONTRACT
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DEPT OF LABOR OSHA
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,
+preLoanBankAdd,NA
+loanOriginatorID,vVUm3oI1
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPARTMENT OF LABOR
+cbYrsInCJob,3
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8037655904
+cbYrsInJob,3
+loanOriginatorAddress,"1835 ASSEMBLY ST, RM 1472, COLUMBIA, SC"
+refinanImproveDescription_e,to be made
+borrowerName_3,RYAN E TOMPKINS
+borrowerName_9,RYAN E TOMPKINS
+borrowerName_10,RYAN E TOMPKINS
+cborrowerName_3,JOHN L FAUNDEEN
+cBorrowerName_9,JOHN L FAUNDEEN
+cborrowerName_10,JOHN L FAUNDEEN
+signingDateB_10,31-JAN-2016
+signingDateCB_10,31-JAN-2016

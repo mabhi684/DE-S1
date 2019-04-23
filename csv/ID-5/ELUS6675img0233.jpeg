@@ -1,0 +1,248 @@
+loanAppliedFor,USDA / Rural Housing Service
+cbDesignation,"Security Member, Contract"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,4Pqh3v3b4gA4BT
+co-borrower_emp_type,Contract
+childSupportExpOwnedTo,NA
+LenderCaseNumber,WKPO -7648350204
+lt2y_cb_emp_name1,"Us Dol Osha; 365 Smoke Tree Plaza, North Aurora, Il"
+childSupportExpOwnedValue,$0.00
+Amount,$65645.00
+lt2y_cb_emp_isSelf1,No
+pre_loan_bank_name_01,
+Interest,8.76%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,
+Tenure,36 months
+lt2y_cb_emp_salary1,"$2,227.50"
+pre_loan_bank_acNo_01,21275215071600
+AmortType,Other
+lt2y_cb_emp_designation1,Hr Admincontract
+pre_loan_bank_EMI_01,
+PropAddress,"26120 KENNEDY RIDGE RD , NORTH OLMSTED, OH, 44070"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,COMERICA BANK
+PropDescription,Flat
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"3701 Hamlin Road, Auburn Hills, Mi"
+YearBuilt,1962
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,08202460630051
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$9,190.30"
+propFor,Primary
+bBaseSalary,$6207.00
+pre_loan_bank_balance_02,"$14,441.90"
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$79986.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$2736.00
+bTotalIncome,$6207.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4643.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$65645.00
+refinanCost,$2736.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,CAROL BEDY
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,15-JAN-2061
+cbTotalIncome,$4643.00
+fundingFee,$0.00
+borrowerName,
+cbtBaseSalary,$10850.00
+disocuntValue,$0.00
+bSecurityNumber,122383164
+cbtOverttime,$0.00
+totalTxnCost,$65645.00
+bPhone,3051852008
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,22-OCT-1985
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1985
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$65645.00
+bDpendents,2
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$65645.00
+bPresentAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+cbtTotalIncome,$46436207.00
+cashDepByBorrower,$0.00
+bResSince,7 year(s)
+psntRent,$1006.00
+isOutstandingCourtCaseB,
+bMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+psntFirstLoan,$65645.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,830201334
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,1681236210
+pnstOther,$0.00
+isDownpaymentBorrowedB,
+cbDOB,11-JUL-1978
+psntTotalExp,$65645.00
+isCoWorkerB,
+cbYrsSchool,1985
+propFirstLoan,$65645.00
+isUSCitizenB,
+cbMaritalStatus,Married
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"BOX 25046 DFC MS 911 , DENVER, CO, 80225"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"8505 RESEARCH WAY , MIDDLETON, WI, 53562"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$65645.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,JORDAN C GONNERING
+isDownpaymentBorrowedCB,No
+bEmpName,DOL BAT REG6 REG OFFICE
+depAmount,$9190.30
+isCoWorkerCB,
+bEmpAddress,"2800 COTTAGE WAY, ROOM W1836, SACRAMENTO, CA"
+depBankName,ARKANSAS STUDENT LOAN AUTHORITY
+isUSCitizenCB,
+bIsSelfEmp,No
+depBankAdd,"3801 WOODLAND HEIGHTS SUITE 200, LITTLE ROCK, AR"
+isPermanentAlienCB,
+bYrsInCJob,1
+depBankAcc,72005627226242
+isNewPropPermanentB,No
+bYrsInJob,2
+depBankBal,$11816.10
+ typeOfProp,second home
+bDesignation,"Network Admin, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,22-FEB-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$9846.75
+signingDateCB,22-FEB-2016
+lt2y_b_emp_isSelf1,No
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,188.62"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,Computer Admin Permanent
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL/OSHA
+preLoanBankName,NA
+loanOriginatorName,US DOL OWCP DOMWC
+cbEmpAddress,"2300 MAIN ST STE 1010, CITY, MO"
+preLoanBankAdd,NA
+loanOriginatorID,FUAr7vdI
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,1
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,5708266467
+cbYrsInJob,4
+loanOriginatorAddress,"100 N WILKES BARRE BLVD, RM 300A, WILKES BARRE, PA"
+refinanImproveDescription_e,made
+borrowerName_3,
+borrowerName_9,
+borrowerName_10,
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,22-FEB-2016
+signingDateCB_10,22-FEB-2016

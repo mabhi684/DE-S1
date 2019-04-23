@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Manager, Temperory"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,FHsFVPzggZ8beG
+co-borrower_emp_type,Temperory
+childSupportExpOwnedTo,NA
+LenderCaseNumber,QVOO-4551220452
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$71255.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,
+Interest,7.05%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"4631 nw 23rd street, oklahoma city, ok"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,24074727347731
+AmortType,Fixed Rate
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,688.25"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$13,538.45"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,TINKER FEDERAL CREDIT UNION
+PropDescription,Suite
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"6501 tinker diagonAL1, midwest city, ok"
+YearBuilt,1990
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,78832475784716
+purposeOfLoan,Purchase
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$7,838.05"
+propFor,Seconday
+bBaseSalary,$2923.00
+pre_loan_bank_balance_02,"$13,538.45"
+construcYrLotReq,2 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,trustmark bank elt mheac
+construcOrigCost,$98757.00
+bBonus,$0.00
+pre_loan_bank_add_03,"p.o. box 5008, jackson, ms"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,66740513005448
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$12,113.35"
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6613.00
+bTotalIncome,$2923.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4206.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$71255.00
+refinanCost,$6613.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,AMANDA PHAPHOL
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,16-JAN-2062
+cbTotalIncome,$4206.00
+fundingFee,$0.00
+borrowerName,THOMAS A TELESHA
+cbtBaseSalary,$7129.00
+disocuntValue,$0.00
+bSecurityNumber,241444650
+cbtOverttime,$0.00
+totalTxnCost,$71255.00
+bPhone,2308601841
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,21-JUN-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$71255.00
+bDpendents,3
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$71255.00
+bPresentAddress,"BOX 25046 DFC MS 939 , DENVER, CO, 80225"
+cbtTotalIncome,$42062923.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1655.00
+isOutstandingCourtCaseB,
+bMailAddress,
+psntFirstLoan,$71255.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,SHERYL PARKER
+psntMoIns,$0.00
+isDeliquentB,
+cbSecurityNumber,033341080
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,0542162516
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,28-OCT-1981
+psntTotalExp,$71255.00
+isCoWorkerB,No
+cbYrsSchool,1990
+propFirstLoan,$71255.00
+isUSCitizenB,Yes
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,No
+cbPresentAddress,"1400 INDEPENDENCE RD MS100, ROLLA, MO, 65401"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,10 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$71255.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,
+lt2y_cb_last_add,
+depPurchHeldBy,THOMAS A TELESHA
+isDownpaymentBorrowedCB,
+bEmpName,OSHA REG 2 - MENDELSON
+depAmount,$9263.15
+isCoWorkerCB,
+bEmpAddress,
+depBankName,WEST OHIO UNITED METHODIST CU
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"2897 MT. PISGAH RD., NEW RICHMOND, OH"
+isPermanentAlienCB,No
+bYrsInCJob,4
+depBankAcc,63072023686651
+isNewPropPermanentB,
+bYrsInJob,6
+depBankBal,$13538.45
+ typeOfProp,investment property
+bDesignation,"Secretary, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,01-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$7125.50
+signingDateCB,01-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,DOL OASAM/BOC
+cbEmpAddress,"90 7TH ST, STE 2650, SAN FRANCISCO, CA"
+preLoanBankAdd,NA
+loanOriginatorID,2GUlrkCy
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2026934596
+cbYrsInJob,6
+loanOriginatorAddress,"200 CONSTITUTION AVE NW, RM 54307, WASHINGTON, DC"
+refinanImproveDescription_e,made
+borrowerName_3,THOMAS A TELESHA
+borrowerName_9,THOMAS A TELESHA
+borrowerName_10,THOMAS A TELESHA
+cborrowerName_3,SHERYL PARKER
+cBorrowerName_9,SHERYL PARKER
+cborrowerName_10,SHERYL PARKER
+signingDateB_10,01-JAN-2016
+signingDateCB_10,01-JAN-2016

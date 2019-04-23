@@ -1,0 +1,248 @@
+loanAppliedFor,VA
+cbDesignation,"Central Supervisor, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,Vzhm0Ew3eqQdyV
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,BFPX-1182131065
+lt2y_cb_emp_name1,"DOL BLS; 2 MASSCHUSETTS AVE NE, PA -STAL SQUARE BLDG RM 4945, WASHINGTON, DC"
+childSupportExpOwnedValue,$0.00
+Amount,$42312.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,CPORT CU
+Interest,7.58%
+lt2y_cb_emp_duration1,NA
+pre_loan_bank_add_01,"50 RIVERSIDE INDAD'STRIAL PKWY, PORTLAND, ME"
+Tenure,54 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,
+AmortType,ARM
+lt2y_cb_emp_designation1,supervisorpermanent
+pre_loan_bank_EMI_01,
+PropAddress,"839 E CUMBERLAND DR , LA-UISVILIE, TN, 37777"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,2002
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,"$5,923.68 $7,616.16 Hsbc Bank Usa po bAix 1338, buffalo, ny 17415767058824"
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,
+propFor,Primary
+bBaseSalary,$1825.00
+pre_loan_bank_balance_02,"$8,039.28"
+construcYrLotReq,3 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$42312.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,1 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$21555.00
+bTotalIncome,$1825.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$2741.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,to be made
+cbBonus,$0.00
+purchasePrice,$42312.00
+refinanCost,$21555.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,SUSAN BLAHUT
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,21-JUL-2061
+cbTotalIncome,$2741.00
+fundingFee,$0.00
+borrowerName,WELBY L STAYTON
+cbtBaseSalary,$4566.00
+disocuntValue,$0.00
+bSecurityNumber,533364873
+cbtOverttime,$0.00
+totalTxnCost,$42312.00
+bPhone,0088246775
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,17-DEC-1981
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1982
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$42312.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$42312.00
+bPresentAddress,"3039 AMWILER RD STE 130, ATLANTAK, GA, 30360"
+cbtTotalIncome,$27411825.00
+cashDepByBorrower,$0.00
+bResSince,4 year(s)
+psntRent,$1152.00
+isOutstandingCourtCaseB,
+bMailAddress,"3039 AMWILER RD STE 130, ATLANTA, GA, 30360"
+psntFirstLoan,$42312.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,424030721
+pnstOwnerDues,$0.00
+isObligatedToPayB,No
+cbPhone,8622415276
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,21-SEP-1986
+psntTotalExp,$42312.00
+isCoWorkerB,No
+cbYrsSchool,1982
+propFirstLoan,$42312.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,3
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"934 BROADWAY SUITE 300 , TACOMA, WA, 98402"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,12 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,No
+cbMailAddress,"3039 AMWILER RD STE 130, ATLANTA, GA, 30360"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$42312.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,WELBY L STAYTON
+isDownpaymentBorrowedCB,No
+bEmpName,US DOL OASAM
+depAmount,$6346.80
+isCoWorkerCB,
+bEmpAddress,
+depBankName,DESERET FIRST CREDIT UNION
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"147 NORTH 200 WEST, SALT LAKE CITY, UT"
+isPermanentAlienCB,No
+bYrsInCJob,1
+depBankAcc,58753333685230
+isNewPropPermanentB,No
+bYrsInJob,3
+depBankBal,$8885.52
+ typeOfProp,principal residence
+bDesignation,"Legal Executive, Temperory"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with your spouse
+borrower_Emp_Type,Temperory
+LInsFaceValue,$0.00
+signingDateB,13-FEB-2016
+lt2y_b_emp_name1,"Oig Anmac Procurement; 150 S Independence Mall West, Public Ledger Bldg Suite 1072, Philadelphia, Pa"
+subTotLiqValue,$4654.32
+signingDateCB,13-FEB-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,NA
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,"$2,288.10"
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,central supervisor cA'ntract
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,US DOL OWCP
+preLoanBankName,NA
+loanOriginatorName,
+cbEmpAddress,"230 S DEARBORN ST, RM 800, CHICAGO, IL"
+preLoanBankAdd,NA
+loanOriginatorID,1RGmJo57
+cbIsSelfEmp,no
+preLoanBankAcctNumber,NA
+loanOriginatorCName,DOL R9 OWCP SAN FRAN
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,2063736774
+cbYrsInJob,5
+loanOriginatorAddress,"719 SECOND AVE, SUITE 501, SEATTLE, WA"
+refinanImproveDescription_e,to be made
+borrowerName_3,WELBY L STAYTON
+borrowerName_9,WELBY L STAYTON
+borrowerName_10,WELBY L STAYTON
+cborrowerName_3,
+cBorrowerName_9,
+cborrowerName_10,
+signingDateB_10,13-FEB-2016
+signingDateCB_10,13-FEB-2016

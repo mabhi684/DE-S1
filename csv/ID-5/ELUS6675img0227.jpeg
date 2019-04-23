@@ -1,0 +1,248 @@
+loanAppliedFor,Conventional
+cbDesignation,"IT Manager, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,67CYZ7xpHjcwI4
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,SBHN -6465601184
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$79986.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,communityamerica credit union
+Interest,8.97%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,"P 0 BOX 15950, LENEXA, KS"
+Tenure,240 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,72154400801282
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$10,398.18"
+PropAddress,
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$15,197.34"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,
+PropDescription,Shop
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,
+YearBuilt,1970
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,23874612012868
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$7,998.60"
+propFor,Seconday
+bBaseSalary,$7209.00
+pre_loan_bank_balance_02,
+construcYrLotReq,1 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,"JpmOrgan Chase Bank, Na"
+construcOrigCost,$79986.00
+bBonus,$0.00
+pre_loan_bank_add_03,"PO BOX 711004, COLUMBUS, OH"
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,"$11,997.90"
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,"$13,597.62"
+totalAB,
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$10639.00
+bTotalIncome,$7209.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$4518.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$79986.00
+refinanCost,$10639.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BRICENO TAYRA
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Fee Simple
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-OCT-2068
+cbTotalIncome,$4518.00
+fundingFee,$0.00
+borrowerName,SARAH L DAVIS
+cbtBaseSalary,$11727.00
+disocuntValue,$0.00
+bSecurityNumber,175420732
+cbtOverttime,$0.00
+totalTxnCost,$79986.00
+bPhone,5753708755
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,25-DEC-1979
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1980
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Unmarried
+cbtRentalIncome,$0.00
+loanAmountEx,$79986.00
+bDpendents,4
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$79986.00
+bPresentAddress,
+cbtTotalIncome,$45187209.00
+cashDepByBorrower,$0.00
+bResSince,11 year(s)
+psntRent,$1456.00
+isOutstandingCourtCaseB,
+bMailAddress,"303 NATIONAL CENTER , RESTON, VA, 20192"
+psntFirstLoan,$79986.00
+isBankcruptB,No
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,GARY L SOLIN
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,478752781
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,2277783731
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,04-AUG-1984
+psntTotalExp,$79986.00
+isCoWorkerB,No
+cbYrsSchool,1980
+propFirstLoan,$79986.00
+isUSCitizenB,Yes
+cbMaritalStatus,Unmarried
+propOtherFinance,$0.00
+isPermanentAlienB,
+cbDpendents,2
+propHzIns,$0.00
+isOutstandingCourtCaseCB,
+cbResType,Own
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"4210 UNIVERSITY DRIVE , ANCHORAGE, AK, 99508"
+propMoIns,$0.00
+isForeclosedPropertyCB,No
+cbResSince,7 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,"303 NATIONAL CENTER , RESTON, VA, 20192"
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$79986.00
+isDeliquentCB,
+lt2y_cb_res_since,
+assetsComputes,Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,SARAH L DAVIS
+isDownpaymentBorrowedCB,No
+bEmpName,WAGE HOUR REGIONAL OFF
+depAmount,$11198.04
+isCoWorkerCB,
+bEmpAddress,"61 FORSYTH ST SW, RM 7M10, ATLANTA, GA"
+depBankName,NATIONAL CITY BANK
+isUSCitizenCB,
+bIsSelfEmp,no
+depBankAdd,"P.O. BOX 5570 LOC 7104, CLEVELAND, OH"
+isPermanentAlienCB,
+bYrsInCJob,3
+depBankAcc,57657574533648
+isNewPropPermanentB,No
+bYrsInJob,6
+depBankBal,$14397.48
+ typeOfProp,second home
+bDesignation,"Sr Manager, Permanent"
+LInsCashValue,$0.00
+holdingTitleToHome,solely by yourself
+borrower_Emp_Type,Permanent
+LInsFaceValue,$0.00
+signingDateB,14-JAN-2016
+lt2y_b_emp_name1,
+subTotLiqValue,$11198.04
+signingDateCB,14-JAN-2016
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,MINE SAFETY AND HEALTH
+cbEmpAddress,"1222 SPRUCE STREET, RM 9102B, SAINT LOUIS, MO"
+preLoanBankAdd,NA
+loanOriginatorID,QXgFxJM1
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,MINE SAFETY AND HEALTH
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,8128827617
+cbYrsInJob,8
+loanOriginatorAddress,"2300 WILLOW ST, STE 200, VINCENNES, IN"
+refinanImproveDescription_e,made
+borrowerName_3,SARAH L DAVIS
+borrowerName_9,SARAH L DAVIS
+borrowerName_10,SARAH L DAVIS
+cborrowerName_3,GARY L SOLIN
+cBorrowerName_9,GARY L SOLIN
+cborrowerName_10,GARY L SOLIN
+signingDateB_10,14-JAN-2016
+signingDateCB_10,14-JAN-2016

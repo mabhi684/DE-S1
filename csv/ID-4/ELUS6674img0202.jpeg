@@ -1,0 +1,248 @@
+loanAppliedFor,FHA
+cbDesignation,"Trainer, Permanent"
+preLoanUnpaidBalance,$0.00
+agencyCaseNumebr,ghgQxkunk4jMgd
+co-borrower_emp_type,Permanent
+childSupportExpOwnedTo,NA
+LenderCaseNumber,IJAJ-2126836128
+lt2y_cb_emp_name1,
+childSupportExpOwnedValue,$0.00
+Amount,$37113.00
+lt2y_cb_emp_isSelf1,
+pre_loan_bank_name_01,first american credit unlizn
+Interest,10.68%
+lt2y_cb_emp_duration1,
+pre_loan_bank_add_01,
+Tenure,30 months
+lt2y_cb_emp_salary1,
+pre_loan_bank_acNo_01,12267045250855
+AmortType,Other
+lt2y_cb_emp_designation1,
+pre_loan_bank_EMI_01,"$4,824.69"
+PropAddress,"PO BOX 125 , BROOKS, MN, 56715"
+lt2y_cb_emp_name2,
+pre_loan_bank_balance_01,"$8,164.86"
+PropUnits,1
+lt2y_cb_emp_isSelf2,
+pre_loan_bank_name_02,Zions Fnb Elt Educational Loan FAanding
+PropDescription,Residence House
+lt2y_cb_emp_duration2,
+pre_loan_bank_add_02,"1001 17TH ST., DENVER, CO"
+YearBuilt,1997
+lt2y_cb_emp_salary2,
+pre_loan_bank_acNo_02,
+purposeOfLoan,Construction
+lt2y_cb_emp_designation2,
+pre_loan_bank_EMI_02,"$5,566.95"
+propFor,Investment
+bBaseSalary,$2585.00
+pre_loan_bank_balance_02,"$7,051.47"
+construcYrLotReq,5 year(s)
+bOverttime,$0.00
+pre_loan_bank_name_03,
+construcOrigCost,$37113.00
+bBonus,$0.00
+pre_loan_bank_add_03,
+construcExisLienAmount,$0.00
+bCommission,$0.00
+pre_loan_bank_acNo_03,
+construcPresentValue,$0.00
+bDevident,$0.00
+pre_loan_bank_EMI_03,
+construcImpCost,$0.00
+bRentalIncome,$0.00
+pre_loan_bank_balance_03,
+totalAB,$0.00
+bOtherIncome1,$0.00
+jobExpensesTo,NA
+refinanYrLotReq,4 year(s)
+bOtherIncome2,$0.00
+jobExpensesValue,$0.00
+refinanOrigCost,$6613.00
+bTotalIncome,$2585.00
+totMonthlyPayment,$0.00
+refinanExisLienAmount,$0.00
+cbBaseSalary,$3217.00
+totMonthlyLiability,$0.00
+refinanPurpose,$0.00
+cbOverttime,$0.00
+netWorthMonthlyValue,$0.00
+refinanImproveDescription,made
+cbBonus,$0.00
+purchasePrice,$37113.00
+refinanCost,$6613.00
+cbCommission,$0.00
+repairCost,$0.00
+HeldName,BERNARD STEINKOPF
+cbDevident,$0.00
+landCost,$0.00
+Manner,Ownership
+cbRentalIncome,$0.00
+refinanceCost,$0.00
+SourceOfDownPay,Personal Saving Account
+cbOtherIncome1,$0.00
+prepaidItemsCost,$0.00
+EstateToHeld,Leasehold
+cbOtherIncome2,$0.00
+estimateClosingCost,$0.00
+expDate,29-DEC-2074
+cbTotalIncome,$3217.00
+fundingFee,$0.00
+borrowerName,MATTHA-W J LINDSAY
+cbtBaseSalary,$5802.00
+disocuntValue,$0.00
+bSecurityNumber,720603166
+cbtOverttime,$0.00
+totalTxnCost,$37113.00
+bPhone,1034052828
+cbtBonus,$0.00
+subOrdFinance,$0.00
+bDOB,20-AUG-1990
+cbtCommission,$0.00
+closingCostBySeller,$0.00
+bYrsSchool,1990
+cbtDevident,$0.00
+otherCredit,$0.00
+bMaritalStatus,Married
+cbtRentalIncome,$0.00
+loanAmountEx,$37113.00
+bDpendents,0
+cbtOtherIncome1,$0.00
+loanAmountFundingFee,$0.00
+bResType,Own
+cbtOtherIncome2,$0.00
+totalLoanAmount,$37113.00
+bPresentAddress,"BOX 25046 DFC MS 939 , DENVAAR, CO, 80225"
+cbtTotalIncome,$32172585.00
+cashDepByBorrower,$0.00
+bResSince,3 year(s)
+psntRent,$1704.00
+isOutstandingCourtCaseB,No
+bMailAddress,
+psntFirstLoan,$37113.00
+isBankcruptB,
+lt2y_b_res_type,
+psntOtherFinance,$0.00
+isForeclosedPropertyB,No
+lt2y_b_res_since,
+psntHzIns,$0.00
+isLawsuitB,No
+lt2y_b_last_add,
+psntTaxes,$0.00
+isFailedLoanB,No
+cborrowerName,KIMBERLY A CA-RNWALL
+psntMoIns,$0.00
+isDeliquentB,No
+cbSecurityNumber,527511335
+pnstOwnerDues,$0.00
+isObligatedToPayB,
+cbPhone,7564336130
+pnstOther,$0.00
+isDownpaymentBorrowedB,No
+cbDOB,10-MAY-1983
+psntTotalExp,$37113.00
+isCoWorkerB,
+cbYrsSchool,1990
+propFirstLoan,$37113.00
+isUSCitizenB,
+cbMaritalStatus,Separated
+propOtherFinance,$0.00
+isPermanentAlienB,No
+cbDpendents,0
+propHzIns,$0.00
+isOutstandingCourtCaseCB,No
+cbResType,Rent
+propTaxes,$0.00
+isBankcruptCB,
+cbPresentAddress,"1300 SE CARDINAL CT BLDG 10STE 100, VIENCOUVER, WA, 98683"
+propMoIns,$0.00
+isForeclosedPropertyCB,
+cbResSince,8 year(s)
+propOwnerDues,$0.00
+isLawsuitCB,
+cbMailAddress,
+propOther,$0.00
+isFailedLoanCB,
+lt2y_cb_res_type,
+propTotalExp,$37113.00
+isDeliquentCB,No
+lt2y_cb_res_since,
+assetsComputes,Not Jointly
+isObligatedToPayCB,No
+lt2y_cb_last_add,
+depPurchHeldBy,MATTHEW J LINDSAY
+isDownpaymentBorrowedCB,No
+bEmpName,US DEPT OF LABOR OIPA
+depAmount,$4453.56
+isCoWorkerCB,
+bEmpAddress,"230 S DEARBORN ST, RM 3194, CHICA_GO, IL"
+depBankName,CITIZENS BANK C/O EDUCATION FINANCE
+isUSCitizenCB,Yes
+bIsSelfEmp,no
+depBankAdd,"725 CANTON ST., NORWOOD, MA"
+isPermanentAlienCB,
+bYrsInCJob,4
+depBankAcc,41826627328640
+isNewPropPermanentB,
+bYrsInJob,9
+depBankBal,$6309.21
+ typeOfProp,principal residence
+bDesignation,"Office Boy, Contract"
+LInsCashValue,$0.00
+holdingTitleToHome,jointly with another person
+borrower_Emp_Type,Contract
+LInsFaceValue,$0.00
+signingDateB,20-DEC-2015
+lt2y_b_emp_name1,
+subTotLiqValue,$4824.69
+signingDateCB,20-DEC-2015
+lt2y_b_emp_isSelf1,
+realEstateOwnedValue,$0.00
+bAccept,Yes
+lt2y_b_emp_duration1,
+retirementFundInterest,$0.00
+bEthnicity,Not Hispanic or Latino
+lt2y_b_emp_salary1,
+netWorthBizOwned,$0.00
+bRace,White
+lt2y_b_emp_designation1,
+auto_make_year01,
+bSex,Male
+lt2y_b_emp_name2,
+auto_amount01,
+cbAccept,Yes
+lt2y_b_emp_isSelf2,
+auto_make_year02,
+cbEthnicity,Not Hispanic or Latino
+lt2y_b_emp_duration2,
+auto_amount02,
+cbRace,White
+lt2y_b_emp_salary2,
+auto_make_year03,
+cbSex,Male
+lt2y_b_emp_designation2,
+auto_amount03,
+informationCollectedBy,"face-to-face interview, telephone"
+cbEmpName,
+preLoanBankName,NA
+loanOriginatorName,US DEPT OF LABAnR BAT
+cbEmpAddress,"200 CONSTITA>TION AVE NW, RM S1313, WASHINGTON, DC"
+preLoanBankAdd,NA
+loanOriginatorID,OEZd6ck2
+cbIsSelfEmp,No
+preLoanBankAcctNumber,NA
+loanOriginatorCName,US DEPT OF LABOR BAT
+cbYrsInCJob,4
+preLoanEMIperMonth,$0.00
+loanOriginatorCID,3123534690
+cbYrsInJob,6
+loanOriginatorAddress,"230 S DEARBORN ST, RM 656, CHICAGO, IL"
+refinanImproveDescription_e,made
+borrowerName_3,MATTHA-W J LINDSAY
+borrowerName_9,MATTHA-W J LINDSAY
+borrowerName_10,MATTHA-W J LINDSAY
+cborrowerName_3,KIMBERLY A CA-RNWALL
+cBorrowerName_9,KIMBERLY A CA-RNWALL
+cborrowerName_10,KIMBERLY A CA-RNWALL
+signingDateB_10,20-DEC-2015
+signingDateCB_10,20-DEC-2015
